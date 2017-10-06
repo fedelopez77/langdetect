@@ -7,7 +7,7 @@ import operator
 
 
 PATH_DATASETS = '/datasets/'
-LANGUAGES = {'en', 'es', 'fr'}
+LANGUAGES = {'en', 'es', 'fr', 'ar', 'cs'}
 MIN_NGRAM = 1
 MAX_NGRAM = 5
 MAX_AMOUNT_OF_NGRAMS = 400
@@ -162,10 +162,3 @@ def main(text):
     profile_text = create_text_profile(text)
 
     return detect_language(profiles, profile_text)
-
-
-f = open("mihalcea_tarau.txt", "r")
-t = f.read()
-f.close()
-
-print main(t)
