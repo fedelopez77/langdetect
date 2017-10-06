@@ -1,0 +1,16 @@
+
+  |image=
+  |caption=
+  |Símbolo= SCT 
+  |AltSymbols=
+  |HGNCid=10607
+  |Cromosoma=11
+  |Brazo=p
+  |Banda=15
+  |LocusSupplementaryData=.5
+  |ECnumber=
+  |OMIM=182099
+  |EntrezGene=6343
+  |RefSeq=NM_021920
+  |UniProt=P09683
+  |PDB=La secretina es una hormona gastrointestinal. Se libera en el duodeno cuando llega el ácido proveniente del estómago. Su acción principal es la de estimular la secreción pancreática. Es inhibida por el bicarbonato presente en la secreción pancreática.La secretina hace que el páncreas segregue un jugo digestivo rico en bicarbonato. Éste estimula al estómago para que produzca pepsina, que es una enzima que digiere las proteínas; y al hígado para que produzca la secreción de la bilis con mas agua y bicarbonato.Categoría:Hormonas peptídicas Categoría:Aparato digestivo Categoría:Estómagocs:Sekretin de:Sekretin dv:ސިކްރީޓިން en:Secretin fi:Sekretiini fr:Sécrétine he:סקרטין it:Secretina ja:セクレチン nl:Secretine pl:Sekretyna pt:Secretina sr:Секретин sv:Sekretin

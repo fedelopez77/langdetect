@@ -1,0 +1,5 @@
+  |
+ sous-unité=100 cents|
+ codeISO=[[LRD]]|
+ appellation=Dollar libérien|
+ change=[http://finance.yahoo.com/currency/convert?amt=1&amp;from=EUR&amp;to=LRD&amp;submit=Convert EUR]| Le dollar libérien est la devise officielle du Libéria depuis 1943, il est divisé en 100 cents.Voir aussiLiens externesSite de la banque centrale du LiberiaImages des billets de banque libériens Catégorie:Monnaie d'Afrique Catégorie:Libériaar:دولار ليبيري ast:Dólar liberianu be-x-old:Лібэрыйскі даляр bg:Либерийски долар bpy:লাইবেরিয়ান ডলার ca:Dòlar liberià de:Liberianischer Dollar el:Δολάριο Λιβερίας en:Liberian dollar es:Dólar liberiano he:דולר ליברי hu:Libériai dollár it:Dollaro liberiano ja:リベリア・ドル ko:라이베리아 달러 lt:Liberijos doleris nl:Liberiaanse dollar pl:Dolar liberyjski ru:Либерийский доллар sv:Liberiansk dollar tg:Доллари Либерия zh:賴比瑞亞元

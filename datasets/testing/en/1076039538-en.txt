@@ -1,0 +1,19 @@
+ [[Sicily]] |
+ province          = [[Province of Trapani|Trapani]] (TP) |
+ elevation_m          = 16|
+ area_total_km2   = 44 |
+ population_as_of  = [[2004]][[December 31]]|
+ population_total = 7458|
+ population_density_km2 =164|
+ timezone          = [[Central European Time|CET]], [[Coordinated Universal Time|UTC]]+1 |
+ coordinates       =  |
+ mapx              = 37.709 |
+ mapy              = 12.501 |
+ frazioni          = |
+ telephone         = 0923|
+ postalcode        = 91020|
+ gentilic          = Petrosinesi |
+ saint             = St. Mary of the Graces|
+ day               = [[May 31]] |
+ mayor             = Giacomo Licari (since [[May 27]], [[2003]])|
+ website           = [http://www.comune.petrosino.tp.it www.comune.petrosino.tp.it] |Petrosino (Pitrusinu in Sicilian) is a town in Sicily, Italy, administratively part of the province of Trapani, located between the municipalities of Marsala and Mazara del Vallo. Category:Municipalities of the Province of Trapanide:Petrosino es:Petrosino eo:Petrosino fr:Petrosino it:Petrosino nl:Petrosino ja:ペトロジーノ nap:Petrosino pl:Petrosino pt:Petrosino scn:Pitrusinu (TP) vo:Petrosino
