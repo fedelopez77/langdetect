@@ -35,9 +35,9 @@ def test_data(profiles, dir_path):
         print "Right: %s, Wrong: %s Total: %s" % (str(lang_right), str(lang_wrong), str(lang_right + lang_wrong))
         print "Accuracy: %s " % str(lang_right / float(lang_right + lang_wrong) * 100)
 
-    print "\nTOTAL:"
-    print "Right: %s, Wrong: %s Total: %s" % (str(right), str(wrong), str(right + wrong))
-    print "Accuracy: %s " % str(right / float(right + wrong) * 100)
+    print "======TOTAL:"
+    print "\tRight: %s, Wrong: %s Total: %s" % (str(right), str(wrong), str(right + wrong))
+    print "\tAccuracy: %s \n" % str(right / float(right + wrong) * 100)
 
 
 def test_accuracy():

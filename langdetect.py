@@ -7,7 +7,7 @@ import operator
 
 
 PATH_DATASETS = '/datasets/'
-LANGUAGES = {'en', 'es', 'fr', 'ar', 'cs'}
+LANGUAGES = {'en', 'es', 'fr', 'ar', 'cs', 'de'}
 MIN_NGRAM = 1
 MAX_NGRAM = 5
 MAX_AMOUNT_OF_NGRAMS = 400
@@ -138,6 +138,17 @@ def measure_all_distances(profiles, profile_text):
         result.append((language, distance))
     return result
 
+#
+# def process_results(result):
+#     """
+#     :param result: list of (language, distance)
+#     :return: sorted list of length MAX_RESULTS of language and the probability of that language being the right match
+#     """
+#     sorted_result = sorted(result, cmp=lambda x,y: cmp(x[1], y[1]))[0:MAX_RESULTS]
+#
+#     inverted_scores = [1 / float(elem[1]) for elem in sorted_result]
+#     total = sum(inverted_scores)
+#     return zip([x[0] for x in sorted_result],[y / total for y in inverted_scores])
 
 def process_results(result):
     """
@@ -147,6 +158,10 @@ def process_results(result):
     sorted_result = sorted(result, cmp=lambda x,y: cmp(x[1], y[1]))[0:MAX_RESULTS]
 
     inverted_scores = [1 / float(elem[1]) for elem in sorted_result]
+
+    #subtract min result
+    inverted_scores = map(lambda x: x - inverted_scores[-1], inverted_scores)
+
     total = sum(inverted_scores)
     return zip([x[0] for x in sorted_result],[y / total for y in inverted_scores])
 
