@@ -1,0 +1,26 @@
+Aces Club to brydżowy system licytacyjny na bazie silnego trefla który został opracowany przez Boba Hammana i Bobbiego Wolfa z amerykańskiej drużyny "American Aces Team". Aces Club bazuje na włoskim systemie Blue Team Club.
+
+1♣  17+  PH Układ dowolny
+1♦  11-16PH 3+ kara, możliwe canapé
+1♥  11-16PH 4+ kiery, możliwe canapé
+1♠  11-16PH 4+ piki, możliwe canapé
+1BA 13-15PH 5młodszy-3-3-2 lub 4młodszy-3-3-3 (przed partią)
+    16-17PH Układ zrównoważony (po partii)
+2♣  11-16PH 6+ trefli
+2♦  17-24PH Dowolny układ 4-4-4-1 lub 5-4-4-0
+2♥  11-16PH 5+ kierów i 4+ piki
+2♠   6-10PH 6 pików
+2BA 22-23PH Układ zrównowżony
+
+Po otwarciu 1♣:
+odpowiedź 1♦ jest semi-pozytywna, pokazuje najwyżej 2 kontrole (as liczy się jako dwie kontrole, a król jako jedna) ale przynajmniej 6PH,
+1♥ jest negatywny i pokazuje 0-5PH,
+wyższe odpowiedzi pokazują ilość kontroli szczebelkami - 1♠ = 3, 1BA = 4, 2♣ to 5+,
+2♦ pokazuje sześciokartowy kolor starszy i 4-7PH,
+2♥ obiecuje 9+PH i dowolny układ 4-4-4-1.
+Dalsza licytacja po otwarciu 1♣ jest w zasadzie naturalna.
+Jeżeli po otwarciu 1♦/♥/♠ w następnym okrążeniu otwierający zalicytuje nowy kolor, to drugi kolor jest dłuższy od koloru otwarcia {canapé).
+
+
+== Linki zewnętrzne ==
+Lea As de Dallas - Dallas Aces

@@ -1,0 +1,4 @@
+Innenfor kompilatorteknikk er løkkeoptimalisering den prosess som går ut på å øke hastigheten eller redusere kostnadene assosiert med løkker. Løkkeoptimalisering spiller en viktig rolle i å forbedre ytelsen til hurtigminne og gjøre mer effektiv bruk av parallel databehandling. Det meste av utførelsestiden til et vitenskapelig dataprogram blir brukt på løkker. Som sådan har mange teknikker for kompilatoroptimalisering blitt utviklet for å gjøre dem raskere.
+
+
+== Referanser ==

@@ -1,0 +1,49 @@
+Acanthogammarus (Ancyracanthus) victorii er en art av underslekten Acanthogammarus (Ancyracanthus) innen underfamilien Acanthogammarinae som igjen er av familien Acanthogammaridae. Overfamilie er Gammaroidea (parvorden Gammaridira, infraorden Gammarida) - innenfor Senticaudata-gruppen av tanglopper. Gruppens arter lever som bentiske bunndyr og kjennes fra Gammaridea-arter på avvikende morfologi i halepartiet. Denne gruppens arter lever bare i ferskvann.
+Arten er endemisk til Bajkalsjøen.
+
+
+== Gruppens taksonomi ==
+Gruppen ble systematisert på ny i 2003. En moderne oppdatering av systematikken gis nedenfor i lys av 2013-revisjonen med basis i WoRMS-databasen.
+Rekke: KREPSDYR (Crustacea) - 67 000 arter
+KLASSE storkreps (Malacostraca) - +25 000 arter Latreille, 1802
+Underklasse Eumalacostraca Grobben, 1892
+Overorden Peracarida Calman, 1904
+Orden tanglopper (Amphipoda) - 9 725 arter, 1 900 i ferskvann Latreille, 1816
+Underorden Senticaudata - 22 overfamilier, 95 familier Lowry & Myers, 2013
+Infraorden Gammarida
+Parvorden Crangonyctidira Bousfield, 1973
+Parvorden Gammaridira Latreille, 1802
+Overfamilie Gammaroidea Latreille, 1802 (Bousfield, 1977)
+Familie Acanthogammaridae Garjajeff, 1901
+Underfamilie Acanthogammarinae Garjajeff, 1901
+Slekt Acanthogammarus Stebbing, 1899
+Underslekt Acanthogammarus (Acanthogammarus) Stebbing, 1899
+Acanthogammarus (Acanthogammarus) godlewskii Dybowsky, 1874
+Acanthogammarus (Acanthogammarus) gracilispinus Tachteew, 2001
+Acanthogammarus (Acanthogammarus) albus Garjajeff, 1901 = Acanthogammarus (Acanthogammarus) godlewskii Dybowsky, 1874
+
+Underslekt Acanthogammarus (Ancyracanthus) Kamaltynov, 2002
+Acanthogammarus (Ancyracanthus) lappaceus Tachteew, 2001
+Acanthogammarus (Ancyracanthus) maculosus Dorogostaisky, 1930
+Acanthogammarus (Ancyracanthus) victorii Dybowsky, 1874
+Acanthogammarus (Ancyracanthus) longispinus Tachteew, 2001 = Acanthogammarus (Ancyracanthus) lappaceus Tachteew, 2001
+
+Underslekt Acanthogammarus (Brachyuropus) Stebbing, 1899 = Brachyuropus Stebbing, 1899
+Acanthogammarus albus Garjajeff, 1901 = Acanthogammarus (Acanthogammarus) godlewskii Dybowsky, 1874
+Acanthogammarus brevispinus Dorogostaisky, 1922 = Diplacanthus brevispinus Dorogostaisky, 1922
+Acanthogammarus flavus Garjajeff, 1901 = Oxyacanthus flavus Garjajeff, 1901
+Acanthogammarus korotneffii Garjajeff, 1901= Oxyacanthus korotneffii Garjajeff, 1901
+'Acanthogammarus labbei Chevreux, 1903 = Cornugammarus maximus Garjajeff, 1901
+Acanthogammarus maximus Garjajeff, 1901 = Cornugammarus maximus Garjajeff, 1901
+Acanthogammarus platycarinus Sowinsky, 1915 = Carinurus platycarinus Sowinsky, 1915
+Acanthogammarus radoschkowskii Dybowsky, 1874 = Coniurus radoschkowskii Dybowsky, 1874
+Acanthogammarus subbrevispinus Bazikalova, 1945 = Oxyacanthus subbrevispinus Bazikalova, 1945
+
+
+== Referanser ==
+
+
+== Eksterne lenker ==
+(en) Acanthogammarus (Ancyracanthus) victorii – oversikt og omtale av artene i WORMS-databasen
+(en) Acanthogammarus (Ancyracanthus) victorii i Global Biodiversity Information Facility
+(en) Acanthogammarus (Ancyracanthus) victorii hos NCBI

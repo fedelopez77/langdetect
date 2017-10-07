@@ -1,0 +1,5 @@
+Hopper - urządzenie mechaniczno-elektryczne, służące do przechowywania (gromadzenia), w celu późniejszego wypłacania oraz zliczania, monet różnych nominałów i wielkości. Urządzenia te są stosowane m.in. w automatach do gier hazardowych w celu wypłacania pieniędzy. Konstrukcja oraz zasada działania zależne są od producenta. W przypadku wypłaty elementy optoelektroniczne bądź przełączniki zliczają impulsy przy wyrzucaniu każdej monety i przekazują je dalej urządzeniom sterującym całym automatem.
+
+
+== Bibliografia ==
+http://www.slotmachinesabc.com/terminology/termscomplete.html

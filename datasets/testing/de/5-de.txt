@@ -1,0 +1,21 @@
+Unter der Bezeichnung Ultra-Mobile PC (früherer Projektname: Origami), abgekürzt UMPC, lancierten Microsoft und Intel im Frühjahr 2006 auf der CeBIT eine neue Geräteklasse von tragbaren Computern. Einen ersten Versuch in diese Richtung machte Sony bereits 2004 mit der Vaio-U-Serie, die allerdings in Europa nie auf den Markt kam und nur in Asien verkauft wurde.
+
+
+== Beschreibung ==
+Ultra-Mobile PCs sind kleiner als Subnotebooks, verfügen über ein diagonal etwa 12,7 bis 17,8 Zentimeter (5–7 Zoll) großes TFT-Display und werden, ähnlich wie Tablet-PCs, hauptsächlich über den berührungsempfindlichen Bildschirm oder mit Stylus-Stiften bedient. Tastaturen können extern angeschlossen werden oder sind teilweise sogar integriert. Weit verbreitet sind darüber hinaus auch bei Laptops übliche Features wie eine eingebaute Kamera für Videotelefonie oder Fotografie und Fingerabdrucksensoren zur Authentifizierung. Auch GPS-Module und Navigationssoftware werden gerne integriert.
+Die Geräte der ersten Generation sind vollwertige PCs, deren Betriebssystem Linux oder eine angepasste Windows XP Tablet-Edition ist.
+Die Geräte der zweiten Generation sollen einerseits stromsparender sein und damit eine längere Akkulaufzeit bieten (bis zu 5 Stunden), andererseits unterstützen sie Windows Vista, teilweise mit AeroGlass Oberfläche. Als Prozessoren werden bei den bisherigen Modellen VIA C7-M-ULV-Prozessoren mit VIA-VX700-Chipsatz oder Intel-A110-Prozessoren eingesetzt.
+Zwischen den Begriffen Subnotebook und Ultra-Mobile PC gibt es keine festgelegte Abgrenzung.
+
+
+== Einsatzgebiete ==
+UMPCs werden für Geschäftsanwender beworben, die mit dieser Geräteklasse ihre Geschäftssoftware ohne wesentlichen Einschränkungen mobil nutzen können. Sie sind also leichter/mobiler als Notebooks, aber funktioneller als ein PDA. Ultra-Mobile PCs werden ebenfalls als Multimedia-Abspielgeräte oder Navigationssysteme angepriesen. Durch Bluetooth, UMTS- und WLAN-Internetzugang kann man damit mobil kommunizieren, auf Webseiten zugreifen, E-Mails lesen oder Online-Spiele spielen. Die angepeilte Nische hat Überschneidungen mit Subnotebooks und PDAs, wodurch selbst die Hersteller den Einsatzzweck nicht immer klar mitteilen können.
+Die ersten Geräte gab es von Asus (Modell „R2H“), Founder und Samsung (Modell „Q1“). Asus, Samsung und Gigabyte Technology (wird unter dem Label Medion verkauft) haben Geräte der zweiten Generation auf der CeBIT 2007 vorgestellt, die alle mit einer modifizierten Version von Windows Vista betrieben werden.
+Der erste Ultra-Mobile PC mit Schwerpunkt auf Videospiele ist die in Deutschland hergestellte Pandora.
+
+
+== Weblinks ==
+
+heise online: Marktforscher zweifeln am schnellen Erfolg von Microsofts Origami-PC (2006)
+Golem berichtet über Intels Pläne bis 2008
+Umpcportal.com (englisch)

@@ -1,0 +1,14 @@
+Ofsettrükk (ingl offset printing) on lametrükimenetlus, mille puhul trükivärv kantakse trükivormilt paberile elastse kattega vahesilindri abil.
+
+Trükivormi valmistamiseks kaetakse õhuke karestatud alumiiniumplaat valgustundliku kihiga ja kopeeritakse sellele paljundatav kujutis (koosneb enamasti küljendatud tekstist ja piltidest). Seejuures moodustuvad trükivormi valgustatud ja valgustamata aladel lahustuvad ja mittelahustuvad kohad. Lahustatud emulsiooniga kohtadelt paljanduvad trükielemendid (trükkivad elemendid), mis võtavad hästi külge trükivärvi, muu pind (mittetrükkivad vaheelemendid) aga nakkuvad hästi ainult veega.
+Silindrile kinnitatud trükivormile kantakse kõigepealt niisutusvaltsidega (ehk -teladega) õhuke veekiht, mis kinnistub vaid trükivormi vaheelementidel. Seejärel kannavad värvivaltsid trükivormile õhukese kihi ofsetvärvi, mis nakkub ainult trükielementidega. Silindri edasisel pöörlemisel kandub trükielementidelt värv kõigepealt trükisilindri ehk ofsetsilindri elastsele (kummist) katmikule ja sellelt omakorda paberile (paberipoognale või rullpaberi laiule).
+Kuna kujutist pööratakse trükimehhanismis kaks korda, siis trükiplaadil olev õigetpidi kujutis kandub tagurpidi kummisilindrile ning sealt õigetpidi paberile (AB – BA – AB).
+Trükimasinas on iga värvi (vt CMYK) jaoks oma trükivorm.
+Ofsettrükimenetluse eelisteks on trükivormi vähene kulumine ja suur trükikiirus. Seepärast trükitakse suuretiraažilisi väljaandeid, nt ajalehti ainult sellel menetlusel.
+
+
+== Viited ==
+
+
+== Välislingid ==
+Triinu Kurg. Poognaofsettrükimasinaga seotud terminite seletav saksa-eesti valiksõnastik

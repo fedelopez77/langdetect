@@ -9,7 +9,11 @@ import operator
 
 
 PATH_DATASETS = '/datasets/'
-LANGUAGES = {'en', 'es', 'fr', 'ar', 'cs', 'de'}
+LANGUAGES = {"it": "Italian", "pl": "Polish", "ru": "Russian", "sk": "Slovak", "pt": "Portuguese",
+             "ro": "Romanian", "da": "Danish", "sv": "Swedish", "no": "Norwegian", "en": "English",
+             "es": "Spanish", "fr": "French", "cs": "Czech", "de": "German", "fi": "Finnish", "et": "Estonian",
+             "lv": "Latvian", "lt": "Lithuanian", "fa": "Persian", "hu": "Hungarian", "he": "Hebrew",
+             "el": "Greek", "ar": "Arabic"}
 MIN_NGRAM = 1
 MAX_NGRAM = 5
 MAX_AMOUNT_OF_NGRAMS = 400
@@ -147,12 +151,13 @@ def process_results(result):
     :param result: list of (language, distance)
     :return: sorted list of length MAX_RESULTS of language and the probability of that language being the right match
     """
-    sorted_result = sorted(result, cmp=lambda x,y: cmp(x[1], y[1]))[0:MAX_RESULTS]
+    sorted_result = sorted(result, cmp=lambda x,y: cmp(x[1], y[1]))[0:MAX_RESULTS + 1]
 
     inverted_scores = [1 / float(elem[1]) for elem in sorted_result]
 
-    #subtract min result
-    inverted_scores = map(lambda x: x - inverted_scores[-1], inverted_scores)
+    #subtract and remove min result
+    inverted_scores = [x - inverted_scores[-1] for x in inverted_scores]
+    inverted_scores.pop()
 
     total = sum(inverted_scores)
     return zip([x[0] for x in sorted_result],[y / total for y in inverted_scores])

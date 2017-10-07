@@ -1,0 +1,130 @@
+Nadprzewodnikowy zasobnik energii (SMES) – urządzenie przechowujące energię w polu magnetycznym wytworzonym przez prąd stały płynący w solenoidzie wykonanym z nadprzewodnika. Jak każdy element nadprzewodnikowy jest silnie wrażliwy na wzrost temperatury powyżej wartości krytycznej.
+Po naładowaniu prąd cewki nie zanika i energia w jej polu może być magazynowana przez nieokreślony czas. Przy rozładowaniu cewki zgromadzona energia jest zwracana do sieci.
+W kondycjonerze mocy prąd zmienny jest prostowany lub prąd stały jest zamieniany na zmienny przy pomocy prostownika lub falownika. Przy tych procesach trzeba się liczyć ze stratami energii rzędu 2-3%. Na tle innych metod magazynowania energii SMES wyróżnia się dużą wydajnością (rzędu 95%) i najmniejszym współczynnikiem strat.
+Z powodu wysokich kosztów chłodzenia i elementów nadprzewodnikowych SMES jest aktualnie wykorzystywany do krótkotrwałego magazynowania energii. Urządzenie jest zwykle używane do poprawy jej jakości. Jeśli SMES miałby zasilać obiekty użyteczności publicznej, to mógłby być ładowany w nocy z elektrowni systemowych i oddawać energię podczas największego zapotrzebowania w dzień.
+
+
+== Historia ==
+Koncepcja gromadzenia energii elektrycznej w polu magnetycznym cewki powstała ponad 100 lat temu, natomiast wykorzystanie materiałów nadprzewodnikowych do tego rodzaju urządzeń zaproponowane zostało w 1960 roku. Pionierskie prace w tej dziedzinie były prowadzone w Uniwersytecie w Wisconsin, który w roku 1970 podjął badania naukowe związane z urządzeniem SMES (ang. Superconducting Magnetic Energy Storage). W latach siedemdziesiątych promowano energetykę jądrową jako podstawowe źródło energii elektrycznej w przyszłości. Ponieważ regulacja mocy w cyklu dobowym elektrowni jądrowych jest bardzo trudna, a wyłączenia praktycznie niemożliwe, istnienie zasobnika energii takiego jak SMES potrafiącego wyrównywać dobowy poziom obciążenia stacji generującej prąd byłoby bardzo wygodne. Zastosowanie zasobnika mogło ograniczyć wykorzystanie tradycyjnych generatorów energii opartych na spalaniu ropy lub węgla.
+Pierwsze SMES-y miały gromadzić energię elektryczną co najmniej rzędu 5000 MWh. Idea ta byłaby realizowana poprzez budowę solenoidalnych cewek o średnicy 1 kilometra umieszczanych pod powierzchnią ziemi. Cewki te miały mieć rozmiary większe niż jakiekolwiek urządzenia nadprzewodnikowe budowane i projektowane w tym czasie. W 1976 roku Narodowe Laboratorium Stanów Zjednoczonych w Los Alamos rozpoczęło współpracę badawczą z Uniwersytetem w Wisconsin nad nadprzewodnikowym zasobnikiem energii o energii 30 MJ. Opracowany system zapewnił stabilność pracy dyspozytorni mocy w Bonneville (Bonneville Power Authority - BPA) zarządzającej strategiczną linią energetyczną zwaną Pacific Intertie. Na przykładzie dyspozytorni mocy w Bonneville zademonstrowano wykonalność koncepcji użytecznego zastosowania zasobników energii. W roku 1980 zakłady przemysłowe zauważyły korzyści płynące z zastosowania urządzeń SMES i aktywnie włączyły się do działań prowadzących do ulepszania tych urządzeń. Jedną z nich była grupa Bechtel, która nawiązała współpracę z Instytutem Electric Power Research Institute (EPRI) oraz National Laboratory w Los Alamos (LANL). W roku 1987 Departament Obrony Stanów Zjednoczonych zdecydował o rozpoczęciu prac nad SMES-em o energii 20 MWh. System ten miał pracować jako urządzenie zasilające lasera, nad którym prowadzono badania.
+Obecnie SMES-y postrzegane są głównie jako urządzenia wspomagające sterowanie przemysłowymi układami energetycznymi. Niezawodność i wysoka jakość dostarczanej energii ma istotne znaczenie dla przemysłu. Nadprzewodnikowe zasobniki energii mogą ją zapewnić. Opracowane i realizowane w ostatnich latach projekty przemysłowych zastosowań SMES-ów obejmują trzy grupy:
+układy iSMES o energiach rzędu MJ wchodzące częściowo w fazę komercjalizacji
+układy o energiach rzędu GJ lub MWh, będące jeszcze w fazie studiów projektowych i konstrukcyjnych
+zasobniki wysokotemperaturowe o niewielkich energiach w zakresie kJ, których technologia wymaga jeszcze intensywnych badań
+
+
+== Budowa ==
+Typowe urządzenie składa się z trzech części:
+cewka nadprzewodząca
+kondycjoner mocy
+układ chłodzenia
+
+
+== Zalety ==
+Jest kilka powodów, dla których wykorzystuje się właśnie tą metodę. Najważniejszą zaletą nadprzewodnikowego zasobnika mocy jest krótki czas ładowania i rozładowania. Energia jest dostępna prawie natychmiast. Urządzenie przez krótki czas może podawać na wyjście bardzo dużą moc. Stosując inne metody magazynowania energii (elektrownie szczytowo-pompowe, CAES) trzeba liczyć się ze znaczącymi opóźnieniami powiązanymi z zamianą energii na elektryczność. Inną zaletą jest to, że straty mocy są mniejsze, niż w innych tego typu urządzeniach (prąd prawie nie napotyka na opór). Dodatkowo główne części pozostają w spoczynku, co gwarantuje wysoką niezawodność mechaniczną.
+
+
+== Zastosowania ==
+Istnieje kilka mniejszych zasobników, mających zastosowanie komercyjne. Większe urządzenia służą do testów. Kilka jednostek mocy rzędu 1 MW jest używanych do kontroli jakości energii. Zapewniają one wysoką jakość energii przeznaczonej dla specjalistycznej produkcji, np. jest niezbędna do pracy urządzeń produkujących układy scalone. Urządzenia te są również używane do poprawy stabilności sieci energetycznych. W Wisconsin bateria zasobników była wykorzystywana do zapewnienia stabilności sieci, zakłócanej przez pracę papierni (generowała ona niekontrolowane spadki napięcia). Jedną z firm dostarczających takie rozwiązania jest American Superconductors.
+Inżynierski Model Testowy to duży zasobnik około 20 megawatogodzin, będący w stanie zapewnić moc 400 MW przez 100 sekund lub 10 MW przez 2 godziny.
+
+
+== Problemy techniczne ==
+Nie jest jeszcze dokładnie zbadany wpływ bardzo silnego pola magnetycznego (występującego w instalacjach komercyjnych) na organizm człowieka. Wymusza to konieczność budowania stref buforowych wokół instalacji.
+
+
+== Kalkulacja energii ==
+Energia magazynowana przez nadprzewodzącą cewkę jest równa iloczynowi połowy jej indukcyjności i kwadratu natężenia prądu.
+
+  
+    
+      
+        E
+        =
+        
+          
+            1
+            2
+          
+        
+        L
+        
+          I
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E={\frac {1}{2}}LI^{2}}
+  
+
+gdzie
+E – energia w dżulach
+L – indukcyjność w henrach
+I – natężenie prądu w amperach
+Rozważmy cylindryczną cewkę z przewodnika o prostokątnym przekroju poprzecznym. Średni promień cewki to R. 'f' to funkcja przyjmująca różne postaci w zależności od kształtów cewki. ξ (xi) i δ (delta) to parametry charakteryzujące wymiary cewki. Możemy więc obliczyć ilość energii zmagazynowanej w takim cylindrycznym solenoidzie, jest to funkcja liczby zwojów, wymiarów i prądu cewki.
+
+  
+    
+      
+        E
+        =
+        
+          
+            1
+            2
+          
+        
+        f
+        
+          (
+          ξ
+          ,
+          δ
+          )
+        
+        R
+        
+          N
+          
+            2
+          
+        
+        
+          I
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E={\frac {1}{2}}f\left(\xi ,\delta \right)RN^{2}I^{2}}
+  
+
+gdzie
+E – energia w dżulach
+I – prąd w amperach
+f(ξ,δ) – funkcja formująca
+N – liczba zwojów cewki
+
+
+== Solenoid czy toroid ==
+Istotną kwestią, z punktu widzenia inżynierii mechanicznej, jest kształt cewki i własności drutu nadprzewodzącego. W procesie projektowania istotną rolę odgrywają trzy czynniki:
+graniczna tolerancja naprężenia
+kurczliwość podczas chłodzenia
+siła Lorentza w ładowanej cewce
+Najważniejszym z nich jest tolerancja naprężenia (nie z powodu efektów elektrycznych, ale dlatego, że określa ilość materiału potrzebnego do ochrony urządzenia przed zniszczeniem). Jej wartość jest określana na 0,3% dla małych systemów. Geometria toroidalna może pomóc zmniejszyć zewnętrzne siły magnetyczne i co za tym idzie zredukować rozmiary urządzenia. Z powodu niskich zewnętrznych pól magnetycznych toroidalne zasobniki mogą być lokowane blisko obiektów użyteczności publicznej lub urządzeń odbiorców. Obecnie nie ma potrzeby konstruowania małych systemów o geometrii toroidalnej, pojawia się ona, gdy mamy do czynienia z większymi urządzeniami tego typu (ważną rolę odgrywają wtedy naprężenia mechaniczne i zachodzi potrzeba zastosowania cewki toroidalnej). Starsze systemy charakteryzowały się zwykle niskim współczynnikiem proporcji, solenoid był zakopywany w ziemi i miał średnicę około 100 m. Istnieją też koncepcje zasobników energii rzędu 1 MJ o małych rozmiarach.
+
+
+== Linki zewnętrzne ==
+http://www.doc.ic.ac.uk/~matti/ise2grp/energystorage_report/storage.html
+http://snf.ieeecsc.org/sites/ieeecsc.org/files/CR5_Final3_012008.pdf
+
+
+== Zobacz też ==
+kondensator
+superkondensator
+
+
+== Przypisy ==

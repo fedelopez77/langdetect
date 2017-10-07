@@ -1,0 +1,17 @@
+Landsat 8 (sākotnēji Landsat Data Continuity Mission, LDCM), ir ASV Zemes novērošanas pavadonis. Tas tika palaists 2013. gada februārī NASA un ģeoloģiskā dienesta United States Geological Survey (USGS) vajadzībām.
+Iepriekšējo Landsat pavadoni Landsat 7 palaida 1999. gadā un tas vēl joprojām ievāc datus. Tā kā tā plānotais darbības laiks bija pieci gadi, NASA paredzēja projekta Landsat Data Continuity Mission ("Landsat datu nepārtrauktības misija") ietvaros iegūt datus no privātiem pavadoņiem. Izanalizējot privāto uzņēmumu piedāvājumus 2003. gada septembrī NASA atcēla šo projektu. Pēc tam tika izveidota starpaģentūru grupa, kura meklēja jaunus Landsat datu nepārtrauktības risinājumus. 2004. gada augustā tika nolemts Landsat tipa instrumentus uzstādīt polārās orbītas pavadoņos NPOESS. Izvērtējot tehniskās grūtības, integrējot Landsat tipa sensorus NPOESS platformā, 2005. gada decembrī nolemts tomēr NPOESS programmu turpināt bez Landsat instrumentiem, bet Landsat Data Continuity Mission realizēt kā vienu kosmisko aparātu. Sākotnēji tam tika paredzēts uzstādīt vienu instrumentu OLI. 2009 gada decembrī nolēma pavadonim pievienot vēl arī instrumentu TIRS.
+2008. gada aprīlī NASA par Landsat Data Continuity Mission kosmiskā aparāta platformas izgatavotāju izvēlējās General Dynamics Advanced Information Systems (tagad tā kosmisko aparātu nodaļa ir Orbital Sciences Corporation sastāvā).
+Landsat 8 uzstādīti divi instrumenti:
+Operational Land Imager (OLI) — "birstes" tipa skeneris ar četru spoguļu teleskopu un 12 bitu kvantizāciju. Tas veic novērojumus deviņās spektra joslās: redzamās gaismas, tuvās infrasarkanās, īsviļņu infrasarkanās un panhromātiskās. Izšķirtspēja 30 m un 15 m (panhromātiskajai). Instrumentu izgatavoja Ball Aerospace un Technologies Corp.. Tā plānotais darbības laiks ir pieci gadi. OLI prototips izmēģināts pavadonī EO-1 (palaists 2000. gadā).
+Thermal InfraRed Sensor (TIRS) — termālais infrasarkanais sensors. Tas veic novērojumus divās garo viļņu infrasarkanā spektra joslās ar izšķirtspēju 100 m. Tā plānotais darbības laiks ir trīs gadi. Instrumentu izgatavoja Godarda Kosmosa lidojumu centrs.
+Landsat Data Continuity Mission tika palaists 2013. gada 11. februārī 18:02:01 UTC ar nesējraķeti Atlas V/401 (AV-035) no Vandenberga Gaisa spēku bāzes.
+Pec ievadīšanas orbītā sākās izmēģinājumu un kalibrēšanas fāze. 12. aprīlī LDCM orbītas augstums tika pacelts līdz 705 km, kas ir tā darba orbīta. 30. maijā paziņots, ka LDCM ir notestēts un kalibrēts, un nodots USGS, pārdēvējot to par Landsat 8.
+
+
+== Atsauces ==
+
+
+== Ārējās saites ==
+Landsat Data Continuity Mission NASA
+Landsat Data Continuity Mission (LDCM) – Landsat 8 USGS
+Landsat 8 (LDCM) Gunter Dirk Krebs (angliski)

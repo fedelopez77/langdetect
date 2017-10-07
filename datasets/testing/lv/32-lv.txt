@@ -1,0 +1,19 @@
+Jaucējfunkcija jeb jaucējalgoritms (angļu: Hash function) ir algoritms, kas pārveido dažāda garuma ievaddatus noteikta, fiksēta garuma datu virknē. Izejas datu virknes garums ir atkarīgs no algoritma. Vienkāršs jaucējfunkcijas veids ir kontrolsumma.
+Tā kā ieejas dati ir garāki par izejas datiem (lai arī ne vienmēr, bet parasti), vieniem un tiem pašiem izejas datiem var atbilst vairāk kā vieni ieejas dati. To sauc par jaucējsadursmi (angļu: hash collision). Ja izejas datu kopa ir īsa (128 biti vai mazāk), tad šādai jaucējfunkcijai vieniem izejas datiem ir iespējams piemeklēt vairākus ieejas datus. Kontrolsummām, kuras lieto lai identificētu pārsūtīšanas kļūdas (tādām, kā kontrolsummas IP paketēs), tas nerada problēmas, jo varbūtība, ka pārsūtīšanas kļūda izmainīs datus tā, ka kontrolsumma to nepamanīs, ir maza. Jaucējfunkcijām, kuras lieto kriptogrāfijā (elektroniskajiem parakstiem, atslēgu ģenerēšanai no parolēm) ir jābūt tādām, lai vieniem izejas datiem nebūtu iespējams piemeklēt vairākus ieejas datus.
+
+
+== Populāri jaucējfunkciju piemēri ==
+Cikliskā redundances pārbaude (CRC)
+Drošais jaukšanas algoritms 1 (SHA-1)
+Drošais jaukšanas algoritms 2 (SHA-2)
+Lūna algoritms
+MD5
+RIPEMD
+
+
+== Skatīt arī ==
+Heštabula
+Kriptogrāfiska jaucējfunkcija
+
+
+== Atsauces ==

@@ -1,0 +1,19 @@
+Hloubkoměr je délkové měřidlo nebo měřicí přístroj k měření hloubky. Užívá se k různým účelům, a to s rozdílnou konstrukcí.
+
+
+== Strojírenství ==
+Hloubkoměr se používá k měření hloubek slepých otvorů, drážek a prohlubní. Nejčastější konstrukce jsou:
+Posuvné měřítko bývá vybaveno ocelovým páskem, který je spojen s posuvnou čelistí a vysouvá se ze spodního konce měřidla.
+Hloubkový mikrometr se skládá z mikrometrického šroubu s odečítacím zařízením, z příčného ramena s broušenou spodní plochou a z měřicího trnu, který se z příčného ramene vysouvá. Měřící trny mívají průměr 3 až 5 mm a pro větší hloubky jsou výměnné, odstupňované po 25 mm (což je maximální délka mikrometrického šroubu).
+Ručkový úchylkoměr ("hodinky") lze použít i k přesnému měření hloubek, měřicí rozsah je ale malý, obvykle do 10 mm.
+
+
+== Potápění ==
+Náramkový hloubkoměr, někdy také bathymetr, ukazuje potápěči, jak hluboko se ponořil. Nejčastější konstrukce pracuje na stejném principu jako aneroid nebo manometr a měří hydrostatický tlak vody, stupnice je ovšem cejchována v metrech.
+Potápěčský počítač je kombinace tlakového (obvykle piezoelektrického) hloubkoměru a hodin se stopkami ve společném kruhovém pouzdře s číselnou indikací na displeji. Hodnoty se zapisují do paměti.
+
+
+== Plavba ==
+Hloubkoměr slouží na lodích k měření hloubky dna.
+K ručnímu měření se užívá těžká olovnice na laně s metrovými (sáhovými atd.) značkami. Dá se použít jen do hloubky desítek metrů, v klidné vodě a při pomalé plavbě.
+Moderní plavidla používají ultrazvukové hloubkoměry (echolot) na principu sonaru. Měří čas mezi vysláním ultrazvukového pulzu a přijetím ozvěny ode dna. Měří tedy spojitě a dají se použít i pro velké hloubky.

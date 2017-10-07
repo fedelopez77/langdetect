@@ -1,0 +1,25 @@
+Thyroideastimulerende hormon (TSH) eller thyrotropin er et hormon, som syntetiseres og secerneres i de thyrotrofe celler i den forreste del af hypofysen, (adenohypofysen). Hormonet er styrende for skjoldbruskkirtlens (glandula thyroidea) produktion og frisætning af hormonerne thyroxin (T4) og trijodthyronin (T3).
+
+
+== Struktur ==
+Strukturen af TSH består af de to ikke-kovalent bundne dele, α og β. Hormonet har en størrelse på ca. 28 kDa og er et glykoprotein. Generne for den humane TSHs α- og β-del befinder sig på henholdsvis kromosom 6 og kromosom 1. Genet for α-delen bruges også til kodningen af hormonerne FSH og LHs α-dele. Det er altså β-delen, der udgør forskellen i disse tre hormoner.
+
+
+== Dannelse af TSH ==
+Dannelse og frisætning af TSH i adenohypofysen sker, når TRH bindes til dets receptorer på de thyrotrofe celler. Denne interaktion får calcium-koncentrationen i cellernes indre (cytosolen) til at stige, hvilket bevirker frisætning af færdigt TSH. Samtidig får det også cellens synteseapparat til at gå i gang med at producere mere TSH ud fra generne i cellens DNA.
+
+
+== TSH-virkning ==
+Når TSH frisættes til blodet, vil det således kunne interagere med skjoldbruskkirtlens TSH-receptorer. Dette får kirtlens jodoptagelse til at stige, da der bruges jod i dannelsen af kirtlens hormoner, T3 og T4. Desuden øger det syntesen og sekretionen af hormonerne. TSH stimulerer også den generelle proteinsyntese i kirtlen og vedligeholder altså selve kirtlen. Dette illustreres hos personer med nedsat eller ingen TSH-produktion, hvor skjoldbruskkirtlen skrumper (atrofierer).
+
+
+== Negativ feedback ==
+I kroppen har den frisatte T3 og T4 en lang række vigtige funktioner. Men her skal kun omtales deres negative feedback. Når T3 og T4 cirkulerer i blodet, vil det komme i kontakt med både hypothalamus og hypofysen. I hypothalamus virker hormonerne på to neurontyper:
+Den første er de TRH-producerende neuroner, som bliver hæmmet i deres frisætning af TRH. Dette vil føre til mindre TRH til de thyrotrofe celler i hypofysen, hvilket betyder mindre TSH-dannelse og -frisætning, som igen fører til nedsat T3- og T4-dannelse og sekretion. Den anden type er de somatostatin-producerende neuroner. Disse bliver dog stimuleret til mere frisætning af somatostatin, som modsat TRH hæmmer TSH-dannelsen og -syntesen. Somatostatin vil derfor også betyde mindre TSH-dannelse og -frisætning. Dermed fører dette også til nedsat T3- og T4-dannelse og sekretion.
+I hypofysen har T3 den vigtigste effekt. Her nedsætter T3 de thyrotrofe cellers transskription af TSH-delenes gener. Desuden nedsættes cellernes følsomhed overfor TRH, bl.a. ved at antallet af TRH-receptorer mindskes. Dette fører samlet til mindre TSH-syntese og –sekretion, som igen fører til mindre T3- og T4-syntese og –sekretion i skjoldbruskkirtlen.
+Denne mekanisme, hvormed T3 og T4 kontrollerer deres egen frisætning, er et eksempel på negativ feedback og beskrives som hypotalamus-hypofyse-thyroidea-aksen (på engelsk: HPT axis).
+
+
+== Referencer ==
+http://physrev.physiology.org/cgi/content/full/82/2/473#SEC3_2
+Medical Physiology, 2nd ed. R.A. Rhoades, G.A. Tanner. pp.588f, pp596ff

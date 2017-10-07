@@ -1,0 +1,1 @@
+Mobile Equipment Identifier (MEID) on mobiililaitteissa käytettävä yksilöllinen, elektroninen sarjanumero. Se ilmoitetaan joko desimaalilukuna (MEID DEC) tai heksadesimaalilukuna (MEID HEX).lähde?

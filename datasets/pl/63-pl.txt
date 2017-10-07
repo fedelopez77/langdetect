@@ -1,0 +1,164 @@
+Cecha statystyczna – właściwość populacji, która jest przedmiotem badania statystycznego. Zgodnie z definicją cecha statystyczna jest to funkcja przypisująca elementom populacji elementy zbioru wartości cechy statystycznej.
+W ramach badania statystycznego zbierane są wartości określonej cechy statystycznej nazywane wartościami zaobserwowanymi cechy statystycznej lub danymi statystycznymi. Dane te mają taki sam charakter jak cecha (ilościowy, jakościowy itp.), jednakże po przetworzeniu charakter tych danych może ulec degradacji. Zróżnicowanie wartości cechy statystycznej powoduje, że można mówić o jej rozkładzie w populacji.
+
+
+== Klasyfikacja cech statystycznych ==
+
+
+=== Cechy zmienne ===
+Zmienne cechy statystyczne to właściwości różnicujące jednostki z badanej populacji, czyli posiadające więcej niż 1 wariant. Liczba wariantów zmiennej cechy może być skończona lub nieskończona. Jeżeli liczba wariantów wynosi 2 to cechę taką nazywamy dychotomiczną (dwudzielną, binarną). Jeżeli liczba wariantów przekracza 2 to cechę taką nazywamy politomiczną (wielodzielną).
+W polskiej systematyce podręcznikowej dzielimy cechy zmienne na:
+ilościowe (mierzalne) – np. wzrost, masa, wiek
+ciągłe – np. wzrost, masa, wiek (w rozumieniu ilości dni między datą urodzin a datą badania)
+porządkowe (quasi-ilościowe) – np. klasyfikacja wzrostu: (niski, średni, wysoki)
+skokowe (dyskretne) – np. liczba posiadanych dzieci, liczba gospodarstw domowych, wiek (w rozumieniu ilości skończonych lat)
+
+jakościowe (niemierzalne) – np. kolor oczu, płeć, grupa krwi
+Z praktycznego punktu widzenia istotniejszy jest podział zaproponowany przez Stevensa w 1946 roku, gdyż stwierdził on, że nie wszystkie operacje matematyczne są dopuszczalne na dowolnie wybranych cechach, a następnie zaproponował czterostopniową klasyfikację pozwalającą określić zbiór dopuszczalnych operacji w tym przekształceń statystycznych.
+Podstawowy podział wyróżnia 4 cechy:
+ilościowe (ang. quantitative) – np. wzrost, masa, wiek
+proporcjonalne (ang. ratio)
+interwałowe (ang. interval)
+
+jakościowe (ang. qualitative) – np. kolor oczu, płeć
+porządkowe (ang. ordinal) – np. (niski, średni, wysoki)
+nominalne (ang. nominal) – np. kolor oczu, płeć, grupa krwi
+
+Pozornie podział ten jest zbliżony do poprzedniego (co dodatkowo potęgowane jest w języku polskim przez wymienne stosowanie pojęć) jednakże sedno tkwi w definicjach powyższych cech:
+
+
+==== Cechy proporcjonalne ====
+
+Cechy proporcjonalne spełniają kryteria cech interwałowych, a ponadto muszą posiadać znaczące zero (nie powinny dopuszczać istnienia wartości ujemnych). Możemy z sensem mówić o proporcjach, czyli że jedna próba jest np. dwa razy większa od drugiej (jest to cecha multiplikatywna).
+Uwaga: uporządkowane cechy binarne (cechy dwuwartościowe z wyróżnionym zerem), tylko pozornie są cechami porządkowymi, lecz w praktyce (ze względu na zbiór dopuszczalnych przekształceń) spełniają wszystkie założenia cech proporcjonalnych.
+
+
+===== Przykłady =====
+masa
+rezystancja
+temperatura wyrażona w Kelwinach lub stopniach Rankine’a, bo przyjmujemy istnienie zera i możemy twierdzić, że jedno ciało jest dwukrotnie gorętsze od drugiego
+długość
+czas trwania
+kolor paska na rezystorze – przyjmuje np. wartości z szeregu (czarny, brązowy, czerwony, pomarańczowy, żółty, zielony, niebieski, fioletowy, szary, biały), gdyż kolory te reprezentują szereg liczbowy (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) spełniający powyższe kryteria.
+cechy binarne z wyróżnionym zerem, np. zbiór wartości {nieobecny,obecny} – cechy takie tylko pozornie są cechami porządkowymi, lecz w praktyce (ze względu na zbiór dopuszczalnych przekształceń) spełniają wszystkie założenia cech proporcjonalnych
+obecność – zbiór wartości {nieobecny,obecny} – przyjmując nieobecny = 0 i obecny = 1 uzyskujemy cechę binarną z wyróżnionym zerem
+
+
+===== Dopuszczalne operacje =====
+przekształcenia liniowe (addytywne i skalowalne)
+
+
+==== Cechy absolutne ====
+Cechy absolutne są niekiedy przyjmowanym ograniczeniem cech proporcjonalnych o zakaz skalowania.
+
+
+===== Przykłady =====
+liczba klientów w ostatnim kwartale, bo możliwe jest 0 klientów, oraz prawdą jest np. że mieliśmy dwukrotnie więcej klientów w ostatnim kwartale niż w ubiegłym
+liczba dzieci w gospodarstwie domowym
+prawdopodobieństwo
+
+
+===== Dopuszczalne operacje =====
+przekształcenia tożsamościowe (nijakie: 
+  
+    
+      
+        y
+        =
+        x
+      
+    
+    {\displaystyle y=x}
+  )
+
+
+==== Cechy interwałowe ====
+
+Cechy interwałowe spełniają kryteria cech porządkowych, a ponadto dystans (interwał) pomiędzy wartościami musi być znaczący (stały). Możemy z sensem mówić o interwałach, czyli porównywać odległości między wartościami z różnych obszarów skali (jest to cecha addytywna).
+Uwaga: nieuporządkowane cechy binarne (cechy dwuwartościowe), tylko pozornie są cechami nominalnymi, lecz w praktyce (ze względu na zbiór dopuszczalnych przekształceń) spełniają wszystkie założenia cech interwałowych.
+
+
+===== Przykłady =====
+temperatura wyrażona w stopniach Celsjusza lub Fahrenheita, bo możemy twierdzić, że coś jest o 20 °C cieplejsze od czegoś innego, ale nie możemy stwierdzić ilokrotnie cieplejsze jest ciało o temperaturze 40 °C od ciała o temperaturze –10 °C.
+data kalendarzowa, bo możemy mówić o stałej różnicy pomiędzy kolejnymi dniami
+gęstość jest to cecha interwałowa logarytmiczna, bo możemy mówić o stałej różnicy pomiędzy kolejnymi dniami
+płeć – zbiór wartości {kobieta,mężczyzna} – jest to cecha binarna, w której nie można wskazać zerowej wartości
+
+
+===== Dopuszczalne operacje =====
+przekształcenia liniowe (addytywne i skalowalne)
+
+
+==== Cechy log-interwałowe ====
+Cechy interwałowe logarytmicznie są niekiedy wyróżnianym rodzajem pośrednim między cechami proporcjonalnymi a cechami interwałowymi. Można postrzegać cechę log-interwałową jako cechę interwałową, w której dystans (interwał) pomiędzy wartościami jest stały w skali logarytmicznej zamiast liniowej (jest to cecha tylko multiplikatywna). Inaczej mówiąc cecha pierwotna nie jest cechą interwałową, ale jak ją zlogarytmujemy to uzyskana cecha wtórna jest już cechą interwałową. Można też postrzegać cechę log-interwałową jako cechę proporcjonalną, która nie jest addytywna.
+
+
+===== Przykłady =====
+
+
+===== Dopuszczalne operacje =====
+przekształcenia potęgowe (multiplikatywne i skalowalne)
+
+
+==== Cechy porządkowe ====
+
+Cechy porządkowe tak jak cechy nominalne jednoznacznie identyfikują wartość cechy, a ponadto są uporządkowane w rosnącej kolejności. Możemy z sensem mówić o relacjach, czyli porównywać między sobą dwie wartości (jest to cecha sortowalna).
+
+
+===== Przykłady =====
+stopień zadowolenia – przyjmuje np. wartości z szeregu (nieszczęśliwy, niezadowolony, obojętny, zadowolony, szczęśliwy) jednakże nie można przyjąć, że różnica między nieszczęśliwym a niezadowolonym jest taka sama jak między obojętnym a zadowolonym
+wykształcenie – przyjmuje np. wartości z szeregu (brak, podstawowe, gimnazjalne, zasadnicze zawodowe, średnie, wyższe zawodowe, niepełne wyższe, wyższe) jednakże nie można przyjąć, że różnica między wyższym zawodowym a zasadniczym zawodowym jest taka sama jak np. zasadniczym zawodowym a podstawowym
+stadium choroby – przyjmuje np. wartości z szeregu (brak, stan początkowy, stan zaawansowany, stan terminalny) jednakże nie można przyjąć, że różnice pomiędzy kolejnymi stanami są jednakowe
+kolor w fizyce – przyjmuje wartości z szeregu (fioletowy, niebieski, zielony, żółty, pomarańczowy, czerwony), który stanowi szereg uporządkowany ze względu na długość fali elektromagnetycznej, jednakże różnica długości fali pomiędzy kolejnymi kolorami nie jest jednakowa
+odczyn Biernackiego (OB) – przyjmuje wartości liczbowe, jednakże choć wartości te są porównywalne (mniej lub więcej) to nie są liniowe (inną wartość ma różnica 1 mm/h u dołu i u góry skali)
+twardość minerałów wyrażona w skali twardości Mohsa
+
+
+===== Dopuszczalne operacje =====
+przekształcenia rosnące (niezmieniające kolejności elementów i zachowujące ich różnorodność)
+przekształcenia niemalejące (niezmieniające kolejności elementów) – stratne!
+
+
+==== Cechy nominalne ====
+
+Cechy nominalne są to cechy posiadające wartości wzajemnie się wykluczające (cecha o jednoznacznie określonych możliwych wartościach). W przeciwieństwie do cech porządkowych wartości te nie dają się sensownie uporządkować (jest to cecha jedynie jednoznaczna). Uwaga: cechy nominalne (dla niepoznaki) mogą być oznaczone kodami liczbowymi, jednakże nie czyni ich to od razu cechami porządkowymi.
+
+
+===== Przykłady =====
+płeć – przyjmuje wartości ze zbioru {kobieta,mężczyzna} jednakże nie można określić, która wartość jest większa
+stan cywilny – przyjmuje np. wartości ze zbioru {wolny,zamężny, wdowiec,rozwiedziony} jednakże nie można określić, który stan jest lepszy (wdowiec czy rozwiedziony)
+grupa krwi – przyjmuje wartości ze zbioru {0, A, B, AB} jednakże nie można określić, która wartość jest większa (A czy B)
+kolor oczu – przyjmuje wartości ze zbioru {brązowe,piwne, bursztynowe, zielone, niebieskie, szare,fioletowe} jednakże nie można określić, która wartość jest większa (piwne czy brązowe)
+numer zawodnika – przyjmuje wartości ze zbioru np. {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12} jednakże nie można twierdzić, że zawodnik o wyższym numerze jest lepszy od poprzedniego
+
+
+===== Dopuszczalne operacje =====
+przekształcenia różnowartościowe (jeden do jednego)
+przekształcenia „na” (wiele do jednego) – stratne!
+
+
+=== Cechy stałe ===
+Cechy stałe są to cechy statystyczne, które w danym badaniu statystycznym stanowią wspólną właściwość populacji (nie różnicują badanych jednostek). Cechy stałe stanowią tylko kryterium przynależności jednostki do określonej zbiorowości statystycznej. W literaturze anglojęzyczne pomijane zajmują jednak poczesne miejsce w podręcznikach do statystyki na wielu kierunkach studiów. Cechy stałe w jednym badaniu statystycznym mogą być cechami zmiennymi w innym. Cechy stałe dzielimy na rzeczowe, przestrzenne i czasowe.
+
+
+==== Cechy rzeczowe ====
+Cechy rzeczowe (cechy przedmiotowe) określają co jest przedmiotem badania.
+
+
+==== Cechy przestrzenne ====
+Cechy przestrzenne określają gdzie (miejsce lub obszar) ulokowane były badane jednostki.
+
+
+==== Cechy czasowe ====
+Cechy czasowe określają kiedy (moment lub okres) przeprowadzane było badanie.
+
+
+== Dopuszczalne operacje ==
+
+
+== Zobacz też ==
+badanie statystyczne
+przegląd zagadnień z zakresu statystyki
+
+
+== Przypisy ==

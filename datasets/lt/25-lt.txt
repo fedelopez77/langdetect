@@ -1,0 +1,33 @@
+Rubiko kubas – mechaninis galvosūkis, kurį 1974 metais išrado vengrų skulptorius ir architektūros profesorius Ernė Rubikas (Ernő Rubik). Jį sudaro 26 maži kubeliai, besisukantys ant branduolio, kurio nesimato iš išorės. Kiekviena iš devynių matomų sienelių, esančių viename iš šešių Rubiko kubo šonų, turi po vieną iš 6 spalvų: žalia, oranžinė, balta, mėlyna, geltona ir raudona. Pagrindinė žaidimo užduotis yra sutvarkyti kubą taip, kad kiekviena iš šešių sienų būtų vienos spalvos.
+
+
+== Populiarumas ==
+Rubiko kubas pasiekė aukščiausią populiarumo tašką ir tapo popkultūros simboliu XX amžiaus 9 dešimtmečio pradžioje. Vien nuo 1980 iki 1982 buvo parduota daugiau kaip 100 000 000 kubų. 1980 ir 1981 metais Rubiko kubas gavo BART Toy of the Year apdovanojimą, kaip geriausias metų žaislas. Netrukus atsirado daug panašių galvosūkių. Trys iš jų yra kubo formos (Kišeninis kubas (2×2×2 Rubiko kubo versija), Rubiko revanšas (4×4×4) ir Profesoriaus kubas (5×5×5)), bet yra kitokių įvairių formų: tetraedro, piramidės, rutulio ir t. t.
+1981 metais dvylikametis mokinys iš Didžiosios Britanijos Patrikas Bosertas (Patrick Bossert) išleido knygą su savo sugalvotu sprendimo būdu, pavadinimu You Can Do the Cube. Visame pasaulyje buvo parduota daugiau kaip 1,5 milijono šios knygos kopijų.
+Tarp 1983 ir 1984 Hanna-Barbera sukūrė 12 epizodų animacinį filmą pavadinimu Rubik, The Amazing Cube.
+
+
+== Sprendimo būdai ==
+Yra sugalvota daug būdų, kaip sudėlioti Rubiko kubą. Pats populiariausias metodas buvo sukurtas Deivido Singmasterio (David Singmaster) ir parašytas knygoje Notes on Rubik’s Magic Cube. Pagal šį metodą kubas yra tvarkomas sluoksniu po sluoksnio: surenkamas viršus, šonai ir apačia.
+Speed cubing (greitas kubo sutvarkymas) metodas buvo sukurtas tam, kad kubą būtų galima sutvarkyti sugaištant kuo mažiau laiko. Šį, greičiausią sutvarkymo būdą, sukūrė Džesika Fridrič (Jessica Fridrich). Metodą sudaro 4 pagrindiniai žingsniai:
+1. Kryžius (Cross) – Keturios kubo dalys, vadinamos kraštais (edges), pastatomos prie atitinkamo centro ir taip suformuojamas kryžius vienoje pusėje. Gerai įgudus, tai galima padaryti per mažiau nei 2 sekundes.
+2. Pirmi du sluoksniai (F2L) – Šis žingsnis sudaro didžiąją rinkimo dalį. Paprastai kubas renkamas pirma sutvarkant apatinio sluoksnio kampus ir tada pereinama prie antrojo sluoksnio kraštinių dalių atitaikymo, tačiau remiantis šiuo metodu, šie veiksmai apjungiami, taip sumažinant pasukimų skaičių. Sprendžiant pirmus du sluoksnius, galimos 42 skirtingos situacijos su algoritmais kiekvienai, tačiau tai galima išspręsti ir intuityviai. Video pamoka, kaip tai padaryti (lietuvių kalba) 
+3. Paskutinio sluoksnio orientacija (OLL) – Šio žingsnio tikslas, surinkti viršutinę kubo sieną taip, kad ji visa būtų vienos spalvos. Galimi skirtingi išsidėstymai – 57. Žinoma tiek algoritmų išmokti gan sunku, todėl šią dalį galima išskaidyti, sugaištant šiek tiek ilgiau, tačiau sumažinant algoritmų skaičių.
+4. Viršutinio sluoksnio kombinavimas (PLL) – Paskutiniai viršutinio sluoksnio pertvarkymai, kuriuos atlikus, surenkamas Rubiko kubas. Reikalingas 21 algoritmas, tačiau šis skaičius taip pat gali būti sumažintas išskaidant veiksmus. 
+Yra apskaičiuota, kad bet kokią 3x3x3 dydžio Rubiko kubo padėtį galima išspręsti atlikus 20 pasukimų arba mažiau.
+Populiarūs didesnių Rubiko kubų (4x4x4, 5x5x5) sprendimo metodai iš esmės yra tokio kubo dėliojimo suvedimas prie 3x3x3 kubo dėliojimo.
+
+
+== Turnyrai ==
+Daugumoje turnyrų varžomasi, kas greičiau surinks Rubiko kubą. Pirmasis pasaulio čempionas buvo vietnamietis studentas iš Los Andželo Minh Thai, kuris 1982 m. liepos 5 dieną kubą surinko per 22,95 sekundės. Oficialus pasaulio rekordas yra 4.69 sekundės, kurį 2017 metais JAV vykusiame Rally In The Valley 2017 turnyre pasiekė amerikietis Patrick Ponce. Šie rekordai buvo pripažinti Pasaulinės kubo asociacijos (World Cube Association).
+
+
+== Nuorodos ==
+Vikiteka
+Oficiali Rubiko svetainė
+Rubiko kubo patentas
+Virtualus Rubiko kubas internete
+Lietuviška Rubiko kubo svetainė
+
+
+== Išnašos ==

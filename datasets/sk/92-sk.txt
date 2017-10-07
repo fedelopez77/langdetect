@@ -1,0 +1,25 @@
+Biogénny prvok alebo bioprvok je chemický prvok, ktorý sa nachádza v živých organizmoch. Biogénny prvok v užšom zmysle je len primárny biogénny prvok.
+
+
+== Delenie biogénnych prvkov (v širšom zmysle) ==
+Biogénne prvky sa delia podľa percentuálneho množstva v organizme (na dve či tri veľmi rôzne označované hmotnostné skupiny) a podľa miery výskytu vo všetkých organizmoch (na invariabilné a variabilné).
+Celkové delenie je teda takéto:
+I) biogénne prvky prvého rádu (=primárne biogénne prvky): tvoria viac ako 0,1 % hmotnosti organizmu:
+invariabilné: vodík, kyslík, uhlík, dusík, sodík (zaraďovaný aj pod II), fosfor, vápnik
+variabilné: žiadne
+
+II) biogénne prvky druhého rádu (=sekundárne biogénne prvky): tvoria menej ako 0,1 % a viac ako 0,005 % hmotnosti organizmu (podľa iných zdrojov: viac ako 0,001 % hmotnosti alebo 0,001 % sušiny a podobne):
+invariabilné: horčík, draslík, železo (zaraďované aj pod III), síra, chlór, fosfor
+variabilné: bróm, kobalt (zaraďovaný aj pod III), titán, vanád
+
+III) biogénne prvky tretieho rádu: ostatné prvky:
+invariabilné: meď, zinok, mangán, fluór, jód, molybdén, bór (zaraďovaný aj ako variabilný), kremík (zaraďovaný aj ako variabilný)
+variabilné: väčšina ostatných prirodzených prvkov
+
+Skupina III) sa niekedy delí na dve ďalšie hmotnostné podskupiny (označme ich IIIa) a IIIb) – pozri*).
+Uvedené tri skupiny sa zvyknú alternatívne označovať rôzne, a to takto:
+I makrobiogénne p. (biogénne p., primárne b. p.), II mikrobiogénne p. (sekundárne b. p.), III ultramikrobiogénne p. (oligobiogénne p., stopové p.)
+I makrobiogénne p. (biogénne p., primárne b. p.), II oligobiogénne p. (sekundárne b. p.), III mikrobiogénne p. (stopové p.)
+I + II makrobiogénne p., III mikrobiogénne p. (stopové p.)
+I + II makrobiogénne p., *IIIa) mikrobiogénne p., *IIIb) ultramikrobiogénne p. (stopové p.)
+Výraz makrobiogénne prvky možno vždy nahradiť slovom makroprvky alebo makroelementy alebo hlavné živiny; výraz mikrobiogénne prvky zas slovom mikroprvky alebo mikroelementy.

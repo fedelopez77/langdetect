@@ -1,0 +1,106 @@
+Accelerația areolară este în fizică o mărime vectorială, reprezentând rata de modificare în timp a vectorului vitezei areolare, notată cel mai adesea prin simbolul 
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    Ω
+                    →
+                  
+                
+                ˙
+              
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\dot {\vec {\Omega }}}}
+   . Riguros, ea se definește ca derivata de ordinul întâi a vitezei areolare 
+  
+    
+      
+        
+          
+            
+              
+                Ω
+                →
+              
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\vec {\Omega }}}
+   în raport cu timpul. Formula sa de definiție este:
+
+}
+Unitatea de măsură în SI pentru accelerația areolară este 
+  
+    
+      
+        
+          
+            
+              
+                m
+                
+                  2
+                
+              
+              
+                s
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\frac {m^{2}}{s^{2}}}}
+   (metru pătrat pe secundă la pătrat). În sistemul de unități de măsură tolerat, CGS, unitatea accelerației areolare este 
+  
+    
+      
+        
+          
+            
+              
+                c
+                
+                  m
+                  
+                    2
+                  
+                
+              
+              
+                s
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\frac {cm^{2}}{s^{2}}}}
+   (centimetru la pătrat pe secundă la pătrat).
+
+
+== Vezi și ==
+Viteză areolară
+Teorema lui Siacci
+Accelerație unghiulară
+
+
+== Bibliografie ==
+Dima, Ion și alții: Dicționar de fizică, Editura enciclopedică română, București, 1972, (pag.14)

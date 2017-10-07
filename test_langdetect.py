@@ -3,7 +3,11 @@ import os
 
 import langdetect as ld
 
-TESTING_LANGUAGES = {"en", "es", "fr", "ar"}
+TESTING_LANGUAGES = {"it": "Italian", "pl": "Polish", "ru": "Russian", "sk": "Slovak", "pt": "Portuguese",
+                    "ro": "Romanian", "da": "Danish", "sv": "Swedish", "no": "Norwegian", "en": "English",
+                    "es": "Spanish", "fr": "French", "cs": "Czech", "de": "German", "fi": "Finnish", "et": "Estonian",
+                    "lv": "Latvian", "lt": "Lithuanian", "fa": "Persian", "hu": "Hungarian", "he": "Hebrew",
+                    "el": "Greek", "ar": "Arabic"}
 
 
 def test_data(profiles, dir_path):
@@ -45,8 +49,6 @@ def test_accuracy():
 
     testing_data_path = os.getcwd() + ld.PATH_DATASETS + "testing/"
     test_data(profiles, testing_data_path)
-
-
 
 
 test_accuracy()

@@ -1,0 +1,88 @@
+Dvanáct bodů působení pro zásah do systému (anglicky The twelve leverage points to intervene in a system) je vědecká práce Donelly Meadows, kterou formulovala v 90. letech 20. století. Poprvé byla vydána v roce 1997. Inspirací k vytvoření jí byla její zkušenost v asociaci NAFTA z počátku 90. let, kde si uvědomila, že se chystá obrovský nový systém, ale prostředky, kterými by mohl být ovládán, jsou velmi malé.
+Meadowsová, která pracovala v oboru systémové analýzy, navrhla stupnici bodů pro zásah do systému. Uvědomění si těchto instrumentů a jejich ovládání je aspekt sebeorganizace a může vést ke kolektivní inteligenci.
+Zpočátku pozorovala, že v komplexním systému (jako firma, město, ekonomie nebo živá bytost) existují přístupové body nebo „páky“, s jejichž pomocí může „malý posun v jedné věci vyprodukovat velké změny ve všem.“
+Tvrdila, že potřebujeme vědět o těchto malých „posunech“, kde jsou a jak je používat. Řekla, že většina lidí instinktivně ví, kde tato místa jsou, ale mají tendenci konfigurovat je ve špatném směru. Pochopení tohoto by pomohlo řešit globální problémy jako nezaměstnanost, hlad, ekonomickou stagnaci, znečištění, vyčerpávání zdrojů a problémy chování pro držení statutu quo.
+Začala s devíti body a rozšířila seznam na dvanáct s vysvětlením a příklady pro systémy jako takové.
+Popisuje systém jako bytost s určitým stavem a obsahující „sklad“ s toky dovnitř a ven z něj (systému). V jakémkoli okamžiku je systém v určitém konkrétním stavu, který přijal. Stanovené cíle mohou existovat a být dosažitelné jako určité konkrétní stavy systému, anebo mohou být nedosažitelné, mimo systém. Rozdíl mezi současným stavem a cílem je „nesoulad“.
+
+
+== Body působení pro zásah do systému ==
+Body působení jsou seřazeny podle významu a možnosti ovlivnit systém:
+1.) Moc měnit paradigmata, ze kterých systém vyvstává
+2.) Soubor paradigmat, z kterých systém vyvstává (jeho cíle, složení, pravidla, zpoždění, parametry)
+3.) Cíl systému
+4.) Moc přidat, změnit systémové struktury nebo nechat je vyvíjet se či organizovat sebe samy
+5.) Pravidla systému (např. stimuly, tresty, omezení)
+6.) Složení informačních toků (kdo má či nemá přístup k jakým druhům informací)
+7.) Zisk z vytváření pozitivních zpětnovazebních smyček
+8.) Síla negativních zpětnovazebních smyček (v poměru k tomu, co se snaží tlumit)
+9.) Délka zpoždění (v poměru k rychlostí změn systému)
+10.) Složení stavů materiálů a toků (např. transportní síť, struktura věku populace)
+11.) Velikost buferů
+12.) Konstanty, parametry, čísla (např. finanční pomoc, daně, standardy)
+Možnost měnit samotný systém přináší největší potenciál, jak různě systém ovlivňovat. Naopak pouhá možnost ovlivnění jen některých parametrů v okolí systému přináší jen omezené možnosti systém ovlivnit.
+
+
+== Ilustrační příklad ==
+Pro ilustraci Dvanácti bodů je použita následující příkladová studie:
+Existuje rybník obsahující určité množství vody.
+Vstup vody do něj tvoří přítok říčky, která do něj ústí, dále déšť, průsak z okolních svahů a odpadní voda z blízké továrny.
+Odběr vody z rybníku je používán na zavlažování blízkého kukuřicového pole, jako vstup zmíněné továrny, ke spotřebě v sousedícím kempu. Dále voda ubývá vypařováním do atmosféry a odtokem přes stavidlo, obzvlášť když je rybník plný.
+Místní obyvatelé si stěžují na ubývající množství vody a její znečištění. Jejich cílem je mít rybník plný čisté vody.
+Pro jednotlivé body působení jsou poznamenány příklady vztahující se k této uvedené příkladové studii.
+
+
+=== Parametry ===
+Obecně jde konstanty, parametry, čísla: např. finanční pomoc, daně.
+Konstantami a parametry dle příkladu by byl např. ráz klimatu v krajině, ve které se rybník nachází. Podle Meadowsové zřídkakdy mají moc skutečně změnit ostatní vztahy a proto mají nejmenší vliv.
+
+
+=== Velikost buferů ===
+Bufferem (zásobárnou) podle příkladu je objem vody v rybníce. Bude-li rybník malý, změny (pozitivní i negativní) se projeví rychleji. U obrovského (původně čistého) rybníku ale může být tendence odpadní vodu z továrny zanedbávat a přisuzovat ji malý význam; a stejně tak v okamžiku, kdy se problémy s čistotou vody zjistí, bude obtížnější kvalitu jeho vody zlepšit v rozumném čase, než u menšího rybníku.
+
+
+=== Složení stavů materiálů a toků ===
+Nově přidaným tokem v transportní síti materiálů dle příkladu by mohla být přístavba čističky odpadních vod mezi továrnou a rybníkem. Ne vždy ale může být tato změna uskutečnitelná a pokud ano, tak většinou s vynaložením většího množství úsilí nebo peněz. Lze zvyšovat komplexitu systému např. o transportní síť, uvažováním struktury věku populace, ...
+
+
+=== Délka zpoždění ===
+Zpožděním v tomto bodě dle výše uvedeného příkladu by byl např. rozdíl mezi dobou, kdy rada města (okresu, kraje, …), ve kterém se rybník nalézá, schválí vybudování čističky (zmíněné v předchozím bodě) a okamžikem, kdy bude tato čistička uvedena do provozu a začne odpadní vodu filtrovat. Délka zpoždění v systému se uvažuje v poměru k rychlostí změn v celém systému.
+
+
+=== Síla negativních zpětnovazebních smyček ===
+Například uvalení daně za emise škodlivin ve vodě vypouštěné továrnou za každou jednotku objemu odpadní vody nebo třeba nahrazení volného odběru vody z rybníka pro zavlažování kukuřičného pole (zmíněného v příkladu) za její prodej. Takovéto změny si většinou nakonec vynutí odpověď od subjektů, které problém způsobují. Velikost potřebné změny v systému se uvažuje v poměru k tomu, co se snaží tlumit.
+
+
+=== Zisk z vytváření pozitivních zpětnovazebních smyček ===
+Typickým příznakem zpětné vazby coby hnacího motoru znečištění dle výše uvedeného příkladu je eutrofizace vody v rybníce.
+Meadowsová naznačuje, že ve většině případů je lepší raději zpomalit zpětnou vazbu, která problém způsobuje, než roztáčet zpětnou vazbu, která má působit proti ní: eliminace příčin, než hašení následných důsledků.
+
+
+=== Složení informačních toků ===
+Například pravidelná měření znečištění vody a měsíční zprávy, zveřejňované v daném místě, přístupné pro všechny místní obyvatele, bude mít vliv na to, jak rychle a razantně budou problém řešit.
+Informační tok není ani tok materiálů ani zpětnovazební smyčka, ale smyčka dodávající nové informace. Distribuce aktuálních informací je levnější než změna struktury. Jde o řízení, kdo má či nemá přístup k jakým druhům informací.
+
+
+=== Pravidla systému ===
+Pravidlem systému dle příkladu může být nový zákon zpřísňující povolené limity pro odpadní vody a pokuty za jeho nedodržování nebo regulace nadměrného čerpání vody z vodních zdrojů pro zavlažování. Obecně jde nejen o externí stimuly, tresty a omezení, ale i o interní parametry: Objem nádrže, pevnost součástek.
+
+
+=== Změna systémové struktury ===
+Změnou systémové struktury dle výše uvedeného příkladu může být např. přizpůsobení organizmů žijících v rybníce ke znečištění, kterému jsou vystaveni, popř. jejich odumření nebo odumření jen těch méně adaptabilních spojené se změnou složení vodní fauny v rybníce; nebo např. absorpce škodlivin do těl ryb, žijících v rybníce, které by efektivně znemožnilo je komerčně lovit. Stejně tak bude mít na nízký stav vody vliv, pokud se plocha s kukuřičným polem změní ve stavební parcely a její zavlažování už nebude potřeba.
+Moc přidat, změnit systémové struktury nebo nechat je vyvíjet se či organizovat sebe sama tedy převádí jednu úlohu na jinou.
+
+
+=== Cíl systému ===
+Cílem systému dle příkladu, resp. příkladem jeho změny by mohlo být rozhodnutí města (okresu, kraje, …), do kterého rybník spadá, udělat danou oblast chráněnou. Rozhodnutí tohoto typu by automaticky znamenala i nutnost dodržet pravidla a povinnosti (např. zákony o CHKO), které s sebou tato změna nese.
+
+
+=== Soubor paradigmat, z kterých systém vyvstává ===
+Dosavadní paradigma dle uvedeného příkladu je přibližně to, že „příroda je jen zdroj, určený lidem proto, aby ji mohli používat“. Změna tohoto paradigmatu má schopnost redefinovat subjekty, vztahy a zpětnovazební smyčky daného systému a určitě by si podmínila i změny ve výše uvedených bodech: jeho cíle, složení, pravidla, zpoždění, parametry.
+
+
+=== Moc měnit paradigmata ===
+Dle uvedeného příkladu s rybníkem by to byla schopnost lidí (nejenom těch v tomto příkladu) změnit pohled na svět z paradigmatu, kde „příroda je zdroj určený lidem k používání“ na (například a pokud možno) paradigma uvědomění si toho, jak jsou hodnoty jako biodiverzita, trvalá udržitelnost atd. důležité a začít jednat podle toho. Šlo by tedy o případ, kdy se paradigmata, ze kterých systém vyvstává, mění ne z externích popudů, ale zevnitř: člověk-provozovatel je zde uvažován jako součást systému.
+
+
+== Reference ==
+V tomto článku byl použit překlad textu z článku Twelve leverage points na anglické Wikipedii.

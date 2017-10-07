@@ -1,0 +1,14 @@
+Veiksmo vaidmenų žaidimas (angl. action role-playing game, sutrump. veiksmo RPG arba ARPG) – apytikslis kompiuterinio vaidmenų žaidimo, kuris taip pat turi ir veiksmo arba veiksmo-nuotykių žaidimų elementų, požanris. Veiksmo RPG žaidimuose akcentuojamas veiksmas realiu laiku, t. y. žaidėjas tiesiogiai valdo veikėją užuot naudodamasis ėjimais ar meniu pagrįsta kovos sistema. Savo kovos sistema šio tipo žaidimai yra panašūs į hack and slash žaidimus arba šaudykles.
+
+
+== Aprašymas ==
+Paprastai veiksmo RPG žaidimuose žaidėjas tiesiogiai valdo vieną veikėją realiu laiku, o pats žaidimas daugiausia remiasi kovomis ir veiksmu, siužetas ir veikėjų interakcija išlaikoma minimali.
+Kovose daug ką lemia žaidėjo įgudimas (fizinė koordinacija, reakcija), veikėjo lygis ir jo turima ginkluotė bei sugebėjimai, ypatingos taktikos kovos nereikalauja. Naujas lygis pasiekiamas surinkus tam tikrą kiekį patirties taškų, kurių gaunama užmušus priešus arba įvykdžius užduotis. Iš priešų taip pat gaunama grobio: įvairių daiktų (ginklų, šarvų, stebuklingų gėrimų ir kt.) ir valiutos. Paprastai su nauju lygiu gaunama ir įgūdžių taškų, už kuriuos galima išmokti naujų įgūdžių ir sugebėjimų.
+Daugelyje veiksmo RPG žaidimų kompiuterio valdomi veikėjai (NPC) atlieka tik vieną funkciją – superka arba parduoda daiktus ar žaidėjo veikėjų sugebėjimų patobulinimus, arba duoda jiems į kovas orientuotas užduotis. Iššūkiai, su kuriais susiduria žaidėjai, dažnai taip pat išsprendžiami veiksmo pagalba, pvz., durys pralaužiamos kirviu vietoje atrakinant surastu raktu. Visgi kai kuriuose žaidimuose didesnis dėmesys skiriamas veikėjų statistiniams bruožams, tokiems kaip „spynų nulaužimo“ ir galvosūkių išsprendimo įgūdžiai.
+
+
+== Istorija ==
+Ankstyvieji veiksmo RPG žaidimai sekė bendrovės „Nihon Falcom“ žaidimų, tokių kaip „Dragon Slayer“ ir „Y“, nustatytu šablonu, t. y. žaidimuose buvo naudojama hack and slash kovos sistema, kur žaidėjo veikėjo judesiai ir veiksmai tiesiogiai valdomi naudojant klaviatūrą ar žaidimų pultą, o ne pasitelkiant meniu. Vėliau šį šabloną ištobulino „The Legend of Zelda“ žaidimų serija, pristatydama tokias inovacijas kaip atvirą pasaulį, nelinijinį žaidimo stilių, žaidimo progreso išsaugojimą ir puolimo mygtuką, kuris ekrane atvaizduodavo mostą kalaviju ar strėlės iššovimą. Kiek kitokį veiksmo RPG šabloną išpopuliarino „Diablo“ (1996), kuriame dauguma komandų, tokių kaip judėjimas ir puolimas, atliekamos pelės paspaudimu, o ne pasitelkiant meniu, nors išmokti burtai ar įgūdžiai gali būti priskirti tam tikriems spartiesiems klavišams.
+
+
+== Šaltiniai ==

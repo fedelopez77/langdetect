@@ -1,0 +1,31 @@
+El fonio o fon es una unidad de medida logarítmica y adimensional (similar al decibelio) que se usa para indicar la sonoridad con que se percibe un sonido dado.
+Una onda sinusoidal que tiene una frecuencia de 1kHz y una amplitud igual a 
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+        =
+        20
+        ⋅
+        
+          10
+          
+            −
+            6
+          
+        
+        
+      
+    
+    {\displaystyle p_{0}=20\cdot 10^{-6}\,}
+   Pa se usa para definir la sonoridad de referencia, por lo que tiene una sonoridad igual a 0 fonios.
+Si tenemos en cuenta que el umbral de audición del oído humano se encuentra a 20 micropascales, y que coincide con el nivel de referencia de los decibelios de nivel de presión sonora; podemos concluir diciendo que el nivel presión sonora será siempre igual al nivel de sonoridad en fons cuando se trate de una frecuencia senoidal de 1KHz.
+
+
+== Véase también ==
+Sonoridad

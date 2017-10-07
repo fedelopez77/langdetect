@@ -1,0 +1,60 @@
+Chrom (Cr, łac. chromium) – pierwiastek chemiczny, metal przejściowy z bloku d układu okresowego. Ma 13 izotopów, od 45Cr do 57Cr, z czego trwałe są izotopy 50, 52, 53 i 54. Został odkryty w roku 1797 przez Louisa Nicolasa Vauqellina.
+
+
+== Nazwa ==
+Nazwa wywodzi się od greckiego słowa „chroma” oznaczającego „kolor”. Chrom na różnych stopniach utlenienia tworzy liczne związki, które mają różne barwy. Np. rubin to kryształ korundu z niewielką domieszką atomów chromu(III).
+
+
+== Występowanie ==
+Występuje w skorupie ziemskiej w ilościach ok. 102 ppm, głównie w postaci minerałów chromitu i krokoitu.
+Z punktu widzenia odżywiania najlepszym źródłem chromu są drożdże piekarskie, a także kolby kukurydzy, gotowana wołowina, jabłka, kasze, chleb gruboziarnisty oraz płatki zbożowe.
+
+
+== Produkcja przemysłowa ==
+
+Światowe wydobycie chromitu (FeCr2O4) wyniosło w roku 2002 ok. 13,5 mln ton. Wyprodukowano z niego ok. 6,1 mln ton chromu w postaci żelazochromu (stopu chromu i żelaza o średniej zawartości chromu 57%) i stali nierdzewnej (zawartość chromu ok. 17%). Najwięksi producenci żelazochromu w 2002 to (wartości szacunkowe, bez USA, które nie ujawniły danych): RPA (44%), Kazachstan (17%), Chiny (8%), Indie (6%), Zimbabwe (5%), Finlandia (5%) Rosja (4%), Brazylia (3%) i Szwecja (2%); reszta krajów wytworzyła ok. 6% światowej produkcji.
+Dwa główne produkty wytwarzane z rudy chromu to żelazochrom i chrom metaliczny. Procesy ich produkcji różnią się znacząco. W celu otrzymania żelazochromu, chromit redukowany jest w piecu łukowym lub za pomocą aluminium (lub krzemu) w procesie aluminotermicznym. W celu otrzymania czystego chromu, żelazo z rudy oddzielane jest w dwuetapowym procesie. W pierwszym etapie chromit ogrzewany jest w obecności powietrza z mieszaniną CaCO3 i Na2CO3, w wyniku czego chrom ulega utlenieniu do stopnia VI (chromiany, CrO2−4), podczas gdy żelazo tworzy nierozpuszczalny w wodzie Fe2O3. Chromiany wymywane są następnie z mieszaniny w podwyższonej temperaturze i przekształcany w dwuchromian (Cr2O2−7), za pomocą kwasu siarkowego:
+4 FeCr2O4 + 8 Na2CO3 + 7 O2 → 8 Na2CrO4 + 2 Fe2O3 + 8 CO2
+2 Na2CrO4 + H2SO4 → Na2Cr2O7 + Na2SO4 + H2O
+Otrzymany dwuchromian może zostać zredukowany za pomocą węgla do Cr2O3, który redukowany jest dalej do chromu metalicznego metodą aluminotermiczną:
+Na2Cr2O7 + 2 C → Cr2O3 + Na2CO3 + CO
+Cr2O3 + 2 Al → Al2O3 + 2 Cr
+
+
+== Właściwości ==
+Chrom metaliczny jest srebrzystoszarym metalem (z błękitnym połyskiem w świetle); na powietrzu reaguje z tlenem, ulega pasywacji i powstaje tlenek chromu(III), który tworzy powłokę ochronną i zabezpiecza postępowaniu korozji na metalu. Z kwasami reaguje łatwiej niż molibden i wolfram. Rozpuszcza się w rozcieńczonym kwasie solnym i siarkowym (o ile nie jest szczególnie wysokiej czystości), natomiast w stężonym i rozcieńczonym kwasie azotowym oraz w wodzie królewskiej ulega pasywacji.
+
+
+== Zastosowania ==
+Ze względu na swoje antykorozyjne właściwości, chrom jest stosowany jako zewnętrzna warstwa pokrywająca elementy stalowe, poprawiająca ich wygląd oraz chroniąca przed korozją. Warstwa taka spełnia swoje zadanie pod warunkiem, że jest szczelna i ciągła. W przypadku nieciągłości powłoki chromowej powstaje ogniwo korozyjne, gdzie stal pełni rolę utleniającej się anody.
+
+Powłoki nakładane w celach dekoracyjnych są zazwyczaj cienkie (poniżej 1 μm). Osadza się je na podwarstwie miedzi i niklu. Powłoki nakładane w celach technicznych (np. dla polepszenia właściwości ciernych względem stali, poprawy odporności na ścieranie) mają zazwyczaj grubość 5 – 200 μm (niekiedy do 1 mm). Powłoki o grubości większej niż 25 μm charakteryzują się bardzo wysoką twardością – do ok. 1000 HV, są jednak kruche. Na przedmioty podlegające ścieraniu i pracujące w warunkach niedostatecznego smarowania (np. cylindry w silnikach spalinowych) nakłada się porowatą warstwę chromu. We wgłębieniach i porach warstwy zbiera się smar ułatwiający poślizg. Wytwarzanie warstw porowatych polega na dodatkowej obróbce anodowej chromowanego przedmiotu.
+Chrom jest także składnikiem stali nierdzewnych (chromowych). Stal taka jest stosowana m.in. w armaturze łazienkowej lub w samochodach, ale także w produkcji samolotów, broni i pojazdów wojskowych.
+
+
+== Barwniki i pigmenty ==
+Minerał krokoit (chromian ołowiu PbCrO4) znalazł zastosowanie jako żółty pigment wkrótce po jego odkryciu. Po opracowaniu metod syntezy, żółcień chromowa obok żółcieni kadmowej była najczęściej stosowanym pigmentem, co zawdzięczała jaskrawej barwie i odporności na fotodegradację. Używano ich m.in. do malowania szkolnych autobusów w USA oraz pojazdów pocztowych w Niemczech. Zastosowanie to jednak zostało ograniczone w trosce o środowisko. Zastępowane są barwnikami organicznymi, niezawierającymi metali ciężkich. Inne pigmenty oparte na chromie, to np. czerwień chromowa (zasadowy chromian ołowiu, PbCrO4·Pb(OH)2). Zieleń chromowa to mieszanina błękitu pruskiego i żółcieni chromowej, podczas gdy zieleń chromowa tlenkowa to tlenek chromu(III).
+
+
+== Związki ==
+Ważnym przemysłowo związkiem jest FeCr2O4 (FeO•Cr2O3), występujący jako minerał chromit.
+Roztwory soli Cr(III) i Cr(VI) mają bardzo intensywne barwy (zieloną i pomarańczową), co jest wykorzystywane w fotochemii i technikach kolorymetrycznych.
+Roztwór K2Cr2O7 w stężonym kwasie siarkowym (chromianka) ma silne właściwości utleniające i może służyć do mycia szkła laboratoryjnego.
+Tlenek chromu(III) (zieleń chromowa) jest używany jako pigment.
+Sole chromu(VI) są toksyczne i mają właściwości rakotwórcze.
+
+
+== Znaczenie biologiczne ==
+Chrom jest obecny w centrach aktywnych wielu enzymów i jest niezbędnym do życia mikroelementem. Ułatwia przenikanie glukozy z krwi do komórek. Zmniejsza zapotrzebowanie na insulinę. Współdziała z tym hormonem w syntezie białek. Zmniejsza ryzyko zawału serca i rozwoju miażdżycy, ponieważ obniża stężenie całkowitego cholesterolu i jego frakcji LDL (tzw. „zły cholesterol”), a zwiększa ilość HDL (tzw. „dobry cholesterol”).
+Niedobór tego pierwiastka (na III stopniu utlenienia) może mieć wpływ na rozwój cukrzycy u dorosłych oraz chorób układu krążenia.
+Nawet niewielkie ilości chromu na VI stopniu utlenienia mają działanie szkodliwe dla zdrowia człowieka. W codziennym życiu kontakt z materiałami zawierającymi chrom, takimi jak skóry garbowane chromowo, środki wybielające, farby i lakiery zawierające chrom, może prowadzić do wystąpienia reakcji uczuleniowych. Chrom jest najczęstszą przyczyną zawodowego wyprysku kontaktowego. Większe stężenia chromu sześciowartościowego ma działanie toksyczne, mutagenne i kancerogenne. Chrom sześciowartościowy ma zdolność penetracji błon komórkowych i przedostawania się do wnętrza komórki, gdzie ulega redukcji do chromu trójwartościowego, który sam nie jest w stanie dostać się do wnętrza komórek, uwalniając przy tym elektrony, które uszkadzają błonę. Sam chrom trójwartościowy znajdujący się we wnętrzu komórki tworzy związki kompleksowe, między innymi z DNA uszkadzając go tym samym, co może prowadzić w rezultacie do powstania nowotworu.
+
+
+== Uwagi ==
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Maria Głowacka: Powłoki i warstwy wierzchnie – wybrane zagadnienia (skrypt), Rozdział II: Powłoki elektrolityczne (galwaniczne)

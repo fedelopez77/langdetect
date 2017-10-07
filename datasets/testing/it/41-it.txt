@@ -1,0 +1,26 @@
+Il sottogruppo alpino è una suddivisione della catena delle Alpi.
+
+
+== Definizione ==
+
+Il concetto di sottogruppo alpino è stato particolarmente definito dalla Suddivisione Orografica Internazionale Unificata del Sistema Alpino (SOIUSA) del 2005.
+Per procedere a una miglior classificazione e suddivisione delle Alpi la SOIUA ha superato la storica tripartizione alpina in Alpi Occidentali, Alpi Centrali e Alpi Orientali definita nel 1926 e ha adottato la bipartizione in Alpi Occidentali e Alpi Orientali.
+Inoltre ha introdotto il seguente schema di ulteriore suddivisione:
+5 grandi settori (SR)
+36 sezioni (SZ)
+132 sottosezioni (STS)
+333 supergruppi (SPG)
+870 gruppi (GR)
+1625 sottogruppi (STG)
+
+
+== Codice dei sottogruppi ==
+La SOIUSA classifica i sottogruppi attraverso una particolare codifica. Nello specifico li individua nel gruppo alpino di appartenenza attraverso una lettera progressiva.
+Nell'esempio riportato in fianco circa i parametri SOIUSA del Monte Bianco si nota che il sottogruppo è il Monte Bianco ed è individuato dalla lettera b.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Sergio Marazzi, Atlante Orografico delle Alpi. SOIUSA, Pavone Canavese, Priuli & Verlucca, 2005.

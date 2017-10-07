@@ -1,0 +1,18 @@
+Bromūdeņražskābe ir bromūdeņraža (HBr) šķīdums ūdenī. Tā ir stipra (stiprāka par sālsskābi), neorganiska, vienvērtīga skābe. Bromūdeņražskābe ir bezkrāsains (ilgāk glabājot — dzeltenīgs) šķidrums ar asu, skābu garšu; koncentrētiem šķīdumiem piemīt asa smaka. Bromūdeņražskābi jāglabā noslēgtos traukos tumšā vietā, jo gaismā tā sadalās.
+
+
+== Iegūšana ==
+Laboratorijā bromūdeņražskābi var iegūt, destilējot nātrija bromīda vai kālija bromīda šķīdumu fosforskābē vai atšķaidītā sērskābē:
+KBr + H2SO4 → KHSO4 + HBr
+Ja sērskābe ir pārāk koncentrēta, tā var oksidēt izveidojušos bromūdeņradi līdz bromam (jeb bromūdeņradis reducē sērskābi līdz sēra dioksīdam):
+2HBr + H2SO4 → Br2 + SO2 + 2H2O
+Bromūdeņražskābi iegūst arī, reducējot bromu ar sēra dioksīdu:
+Br2 + SO2 + 2H2O → 2HBr + H2SO4
+Ūdens un sasmalcināta ledus maisījumam, kam pievienots broms, laiž cauri SO2, dzesējot reakcijas trauku. Dažas minūtes pēc tam, kad broma sarkanbrūnā krāsa izzudusi, SO2 ievadīšanu pārtrauc, šķidrumu pārnes dalāmajā piltuvē un atdala apakšējo slāni ar varbūtējiem piemaisījumiem. Pievieno nedaudz broma pārpalikušā SO2 saistīšanai, atšķaida ar ūdeni un destilē, paturot pēdējo frakciju, kas destilējas 122—126 °C temperatūrā. Tai pievieno BaCO3 vai Ba(OH)2 sulfātjonu saistīšanai un destilē vēlreiz, iegūstot ļoti tīru bromūdeņražskābi.
+
+
+== Izmantošana ==
+Izmanto par reaģentu dažādu organisku un neorganisku broma savienojumu iegūšanai.
+
+
+== Atsauces ==

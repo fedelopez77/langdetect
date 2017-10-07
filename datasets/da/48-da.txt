@@ -1,0 +1,81 @@
+Volkswagen LT er en serie af varebiler og busser fra Volkswagen, som fra 1975 til 2006 blev bygget i to generationer. Den anden generation fra 1996 er næsten identisk med Mercedes-Benz Sprinter. Efterfølgeren for LT-serien fra 2006 hedder Crafter og er igen et joint venture mellem Volkswagen og Mercedes-Benz.
+Typebetegnelsen LT, som er en forkortelse for Lasten-Transporter, efterfølges af et tocifret tal, som angiver den tilladte totalvægt. Så f.eks. LT 28 står for en tilladt totalvægt på 2,8 ton og LT 35 for 3,5 ton.
+LT-serien dækker vægtklassen fra 2,8 til 5,6 ton.
+
+
+== LT (type 21/28, 1975−1996) ==
+Allerede i midten af 1960'erne blev det klart, at Volkswagen Transporter ikke længere kunne opfylde nutidens krav til lasteevne og lastvolumen. I starten af 1970'erne indgik Volkswagen et samarbejde med Daimler-Benz AG om at bygge et fælles erhvervskøretøj, men det blev aldrig til noget. Første generation af LT blev præsenteret i 1975. Motoren er placeret på langs mellem fører og forsædepassager.
+
+
+=== Motorer ===
+Ved introduktionen kunne modellen fås med to vandkølede firecylindrede motorer, en benzinmotor med et slagvolume på 2,0 liter og 55 kW (75 hk), som kom fra Audi 100, og som i en højere ydende version med 92 kW (125 hk) også blev brugt i Porsche 924. Derudover fandtes der også en 2,7-liters dieselmotor fra det britiske firma Perkins Engines med 48 kW (65 hk). Allerede i 1979 blev denne motor afløst af Volkswagens egen, nyudviklede sekscylindrede dieselmotor på 2,4 liter med 55 kW (75 hk). Den svenske bilfabrikant Volvo blev opmærksom på denne motor og benyttede den med en øget effekt på 63 kW (86 hk) i Volvo 240 D6, som dermed blev den første personbil med sekscylindret dieselmotor. Senere kom den også i de andre Volvo-modeller.
+Ønsket om mere motorydelse kunne Volkswagen efterkomme fra 1983, hvor der kom to turbodieseludgaver af den sekscylindrede 2,4-motor. De ydede 68 kW (92 hk) hhv. 75 kW (102 hk). Såvel knastakslen som vandpumpen på den sekscylindrede motor blev drevet af en tandrem. Dieselmotoren havde derudover en lille tandrem bag på cylinderblokken til at trække indsprøjtningspumpen. I den forbindelse blev motoren flyttet ca. 10 cm bagud og hældt stærkt, så det blev muligt at montere et dobbeltsæde i passagersiden. Dieselmodellerne var udstyret med koldstartstræk. Ved betjening af dette stillede indsprøjtningspumpen indsprøjtningstidspunktet tilbage, så både starten blev lettet og udviklingen af blå røg nedsat.
+I 1983 udgik 2,0-liters benzinmotoren (med stående, høj motorafdækning af stål) og der blev introduceret en sekscylindret benzinrækkemotor (monteret på skrå hældende bagud, og med flad motorafdækning af kunststof) med et slagvolume på 2,4 liter med karburator og 66 kW (90 hk). Da motoren fik katalysator fik den Digifant-benzinindsprøjtning, med hvilket den ydede 69 kW (94 hk). De sekscylindrede motorer var med to cylindre forlængede versioner af Volkswagens 1,6-liters firecylindrede motor (en aflægger af EA 827). Med faceliftet i 1993 blev der introduceret modificerede dieselmotorer, blandt andet med ladeluftkøler og 70 kW (95 hk).
+
+
+==== Tekniske data ====
+
+
+=== Versioner ===
+Ved introduktionen kunne LT fås med to forskellige akselafstande, 2500 og 2950 mm, og to taghøjder. Som autocamper fandtes LT også som specialmodel, f.eks. Westfalia Sven Hedin eller Volkswagen Florida, som med et specielt højt tag havde to ekstra sovepladser. Den anden store autocamper på basis af LT var fra Karmann Mobil, først solgt som Distance Wide. Senere kom også en forlænget version med lad og en akselafstand på 3650 mm. LT kunne dermed fås som minibus med op til 14 siddepladser, kassevogn, autocamper, ladvogn og som chassis med enkelt eller dobbelt førerhus. Førerhuset fra LT blev også anvendt til G-byggeserien fra MAN.
+
+
+=== Facelifts ===
+Udover enkelte kosmetiske ændringer blev de runde forlygter erstattet af firkantede i 1986. I foråret 1993 kom der flere mindre ændringer, hvor bl.a. frontelementerne blev indkapslet i en grå plastikramme.
+
+
+=== Undervogn ===
+Ved introduktionen var LT udstyret med foraksel med separate hjulophæng og skruefjedre. Denne foraksel blev brugt i hele modellens levetid til modellerne LT 28, LT 31 og LT 35. For at efterkomme kundernes ønske om højere lasteevne, blev der fra 1979 tilbudt en anden foraksel med to langs liggende bladfjedre som ekstraudstyr til LT 35. Samtidig blev modellerne LT 40 og LT 45 introduceret, hvor denne foraksel var standardudstyr, ligesom på de senere introducerede modeller LT 50 og LT 55. Bilen havde skivebremser på forhjulene og tromlebremser på baghjulene. Det hydrauliske tokredsbremsesystem havde bremseforstærker som standardudstyr. Modellen havde styregear med kuglekredsløb fra type 2, i første omgang uden servostyring. Dette blev introduceret ved det første store facelift i 1983. Bagaksel var en stiv aksel med to langs liggende bladfjedre. Derudover var der en lastafhængig bremsekraftregulator, som regulerer bremsetrykket til bagakslen afhængigt af belastningstilstanden. Modellerne LT 28, LT 31 og LT 35 havde enkeltdæk på bagakslen. Fra LT 40 og op og som ekstraudstyr til LT 35 havde bagakslen tvillingehjul. Standardmodellerne havde 14" fælge.
+
+
+=== Firehjulstræk (LT 4×4) ===
+En model for sig selv er LT 4×4, som havde ekstremt gode køreegenskaber i terræn. Den standardmonterede manuelle gearkasse var udstyret med en fordelergearkasse, som kunne tilkobles efter behov og fordelte motorens kraft i forholdet 1:1 mellem bagakslen og den tilkoblelige foraksel. Ved kørsel med tilkoblet fordelergearkasse og spærret differentiale kunne LT, som havde motorer fra 75 til 102 hk klare stigninger op til 45°. LT 4×4 fandtes som LT 40 og LT 45 i alle udførelser, som også kunne fås som 4×2, men kun med den mellemste akselafstand (2950 mm). Forgængeren for LT 4×4 var den af Sülzer Fahrzeugbau i Augsburg udviklede LT 4×4 Sülzer. Derudover byggede Steyr-Daimler-Puch i Østrig en bil på basis af LT med navnet Noriker, som dog ikke gik i serieproduktion.
+
+
+=== MAN-VW lastbil G90 ===
+På basis af første generation af LT blev G90 udviklet i samarbejde med MAN. Modellen blev introduceret i 1979, i første omgang med tilladt totalvægt mellem 6 og 9 ton, fra 1981 også 10 ton. Der kunne vælges mellem to motorer med 66 kW (90 hk) og 100 kW (136 hk). Motorer, chassis og foraksel kom fra MAN, mens førerhuset, som kom fra LT, gearkasse og bagaksel kom fra Volkswagen. Fronten på bilen var udstyret med begge firmaers logoer. Det eneste større facelift kom i 1987, hvor motorydelsen steg til 74 kW (101 hk) hhv. 110 kW (149 hk), og de hidtidige runde forlygter ved siden af kølergrillen blev afløst af firkantede i kofangeren. G90 var også kendt som MAN-VW og blev bygget frem til 1993.
+
+
+== LT (type 2D, 1996−2006) ==
+Den anden generation af LT (type 2D) kom på markedet i maj 1996 og var identisk med Mercedes-Benz Sprinter. Den blev fuldt ud nyudviklet af Volkswagen og Mercedes-Benz. LT blev bygget på Volkswagen Erhvervsbilers fabrik i Hannover, mens Sprinter blev bygget hos Daimler-Benz i Düsseldorf. Karrosseriet havde i modsætning til forgængeren kraftigt pålimede for- og bagruder og lak på vandbasis. Modellen kunne som ekstraudstyr fås med mekanisk differentialespærre, klimaanlæg, luftekstravarme og fører- og passagerairbags.
+
+
+=== Motorer ===
+Standardmotoren i LT var en femcylindret dieselmotor på 2,5 liter med elektronisk styret fordelerindsprøjtningspumpe. Den fandtes i en sugeudgave med 55 kW (75 hk) og i turboudgaver med effekt fra 61 kW (83 hk) til 80 kW (109 hk). Derudover fandtes der en firecylindret turbodieselmotor på 2,8 liter, som var leveret af firmaet Motores MWM Brasil til Volkswagen og ydede 92 kW (125 hk) (senere 96 kW (130 hk)). Motoren fik i 2002 commonrail-indsprøjtning, hvorved både gangkulturen og effekten blev forbedret (116 kW (158 hk)). For at forbedre motorkølingen er der monteret en ventilator med Viscokobling. Ved introduktionen fandtes der også en benzinmotor på 2,3 liter fra Mercedes-Benz (type M 111 E 23) med 105 kW (143 hk), som dog var stort set usælgelig og senere udgik. Denne motor var den eneste, som kunne kombineres med automatgear. Alle motorerne var monteret på langs foran og overførte kraften gennem en enskivet tørpladekobling til en femtrins manuel gearkasse.
+
+
+==== Tekniske data ====
+
+
+=== Versioner ===
+LT fandtes med tre forskellige akselafstande (3000 mm, 3550 mm og 4025 mm) såvel som to forskellige taghøjder. Modellen med den længste akselafstand kan kendes på de gule sidemarkeringslygter. Karrosserivarianterne var kassevogn, kombi, ladvogn og chassis med førerhus eller dobbeltkabine. Derudover fandtes der også en autocamper på basis af LT, bygget i samarbejde med Karmann Mobil, under navnet Missouri.
+
+
+=== Undervogn ===
+For at mindske vendediameteren havde undervognen foran én tværliggende bladfjeder, mens den bagpå havde to langsliggende bladfjedre. Motor og gearkasse overførte kraften til bagakslen, som på LT 46 var udstyret med tvillingehjul, som også kunne fås som ekstraudstyr til LT 35. Tandstangsstyretøjet var i alle varianter udstyret med servostyring. Bremsesystemet havde skivebremser på både for- og baghjulene, som foran og på LT 46 også bagpå var indvendigt ventilerede. Parkeringsbremsen virkede på baghjulene og bestod af en lille bremsetromle, som var integreret i de bageste bremseskiver. I modsætning til forgængeren fandtes modellen ikke med firehjulstræk.
+
+
+=== Sikkerhed ===
+Det svenske forsikringsselskab Folksam vurderer flere forskellige bilmodeller ud fra oplysninger fra virkelige ulykker, hvorved risikoen for død eller invaliditet i tilfælde af en ulykke måles. I rapporterne er/var LT i årgangene 1997 til 2005 klassificeret som følger:
+2013: Mindst 40% bedre end middelbilen
+
+
+== Tredje generation (Crafter) ==
+
+Også den tredje generation, som ikke længere hedder LT, men derimod Crafter, er næsten identisk med Mercedes-Benz Sprinter. Optisk adskiller den sig hovedsageligt med den dybe kølergrill tydeligt fra forgængeren. Modellen findes med femcylindrede dieselmotorer med commonrail-indsprøjtning, turbolader og partikelfilter. Crafter bygges på Mercedes-Benz' fabrikker i Düsseldorf og Ludwigsfelde sammen med Sprinter.
+
+
+== Referencer ==
+
+
+== Litteratur ==
+Volkswagen LT instruktionsbog. Volkswagen AG, april 1998.
+Volkswagen LT servicemappe, hæfte 3.3 "Tekniske data". Volkswagen AG, august 2000.
+Volkswagen LT servicemappe, hæfte 3.3 "Tekniske data". Volkswagen AG, maj 2001 (på tysk).
+Volkswagen LT servicemappe, hæfte 3.5 "Tillæg". Volkswagen AG, maj 2002 (på tysk)
+
+
+== Eksterne henvisninger ==
+
+Internet Movie Cars Database: Volkswagen LT i film og tv-serier
+Tidligere officielt websted fra Internet Archives Wayback Machine (arkiveret 25. juni 2003)

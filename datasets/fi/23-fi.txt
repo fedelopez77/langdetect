@@ -1,0 +1,15 @@
+Viininpunainen tai Bordeaux'n punainen ja burgundinpunainen ovat tummia, punertavia värisävyjä. Burgundinpunainen on sävyltään vähän Bordeaux'n punaista kirkkaampi ja vaaleampi. Kumpikin on saanut nimensä alueella tuotetun viinin värin mukaisesti. Viininpunainen on myös ruskean ja purppuran väliväri.
+Kuitenkin yleisessä kielenkäytössä kummastakin värisävystä käytetään kollektiivista nimitystä viininpunainen.
+
+
+== Värikoodit ==
+Burgundinpunainen on eri kansainvälisten värikoodien mukaisesti:
+RGB. 144, 0, 32
+Triplet hex: 900020
+CMYK: 0, 100, 76, 44
+TSL: 370°, 100%, 56%
+Bordeaux'n punainen eri kansainvälisten värikoodien mukaisesti:
+RGB. 128, 0, 0
+Triplet hex: 800000
+CMYK: 0, 100, 100, 50
+TSL: 0°, 100%, 50%

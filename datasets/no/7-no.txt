@@ -1,0 +1,18 @@
+Flattr er et mikrobetalingssystem som ble lansert i mars 2010.
+Flattr er et prosjekt startet av Peter Sunde og Linus Olsson. Brukere vil få muligheten til å betale små månedlige beløp og deretter klikke på knapper på sider for å dele penger man har betalt inn til alle sidene man klikker på. Brukere må minimum betale inn 2 euro per måned. Sunde sa «the money you pay each month will be spread evenly among the buttons you click in a month. We want to encourage people to share money as well as content.» til BBC
+Flatter tar en avgift på 10 % av alle brukernes månedlige inntekter.
+Tjenesten er avhengig av en kritisk masseeffekt for å bli brukbar, og det er derfor nødvendig at brukere blir med og har muligheten til å «flattr» og bli «flattrert». På grunn av systemets unge alder, er antallet støttende plattformer veldig begrenset. For å øke bruken, inkluder sider som ikke støtter flattr opprinnelig er det utviklet en Firefox-plugin Överallt («over alt» på svensk) har blitt utviklet. Den tillater nettleseren å parse en simpel enkel tekst-tag ([Flattr=ID]) og erstatte denne «inline» med en «Flattr widget». Dette utvider nedslagsfeltet til Flattr.
+Det er listet to støttede betalingssystem som kan brukes for å betale inn penger til en Flattr-konto. Dette er Moneybookers og PayPal.
+
+
+== Navn ==
+«Flattr» henspiller på ordene «flatter» (smiger) og «flat rate» (betaling med fast beløp).
+
+
+== Referanser ==
+
+
+== Eksterne lenker ==
+Flattrs offisielle nettsted
+Flattr – tjen penger på det du lager i DinSide 20. juli 2010
+Pirate Bay-Peter vil ta bort «de gamle idiotene» i Dagbladet 25. februar 2010

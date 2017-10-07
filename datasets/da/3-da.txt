@@ -1,0 +1,3 @@
+ISO 9660, er en standard som er udgivet af International Organization for Standardization (ISO). Standarden definerer et filsystem på en CD-ROM skive. ISO 9660's mål er at understøtte mange forskellige platforme som f.eks. Unix, Linux (se CDFS), Windows og Mac OS, så data frit kan udveksles mellem disse systemer.
+Der er blevet lavet en udvidelse til ISO 9660. Denne udvidelse hedder Joliet, og den tilføjer understøttelse for længere filnavne og ikke-ASCII tegnsæt.
+DVD'er kan også bruge ISO-9660-filsystemet. Men det bør tages i betragtning at UDF-filsystemet muligvis er mere egnet på DVD'er efter som det understøtter det store medie bedre og egner sig bedre til moderne operativsystemer.

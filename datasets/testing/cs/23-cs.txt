@@ -1,0 +1,12 @@
+OpenShot je v informatice název svobodného nelineárního video editoru pro střih videa. Je napsán v Pythonu a používá MLT framework. Projekt byl zahájil v srpnu 2008 Jonathanem Thomasem s cílem vytvořit stabilní a snadno použitelný video editor.
+
+
+== Související články ==
+Seznam video editorů
+Porovnání video editorů
+
+
+== Externí odkazy ==
+ Obrázky, zvuky či videa k tématu OpenShot Video Editor ve Wikimedia Commons
+Oficiální stránky projektu (anglicky)
+Uživatelský manuál (česky), (anglicky)

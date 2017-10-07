@@ -18,7 +18,7 @@ is search engines such as Google. Document summarization is another."""
 
 >>> import langdetect as ld
 >>> print ld.detect_language(text)
-[('en', 0.8657936828582331), ('fr', 0.11200285727639105), ('es', 0.022203459865375846)]
+[('en', 0.9201609943007083), ('fr', 0.07217134307468472), ('ro', 0.0076676626246070185)]
 ```
 
 Since building the models for every language it is a time consuming operation, to perform many detections it is better to use:
@@ -64,3 +64,9 @@ The datasets to train, validate and test the software were collected with [this 
 | sk | Slovak |
 | es | Spanish |
 | sv | Swedish |
+
+
+## Adding a new language
+1. Add the dataset of the new language inside the `datasets` directory. The dataset should be text files of the given language inside a directory with the language code as name. According to the article, with 100 Kilobytes is enough.
+2. Add the language code and name to the `LANGUAGES` dictionary in the `langdetect.py` file.
+3. OPTIONAL: if you want to test the new language, add a test dataset under the `datasets/testing` directory. Then, add the language code to the `TESTING_LANGUAGES` dictionary in the `test_langdetect.py` file.

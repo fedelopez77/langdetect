@@ -1,0 +1,163 @@
+A matematikában a véletlen gráf egy olyan gráf, amely valamilyen véletlen folyamat során jön létre. A véletlen gráfok elmélete a gráfelmélet és a valószínűségszámítás határterületén fekszik, és a véletlen gráfok szokványos tulajdonságait tanulmányozza. Véletlen gráfokat először Erdős Pál és Rényi Alfréd vizsgált egy 1959-es közös cikkükben ("On Random Graphs", Publ. Math. Debrecen 6, p. 290-297).
+
+
+== Véletlengráf-modellek ==
+Egy véletlen gráfot létrehozhatunk úgy, hogy egy n elemű csúcshalmazhoz az éleket véletlenszerűen adjuk hozzá. A különböző véletlengráf-modellek különböző valószínűséggel hozzák létre az egyes gráfokat. A legtöbbet tanulmányozott modell az Erdős–Rényi modell (jele G(n,p)), melyben minden élet a többitől függetlenül p valószínűséggel hozunk létre. Egy ehhez közeli kapcsolatban levő modell (jele G(n,M)) olyan gráfokat tartalmaz, melyeknek pontosan M élük van, és minden egyes ilyen gráf pontosan egyforma valószínűséggel fordul elő.
+Az utóbbi modell felfogható, mint a 
+  
+    
+      
+        
+          
+            
+              
+                G
+                ~
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\tilde {G}}_{n}}
+   jelű véletlengráf-folyamat pillanatképe egy adott pillanatban. Ez a folyamat egy sztochasztikus folyamat, amely n csúccsal indul, melyet nem kötnek össze élek, és minden egyes lépésben egy új élet hoz létre egyforma valószínűséggel választva a hiányzó élek halmazából.
+Minden G=(V, E) gráf esetén, a G gráf éleinek E halmaza felfogható, mint egy bináris reláció a csúcsok V halmazán. Ez a G szomszédsági (adjacencia) relációja, melyben minden a és b pontosan akkor áll relációban, ha 
+  
+    
+      
+        {
+        a
+        ,
+        b
+        }
+        ∈
+        E
+      
+    
+    {\displaystyle \{a,b\}\in E}
+  , tehát ab a G egy éle. Ennek következtében minden szimmetrikus R reláció a V felett tekinthető egy V gráf élhalmazának.
+Létrehozhatunk egy G objektumot, az úgynevezett végtelen véletlen gráfot, amelynek csúcsainak halmaza egy V végtelen halmaz. A G élhalmaza, mint a V feletti R bináris reláció elégítse ki a következő feltételeket:
+R irreflexív,
+R szimmetrikus, és
+megadva V bármely 
+  
+    
+      
+        n
+        +
+        m
+      
+    
+    {\displaystyle n+m}
+   elemét 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            n
+          
+        
+        ,
+        
+          b
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          b
+          
+            m
+          
+        
+        ∈
+        V
+      
+    
+    {\displaystyle a_{1},\ldots ,a_{n},b_{1},\ldots ,b_{m}\in V}
+  , létezik egy 
+  
+    
+      
+        c
+        ∈
+        V
+      
+    
+    {\displaystyle c\in V}
+   csúcs, amely szomszédos 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{1},\ldots ,a_{n}}
+   csúcsokkal és nem szomszédos 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          b
+          
+            m
+          
+        
+      
+    
+    {\displaystyle b_{1},\ldots ,b_{m}}
+   egyikével sem.
+Kiderül, hogy ha V megszámlálható, akkor izomorfia erejéig csak egyetlen olyan végtelen véletlen gráf létezik, amit Rado-gráfnak nevezünk.
+És vannak még további modellek is.
+
+
+== A véletlen gráfok tulajdonságai ==
+A véletlen gráfok elmélete a véletlen gráfok olyan tulajdonságait tárgyalja, melyek nagy valószínűséggel előfordulnak a gráfok egy bizonyos eloszlása esetén. Például megkérdezhetjük egy meghatározott n és p érték esetén, hogy mekkora a valószínűsége, hogy G(n,p) összefüggő. Ilyen kérdések tanulmányozásakor a kutatók gyakran a véletlen gráfok aszimptotikus viselkedésére összpontosítanak, azokra az értékekre, amelyeket akkor tapasztalnak, ha az n értéke nagyon nagyra növekszik. A perkolációelmélet a véletlen gráfok összefüggőségével foglalkozik abban az esetben is, ha a véletlen gráf véletlen nagy.
+
+
+== Hivatkozások ==
+Béla Bollobás, Random Graphs, 2nd Edition, 2001, Cambridge University Press
+
+
+== Lásd még ==
+Perkoláció

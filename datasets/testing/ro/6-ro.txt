@@ -1,0 +1,7 @@
+Unitatea aritmetică logică (în scriere abreviată UAL sau ALU — de la denumirea din engleză Arithmetic logic unit) este un circuit electronic digital complex care poate efectua operații aritmetice și logice. În diagramele-bloc de computere, unitatea aritmetică logică este reprezentată ca un modul funcțional, componentă a schemei de principiu a unui calculator electronic. Constructiv, în calculator, UAL este un bloc fundamental al unității centrale de procesare (prelucrare) UCP, în engleză CPU.
+UAL asigură funcții de prelucrare a datelor, respectiv:
+efectuare de operații aritmetice;
+efectuare de operații logice;
+efectuarea altor operații specifice, la nivel de bit asupra operanzilor.
+Întrucât efectuarea acestor operații se reprezintă considerând operanzii reprezentați în baza 2 (reprezentare binară), granița între tipurile de operații este greu de stabilit.
+Într-un sistem de calcul modern, granița fizică a unității aritmetice-logice este greu de precizat, funcțiile respective fiind regăsite în cadrul microprocesorului, care, începând cu calculatoarele de generația a IV-a, este un circuit integrat.

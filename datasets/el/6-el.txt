@@ -1,0 +1,12 @@
+Ο παρών κατάλογος αστέρων της Τρόπιδος παραθέτει τους σημαντικότερους αστέρες στον αστερισμό της Τρόπιδος κατά φθίνουσα φωτεινότητα (φαινόμενο μέγεθος), μαζί με τους προσδιορισμούς και κωδικοποιήσεις των αστρονομικών καταλόγων που διαθέτουν και τα βασικά χαρακτηριστικά τους.
+
+
+== Πηγές ==
+ESA (1997). «The Hipparcos and Tycho Catalogues». http://cdsarc.u-strasbg.fr/viz-bin/Cat?I/239. Ανακτήθηκε στις 2006-12-26. 
+Kostjuk, N. D. (2002). «HD-DM-GC-HR-HIP-Bayer-Flamsteed Cross Index». http://cdsarc.u-strasbg.fr/viz-bin/Cat?IV/27. Ανακτήθηκε στις 2006-12-26. 
+Roman, N. G. (1987). «Identification of a Constellation from a Position». http://cdsarc.u-strasbg.fr/viz-bin/Cat?VI/42. Ανακτήθηκε στις 2006-12-26. 
+«SIMBAD Astronomical Database». Centre de Données astronomiques de Strasbourg. http://simbad.u-strasbg.fr/simbad/. Ανακτήθηκε στις 2007-01-02. 
+Gould, B. A.. «Uranometria Argentina». Reprinted and updated by Pilcher, F. Αρχειοθετήθηκε από το πρωτότυπο στις 2012-02-27. https://web.archive.org/web/20120227032716/http://www.uranometriaargentina.com/. Ανακτήθηκε στις 2010-07-19. 
+Samus, N. N.; Durlevich, O. V. (2004). «Combined General Catalogue of Variable Stars (GCVS4.2)». http://cdsarc.u-strasbg.fr/viz-bin/Cat?II/250. Ανακτήθηκε στις 2012-04-08. 
+Samus, N. N.; Durlevich, O. V. (2012). «General Catalog of Variable Stars (GCVS database, version 2012Feb)». http://cdsarc.u-strasbg.fr/viz-bin/Cat?B/gcvs. Ανακτήθηκε στις 2012-04-08. 
+«AAVSO Website». American Association of Variable Star Observers. http://www.aavso.org. Ανακτήθηκε στις 9 Μαρτίου 2014.

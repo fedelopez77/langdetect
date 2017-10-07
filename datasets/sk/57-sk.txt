@@ -1,0 +1,47 @@
+Karbidová lampa je zdroj svetla založený na spaľovaní acetylénu vyrobeného hydratáciou karbidu vápenatého.
+
+
+== Rozdelenie ==
+Rozlišujú sa dva základné typy:
+prekvapkávacia: voda z nádobky postupne kvapká cez kvapadlo na karbid vápenatý. Jej nevýhodou je nerovnomerné vylučovanie acetylénu pri pohybovaní karbidovou lampou.
+tlaková: voda je tlačená pumpičkou cez ventil do nádoby s karbidom vápenatým, kde sa naraz uvoľní veľké množstvo acetylénu, ktoré sa postupne spaľuje v horáku. Nevýhodou je nutnosť v opakovaných intervaloch dopraviť (ručnou) pumpou potrebné množstvo vody do nádoby s karbidom vápenatým. Ak sa množstvo vody preženie, je lampa použiteľná ako zváračka a jej svietiaci účinok je minimálny, preto je potrebné s takouto karbidovou lampou narábať značne opatrne, aby nedošlo k ujme na zdraví.
+Každá karbidová lampa je časovo oneskorená. Takže je pri regulácii je potrebná rozvaha a trpezlivosť. Oneskorenie účinku pri vzostupnej regulácii (zvýšení prietoku prekvapkávača alebo zatrasením celou lampou v prípade prevapkávacej karbidky a napumpovaním vody v prípade tlakovej (pomáha aj potrasenie) sa zvýšenie svietivosti prejaví po 4 až 15 sekundách. Pri zostupnej regulácii je potrebné čakať aj niekoľko minút pri obidvoch typoch.
+Prekvapkávacie lampy sa jednoduchšie používajú, ale ich údržba je náročnejšia.
+
+
+== Konštrukcia karbidovej lampy ==
+
+
+=== Acetylénový vyvíjač ===
+Každá karbidová lampa obsahuje dve vodotesné, vzájomne oddelené nádoby uložené nad sebou. Vrchná nádoba slúži ako zásobník vody. V druhej nádobe je uskladnený karbid vápenatý. Spodná nádoba slúži aj ako „reaktor“.
+Od typu lampy potom závisí, ako sa dopravuje voda z vrchnej nádoby do spodnej.
+V prípade prekvapávacích lámp má vrchná nádoba odvetrávací ventil, pipetu ústiacu do spodnej nádoby a regulačnú ihlu.
+V prípade tlakovej lampy sa voda transportuje do nádoby s karbidom jednoduchou pumpičkou.
+
+
+=== Filter ===
+Vzniknutý acetylén sa odvádza z nádoby trúbkou s filtrom. Ako filtračný materiál sa používa penový polyester alebo polyamid (hubka na umývanie riadu).
+
+
+=== Horák ===
+Od druhu lampy závisí aj použitý horák. Staré banské karbidové lampy mali horák priamo na tele acetylénového vyvíjača. Dnešné karbidové lampy pre speleológiu majú samostatný horák, ktorý je možné upevniť na prilbu a acetylénový vyvíjač, ktorý je možné pripnúť karabínou na opasok alebo prsný úväz. Príčina, prečo došlo k takejto úprave, je jednoduchá. V prvom rade sa takýmto spôsobom uvoľnili obe ruky explorujúceho speleológa a v druhom rade hmotnosť karbidky (približne 1 kg) nedovoľuje umiestniť ju na prilbu ako celok. Toto riešenie nie je však najlepšie (zvýšila sa zožitosť, pribudla gumová pancierovaná hadica), ale zatiaľ nie je k dispozícii lepšie riešenie.
+Horáky sa líšia podľa výrobcov, ale všetky majú trysku z keramiky. Tvary a vyhotovenia sú rozmanité. Najjednoduhšie a najčastejšie používaný tvar trysky je s podlhovastým otvorom a plytkým zárezom v smere širšej strany dierky. Takýto tvar dáva plameňu charakteristický tvar do „V“. Pri ustálenom oxidačnom plameni poskytuje tento tvar najvyššiu účinnosť vzhľadom na produkované svetlo.
+
+
+== Použitie ==
+Karbidové lampy v minulosti nahradili málo účinné a niekedy až životu nebezpečné olejové lampy. V minulosti sa karbidové lampy používali v baníctve, razičstve (razenie tunelov) a ako svetelné zdroje všade tam, kde bolo potrebné osvetliť väčšie priestory alebo plochu. Okamžite po „objavení“ speleológie sa tieto lampy masívne rozšírili aj do tohto odvetvia ľudského bádania.
+Po zdokonalení elektrických zdrojov svetla sa karbidové lampy postupne vytrácali z domácností, kín, divadiel, aut atď. V druhej polovici 20-tého storočia ich nahradili batériové elektrické zdroje svetla (halogénové a kryptónové žiarovky a žiarivky) aj v baníctve a razičstve. Jedinou oblasťou, kde dodnes majú miesto, je speleológia. V speleológii sa používa ako hlavný svetelný zdroj pri explorovaní veľkých jaskýň.
+
+
+=== Bezpečnosť ===
+Pri použití karbidovej lampy je nutné mať aspoň dva nezávislé svetelné zdroje (väčšinou elektrické). Jeden zo zdrojov sa požíva súčasne s karbidovou lampou ako záloha v prípade vyhasnutia plameňa (dosť častý jav pri silnom prievane alebo zlej manipulácii). Karbidová lampa by sa nemala používať v tesných, nevetraných priestoroch, pretože spotrebováva veľa kyslíka a pri nízkom obsahu kyslíka a strednej teplote plameňa produkuje dokonca jedovatý oxid uhoľnatý.
+Pri práci na lane je používanie karbidovej lampy prísne zakázané, pretože môže dôjsť prepáleniu lana plameňom - je to otázka niekoľkých sekúnd.
+
+
+== Dostupnosť ==
+Na Slovensku je možné okrem starožitných karbidových lámp kúpiť aj profesionálne speleo-karbidky, teda oddelený vyvíjač plynu a horák. Horák je dostupný iba od firmy Petzl typ E18 ACETO. Vyvíjače plynu su na tom o čosi lepšie. Dostupné su dva typy: prekvapavací vyvíjač acetylénu od firmy Petzl typ E50 ARIANE a tlakový vyvíjač acetylénu ALUSTAR od slovenskej firmy MEANDER.
+
+
+== Iné projekty ==
+
+ Commons ponúka multimediálne súbory na tému Karbidová lampa

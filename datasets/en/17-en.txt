@@ -1,0 +1,44 @@
+The Massachusetts Bay Transportation Authority operates 177 bus routes (list of routes) in the Greater Boston area, many of which were formerly part of a large streetcar system. Some routes are for local transport within the city; others bring passengers from surrounding areas to stops on the MBTA Commuter Rail or subway lines. The MBTA has a policy objective to provide transit service within walking distance (defined as 0.25 miles (0.40 km)) for all residents living in areas with population densities greater than 5,000 inhabitants per square mile (1,900/km2) within the MBTA's service district. Much of this service is provided by bus.
+The MBTA operates a four-route bus rapid transit service branded as the Silver Line, as well as three crosstown routes that were intended to become the first part of the now-suspended Urban Ring project. Fifteen routes designed as key routes run with higher frequency at all times, including extended service hours on Friday and Saturday nights over some of these routes.
+Most MBTA Bus service is served by diesel, compressed natural gas, and diesel-electric hybrid buses. Silver Line routes running in the Waterfront Tunnel use dual-mode buses that operate as trolleybuses in the tunnel and as diesel-electric hybrid buses on the surface. Four routes based out of the Harvard Bus Tunnel run with trolleybuses in Cambridge, Massachusetts and several surrounding suburbs.
+All buses and routes are wheelchair-accessible (see MBTA accessibility); most of the MBTA's bus fleet consists of low-floor buses with wheelchair ramps, while older high-floor buses have lifts. All buses have LED exterior headsigns displaying route and destination, with automated audio/visual stop announcements for passengers.
+After taking over operations in August 1964 from the former Metropolitan Transit Authority, the MBTA began rebranding many elements of Boston's public transportation network. After being found unsuitable for what is now the Orange Line because it did not show up well on maps, yellow was chosen for the color of bus operations.
+
+
+== Fleet ==
+
+
+=== Active fleet ===
+This is the current bus roster for the MBTA as of October 2017. All buses are 102 inches (260 cm) wide; most buses are 40-foot (12 m) length, while 101 are 60-foot (18 m) articulated buses.
+
+
+=== Future ===
+In February 2015, the MBTA was awarded a $4.14 million FTA grant to purchase five 60-foot articulated battery electric buses from New Flyer. These buses will arrive in 2018.
+In April 2017, the MBTA exercised an option from a previous order of 60-foot hybrid buses for one additional bus with extended-range electric operation intended for Silver Line Waterfront use. If tested successfully, an additional option for up to 45 hybrid buses with extended-range electric operation would be exercised to replace the dual-mode AN460LF fleet. This bus will arrive in late 2017.
+Option orders for an additional 194 XDE40 hybrid buses and 200 XD40 diesel buses remain from the 2015-2017 New Flyer order.
+
+
+== Facilities ==
+
+MBTA buses are operated out of the facilities listed below.
+Notes:
+* = Route during evenings & weekends
+** = Route during Sundays
+*** = Route 72 will return to trolleybus operation out of North Cambridge in early 2018
+† = Route during evenings
+‡ = 1 trip only, runs daily, serves Lemuel Shattuck Hospital
+
+
+== Private buses ==
+
+Most local bus routes in Massachusetts outside the immediate MBTA operating area are operated by the state's other regional transit authorities (RTAs). However, some routes that connect with MBTA bus or subway service are operated by outside private contractors with partial subsidy by the MBTA. 
+Five routes – the 710, 712/713, 714, and 716 – are numbered like other MBTA buses; their operators accept MBTA passes on CharlieTickets, but do not have CharlieCard readers. The five routes are primarily commuter routes which connect with other MBTA services at their inbound terminals. They were taken over from various private operators (Hudson Bus Lines for the 710 and 716, Rapid Transit Inc. for the 712/713, and Nantasket Transportation for the 714).
+Five suburban municipalities contract with outside operators for local circulator routes, most with partial MBTA subsidy. Bedford, Beverly, and Dedham run single routes; Burlington runs five routes; and Lexington runs six. Most are run by private operators, except for the Beverly Shuttle, which is part of the Cape Ann Transportation Authority system. Additionally, a nonprofit shuttle is run in Boston's Mission Hill neighborhood. Those 15 routes appear on MBTA system maps and connect with MBTA services at designated transfer points, but are numbered separately and do not accept MBTA passes.
+
+
+== References ==
+
+
+== External links ==
+MBTA - Bus Schedules and Maps
+MBTA Bus Route Performance Indicators (2012)

@@ -1,0 +1,5 @@
+Jürgen Schmidhuber, född 17 januari 1963 i München, är en tysk datorforskare och konstnär, känd för sitt arbete inom maskininlärning, artificiell Intelligens (AI), artificiella neuronnät, "digital physics" och "low-complexity art". Hans bidrag inkluderar även generaliseringar av Kolmogorovkomplexiteten och "Speed prior". Mellan åren 2004 till 2009 var han professor i kognitiv robotik vid Münchens tekniska universitet. Sedan 1995 har han varit biträdande chef för den Schweiziska AI lab IDSIA i Lugano och sedan 2009 också professor i artificiell Intelligens vid University of Lugano.
+
+
+== Referenser ==
+Den här artikeln är helt eller delvis baserad på material från engelskspråkiga Wikipedia, Jürgen Schmidhuber, 31 juli 2016.

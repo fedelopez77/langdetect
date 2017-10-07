@@ -1,0 +1,1601 @@
+Die wichtigsten Verfahrensklassen für gewöhnliche Differentialgleichungen sind die Runge-Kutta-Verfahren, welche 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   interne Stufen in jedem Zeitschritt verwenden, und die Mehrschrittverfahren, welche auf eine bestimmte Anzahl früherer Lösungsapproximationen zurückgreifen, also mit zwei anscheinend vollkommen unterschiedlichen Strukturen. Zur Vereinheitlichung schlug John C. Butcher die Klasse der allgemeinen linearen Verfahren (engl. General Linear Methods = GLM) vor auch in der Erwartung, dass in der allgemeineren Struktur neue, bessere Verfahren zu finden sind. Außerdem müssen damit grundlegende Aussagen wie Konsistenz oder Stabilitätseigenschaften nur einmal formuliert werden.
+
+
+== Runge-Kutta- und Mehrschritt-Verfahren ==
+Beide Verfahrensklassen approximieren die Lösung 
+  
+    
+      
+        y
+        (
+        t
+        )
+        ∈
+        
+          
+            R
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle y(t)\in \mathbb {R} ^{d}}
+   des autonomen Anfangswertproblems 
+  
+    
+      
+        
+          y
+          ′
+        
+        (
+        t
+        )
+        =
+        f
+        
+          
+            (
+          
+        
+        y
+        (
+        t
+        )
+        
+          
+            )
+          
+        
+        ,
+         
+        y
+        (
+        
+          t
+          
+            0
+          
+        
+        )
+        =
+        
+          y
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle y'(t)=f{\big (}y(t){\big )},\ y(t_{0})=y_{0},}
+   in Zeitschritten und erzeugen Näherungen 
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+        ≈
+        y
+        (
+        
+          t
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle y_{n}\approx y(t_{n})}
+   an Stellen 
+  
+    
+      
+        
+          t
+          
+            n
+          
+        
+        =
+        
+          t
+          
+            n
+            −
+            1
+          
+        
+        +
+        h
+      
+    
+    {\displaystyle t_{n}=t_{n-1}+h}
+  . Zur Motivation werden die Verfahren in einer etwas anderen Form als im Artikel Runge-Kutta-Verfahren, aber äquivalent damit, geschrieben:
+
+  
+    
+      
+        
+          Y
+          
+            i
+          
+        
+        =
+        
+          y
+          
+            n
+            −
+            1
+          
+        
+        +
+        h
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            s
+          
+        
+        
+          a
+          
+            i
+            j
+          
+        
+        f
+        (
+        
+          Y
+          
+            j
+          
+        
+        )
+        ,
+        
+        i
+        =
+        1
+        ,
+        …
+        ,
+        s
+        ,
+      
+    
+    {\displaystyle Y_{i}=y_{n-1}+h\sum _{j=1}^{s}a_{ij}f(Y_{j}),\quad i=1,\ldots ,s,}
+  
+
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+        =
+        
+          y
+          
+            n
+            −
+            1
+          
+        
+        +
+        h
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            s
+          
+        
+        
+          b
+          
+            j
+          
+        
+        f
+        (
+        
+          Y
+          
+            j
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle y_{n}=y_{n-1}+h\sum _{j=1}^{s}b_{j}f(Y_{j}).}
+  
+Für ein allgemeines lineares 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  -Schritt-Verfahren mit 
+  
+    
+      
+        
+          α
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \alpha _{0}=1}
+   lautet die Vorschrift so:
+
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+        =
+        −
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            m
+          
+        
+        
+          α
+          
+            j
+          
+        
+        
+          y
+          
+            n
+            −
+            j
+          
+        
+        +
+        h
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            m
+          
+        
+        
+          β
+          
+            j
+          
+        
+        f
+        (
+        
+          y
+          
+            n
+            −
+            j
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle y_{n}=-\sum _{j=1}^{m}\alpha _{j}y_{n-j}+h\sum _{j=0}^{m}\beta _{j}f(y_{n-j}).}
+  
+Hier stammen nur die Werte 
+  
+    
+      
+        
+          y
+          
+            n
+            −
+            1
+          
+        
+        ,
+        f
+        (
+        
+          y
+          
+            n
+            −
+            1
+          
+        
+        )
+        ,
+        f
+        (
+        
+          y
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle y_{n-1},f(y_{n-1}),f(y_{n})}
+   aus dem aktuellen Zeitschritt, alle anderen aus früheren.
+
+
+== Struktur der allgemeinen linearen Verfahren ==
+Durch Zusammenfassung der älteren Informationen in einem Vektor 
+  
+    
+      
+        
+          y
+          
+            [
+            n
+            −
+            1
+            ]
+          
+        
+      
+    
+    {\displaystyle y^{[n-1]}}
+   mit 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   Alt-Informationen erhält man das allgemeine lineare Verfahren mit 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   internen Stufen 
+  
+    
+      
+        
+          Y
+          
+            j
+          
+        
+      
+    
+    {\displaystyle Y_{j}}
+  :
+
+  
+    
+      
+        
+          Y
+          
+            i
+          
+        
+        =
+        h
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            s
+          
+        
+        
+          a
+          
+            i
+            j
+          
+        
+        f
+        (
+        
+          Y
+          
+            j
+          
+        
+        )
+        +
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            r
+          
+        
+        
+          u
+          
+            i
+            j
+          
+        
+        
+          y
+          
+            j
+          
+          
+            [
+            n
+            −
+            1
+            ]
+          
+        
+        ,
+        
+        i
+        =
+        1
+        ,
+        …
+        ,
+        s
+        ,
+      
+    
+    {\displaystyle Y_{i}=h\sum _{j=1}^{s}a_{ij}f(Y_{j})+\sum _{j=1}^{r}u_{ij}y_{j}^{[n-1]},\quad i=1,\ldots ,s,}
+  
+
+  
+    
+      
+        
+          y
+          
+            i
+          
+          
+            [
+            n
+            ]
+          
+        
+        =
+        h
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            s
+          
+        
+        
+          b
+          
+            i
+            j
+          
+        
+        f
+        (
+        
+          Y
+          
+            j
+          
+        
+        )
+        +
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            r
+          
+        
+        
+          v
+          
+            i
+            j
+          
+        
+        
+          y
+          
+            j
+          
+          
+            [
+            n
+            −
+            1
+            ]
+          
+        
+        ,
+        
+        i
+        =
+        1
+        ,
+        …
+        ,
+        r
+        .
+      
+    
+    {\displaystyle y_{i}^{[n]}=h\sum _{j=1}^{s}b_{ij}f(Y_{j})+\sum _{j=1}^{r}v_{ij}y_{j}^{[n-1]},\quad i=1,\ldots ,r.}
+  
+Im Rahmen dieser Verfahrensstruktur wird das Verfahren vollständig durch seine Koeffizienten beschrieben, welche man in Matrizen 
+  
+    
+      
+        A
+        =
+        (
+        
+          a
+          
+            i
+            j
+          
+        
+        )
+        ∈
+        
+          
+            R
+          
+          
+            s
+            ×
+            s
+          
+        
+        ,
+         
+        B
+        =
+        (
+        
+          b
+          
+            i
+            j
+          
+        
+        )
+        ∈
+        
+          
+            R
+          
+          
+            r
+            ×
+            s
+          
+        
+        ,
+         
+        U
+        =
+        (
+        
+          u
+          
+            i
+            j
+          
+        
+        )
+        ∈
+        
+          
+            R
+          
+          
+            s
+            ×
+            r
+          
+        
+        ,
+         
+        V
+        =
+        (
+        
+          v
+          
+            i
+            j
+          
+        
+        )
+        ∈
+        
+          
+            R
+          
+          
+            r
+            ×
+            r
+          
+        
+      
+    
+    {\displaystyle A=(a_{ij})\in \mathbb {R} ^{s\times s},\ B=(b_{ij})\in \mathbb {R} ^{r\times s},\ U=(u_{ij})\in \mathbb {R} ^{s\times r},\ V=(v_{ij})\in \mathbb {R} ^{r\times r}}
+   zusammenfassen kann. Daher ist das Verfahren wieder in kompakter Form festgelegt durch sein Butcher-Tableau
+
+  
+    
+      
+        
+          [
+          
+            
+              
+                
+                  A
+                
+                
+                  U
+                
+              
+              
+                
+                  B
+                
+                
+                  V
+                
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle \left[{\begin{array}{c|c}A&U\\\hline B&V\end{array}}\right].}
+  
+Zur Stabilität dieser Verfahren kann man ihre Stabilitätsfunktion betrachten.
+
+
+=== Runge-Kutta-Verfahren als allgemeine lineare Verfahren ===
+Dass die klassischen Verfahren in diesen Rahmen passen, sieht man bei Runge-Kutta-Verfahren einfach. Hier ist 
+  
+    
+      
+        r
+        =
+        1
+      
+    
+    {\displaystyle r=1}
+  , die Matrix 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   entspricht dem Einsvektor 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   bestehend aus lauter Einsen und das Butcher-Tableau des Runge-Kutta-Verfahrens ist
+
+  
+    
+      
+        
+          [
+          
+            
+              
+                
+                  A
+                
+                
+                  U
+                
+              
+              
+                
+                  B
+                
+                
+                  V
+                
+              
+            
+          
+          ]
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  A
+                
+                
+                  e
+                
+              
+              
+                
+                  
+                    b
+                    
+                      T
+                    
+                  
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle \left[{\begin{array}{c|c}A&U\\\hline B&V\end{array}}\right]=\left[{\begin{array}{c|c}A&e\\\hline b^{T}&1\end{array}}\right].}
+  
+
+
+=== Mehrschrittverfahren als allgemeine lineare Verfahren ===
+Eine günstige Schreibweise bei Mehrschrittverfahren hängt davon ab, wie viele der Koeffizienten 
+  
+    
+      
+        
+          α
+          
+            j
+          
+        
+        ,
+        
+          β
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \alpha _{j},\beta _{j}}
+   wirklich von Null verschieden sind. Bei den einfach aufgebauten impliziten BDF-Verfahren ist nur 
+  
+    
+      
+        
+          β
+          
+            0
+          
+        
+        ≠
+        0
+      
+    
+    {\displaystyle \beta _{0}\not =0}
+  , die Vorschrift ist 
+  
+    
+      
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            m
+          
+        
+        
+          α
+          
+            j
+          
+        
+        
+          y
+          
+            n
+            −
+            1
+          
+        
+        =
+        h
+        
+          β
+          
+            0
+          
+        
+        f
+        (
+        
+          y
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle \sum _{j=0}^{m}\alpha _{j}y_{n-1}=h\beta _{0}f(y_{n})}
+  , etwa mit 
+  
+    
+      
+        
+          α
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \alpha _{0}=1}
+  . Hier setzt man 
+  
+    
+      
+        s
+        =
+        1
+      
+    
+    {\displaystyle s=1}
+   und 
+  
+    
+      
+        r
+        =
+        m
+      
+    
+    {\displaystyle r=m}
+   und definiert 
+  
+    
+      
+        
+          y
+          
+            [
+            n
+            −
+            1
+            ]
+          
+        
+        =
+        (
+        
+          y
+          
+            n
+            −
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            n
+            −
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle y^{[n-1]}=(y_{n-1},\ldots ,y_{n-m})}
+  . Die neue Näherung 
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+      
+    
+    {\displaystyle y_{n}}
+   muss sowohl als 
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+        =
+        
+          Y
+          
+            1
+          
+        
+      
+    
+    {\displaystyle y_{n}=Y_{1}}
+   als auch als 
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+        =
+        
+          y
+          
+            1
+          
+          
+            [
+            n
+            ]
+          
+        
+      
+    
+    {\displaystyle y_{n}=y_{1}^{[n]}}
+   eingeführt werden. Daher sind auch die beiden ersten Zeilen im Tableau des BDF-Verfahrens gleich:
+
+  
+    
+      
+        
+          [
+          
+            
+              
+                
+                  A
+                
+                
+                  U
+                
+              
+              
+                
+                  B
+                
+                
+                  V
+                
+              
+            
+          
+          ]
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  
+                    β
+                    
+                      0
+                    
+                  
+                
+                
+                  −
+                  
+                    α
+                    
+                      1
+                    
+                  
+                
+                
+                  …
+                
+                
+                  −
+                  
+                    α
+                    
+                      m
+                      −
+                      1
+                    
+                  
+                
+                
+                  −
+                  
+                    α
+                    
+                      m
+                    
+                  
+                
+              
+              
+                
+                  
+                    β
+                    
+                      0
+                    
+                  
+                
+                
+                  −
+                  
+                    α
+                    
+                      1
+                    
+                  
+                
+                
+                  …
+                
+                
+                  −
+                  
+                    α
+                    
+                      m
+                      −
+                      1
+                    
+                  
+                
+                
+                  −
+                  
+                    α
+                    
+                      m
+                    
+                  
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+                
+                  …
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  ⋮
+                
+                
+                
+                  ⋱
+                
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  0
+                
+                
+                
+                
+                  1
+                
+                
+                  0
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \left[{\begin{array}{c|c}A&U\\\hline B&V\end{array}}\right]=\left[{\begin{array}{c|cccc}\beta _{0}&-\alpha _{1}&\ldots &-\alpha _{m-1}&-\alpha _{m}\\\hline \beta _{0}&-\alpha _{1}&\ldots &-\alpha _{m-1}&-\alpha _{m}\\0&1&\ldots &0&0\\\vdots &&\ddots &&\vdots \\0&&&1&0\end{array}}\right]}
+  
+Der untere Teil des Matrixblocks 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   entspricht der Verschiebung der Altwerte im Vektor 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  . Daher hat diese Matrix 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   die Form einer Begleitmatrix (bzw. ihre Transponierte).
+Bei Adams-Bashforth-Verfahren ist dagegen nur 
+  
+    
+      
+        
+          α
+          
+            1
+          
+        
+        ≠
+        0
+      
+    
+    {\displaystyle \alpha _{1}\not =0}
+   (nämlich -1). Hier wählt man 
+  
+    
+      
+        s
+        =
+        1
+      
+    
+    {\displaystyle s=1}
+   und 
+  
+    
+      
+        r
+        =
+        m
+        +
+        1
+      
+    
+    {\displaystyle r=m+1}
+  , sowie 
+  
+    
+      
+        
+          y
+          
+            [
+            n
+            −
+            1
+            ]
+          
+        
+        =
+        
+          
+            (
+          
+        
+        
+          y
+          
+            n
+            −
+            1
+          
+        
+        ,
+        h
+        f
+        (
+        
+          y
+          
+            n
+            −
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        h
+        f
+        (
+        
+          y
+          
+            n
+            −
+            m
+          
+        
+        )
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle y^{[n-1]}={\big (}y_{n-1},hf(y_{n-1}),\ldots ,hf(y_{n-m}){\big )}}
+  . Das Tableau ist hier
+
+  
+    
+      
+        
+          [
+          
+            
+              
+                
+                  A
+                
+                
+                  U
+                
+              
+              
+                
+                  B
+                
+                
+                  V
+                
+              
+            
+          
+          ]
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+                
+                  
+                    β
+                    
+                      1
+                    
+                  
+                
+                
+                  …
+                
+                
+                  
+                    β
+                    
+                      m
+                      −
+                      1
+                    
+                  
+                
+                
+                  
+                    β
+                    
+                      m
+                    
+                  
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+                
+                  
+                    β
+                    
+                      1
+                    
+                  
+                
+                
+                  …
+                
+                
+                  
+                    β
+                    
+                      m
+                      −
+                      1
+                    
+                  
+                
+                
+                  
+                    β
+                    
+                      m
+                    
+                  
+                
+              
+              
+                
+                  1
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  …
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  1
+                
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  ⋮
+                
+                
+                
+                
+                  ⋱
+                
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  0
+                
+                
+                
+                
+                
+                  1
+                
+                
+                  0
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \left[{\begin{array}{c|c}A&U\\\hline B&V\end{array}}\right]=\left[{\begin{array}{c|cccccc}0&1&\beta _{1}&\ldots &\beta _{m-1}&\beta _{m}\\\hline 0&1&\beta _{1}&\ldots &\beta _{m-1}&\beta _{m}\\1&0&0&\ldots &0&0\\0&0&1&&0&0\\\vdots &&&\ddots &&\vdots \\0&&&&1&0\end{array}}\right]}
+  
+Mit der dritten Zeile des Tableaus wird der neue Funktionswert 
+  
+    
+      
+        
+          y
+          
+            2
+          
+          
+            [
+            n
+            ]
+          
+        
+        =
+        f
+        (
+        
+          y
+          
+            1
+          
+          
+            [
+            n
+            ]
+          
+        
+        )
+        =
+        f
+        (
+        
+          Y
+          
+            1
+          
+        
+        )
+        =
+        f
+        (
+        
+          y
+          
+            n
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle y_{2}^{[n]}=f(y_{1}^{[n]})=f(Y_{1})=f(y_{n}))}
+   berechnet. An dieser Mehrfachdarstellung sieht man, dass diese Formulierung nicht unbedingt für eine effiziente Implementierung geeignet ist, sondern vor allem der einheitlichen Beschreibung theoretischer Aussagen dient.
+Bei allgemeinen linearen Mehrschrittverfahren muss man aber dann bis zu 
+  
+    
+      
+        r
+        =
+        2
+        m
+      
+    
+    {\displaystyle r=2m}
+   Altwerte mitführen.
+
+
+== Literatur ==
+J.C. Butcher: Numerical methods for ordinary differential equations, John Wiley & Sons, 2. Aufl., 2008.
+E. Hairer, G. Wanner: Solving Ordinary Differential Equations II, Stiff problems, Springer Verlag
+Z. Jaciewicz: General linear methods for ordinary differential equations, John Wiley & Sons, 2009.
+K. Strehmel, R. Weiner, H. Podhaisky: Numerik gewöhnlicher Differentialgleichungen - Nichtsteife, steife und differential-algebraische Gleichungen, Springer Spektrum, 2012.

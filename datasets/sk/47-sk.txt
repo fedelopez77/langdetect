@@ -1,0 +1,51 @@
+The Entertainment Software Rating Board (ESRB) je organizácia, ktorá udeluje ratingy počítačovým a podobným hrám v USA a Kanade.
+
+
+== Ratingy ==
+Zoznam používaných ratingov:
+EC — Early Childhood
+E — Everyone
+E10+ — Everyone 10+
+T — Teen
+M — Mature
+AO — Adults Only
+Rating Pending
+
+Alcohol Reference
+Animated Blood
+Blood
+Blood and Gore
+Cartoon Violence
+Comic Mischief
+Crude Humor
+Drug Reference
+Edutainment
+Fantasy Violence
+Informational
+Intense Violence
+Language
+Lyrics
+Mature Humor
+Mild Violence
+Nudity
+Partial Nudity
+Real Gambling
+Sexual Themes
+Sexual Violence
+Simulated Gambling
+Some Adult Assistance May Be Needed
+Strong Language
+Strong Lyrics
+Strong Sexual Content
+Suggestive Themes
+Tobacco Reference
+Use of Drugs
+Use of Alcohol
+Use of Tobacco
+Violence
+
+
+== Externé odkazy ==
+Oficiálne stránky - ESRB.org
+The ESRB Game Ratings & Descriptor Guide
+The IEMA website

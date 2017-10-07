@@ -1,0 +1,90 @@
+Maxwells-Boltzmanns fordelingslov er en sannsynlighetsfordeling som brukes innen fysikk og kjemi. Den vanligste bruken er innen statistisk mekanikk. Et massivt fysisk systems temperatur er resultatet av bevegelser hos de molekyler og atomer, som utgjør systemet. Disse partiklene har en rekke ulike hastigheter og en enkelt partikkels hastighet endres fortløpende, som et resultat av kollisjoner med andre partikler. Brøkdelen av et stort antall partikler i en gitt hastighet er imidlertid nesten konstant. Maxwellfordelingen av hastigheter spesifiserer denne fraksjonen for vilkårlig hastighetsområde, som en funksjon av systemets temperatur. Den har fått sitt navn etter James Clerk Maxwell og Ludwig Boltzmann.
+Fordelingen kan brukes på bevegelsesmengdemomentet, energien, hastighetsvektoren eller på hastigheter av for eksempel molekylene i en ideell gass. Farten for partikler med masse m ved en viss temperatur T beskrives som:
+
+  
+    
+      
+        f
+        (
+        v
+        )
+        =
+        4
+        π
+         
+        
+          
+            (
+            
+              
+                m
+                
+                  2
+                  π
+                  
+                    k
+                    
+                      B
+                    
+                  
+                  T
+                
+              
+            
+            )
+          
+          
+            
+              3
+              2
+            
+          
+        
+         
+        
+          v
+          
+            2
+          
+        
+         
+        exp
+        ⁡
+        
+          (
+          −
+          
+            
+              
+                m
+                
+                  v
+                  
+                    2
+                  
+                
+              
+              
+                2
+                
+                  k
+                  
+                    B
+                  
+                
+                T
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle f(v)=4\pi \ \left({\frac {m}{2\pi k_{B}T}}\right)^{\frac {3}{2}}\ v^{2}\ \exp \left(-{\frac {mv^{2}}{2k_{B}T}}\right).}
+  
+Her er kB Boltzmanns konstant. Formelen beskriver hastighetsfordelingen i et system, der den hovedsakelige fundamentalkraften mellom ulike partikler skjer gjennom elastiske støt. Det eksponensielle begrepet er Boltsmannfaktoren for sannsynligheten for å finne en partikkel med kinetisk energi E = ½mv ². Faktoren v ² før den eksponensielle faktoren avhenger av antallet tilstander i et skall i energirommet med hastigheter rundt v (overflaten av en kule ganger sin tykkelse er 4πv ²dv). Resten er fordelingens normaliseringsfaktor.
+
+
+== Se også ==
+Kinetisk teori

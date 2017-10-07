@@ -1,0 +1,64 @@
+La banconota (detta anche cartamoneta o moneta cartacea) è uno strumento di pagamento rappresentato da un biglietto cartaceo stampato, privo di valore intrinseco diretto.
+La banconota strettamente detta, rappresenta oggi la parte cartacea della moneta legale emessa da una banca centrale. Si presenta in genere sotto forma di biglietto composto da fibre di cotone, lino e canapa (che la rendono più resistente della carta), oppure sotto forma di polimero plastico (adottato ad esempio nelle banconote emesse in Canada e in Australia).
+Per comprendere meglio come essa possa costituire un mezzo di scambio è opportuno fare delle distinzioni tra:
+moneta cartacea rappresentativa, il cui valore dipende dal fatto che essa costituisce un titolo rappresentativo di un corrispondente deposito bancario in metallo prezioso;
+moneta cartacea fiduciaria, il cui valore dipende dal fatto che una banca garantisce la convertibilità in metallo prezioso, nonostante abbia emesso una quantità di moneta cartacea superiore rispetto alle sue effettive capacità di copertura (facendo affidamento sull'utilizzo diretto della moneta cartacea come circolante, che dipende dalla fiducia dei depositanti - e di chi riceve moneta cartacea in pagamento - relativamente alla capacità della banca stessa di far fronte a eventuali richieste di conversione in metallo prezioso);
+moneta cartacea convenzionale, il cui valore è totalmente svincolato dalla presenza di metalli preziosi a copertura, ed è garantito fondamentalmente dal fatto di essere riconosciuta come moneta a corso legale in un determinato stato (nei sistemi monetari attuali, totalmente svincolati dai metalli preziosi, la banconota appartiene a tale categoria).
+
+
+== Banconota e biglietto di stato ==
+In senso lato viene impropriamente chiamata banconota anche il biglietto di stato. Giuridicamente non è una banconota, non reca la dicitura della banca, ma dello stato emittente. Si tratta dunque di valuta emessa direttamente dallo stato, che gode del signoraggio al pari delle monete. Ad esempio nel 1966-1985 l'Italia sostituì, per gli alti costi dell'argento, le 500 lire metalliche con un biglietto di stato di pari valore. A differenza delle banconote, recava la scritta "REPVBBLICA ITALIANA - Biglietto di Stato", anziché " BANCA D'ITALIA-pagabili a vista al portatore". Anche la stampa era gestita dal Poligrafico dello Stato e non dalla Banca d'Italia.
+
+
+== Storia ==
+
+
+=== L'origine ===
+
+Il termine deriva dall'espressione nota di banco, e risale al XIV secolo; in origine essa riconosceva il diritto del possessore della nota di ritirare il metallo prezioso (solitamente oro o argento) depositato presso un banchiere (si trattava cioè di moneta cartacea rappresentativa).
+Il primo a introdurre l'uso di banconote di carta fu l'Imperatore cinese Hien Tsung nell'806 d.C.
+Chi possedeva metallo prezioso aveva interesse a depositarlo presso operatori specializzati nella sua conservazione e protezione dai ladri. Inoltre aveva interesse a rivolgersi ai banchieri per trasferire i metalli preziosi senza doversi sobbarcare il costoso e rischioso trasporto. Bastava trasferire il documento e incassare il metallo presso un secondo orafo-banchiere, collegato al primo da legami di affari.
+Tali documenti, già impiegati in Cina ai tempi di Marco Polo, erano più facili da trasportare del metallo prezioso e inoltre potevano essere emessi anche per valori nominali superiori al valore del metallo prezioso custodito dai banchieri.
+Ciò era possibile perché le esigenze di cassa dei banchieri consentivano loro di tenere sotto forma di riserva solo una parte del metallo prezioso depositato, usando la restante parte per concedere prestiti o effettuare pagamenti per conto di terzi; inoltre le effettive richieste di conversione delle riserve metalliche depositate divennero sempre minori, dato che la fiducia degli operatori aveva determinato l'affermazione delle banconote stesse come circolante; infine l'emissione di moneta sotto forma di banconote, costituendo una forma di credito, aveva effetti espansivi sull'economia (oltre che sui profitti dei banchieri), che pertanto era beneficiata dalla scelta di detenere solo una parte del metallo prezioso sotto forma di riserve.
+
+
+=== Nell'era contemporanea ===
+Dopo l'esperienza degli assegnati, furono i funzionari francesi di Napoleone a imporre in tutta Europa l'uso di carta moneta. Nel XIX secolo però, la moneta cartacea poteva ancora essere sentita come un sostituto della vera moneta metallica, essendo sempre possibile la riconversione in oro. Si arrivò, nei momenti di crisi, a stabilire il corso forzoso, cioè la sospensione ex lege della convertibilità.
+In Europa poi, nel periodo di relativo benessere dell'inizio del XX secolo, si assistette addirittura ad una situazione in cui il corso delle banconote faceva aggio sull'oro: nella libera fluttuazione tra moneta cartacea fiduciaria e moneta aurea, ci furono momenti in cui i cittadini preferivano la comodità della cartamoneta rispetto alla poca praticità della moneta metallica.
+Lo scoppio della Prima guerra mondiale portò ben presto alla svalutazione della moneta cartacea, addirittura rovinosa per il marco tedesco: il finanziamento delle spese belliche era avvenuto infatti attraverso l'emissione di moneta cartacea.
+La libera convertibilità rimase una prerogativa degli Stati Uniti d'America, che anche per questo divennero il centro dell'economia monetaria mondiale fino alla grande depressione del 1929, per affrontare la quale il presidente Roosevelt effettuò una svalutazione a freddo, accompagnata da altre drastiche misure.
+Con questi provvedimenti Roosevelt stabilì che le monete d'oro non avevano più corso legale negli Stati Uniti, e la gente dovette convertire le proprie monete d'oro in altre forme di valuta; questa legge portò gli Stati Uniti fuori dal cosiddetto gold standard, e inoltre implicò anche la fine della regola per cui la valuta cartacea degli Stati Uniti poteva essere scambiata con oro in tutte le banche della nazione. La centralità dell'oro venne comunque ribadita nel sistema di Bretton Woods.
+Il passaggio alla moneta cartacea avvenne a partire dal 1971, quando gli Stati Uniti dichiararono la fine di ogni rapporto di conversione tra banconote e oro (passando definitivamente alla moneta cartacea convenzionale). Ciononostante su alcune banconote è rimasta per lungo tempo una scritta che ricordava l'antico diritto del portatore di ricevere metallo prezioso presentando la banconota posseduta.
+Nell'era contemporanea la moneta cartacea ha subito un'altra modifica, essa viene sempre più sostituita dalla moneta elettronica, costituita da carte di credito normalmente in plastica e da una banda magnetica (emesse da società finanziarie, banche o istituti di credito dell'e-payment o del credito al consumo all'uopo autorizzate), che consente la memorizzazione di dati sia dell'utente (titolare intestatario della carta) che di eventuali altri dati (quali: codice PIN serie numerica di cifre diverse o uguali, alfabetica insieme di vocali e/o consonanti, oppure alfanumerica composta da numeri e lettere, onde reprimere frodi), oppure altri dati riferiti a operazioni e transazioni effettuate tra le società emittenti la carta e l'utente.
+
+
+== L'uso ==
+Il valore delle banconote (come in generale della moneta) non dipende soltanto dalle disposizioni di legge, ma anche dall'effettiva accettazione della moneta da parte di chi la usa.
+Qualora non vigesse il corso legale, chi deve riceverla potrebbe sempre decidere di non accettarla nel caso in cui pensasse di non poterla usare come mezzo di pagamento.
+Anche in presenza di un regime di corso legale però la fiducia nella moneta è determinante nello stabilire il suo potere d'acquisto, e ogni calo nella fiducia può determinare fenomeni d'inflazione, che a loro volta possono aggravare la sfiducia stessa, innescando così un processo moltiplicativo, noto come iperinflazione.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Banconote di polimeri
+Denaro
+Falsario
+Lampada di Wood
+Moneta
+Signoraggio
+Verifica banconote
+Distruzione di denaro
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «banconota»
+ Wikimedia Commons contiene immagini o altri file su banconota
+
+
+== Collegamenti esterni ==
+Banconote del mondo, banknoteworld.it.
+Banconota, in Thesaurus del Nuovo soggettario, BNCF, marzo 2013. 
+Banknote Museum, banknote.ws.

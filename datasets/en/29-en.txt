@@ -1,0 +1,13 @@
+Poly(acrylic acid) (PAA or Carbomer) is generic name for synthetic high molecular weight polymers of acrylic acid. They may be homopolymers of acrylic acid, crosslinked with an allyl ether pentaerythritol, allyl ether of sucrose or allyl ether of propylene. In a water solution at neutral pH, PAA is an anionic polymer, i.e. many of the side chains of PAA will lose their protons and acquire a negative charge. This makes PAAs polyelectrolytes, with the ability to absorb and retain water and swell to many times their original volume. Dry PAAs are found in the market as white and fluffy powders. Carbomer codes (910, 934, 940, 941 and 934P) are an indication of molecular weight and the specific components of the polymer. For many applications PAAs are used in form of alkali metal or ammonium salts, e.g. sodium polyacrylate.
+Polyacrylic acid is a weak anionic polyelectrolyte, whose degree of ionisation is dependent on solution pH. In its non-ionised form at low pHs, PAA may associate with various non-ionic polymers (such as polyethylene oxide, poly-N-vinyl pyrrolidone, polyacrylamide and some cellulose ethers) and form hydrogen-bonded interpolymer complexes. In aqueous solutions PAA can also form polycomplexes with oppositely charged polymers (for example, chitosan), surfactants and drug molecules (for example, streptomycin).
+
+
+== Applications ==
+Polyacrylic acid and its derivatives are used in disposable diapers, ion exchange resins and adhesives. They are also popular as thickening, dispersing, suspending and emulsifying agents in pharmaceuticals, cosmetics and paints. PAA may inactivate the antiseptic chlorhexidine gluconate. The neutralized polyacrylic acid gels are suitable to obtain biocompatible matrices for medical applications such as gels for skin care or skin disease treatment products. For the development of polymeric matrices which allows controlled delivery rate of active substances, the recent investigations aimed towards the clarification of the conformational changes of the polymeric gel during neutralization, light irradiation and embedment of gold nanoparticles.
+
+
+== See also ==
+Sodium polyacrylate
+
+
+== References ==

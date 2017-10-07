@@ -1,0 +1,31 @@
+Ontelokranaatti on suunnattuun räjähdysvaikutukseen perustuva ammus. Se on kehitetty erityisesti panssarin läpäisemiseen ja edelleen panssarivaunujen tuhoamiseen. Ammus tai taistelukärki, jossa käytetään onteloperiaatetta, voidaan ampua alhaisella nopeudella läpäisyn ollessa tehokas. Ase, ohjus tms. voi näin olla kevyt ja suhteellisen pienikokoinen.
+Ontelopanoksia käytettiin tiettävästi ensi kertaa keväällä 1940 belgialaisia vastaan. Saksalaiset erikoisjoukot räjäyttivät belgialaisen Eben-Emaelin linnoituksen teräksisiä suojakupuja kannettavilla ontelopanoksilla.
+
+
+== Rakenne ja periaate ==
+Ontelokranaatti koostuu metallisesta kartiosta tai paraboloidista, jota ympäröi räjähdysaine. Suunnattu räjähdysvaikutus muodostaa metallista suurinopeuksisen suihkun, jossa on kaasumaista ja sulaa metallia. Suihkun energia syntyy räjähdysaineen detonaatiorintamien yhdistyessä kartion keskiviivalla luoden suuren impulssimomentin. Suihkun paine on miljoonia kp/cm².
+Suihku jaetaan kolmeen osaan. Kaasumaisen kärkisuihkun nopeus voi olla jopa 20 000 m/s. Kevyenä sen teho on heikko. Nestemäisen keskisuihkun nopeus on 2 000–7 000 m/s ollen varsinainen läpäisyn tekevä osa. Jälkisuihku on nopeudeltaan satoja metrejä sekunnissa. Jälkisuihkun vaikutus on vähäinen hitaan nopeuden vuoksi. Jälkisuihkun hidas metalli voi jäädä kiinni syntyneeseen aukkoon muodostaen piikin tai tulpan.
+Suihkulla ei ole muuta energiaa kuin liike-energia, siksi suihkumetallin tiheydellä ja sitkeydellä on suuri merkitys. Kartion metallina voidaan käyttää terästä, alumiinia, tantaalia, kultaa, kuparia, volframia tai köyhdytettyä uraania (DU).
+Ontelokranaatin vakavointi suurinopeuksisella pyörivällä liikkeellä, kuten rihlatusta tykistä ammuttaessa, synnyttää keskipakovoiman, joka hajottaa suihkua heikentäen vaikutusta. Nykyaikaisissa panssarivaunuissa käytetään sileäputkisia tykkejä ja ammukset ovat pyrstövakavoituja. Ontelokranaatin ampumiseksi rihlatusta tykistä on myös kehitetty ratkaisu, jossa räjähde erotetaan muusta ammuksesta laakeroimalla, jolloin se pyörii vain hitaasti tai ei lainkaan. Tällainen on ranskalainen Obus G -kranaatti, jota käytettiin AMX-30-vaunun 105 mm Modèle F1 -tykissä.
+
+
+== Taistelukäyttö ja vastatoimet ==
+Taistelutoiminnassa ontelokranaatilla pyritään puhkaisemaan esimerkiksi kohteena olevan ajoneuvon panssarointi. Syntyneestä reiästä suihkuaa sisätiloihin suurella paineella sirpaleita ja sulaa metallia, jotka aiheuttavat vammoja miehistölle. Osuma ammusvarastoon tai polttoainesäiliöön tuhoaa yleensä kohteen. Koska suihku on varsin kapea, se voi myös läpäistä panssarivaunun aiheuttamatta suurempia vaurioita.
+Ontelopanoksia ja nuoliammuksia vastaan panssarivaunut voidaan suojata eri tavoin, yleisimmin reaktiivipanssarilla, aktiivipanssarilla tai muuta aktiivista suojausta käyttäen. Peruspanssarin kasvattaminen johtaa liian suureen vaunun painoon. Reaktiivipanssari on metalli- tai komposiittilaatikko, jonka sisältämä flegmatisoitu räjähdysaine syttyy ontelopanosiskusta lähettäen suihkua vastaan metalli- tai komposiittilevyjä. Nämä sotkevat suihkun etenemistä ja kuluttavat sen läpäisykykyä merkittävästi. Panssarointia voidaan käyttää vain varsinaisissa panssarivaunuissa, joiden peruspanssari on riittävä jälkiläpäisyä ajatellen. Se muodostaa vaaratekijän vaunun ympärillä olevalle miehistölle. Nykyisin esimerkiksi RPG-7-ontelokranaatti voidaan varustaa kaksoiskärjellä (PG-7VR) jonka ensimmäinen kärki tuhoaa reaktiivipanssarin ja seuraava kärki läpäisee panssarin.
+Ontelopanos on lentovaiheessaan verrattain helppo torjua nykytekniikalla esimerkiksi lähettämällä sitä vastaan erilaisia heitteitä, kuten esimerkiksi venäläinen Arena. Järjestelmä edellyttää nopeita tutkia ja kehittynyttä muuta elektroniikkaa. Ontelopanoksen teho riippuu voimakkaasti sytytysetäisyydestä. Tätä ominaisuutta voidaan hyödyntää torjunnassa monin tavoin, kuten esimerkiksi ruotsalainen Stridsvagn 103, jonka etuosaan, ennen panssarointia, on sijoitettu terästangoista rakennettu ”aitapuskuri”.
+
+
+== Muita sovellusalueita ==
+Suomen puolustusvoimat käyttävät ontelokranaatista sovellettua routapanosta avustamaan muun muassa poteron kaivamista talvella. Tällöin suunnattu räjähdysvaikutus ohjataan maata kohti, jolloin kuuma kuparisuihku tekee maahan syvyydeltään vähintään 40 cm kokoisen kuopan. Tämän jälkeen aukkoon asetetaan TNT-panos, joka kuopassa räjähtäessään rikkoo tehokkaasti roudan sen ympäriltä helpottaen kaivamista huomattavasti. Räjähdysaineena routapanoksissa käytetään usein aniittia. Pohjamiina ja kylkimiina toimivat eri periaatteella, niissä ei synnytetä kärkisuihkua, vaan kärkikartiosta muodostetaan ”ammus”, minkä nopeus on noin 2 000 m/s. Tästä a-tarvikkeesta käytetään myös nimitystä räjäyttämällä muovattava ammus.
+
+
+== Lähteet ==
+Bauer, Eddy: Toinen maailmansota 1. WSOY, 1973. ISBN 951-005841-8 (koko sarja 6.osaa. )
+Yleinen aseoppi 1970 Oy Länsi-Savo Offset, Mikkeli
+
+
+=== Viitteet ===
+
+
+== Aiheesta muualla ==
+Saksalaiset onteloammukset toisessa maailmansodassa. Militarian Maailma nro. 2. Pohjois-Kymenlaakson asehistoriallisen yhdistyksen jäsenlehti.

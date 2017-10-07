@@ -1,0 +1,38 @@
+Eduard Ott-Heinrich Keller (* 22. Juni 1906 in Frankfurt am Main; † 5. Dezember 1990 in Halle an der Saale) war ein deutscher Mathematiker, der sich mit Geometrie, Topologie und algebraischer Geometrie beschäftigte.
+
+
+== Leben und Werk ==
+Keller studierte an den Universitäten Wien, Berlin, Göttingen und Frankfurt. In Frankfurt wurde er Mitglied des Corps Austria. 1931 promovierte er in Frankfurt bei Max Dehn (Über die lückenlose Erfüllung des Raumes mit Würfeln). Danach war er Assistent in Frankfurt und ab 1931 an der TH Berlin bei Georg Hamel, wo er sich 1933 habilitierte und 1941 außerplanmäßiger Professor wurde. Im Zweiten Weltkrieg lehrte er Mathematik und Mechanik an der Marineschule Mürwik in Flensburg-Mürwik. 1946 war er Professor in Münster und ab 1947 ordentlicher Professor an der TH Dresden. Ab 1952 war er als Nachfolger von Heinrich Wilhelm Ewald Jung Professor an der Universität Halle, wo er 1971 emeritierte.
+Keller beschäftigte sich unter anderem mit Geometrie. In seiner Dissertation stellte er die Kellersche Vermutung über das Ausfüllen des d-dimensionalen Raums mit d-dimensionalen Würfeln gleicher Größe auf, die er 1937 für Dimensionen d=5,6 bewies (und Oskar Perron 1940 für Dimensionen d kleiner oder gleich 6). Die Vermutung besagt, dass bei einem solchen Ausfüllen mindestens zwei Würfel eine ganze (d−1)-dimensionale Seitenfläche gemeinsam haben. Sie hängt mit einer Vermutung von Hermann Minkowski über diophantische Approximation zusammen (die sich geometrisch in einer analogen Vermutung nur für Gitteranordnungen von Würfeln ausdrückt). 1992 wurde von Jeffrey Lagarias und Peter Shor durch ein Gegenbeispiel gezeigt, dass sie in mehr als 9 Dimensionen falsch ist. 2000 wurde von John Mackey durch ein 8-dimensionales Gegenbeispiel gezeigt, dass sie für mehr als 7 Dimensionen falsch ist, so dass nur noch der Fall d=7 offen ist. Die Falschheit der Vermutung in höheren Dimensionen hatte schon Keller in seiner Originalarbeit vermutet.
+In der algebraischen Geometrie beschäftigte er sich unter anderem mit Cremona-Transformationen (zum Beispiel in seiner Habilitation 1933), die zur Klassifikation und Auflösung von Singularitäten algebraischer Kurven von Bedeutung sind. Hier stellte er die später von Shreeram Abhyankar und anderen so genannte Jacobi-Vermutung auf. Der Name kommt daher, dass die Jacobideterminante J eines Systems F von n Polynomen in n Variablen (über einem algebraisch abgeschlossenen Körper) in die Vermutung eingeht. Die Vermutung wurde in einigen Spezialfällen bewiesen, so in den 1970er Jahren von Tzuong-Tsieng Moh und anderen für zwei Polynome in zwei Variablen mit Graden kleiner oder gleich 100. Außerdem schrieb Keller Arbeiten zum idealtheoretischen Aufbau der algebraischen Geometrie und zu topologischen Untersuchungen algebraischer Flächen.
+1960 erhielt er den Nationalpreis der DDR III. Klasse für Wissenschaft und Technik. 1961 war er Präsident der Deutschen Mathematiker-Vereinigung. Er war Mitglied der Sächsischen Akademie der Wissenschaften und der Leopoldina.
+
+
+== Schriften ==
+Über die lückenlose Erfüllung des Raumes mit Würfeln. In: Crelles Journal. 163, 1930, S. 231–248.
+Die Homoiomorphie der kompakten konvexen Mengen im Hilbertschen Raum. In: Mathematische Annalen. 105, 1931, S. 748–758
+Cremona-Transformationen algebraischer Kurven. In: Crelles Journal. 169, 1933, S. 193–218 (Habilitation von Keller an der TH Berlin 1933).
+Ein Satz über die lückenlose Erfüllung des 5- und 6-dimensionalen Raumes mit Würfeln. In: Crelles Journal. 177, 1937, S. 61–64.
+Über eine Kovariante bei Cremona-Transformationen. In: Mathematische Annalen. 114, 1937, S. 700–741.
+Geometrie der Zahlen. Enzyklopädie der mathematischen Wissenschaften. Teubner, 1954.
+Analytische Geometrie und Lineare Algebra (= Hochschulbücher für Mathematik. Bd. 26). Deutscher Verlag der Wissenschaften, Berlin 1957.
+Vorlesungen über algebraische Geometrie. Geest und Portig, Leipzig 1974.
+
+
+== Quelle ==
+Renate Tobies: Biographisches Lexikon in Mathematik promovierter Personen, 2006
+Ott-Heinrich Keller (1906-1990) – Webseite an der Universität Halle, 17. Oktober 1998
+
+
+== Literatur ==
+In memoriam Ott-Heinrich Keller, Beiträge zur Algebra und Geometrie 32, 1991, S. 7–10 (Widmung)
+Ludwig Stammler, Wolfgang Vogel: Ott-Heinrich Keller, Jahresbericht DMV 95, 1993, S. 95–102, [1] (DjVu-Datei 4,1 MB), PDF (8,1 MB)
+
+
+== Weblinks ==
+Literatur von und über Ott-Heinrich Keller im Katalog der Deutschen Nationalbibliothek
+Eric W. Weisstein: Keller’s Conjecture. In: MathWorld (englisch).
+Jacobian Conjecture – Tzuong-Tsieng Moh zur Jacobi-Vermutung (englisch)
+
+
+== Einzelnachweise ==

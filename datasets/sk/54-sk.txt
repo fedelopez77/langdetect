@@ -1,0 +1,20 @@
+Zóny odolnosti rastlín (z anglického hardiness zone) sú zóny, ktoré určujú geografické regióny, v ktorých je schopný daný rastlinný druh existovať. Definované sú teplotnou odolnosťou rastliny a minimálnou teplotou, ktorú je druh schopný prežiť.
+Zóny boli po prvýkrát vytvorené United States Department of Agriculture (USDA) a následne boli prevzaté aj pre ostatné regióny sveta. Určené sú minimálnou teplotou nameranou počas zimy (definované ako priemerná minimálna ročná teplota). Takže ak 5 po sebe idúcich zím je minimálna zimná teplota −14 °C, −12 °C, −8 °C, −16 °C, a −13 °C znamená to, že výsledna minimálna teplota je −12.6 °C, a územie patrí do zóny 7.
+Väčšina územia SR a ČR patrí do zóny 6, najvyššie polohy do zóny 5.
+
+
+== Výhody a nevýhody ==
+Zóny odolnosti sú užitočné v mnohých prípadoch, pretože extrémne (najnižšie) zimné teploty sú hlavným faktorom ovplyvňujúcim prežívanie rastlín a rozhodujú o tom, či sa dá druh pestovať vonku vo voľnej pôde na danom mieste alebo nie. Najväčšou nevýhodou je, že v tejto škále nie sú započítavané letné teploty. Takto miesta, ktoré môžu mať rovnakú minimálnu zimnú teplotu, ale výrazne rozdielne letné teploty, budú spadať do rovnakej zóny. Preto napríklad Shetlandy a južná Alabama, obe sú v zóne 8 a 9 a majú rovnaké zimné minimá, ale ich klíma je veľmi rozdielna. V lete kontinentálna klíma Alabamy je o 20 °C teplejšia ako oceánická klíma Shetland, a preto len malé množstvo rastlín sa dá pestovať na oboch miestach. Shetlandy majú 1 až 8 dní v roku teplotu nad 30 °C, zatiaľ čo Alabama 61 až 150. V praxi to znamená, že druh, ktorý sa dá pestovať v USA a bez problémov jeho semená dozrievajú, sa na Shetlandich pestovať nedá, pretože mu nikdy nedozrejú semená.
+Austrália, hoci je obklopená oceánom, je suchšia než Európa alebo USA. Čísla stupnice odolnosti v Austrálii sú iné ako pre USA, ale obe stupnice sú vzájomne prevoditeľné.
+Odolnosť rastlín znamená schopnosť prežívania rastlín v podmienkach určitého miesta, vrátane odolnosti voči teplu, pôdnej vlhkosti, zrážkam a pod. Mapy odolnosti vyjadrujú iba odolnosť voči nízkym teplotám, a sú veľmi zjednodušené (neberú do úvahy mikroklimatické rozdiely). Napríklad sú rastliny zasiahnuté viac jednou extrémne nízkou nočnou teplotou alebo počet mrazových dní (teda dĺžka zimy) je dôležitejšia? V skutočnosti oba faktory sú dôležité. Ďalší aspekt je, že rastlina môže nejaký čas prežiť v danom území ale jeden zriedkavý mrazový deň ju môže zabiť.
+Nízka teplota nie je jediný faktor ovplyvňujúci prežitie rastlín. Rovnako dôležitá je aj vysoká letná teplota, zrážky, pôdna reakcia, pôdna teplota. Taktiež mnohé rastliny aby kvitli a teda mohli vytvoriť semená a v danom území tak dlhodobo prežívať potrebujú, potrebujú určitý pomer dňa a noci.
+
+
+== Externé odkazy ==
+Good hardiness article for the hobby gardener
+Hardiness Zone maps for several continents
+Interactive USDA Plant Hardiness Zone Map
+Sunset Magazine Garden Climate Zone Map
+American Horticultural Society Heat Zone Map
+Freeze/Frost data from NOAA
+Data on plant hardiness in Ireland

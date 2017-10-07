@@ -1,0 +1,34 @@
+In four-dimensional Euclidean geometry, the steriruncic tesseractic honeycomb is a uniform space-filling tessellation (or honeycomb) in Euclidean 4-space.
+
+
+== Alternate names ==
+Prismatorhombated demitesseractic tetracomb (pirhatit)
+Great prismatodemitesseractic tetracomb
+
+
+== Related honeycombs ==
+The [4,3,31,1], , Coxeter group generates 31 permutations of uniform tessellations, 23 with distinct symmetry and 4 with distinct geometry. There are two alternated forms: the alternations (19) and (24) have the same geometry as the 16-cell honeycomb and snub 24-cell honeycomb respectively.
+
+
+== See also ==
+Regular and uniform honeycombs in 4-space:
+Tesseractic honeycomb
+16-cell honeycomb
+24-cell honeycomb
+Rectified 24-cell honeycomb
+Truncated 24-cell honeycomb
+Snub 24-cell honeycomb
+5-cell honeycomb
+Truncated 5-cell honeycomb
+Omnitruncated 5-cell honeycomb
+
+
+== Notes ==
+
+
+== References ==
+Kaleidoscopes: Selected Writings of H.S.M. Coxeter, edited by F. Arthur Sherk, Peter McMullen, Anthony C. Thompson, Asia Ivic Weiss, Wiley-Interscience Publication, 1995, ISBN 978-0-471-01003-6 [1]
+(Paper 24) H.S.M. Coxeter, Regular and Semi-Regular Polytopes III, [Math. Zeit. 200 (1988) 3-45]
+
+George Olshevsky, Uniform Panoploid Tetracombs, Manuscript (2006) (Complete list of 11 convex uniform tilings, 28 convex uniform honeycombs, and 143 convex uniform tetracombs)
+Klitzing, Richard. "4D Euclidean tesselations".  x3o3o *b3x4x - pirhatit - O110

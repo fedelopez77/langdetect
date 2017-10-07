@@ -1,0 +1,676 @@
+O tautocronă (curba evenimentelor de aceeași durată; din gracă ταὐτό tauto aceeași, χρόνος chronos timp), denumită și curbă sau traiectorie tautocronă, este în mecanică, o curbă 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \scriptstyle C}
+   cu proprietatea că un punct material 
+  
+    
+      
+        
+          M
+        
+      
+    
+    {\displaystyle \scriptstyle M}
+  , obligat să se miște fără frecare (mai general: în lipsa acțiunii forțelor disipative) pe 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \scriptstyle C}
+   sub acțiunea unei forțe 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\vec {F}}}
+  , descrie orice arc de curbă 
+  
+    
+      
+        
+          O
+          
+            M
+            
+              0
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle OM_{0}}
+  , socotit de la poziția inițială 
+  
+    
+      
+        
+          
+            M
+            
+              0
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle M_{0}}
+   până la un punct 
+  
+    
+      
+        
+          O
+        
+      
+    
+    {\displaystyle \scriptstyle O}
+   al lui 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \scriptstyle C}
+  , numit punct de tautocronism, în același interval de timp, oricare ar fi coordonatele (poziția) inițială 
+  
+    
+      
+        
+          
+            M
+            
+              0
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle M_{0}}
+  , cu condiția ca viteza inițială a punctului material să fie nulă, 
+  
+    
+      
+        
+          
+            
+              
+                
+                  v
+                  →
+                
+              
+            
+            
+              0
+            
+          
+          =
+          0
+        
+      
+    
+    {\displaystyle \scriptstyle {\vec {v}}_{0}=0}
+  . Mișcarea având această proprietate se numește mișcare tautocronă (mai rar: -tautochronă). Mișcările tautocrone pot avea loc în câmpuri de forțe 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            (
+            x
+            ,
+            y
+            ,
+            z
+            )
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\vec {F}}\left(x,y,z\right)}
+   staționare, adică independente de timp, unde 
+  
+    
+      
+        
+          x
+        
+      
+    
+    {\displaystyle \scriptstyle x}
+  , 
+  
+    
+      
+        
+          y
+        
+      
+    
+    {\displaystyle \scriptstyle y}
+   și 
+  
+    
+      
+        
+          z
+        
+      
+    
+    {\displaystyle \scriptstyle z}
+   sunt coordonatele carteziene ale punctului 
+  
+    
+      
+        
+          M
+        
+      
+    
+    {\displaystyle \scriptstyle M}
+   pe traiectorie (curba tautocronă). Un exemplu des întâlnit este cel al tautocronelor în câmp gravitațional uniform (cu accelerația gravitațională identică în orice punct al spațiului; aproximarea mișcărilor reale într-o vecinătate restrânsă a unui punct de pe o suprafață echipotențială din jurul unei mase care generează câmpul gravitațional), la care curbele tautocrone sunt cicloide situate în planuri verticale, având concavitatea în sus; punctele de tautocronism sunt reprezentate de vârfurile cicloidelor, unde tangenta la curbă este orizontală (au panta zero). Teoria tautocronelor a fost tratată sub diferitele sale aspecte de către Huygens, Newton, Euler, Jean Bernoulli, d’Alembert și Lagrange; la ora actuală, problema tautocronelor este considerată ca o problemă clasică a mecanicii, pe deplin rezolvată.
+
+
+== Istoricul problemei tautocronelor ==
+
+Problema tautocronelor, legat de problematica determinării analitice exacte a parcursului optim a pendulelor folosite în orologiile pentru măsurătorile timpului a apărut în secolul al XVIII-lea. După câteva încercări eșuate de a determina exact forma curbelor care satisfac condiția de tautocronsim, în anul 1659, Christiaan Huygens găsește pentru prima oară soluția exactă a problemei tautocronelor. Rezultatele cercetărilor lui Huygens au fost publicate ulterior în anul 1673 în tratatul Oscillatorium Horologium în care expune rezultatele sale cu privire la existența unei clase de curbe care satisfac tautocronismul. El demonstrază pe cale pur geometrică faptul că o curbă pe care corpurile aflate în mișcare, pornind cu viteză inițială nulă din poziții distincte, ajung într-un punct la același moment de timp, trebuie să fie în mod necesar o cicloidă.
+"Pe o axă a cărei cicloidă este așezată pe perpendiculară și al cărui vârf se află în partea de jos, ori de coborâre, în care un organ mecanic ajunge la punctul cel mai de la vârf după ce a plecat din orice punct de pe cicloidă, sunt egale la fiecare ..."
+
+Această soluție a fost mai târziu folosită pentru a iniția problema curbelor brahisticrone. Jakob Bernoulli a rezolvat problema pe bază de calcul într-o lucrare cu titlul Acta Eruditorum din 1690, care este considerat fiind prima aplicație a calcului integral.
+
+
+== Soluția Lagrange ==
+Poziția punctului material este parametrizat prin lungimea arcului de curbă 
+  
+    
+      
+        
+          s
+          (
+          t
+          )
+        
+      
+    
+    {\displaystyle \scriptstyle s(t)}
+  , măsurat din punctul cel mai de jos (corespunzător energiei potențiale nule) până în poziția momentană a punctului pe curbă. Energia cinetică a punctului este proporțională cu pătratul vitezei pe traiectorie 
+  
+    
+      
+        
+          
+            
+              
+                
+                  s
+                  ˙
+                
+              
+            
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\dot {s}}^{2}}
+  , iar energia potențială cu înălțimea 
+  
+    
+      
+        
+          y
+          (
+          s
+          )
+        
+      
+    
+    {\displaystyle \scriptstyle y(s)}
+  . Pentru ca mișcarea să îndeplinească condiția de tautocronism, este necesar ca lagrangeanul lui să fie cel al unui oscilator armonic simplu, de unde rezultă că înălțimea curbei 9a traiectoriei) trebuie să fie prorțională cu pătratul arcului de curbă: 
+  
+    
+      
+        
+          y
+          (
+          s
+          )
+          =
+          
+            s
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle y(s)=s^{2}}
+  ,unde constanta de proporționalitate a fost ales egal cu unitatea, printr-o schimbare convenabilă a unității de lungime.Diferențiala de ordinul întâi a acestei relații este:
+
+  
+    
+      
+        d
+        y
+        =
+        2
+        s
+        
+        d
+        s
+      
+    
+    {\displaystyle dy=2s\,ds}
+  
+
+  
+    
+      
+        d
+        
+          y
+          
+            2
+          
+        
+        =
+        4
+        
+          s
+          
+            2
+          
+        
+        
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        4
+        y
+        
+        (
+        d
+        
+          x
+          
+            2
+          
+        
+        +
+        d
+        
+          y
+          
+            2
+          
+        
+        )
+        
+      
+    
+    {\displaystyle dy^{2}=4s^{2}\,ds^{2}=4y\,(dx^{2}+dy^{2})\,}
+  
+
+Eliminând parametrul 
+  
+    
+      
+        
+          s
+          (
+          t
+          )
+        
+      
+    
+    {\displaystyle \scriptstyle s(t)}
+  , și separând variabilele 
+  
+    
+      
+        
+          x
+        
+      
+    
+    {\displaystyle \scriptstyle x}
+   și 
+  
+    
+      
+        
+          y
+        
+      
+    
+    {\displaystyle \scriptstyle y}
+   se găsește relația:
+
+  
+    
+      
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              y
+            
+          
+        
+        =
+        
+          
+            
+              
+                1
+                −
+                4
+                y
+              
+            
+            
+              2
+              
+                
+                  y
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle {dx \over dy}={{\sqrt {1-4y}} \over 2{\sqrt {y}}}\,}
+  
+
+Pentru găsirea ecuației curbei care satisface condiția de tautocronism, se integrează relația de mai sus după variabila y, găsindu-se soluția:
+
+  
+    
+      
+        x
+        =
+        ∫
+        
+          
+            1
+            −
+            4
+            
+              u
+              
+                2
+              
+            
+          
+        
+        
+        d
+        u
+      
+    
+    {\displaystyle x=\int {\sqrt {1-4u^{2}}}\,du}
+  
+
+Unde 
+  
+    
+      
+        
+          u
+          =
+          
+            
+              y
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle u={\sqrt {y}}}
+  . Această integrală reprezintă aria unui sector de disc, care în mod natural se poate descompune în aria unui triunghi și a unei pene circulare
+
+  
+    
+      
+        x
+        =
+        
+          
+            1
+            2
+          
+        
+        u
+        
+          
+            1
+            −
+            4
+            
+              u
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            4
+          
+        
+        
+          sin
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        2
+        u
+        )
+        
+      
+    
+    {\displaystyle x={1 \over 2}u{\sqrt {1-4u^{2}}}+{1 \over 4}\sin ^{-1}(2u)\,}
+  
+
+  
+    
+      
+        y
+        =
+        
+          u
+          
+            2
+          
+        
+        
+      
+    
+    {\displaystyle y=u^{2}\,}
+  
+
+Forma ecuațiilor parametrice de mai sus corespund unei cicloide cu o parametrizare neobișnuită. Pentru separarea variabilelor algebrice de cele trancedentale, se definește un nou parametru prin relația 
+  
+    
+      
+        
+          θ
+          =
+          
+            sin
+            
+              −
+              1
+            
+          
+          ⁡
+          (
+          2
+          u
+          )
+        
+      
+    
+    {\displaystyle \scriptstyle \theta =\sin ^{-1}(2u)}
+  . Folosind această schimbare de parametru, se găsesc ecuațiile parametrice standard a unei cicloide în variabilele 
+  
+    
+      
+        
+          x
+        
+      
+    
+    {\displaystyle \scriptstyle x}
+  , 
+  
+    
+      
+        
+          y
+        
+      
+    
+    {\displaystyle \scriptstyle y}
+   și parametrul 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle \scriptstyle \theta }
+  
+
+  
+    
+      
+        8
+        x
+        =
+        2
+        sin
+        ⁡
+        (
+        θ
+        )
+        cos
+        ⁡
+        (
+        θ
+        )
+        +
+        2
+        θ
+        =
+        sin
+        ⁡
+        (
+        2
+        θ
+        )
+        +
+        2
+        θ
+        
+      
+    
+    {\displaystyle 8x=2\sin(\theta )\cos(\theta )+2\theta =\sin(2\theta )+2\theta \,}
+  
+
+  
+    
+      
+        8
+        y
+        =
+        2
+        sin
+        ⁡
+        (
+        θ
+        
+          )
+          
+            2
+          
+        
+        =
+        1
+        −
+        cos
+        ⁡
+        (
+        2
+        θ
+        )
+        
+      
+    
+    {\displaystyle 8y=2\sin(\theta )^{2}=1-\cos(2\theta )\,}
+  
+
+
+== Note ==
+
+
+== Bibliografie ==
+Iacob, Caius: Mecanică teoretică, Editura Pedagogică, București, 1980.
+Simmons, George, Differential Equations with Applications and Historical Notes, McGraw–Hill, 1972. ISBN 0-07-057540-1.
+Proctor, Richard, A Treatise on The Cycloid and all forms of Cycloidal Curves (1878), publicat de Cornell University Library.

@@ -1,0 +1,1560 @@
+En el cálculo vectorial, el rotacional o rotor es un operador vectorial sobre campos vectoriales definidos en un abierto de 
+  
+    
+      
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{3}}
+   que muestra la tendencia de un campo vectorial a inducir rotación alrededor de un punto.
+Matemáticamente, esta idea se expresa como el límite de la circulación del campo vectorial, cuando la curva sobre la que se integra se reduce a un punto:
+
+  
+    
+      
+        
+          U
+        
+        ⋅
+        
+          rot
+        
+         
+        
+          F
+        
+        =
+        
+          U
+        
+        ⋅
+        ∇
+        ×
+        
+          F
+        
+        ≡
+        
+          lim
+          
+            Δ
+            S
+            →
+            0
+          
+        
+        
+          
+            1
+            
+              Δ
+              S
+            
+          
+        
+        
+          ∮
+          
+            C
+          
+        
+        
+          F
+        
+        ⋅
+        
+          d
+        
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {U} \cdot {\mbox{rot}}\ \mathbf {F} =\mathbf {U} \cdot \nabla \times \mathbf {F} \equiv \lim _{\Delta S\to 0}{\frac {1}{\Delta S}}\oint _{C}\mathbf {F} \cdot {\text{d}}\mathbf {r} }
+  
+
+Aquí, 
+  
+    
+      
+        Δ
+        S
+      
+    
+    {\displaystyle \Delta S}
+   es el área de la superficie apoyada en la curva 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  , que se reduce a un punto. El resultado de este límite no es el rotacional completo (que es un vector), sino solo su componente según la dirección normal a 
+  
+    
+      
+        Δ
+        S
+      
+    
+    {\displaystyle \Delta S}
+   y orientada según la regla de la mano derecha. Para obtener el rotacional completo deberán calcularse tres límites, considerando tres curvas situadas en planos perpendiculares.
+Aunque el que el rotacional de un campo alrededor de un punto sea distinto de cero no implica que las líneas de campo giren alrededor de ese punto y lo encierren. Por ejemplo, el campo de velocidades de un fluido que circula por una tubería (conocido como perfil de Poiseuille) posee un rotacional no nulo en todas partes, salvo en el eje central, pese a que la corriente fluye en línea recta:
+
+La idea es que si colocamos una rueda de paletas infinitamente pequeña en el interior del campo vectorial, esta rueda girará, aunque el campo tenga siempre la misma dirección, debido a la diferente magnitud del campo a un lado y a otro de la rueda.
+
+
+== Fuente vectorial y escalar ==
+Al campo vectorial, 
+  
+    
+      
+        
+          
+            J
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \mathbf {J} }
+  , que se obtiene calculando el rotacional de un campo 
+  
+    
+      
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \mathbf {F} }
+   en cada punto,
+
+  
+    
+      
+        
+          J
+        
+        =
+        ∇
+        ×
+        
+          F
+        
+      
+    
+    {\displaystyle \mathbf {J} =\nabla \times \mathbf {F} }
+  
+
+se conoce como las fuentes vectoriales de 
+  
+    
+      
+        
+          F
+        
+      
+    
+    {\displaystyle \mathbf {F} }
+   (siendo las fuentes escalares las que se obtienen mediante la divergencia).
+Un campo cuyo rotacional es nulo en todos los puntos del espacio se denomina irrotacional o se dice que carece de fuentes vectoriales. Y si está definido sobre un dominio simplemente conexo entonces dicho campo puede expresarse como el gradiente de una función escalar, o dicho de otra forma, el campo deriva de un potencial (es decir, es conservativo):
+
+  
+    
+      
+        ∇
+        ×
+        
+          f
+        
+        =
+        0
+         
+        
+          en
+        
+         
+        Ω
+         
+        
+          simplemente conexo
+        
+         
+        ⇒
+        
+          f
+        
+        =
+        ∇
+        ϕ
+      
+    
+    {\displaystyle \nabla \times \mathbf {f} =0\ {\mbox{en}}\ \Omega \ {\mbox{simplemente conexo}}\ \Rightarrow \mathbf {f} =\nabla \phi }
+  
+
+
+== Expresión en coordenadas cartesianas ==
+Partiendo de la definición mediante un límite, puede demostrarse que la expresión, en coordenadas cartesianas, del rotacional es
+
+  
+    
+      
+        ∇
+        ×
+        
+          F
+        
+        =
+        
+          (
+          
+            
+              
+                ∂
+                
+                  F
+                  
+                    z
+                  
+                
+              
+              
+                ∂
+                y
+              
+            
+          
+          −
+          
+            
+              
+                ∂
+                
+                  F
+                  
+                    y
+                  
+                
+              
+              
+                ∂
+                z
+              
+            
+          
+          )
+        
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        +
+        
+          (
+          
+            
+              
+                ∂
+                
+                  F
+                  
+                    x
+                  
+                
+              
+              
+                ∂
+                z
+              
+            
+          
+          −
+          
+            
+              
+                ∂
+                
+                  F
+                  
+                    z
+                  
+                
+              
+              
+                ∂
+                x
+              
+            
+          
+          )
+        
+        
+          
+            
+              y
+              ^
+            
+          
+        
+        +
+        
+          (
+          
+            
+              
+                ∂
+                
+                  F
+                  
+                    y
+                  
+                
+              
+              
+                ∂
+                x
+              
+            
+          
+          −
+          
+            
+              
+                ∂
+                
+                  F
+                  
+                    x
+                  
+                
+              
+              
+                ∂
+                y
+              
+            
+          
+          )
+        
+        
+          
+            
+              z
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \nabla \times \mathbf {F} =\left({\frac {\partial F_{z}}{\partial y}}-{\frac {\partial F_{y}}{\partial z}}\right){\hat {x}}+\left({\frac {\partial F_{x}}{\partial z}}-{\frac {\partial F_{z}}{\partial x}}\right){\hat {y}}+\left({\frac {\partial F_{y}}{\partial x}}-{\frac {\partial F_{x}}{\partial y}}\right){\hat {z}}}
+  
+
+que se puede expresar de forma más concisa con ayuda del operador nabla como un producto vectorial, calculable mediante un determinante:
+
+  
+    
+      
+        ∇
+        ×
+        
+          F
+        
+        =
+        
+          |
+          
+            
+              
+                
+                  
+                    
+                      
+                        x
+                        ^
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        y
+                        ^
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        z
+                        ^
+                      
+                    
+                  
+                
+              
+              
+                
+                
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            x
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            y
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            ∂
+                            z
+                          
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                
+                
+              
+              
+                
+                  
+                    F
+                    
+                      x
+                    
+                  
+                
+                
+                  
+                    F
+                    
+                      y
+                    
+                  
+                
+                
+                  
+                    F
+                    
+                      z
+                    
+                  
+                
+              
+            
+          
+          |
+        
+      
+    
+    {\displaystyle \nabla \times \mathbf {F} =\left|{\begin{matrix}{\hat {x}}&{\hat {y}}&{\hat {z}}\\&&\\{\cfrac {\partial }{\partial x}}&{\cfrac {\partial }{\partial y}}&{\cfrac {\partial }{\partial z}}\\&&\\F_{x}&F_{y}&F_{z}\end{matrix}}\right|}
+  
+
+Debe tenerse muy presente que dicho determinante en realidad no es tal pues los elementos de la segunda fila no tienen argumento y por tanto carecen de sentido. Además dicho determinante sólo puede desarrollarse por la primera fila. En definitiva, la notación en forma de determinante sirve para recordar fácilmente la expresión del rotacional.
+En la notación de Einstein, con el símbolo de Levi-Civita se escribe como:
+
+  
+    
+      
+        (
+        ∇
+        ×
+        
+          F
+        
+        
+          )
+          
+            k
+          
+        
+        =
+        
+          ϵ
+          
+            k
+            l
+            m
+          
+        
+        
+          ∂
+          
+            l
+          
+        
+        
+          F
+          
+            m
+          
+        
+      
+    
+    {\displaystyle (\nabla \times \mathbf {F} )_{k}=\epsilon _{klm}\partial _{l}F_{m}}
+  
+
+
+== Expresión en otros sistemas de coordenadas ==
+Si se emplean sistemas de coordenadas diferentes del cartesiano, la expresión debe generalizarse, para incluir el que los vectores de la base dependen de la posición. Para un sistema de coordenadas ortogonales, como las cartesianas, las cilíndricas o las esféricas, la expresión general precisa de los factores de escala:
+
+  
+    
+      
+        ∇
+        ×
+        
+          F
+        
+        =
+        
+          
+            1
+            
+              
+                h
+                
+                  1
+                
+              
+              
+                h
+                
+                  2
+                
+              
+              
+                h
+                
+                  3
+                
+              
+            
+          
+        
+        
+          |
+          
+            
+              
+                
+                  
+                    h
+                    
+                      1
+                    
+                  
+                  
+                    
+                      
+                        
+                          q
+                          ^
+                        
+                      
+                    
+                    
+                      1
+                    
+                  
+                
+                
+                  
+                    h
+                    
+                      2
+                    
+                  
+                  
+                    
+                      
+                        
+                          q
+                          ^
+                        
+                      
+                    
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    h
+                    
+                      3
+                    
+                  
+                  
+                    
+                      
+                        
+                          q
+                          ^
+                        
+                      
+                    
+                    
+                      3
+                    
+                  
+                
+              
+              
+                
+                
+                
+              
+              
+                
+                  
+                    
+                      ∂
+                      
+                        ∂
+                        
+                          q
+                          
+                            1
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      ∂
+                      
+                        ∂
+                        
+                          q
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      ∂
+                      
+                        ∂
+                        
+                          q
+                          
+                            3
+                          
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                
+                
+              
+              
+                
+                  
+                    h
+                    
+                      1
+                    
+                  
+                  
+                    F
+                    
+                      1
+                    
+                  
+                
+                
+                  
+                    h
+                    
+                      2
+                    
+                  
+                  
+                    F
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    h
+                    
+                      3
+                    
+                  
+                  
+                    F
+                    
+                      3
+                    
+                  
+                
+              
+            
+          
+          |
+        
+      
+    
+    {\displaystyle \nabla \times \mathbf {F} ={\frac {1}{h_{1}h_{2}h_{3}}}\left|{\begin{matrix}h_{1}{\hat {q}}_{1}&h_{2}{\hat {q}}_{2}&h_{3}{\hat {q}}_{3}\\&&\\{\frac {\partial }{\partial q_{1}}}&{\frac {\partial }{\partial q_{2}}}&{\frac {\partial }{\partial q_{3}}}\\&&\\h_{1}F_{1}&h_{2}F_{2}&h_{3}F_{3}\end{matrix}}\right|}
+  
+
+(donde, en cartesianas, 
+  
+    
+      
+        
+          h
+          
+            x
+          
+        
+        =
+        
+          h
+          
+            y
+          
+        
+        =
+        
+          h
+          
+            z
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle h_{x}=h_{y}=h_{z}=1}
+   y reobtenemos la expresión anterior. En coordenadas cilíndricas 
+  
+    
+      
+        
+          h
+          
+            ρ
+          
+        
+        =
+        
+          h
+          
+            z
+          
+        
+        =
+        1
+        ,
+         
+        
+          h
+          
+            φ
+          
+        
+        =
+        ρ
+      
+    
+    {\displaystyle h_{\rho }=h_{z}=1,\ h_{\varphi }=\rho }
+   y en coordenadas esféricas 
+  
+    
+      
+        
+          h
+          
+            r
+          
+        
+        =
+        1
+        ,
+         
+        
+          h
+          
+            θ
+          
+        
+        =
+        r
+        ,
+         
+        
+          h
+          
+            φ
+          
+        
+        =
+        r
+        
+          
+            s
+            e
+            n
+          
+        
+        θ
+      
+    
+    {\displaystyle h_{r}=1,\ h_{\theta }=r,\ h_{\varphi }=r{\rm {sen}}\theta }
+  ).
+
+
+== Expresión mediante formas diferenciales ==
+Usando la derivada exterior, el rotacional se escribe simplemente como:
+
+  
+    
+      
+        
+          d
+        
+        F
+        
+      
+    
+    {\displaystyle {\text{d}}F\,}
+  
+
+Obsérvese que tomando la derivada exterior de un campo (co)vectorial no da lugar a otro campo vectorial, sino a una 2-forma o un campo de bivector, escrito correctamente como 
+  
+    
+      
+        P
+        
+        (
+        d
+        x
+        ∧
+        d
+        y
+        )
+        +
+        Q
+        
+        (
+        d
+        y
+        ∧
+        d
+        z
+        )
+        +
+        R
+        
+        (
+        d
+        x
+        ∧
+        d
+        z
+        )
+      
+    
+    {\displaystyle P\,(dx\wedge dy)+Q\,(dy\wedge dz)+R\,(dx\wedge dz)}
+  . Sin embargo, puesto que los bivectores generalmente se consideran menos intuitivos que los vectores ordinarios, el R³-dual se utiliza comúnmente en lugar de otro: esto es una operación quiral, produciendo un pseudovector que adquiere valores opuestos en conjuntos coordenados izquierdos y derechos.
+
+
+== Propiedades ==
+Todo campo potencial (expresable como el gradiente de un potencial escalar) es irrotacional y viceversa, esto es,
+
+  
+    
+      
+        
+          E
+        
+        =
+        −
+        ∇
+        ϕ
+        
+        ⇔
+        
+        ∇
+        ×
+        
+          E
+        
+        =
+        0
+      
+    
+    {\displaystyle \mathbf {E} =-\nabla \phi \qquad \Leftrightarrow \qquad \nabla \times \mathbf {E} =0}
+  
+Todo campo central (radial y dependiente sólo de la distancia al centro) es irrotacional.
+
+  
+    
+      
+        
+          E
+        
+        =
+        f
+        (
+        r
+        )
+        
+          
+            
+              
+                r
+              
+              ^
+            
+          
+        
+        
+        ⇒
+        
+        ∇
+        ×
+        
+          E
+        
+        =
+        0
+      
+    
+    {\displaystyle \mathbf {E} =f(r){\hat {\mathbf {r} }}\qquad \Rightarrow \qquad \nabla \times \mathbf {E} =0}
+  
+En particular, el campo eléctrostático de una carga puntual (y por superposición, cualquier campo electrostático) es irrotacional.
+El rotacional de un campo vectorial es siempre un campo solenoidal, esto es, su divergencia siempre es nula:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          (
+          ∇
+          ×
+          
+            
+              
+                F
+                →
+              
+            
+          
+          )
+        
+        ≡
+        0
+      
+    
+    {\displaystyle \nabla \cdot \left(\nabla \times {\vec {F}}\right)\equiv 0}
+  
+
+
+== Identidades ==
+
+En general, en las coordenadas curvilíneas, (no solo en coordenadas cartesianas), el rotacional de un producto de vectores de campo v y F puede expresarse:
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          
+            v
+            ×
+            F
+          
+          )
+        
+        =
+        
+          [
+          
+            (
+            
+              ∇
+              ⋅
+              F
+            
+            )
+          
+          +
+          
+            F
+            ⋅
+            ∇
+          
+          ]
+        
+        
+          v
+        
+        −
+        
+          [
+          
+            (
+            
+              ∇
+              ⋅
+              v
+            
+            )
+          
+          +
+          
+            v
+            ⋅
+            ∇
+          
+          ]
+        
+        
+          F
+        
+         
+        .
+      
+    
+    {\displaystyle \nabla \times \left(\mathbf {v\times F} \right)=\left[\left(\mathbf {\nabla \cdot F} \right)+\mathbf {F\cdot \nabla } \right]\mathbf {v} -\left[\left(\mathbf {\nabla \cdot v} \right)+\mathbf {v\cdot \nabla } \right]\mathbf {F} \ .}
+  
+Intercambiando el vector de campo v y el operador ∇, llegamos al producto vectorial de un vector de campo con el rotacional de otro:
+
+  
+    
+      
+        
+          v
+           
+          ×
+        
+        
+          (
+          
+            ∇
+            ×
+            F
+          
+          )
+        
+        =
+        
+          ∇
+          
+            F
+          
+        
+        
+          (
+          
+            v
+            ⋅
+            F
+          
+          )
+        
+        −
+        
+          (
+          
+            v
+            ⋅
+            ∇
+          
+          )
+        
+        
+          F
+        
+         
+        ,
+      
+    
+    {\displaystyle \mathbf {v\ \times } \left(\mathbf {\nabla \times F} \right)=\nabla _{F}\left(\mathbf {v\cdot F} \right)-\left(\mathbf {v\cdot \nabla } \right)\mathbf {F} \ ,}
+  
+usando la notación de Feynman, ∇F, que opera solo con el vector de campo F.
+Otra identidad es el rotacional del rotacional de un vector de campo. Puede ser expresado de la siguiente forma, en coordenadas cartesianas:
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          
+            ∇
+            ×
+            F
+          
+          )
+        
+        =
+        
+          ∇
+        
+        (
+        
+          ∇
+          ⋅
+          F
+        
+        )
+        −
+        
+          ∇
+          
+            2
+          
+        
+        
+          F
+        
+         
+        ,
+      
+    
+    {\displaystyle \nabla \times \left(\mathbf {\nabla \times F} \right)=\mathbf {\nabla } (\mathbf {\nabla \cdot F} )-\nabla ^{2}\mathbf {F} \ ,}
+  
+en esta identidad el Operador laplaciano de F se representa como ∇2F.
+El rotacional del gradiente de cualquier campo escalar φ es siempre nulo
+
+  
+    
+      
+        ∇
+        ×
+        (
+        ∇
+        ϕ
+        )
+        =
+        
+          0
+        
+      
+    
+    {\displaystyle \nabla \times (\nabla \phi )={\boldsymbol {0}}}
+  
+Si φ es una función escalar y F es un vector de campo, entonces:
+
+  
+    
+      
+        ∇
+        ×
+        (
+        φ
+        
+          F
+        
+        )
+        =
+        ∇
+        φ
+        ×
+        
+          F
+        
+        +
+        φ
+        ∇
+        ×
+        
+          F
+        
+      
+    
+    {\displaystyle \nabla \times (\varphi \mathbf {F} )=\nabla \varphi \times \mathbf {F} +\varphi \nabla \times \mathbf {F} }
+  
+
+
+== Ejemplos ==
+
+
+=== Un campo vectorial sencillo ===
+Sea el campo vectorial:
+
+  
+    
+      
+        
+          F
+        
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        =
+        y
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        −
+        x
+        
+          
+            
+              y
+              ^
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {F} (x,y,z)=y{\boldsymbol {\hat {x}}}-x{\boldsymbol {\hat {y}}}.}
+  
+
+que depende linealmente de x e y, que se muestra a continuación:
+
+Mediante inspección visual, se observa que el campo está girando. Si indicáramos la dirección de un fluido y pusiéramos verticalmente una rueda de palas, de las que se utilizaban en los barcos de vapor, tendería a rotar en el sentido de las agujas del reloj. Utilizando la Regla de la mano derecha el vector rotacional apuntará a la parte negativa del eje zeta (hacia dentro) y no contendrá componentes en el eje x o y.
+Calculando el rotacional:
+
+  
+    
+      
+        
+          ∇
+        
+        ×
+        
+          F
+        
+        =
+        0
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        +
+        0
+        
+          
+            
+              y
+              ^
+            
+          
+        
+        +
+        
+          [
+          
+            
+              ∂
+              
+                ∂
+                x
+              
+            
+          
+          (
+          −
+          x
+          )
+          −
+          
+            
+              ∂
+              
+                ∂
+                y
+              
+            
+          
+          y
+          ]
+        
+        
+          
+            
+              z
+              ^
+            
+          
+        
+        =
+        −
+        2
+        
+          
+            
+              z
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\nabla }\times \mathbf {F} =0{\boldsymbol {\hat {x}}}+0{\boldsymbol {\hat {y}}}+\left[{\frac {\partial }{\partial x}}(-x)-{\frac {\partial }{\partial y}}y\right]{\boldsymbol {\hat {z}}}=-2{\boldsymbol {\hat {z}}}}
+  
+Que está en la parte negativa del eje z, como se esperaba. En este caso, el rotacional es constante, independientemente de su posición. La "cantidad" de rotación es el mismo en todo punto del espacio. La siguiente figura muestra el rotacional del campo vectorial en tres dimensiones.
+
+
+=== Un ejemplo más complejo ===
+Supongamos otro campo vectorial un poco más complejo:
+
+  
+    
+      
+        
+          F
+        
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        =
+        −
+        
+          x
+          
+            2
+          
+        
+        
+          
+            
+              y
+              ^
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {F} (x,y,z)=-x^{2}{\boldsymbol {\hat {y}}}.}
+  
+Su gráfica es:
+
+No se observa con facilidad que este campo sea rotacional, pero investigando un poco se puede observa que, por ejemplo, el campo es mayor en x=4 que en x=3. Al igual que en el caso anterior, si pusiéramos de nuevo una rueda de palas en la zona derecha del gráfico, la «corriente» más fuerte a la derecha haría rotar a la rueda en el sentido de las agujas del reloj, lo cual corresponde a un rotacional en la dirección negativa del eje z. En la parte izquierda del gráfico se observa que la corriente más fuerte esta hacia la izquierda por lo que las palas girarían en el sentido contrario a las agujas del reloj y el rotacional, en este caso, apuntaría hacia la parte positiva el eje z. Computando el rotacional podemos comprobar las suposiciones realizadas.
+
+  
+    
+      
+        
+          ∇
+        
+        ×
+        
+          F
+        
+        =
+        0
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        +
+        0
+        
+          
+            
+              y
+              ^
+            
+          
+        
+        +
+        
+          
+            ∂
+            
+              ∂
+              x
+            
+          
+        
+        (
+        −
+        
+          x
+          
+            2
+          
+        
+        )
+        
+          
+            
+              z
+              ^
+            
+          
+        
+        =
+        −
+        2
+        x
+        
+          
+            
+              z
+              ^
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\nabla }\times \mathbf {F} =0{\boldsymbol {\hat {x}}}+0{\boldsymbol {\hat {y}}}+{\frac {\partial }{\partial x}}(-x^{2}){\boldsymbol {\hat {z}}}=-2x{\boldsymbol {\hat {z}}}.}
+  
+Efectivamente, el rotacional apunta a la dirección positiva del eje z para x negativa y a la parte negativa del eje z para x positivo. Obsérvese que el rotacional ya no es uniforme en todos los puntos:
+
+Obsérvese que el rotacional solamente depende de la coordenada x.
+
+
+=== Otros ejemplos ===
+En un tornado los vientos están rotando sobre el ojo, y un campo vectorial que muestra las velocidades del viento tendría un rotacional diferente de cero en el ojo, y posiblemente en otras partes (véase vorticidad).
+En un campo vectorial que describa las velocidades lineales de cada parte individual de un disco que rota, el rotacional tendrá un valor constante en todas las partes del disco.
+Si una autopista fuera descrita con un campo vectorial, y los carriles tuvieran diversos límites de velocidad, el rotacional en las fronteras entre los carriles sería diferente de cero.
+La ley de Faraday de la inducción y la ley de Ampère-Maxwell, dos de las ecuaciones de Maxwell, se pueden expresar muy simplemente usando el rotacional. La primera indica que el rotacional de un campo eléctrico es igual a la tasa de variación de la densidad del flujo magnético, con signo opuesto debido a la Ley de Lenz; la segunda indica que el rotacional de un campo magnético es igual a la suma de la densidad de corrientes y la derivada temporal de la densidad de flujo eléctrico.
+
+
+== Véase también ==
+Divergencia
+Gradiente
+Tabla en coordenadas cilíndricas y esféricas
+
+
+== Referencias ==
+
+
+=== Bibliografía ===
+Spiegel, M. & Abellanas, L.: "Fórmulas y tablas de matemática aplicada", Ed. McGraw-Hill, 1988. ISBN 84-7615-197-7.
+
+
+=== Enlaces externos ===
+Video sobre la interpretación física del rotacional
+Video de la deducción rotacional en coordenadas esféricas y cilíndricas
+Cálculo del rotacional con Sage Math

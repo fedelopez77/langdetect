@@ -1,0 +1,165 @@
+În geometria plană, mediatoarea este perpendiculara dusă prin mijlocul unui segment. Mediatoarea poate fi definită și ca fiind locul geometric al punctelor (dintr-un plan ce conține segmentul respectiv) egal depărtate de extremitățile segmentului.
+
+
+== Proprietăți ==
+1. Cele trei mediatoare ale laturilor unui triunghi sunt concurente într-un punct care este centrul cercului circumscris triunghiului.
+Demonstrație. Fie O – punctul de intersecție al mediatoarelor segmentelor AB și BC. Din definiția mediatoarei, rezultă că 
+  
+    
+      
+        
+          |
+        
+        O
+        A
+        
+          |
+        
+        =
+        
+          |
+        
+        O
+        B
+        
+          |
+        
+        =
+        
+          |
+        
+        O
+        C
+        
+          |
+        
+      
+    
+    {\displaystyle |OA|=|OB|=|OC|}
+   ceea ce înseamnă că O aparține mediatoarei segmentului AC. 
+2.Proprietate: Un punct aparține mediatoarei unui segment dacă și numai dacă are distanțe egale față de extremitățile segmentului.
+
+2. Diametrul cercului circumscris este dat de formula:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  diametru
+                
+              
+              
+                
+                
+
+                
+                =
+                
+                  
+                    
+                      2
+                      a
+                      b
+                      c
+                    
+                    
+                      (
+                      a
+                      +
+                      b
+                      +
+                      c
+                      )
+                      (
+                      a
+                      −
+                      b
+                      +
+                      c
+                      )
+                      (
+                      b
+                      −
+                      c
+                      +
+                      a
+                      )
+                      (
+                      c
+                      −
+                      a
+                      +
+                      b
+                      )
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                
+
+                
+                =
+                
+                  
+                    
+                      a
+                      b
+                      c
+                    
+                    
+                      2
+                      
+                        
+                          s
+                          (
+                          s
+                          −
+                          2
+                          ∗
+                          a
+                          )
+                          (
+                          s
+                          −
+                          2
+                          ∗
+                          b
+                          )
+                          (
+                          s
+                          −
+                          2
+                          ∗
+                          c
+                          )
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\text{diametru}}&{}={\frac {2abc}{\sqrt {(a+b+c)(a-b+c)(b-c+a)(c-a+b)}}}\\&{}={\frac {abc}{2{\sqrt {s(s-2*a)(s-2*b)(s-2*c)}}}}\end{aligned}}}
+  
+
+
+== Note ==
+
+
+== Vezi și ==
+Bisectoare
+Mediană
+Înălțime (geometrie)

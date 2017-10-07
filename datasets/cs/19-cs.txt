@@ -1,0 +1,65 @@
+Kevlar je obchodní značka para-aramidového vlákna, které objevila chemička Stephanie Kwoleková u firmy DuPont v roce 1965. 
+
+
+== Vlastnosti ==
+
+Molekulární vzorec kevlaru je [-CO-C6H4-CO-NH-C6H4-NH-]n.
+Relativní hustota je 1,44 g/cm3, tažná pevnost vláken dosahuje 20-21 cN/dtex (modul pevnosti 3,6-4,1 GPa), při 160 °C se snižuje pevnost o 10 %, při 450 °C kevlar sublimuje.
+Tažnost obnáší 2,8–4,0 %. absorpce rázové energie (způsobené např. střelou) je 4x vyšší než u běžných polyamidů.  Nevýhody: Kevlar je nevhodný pro vlhké prostředí a ke stlačování. Je citlivý na UV záření, velmi tuhý, takže ke stříhání jsou nutné speciální nůžky. 
+
+
+=== Druhy vláken a jejich použití ===
+Vedle základních typů K29 a K49 se udávají například druhy
+K100 – Kevlar barvený ve hmotě
+K119 – vlákno s vyšší tažností a odolností proti únavě
+K129 – vlákno s vyšší pevností k balistickým účelům
+AP – o 15% vyšší pevnost než Kevlar 29
+
+
+== Výroba a zpracování vláken ==
+
+Kevlar se syntetizuje z monomeru parafenylendiaminu a tereftaloyl chloridu. Jako rozpouštědlo se používá N-methylpyrolidon. Výsledná kapalina se protlačuje tryskou a prochází vzduchovou štěrbinou do srážecí lázně. Ve druhém stupni výroby se vláknina dlouží při teplotách 300-400 °C.
+Vlákna se prodávají jako
+Filament v jemnostech 22–167 tex ve formě příze nebo rovingu 
+Stříž v jemnosti 1,7 dtex v délkách 38–50 mm 
+Sekaná vlákna (chopped) v délkách 1–100 mm 
+
+
+=== Textilie z kevlaru a jejich použití ===
+Staplové příze se vyrábí bavlnářským způsobem předení v jemnostech 25–1000 tex 
+Použití: šicí nitě, pleteniny na spodní prádlo, filtrace horkých plynů
+Šňůry a lana s použitím zejména při vysokých teplotách 
+Vynikající pevnost (více než 100 kN) dosahují kevlarová lana stáčená na tzv. planetárních  nebo tubulárních pramenicích.
+Tkaniny se vyrábějí v plátnové, keprové nebo atlasové vazbě, často jako směsové (hybridní) s osnovou z uhlíkových rovingů a útkem z kevlarových filamentů. 
+Použití: výztuž kompozitů a lamináty (ohnivzdorné oděvy, výztuže pneumatik, čluny, filtry atd.)
+
+Pleteniny s použitím na rukavice k ochraně proti pořezání a proti ohni,  výztuže kalhot pro motocyklisty  apod.
+Netkané textilie s použitím nejčastěji jako výztuže kompozitů 
+
+
+=== Příklady maloobchodních cen kevlarových textilií ===
+Ceny platné v USA v roce 2012:
+Tkanina v keprové vazbě (cca 200 g/m2) = 33 € / m2
+Směsová (hybridní) tkanina karbon/kevlar = 37 € / m2
+Splétaná kevlarová hadice (ø 5 cm) = 18 € / m
+Netkaná rouška (pavučinka) na lamináty (cca 10 g / m2) = 13 € / m2
+
+
+== Recyklování kevlaru ==
+Firma Teijin (která vyrábí konkurenční paraaramidové vlákno Twaron) organizuje sběr a recyklování použitých textilií s obsahem aramidových vláken všeho druhu. Od roku 2008 z nich vyrábí materiál Twaron Pulp 0701. 
+
+
+== Odkazy ==
+
+
+=== Reference ===
+
+
+=== Literatura ===
+Kießling/Matthes: Textil- Fachwörterbuch, Berlin 1993, ISBN 3-7949-0546-6, str. 208
+
+
+=== Externí odkazy ===
+ Obrázky, zvuky či videa k tématu Kevlar ve Wikimedia Commons
+Specifikace materiálu: Kevlar: http://www.odetka.cz/…
+(anglicky) DuPont, Welcome to Kevlar: http://www2.dupont.com/…

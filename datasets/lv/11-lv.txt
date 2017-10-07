@@ -1,0 +1,11 @@
+Refraktors (lēcu teleskops) ir optiskā teleskopa paveids, kura objektīvs sastāv no vienas vai vairākām lēcām.
+Refraktors ir teleskops, kas lauž vai liec gaismu, izmantojot lēcas. Šis lauzums liek paralēliem gaismas stariem saplūst fokusa punktā un tiem, kas nav paralēli, lūzt fokālajā plaknē. Tas dod iespēju redzēt tālus objektus skaidrāk un palielināti. Refraktori ir līdzīgi mikroskopiem. Monokulārs ir refraktora paveids.
+Parastajiem refraktoriem ir divas lēcas — objektīva un okulāra lēca. Objektīva lēca sastāv no diviem stikla gabaliem ar dažādu izkliedētspēju. Lēcu izliekumi ir izstrādāti tā, lai ierobežotu krāsu un sfērisko novirzi. Objektīva lēca ir izliekta, tas nozīmē, ka tās vidusdaļa ir biezāka, bet malas — plānākas. Šīs lēcas tiek izmantotas arī fotoaparātos, lai sakopotu gaismu vienā punktā, izveidojot reālu attēlu. Otra lēca, kas izmantota šajā teleskopā, ir okulāra lēca, kas palielina attēla izmēru kā ar palielināmo stiklu. Kad gaisma ceļo cauri objektīva lēcai, gaisma lūzt un izveido reālu attēlu tuvu okulāra lēcai, tad tā palielina attēlu.
+
+
+== Vēsture ==
+Vissenākie teleskopi bija tieši refraktori, ieskaitot slaveno un ļoti vienkāršo teleskopu, ko izgatavojis un izmantojis Galileo Galilejs 17. gadsimta sākumā. Ar to Galilejs atklājis četrus Jupitera pavadoņus.
+
+
+== Skatīt arī ==
+Teleskops

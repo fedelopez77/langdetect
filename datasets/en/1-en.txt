@@ -1,0 +1,20 @@
+Mass provisioning is a form of parental investment in which an adult insect, most commonly a hymenopteran such as a bee or wasp, stocks all the food for each of her offspring in a small chamber (a "cell") before she lays the egg. This behavior is common in both solitary and eusocial bees, though essentially absent in eusocial wasps.
+
+
+== Diversity ==
+In bees, stored provisions typically consist of masses of mixed pollen and nectar, though a few species store floral oils. In a few cases, such as stingless bees and some sweat bees, the number of cells in a single nest can number in the hundreds to thousands, but more typically a nest contains either a single cell, or a small number (fewer than 10).
+In predatory wasps, the food is typically in the form of paralyzed or dead prey items; after digging the nest they quickly catch one or a few prey animals, bring them to the nest and lay eggs on them, seal the nest and leave. Some wasp lineages (e.g. Crabronidae) show variation, with some species practicing mass provisioning, while related species may bring back prey after the egg has hatched, and then seal the nest (such "delayed provisioning" is considered to be a stage in the evolution of progressive provisioning and thus of parental care in insects), or re-open the nest and add more prey items as the larva grows, which is genuine progressive provisioning.
+In 1958, Howard E. Evans published a study of the nesting behaviour of Sphecini digger wasps, showing a range of ways of stocking their nests. In Prionyx, several Nearctic and Palaearctic species catch a grasshopper, and then dig a nest for it, so there is one prey per nest. The nest consists of a single cell, and the egg is laid touching the coxa of a hind leg. In contrast, a Neotropical species, P. spinolae, digs the nest first, creating multiple cells, and stocks each cell with 5–10 grasshoppers; the egg is laid on the underside of the thorax.
+No eusocial wasp species carries out mass provisioning in the strict sense, though the vespid wasp genus Brachygastra stores provisions of honey in its nests; the honey is used to supplement larval feeding (larvae are still fed masticated prey items, for protein), and also eaten by adults.
+The best-known examples from outside the Hymenoptera are dung beetles, which typically provision with either leaves or dung. Once the provisions are in place and the egg is laid, the cell is sealed, to protect the developing brood.
+
+
+== Social behaviour ==
+While mass provisioning is typical of some eusocial lineages, such as some sweat bees and all stingless bees, many other eusocial insects, such as ants and honey bees, instead practise progressive provisioning, where the larvae are fed directly and continually during their development; as such, both highly eusocial and primitively eusocial lineages can perform either type of provisioning.
+
+
+== References ==
+
+
+== Sources ==
+Wilson, E.O. (1971) The Insect Societies. Harvard, Belknap Press.

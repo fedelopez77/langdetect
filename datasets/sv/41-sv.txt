@@ -1,0 +1,13 @@
+c/o eller ℅ (från engelska ”care of”), är ett tillägg till adressen på ett brev, eller en annan postförsändelse, som anger att brevet för adressatens räkning skall tas om hand om en annan än denne.
+Typiska användningsfall är till exempel när post skall gå till en god man i stället för till dennes huvudman.
+Vanliga felaktiga användningar är till exempel för inneboende eller för personer som hyr lägenhet i andra hand, då istället deras namn skall läggas till på till exempel brevlådan, postboxen eller lägenhetsdörren.
+I Unicodestandarden finns ett särskilt tecken, ℅ (U+2105), som kan användas för c/o i datasammanhang.
+
+
+== Se även ==
+℆
+
+
+== Källor ==
+”Om Care Of adressering”. Post- och telestyrelsen. http://www.pts.se/sv/Privat/Post/Fa-brev-och-paket/Om-Care-Of-adressering/. Läst 10 juni 2017. 
+”Adressera”. PostNord Sverige AB. http://www.postnord.se/skicka-brev-och-paket/forbered-dig-hemma/adressera. Läst 10 juni 2017.

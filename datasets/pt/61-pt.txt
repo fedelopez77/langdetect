@@ -1,0 +1,167 @@
+Em estatística, o método de Jeffreys, regra de Jeffreys ou a priori de Jeffreys, nomeado em homenagem a Sir Harold Jeffreys é uma probabilidade a priori não informativa para um espaço de parâmetros definida como:
+
+  
+    
+      
+        
+          
+            π
+          
+          
+            θ
+          
+        
+        (
+        
+          
+            
+              θ
+              →
+            
+          
+        
+        )
+        ∝
+        
+          
+            det
+            
+              
+                I
+              
+            
+            
+              (
+              
+                
+                  
+                    θ
+                    →
+                  
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\pi }_{\theta }({\vec {\theta }})\propto {\sqrt {\det {\mathcal {I}}\left({\vec {\theta }}\right)}}}
+  ,
+onde:
+
+  
+    
+      
+        
+          
+            I
+          
+        
+        
+          (
+          
+            
+              
+                θ
+                →
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\mathcal {I}}\left({\vec {\theta }}\right)}
+   é a matriz de informação de Fisher;
+
+  
+    
+      
+        det
+      
+    
+    {\displaystyle \det }
+   é a função determinante.
+Isto é, a priori 
+  
+    
+      
+        
+          
+            π
+          
+          
+            θ
+          
+        
+        (
+        
+          
+            
+              θ
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {\pi }_{\theta }({\vec {\theta }})}
+   de Jeffreys é proporcional (
+  
+    
+      
+        ∝
+      
+    
+    {\displaystyle \propto }
+  ) a raiz quadrada do determinante da matriz de informação de Fisher.
+Esta regra possui a propriedade da invariância a transformações 1 a 1 do vetor paramétrico 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  . Ou seja, se for feita uma transformação inversível da forma 
+  
+    
+      
+        ϕ
+        =
+        g
+        (
+        
+          
+            
+              θ
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \phi =g({\vec {\theta }})}
+  , tanto calculando-se a priori para 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   e depois fazendo-se a transformação quanto aplicando-se a regra de Jeffreys, obtém-se a mesma priori para 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  .
+
+
+== Referências ==

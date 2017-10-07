@@ -1,0 +1,6 @@
+Svari ir mērinstruments kāda objekta svara vai masas noteikšanai. Svari var būt dažādu veidu (sviras, atsperes, elektroniskie), tāpat svariem ir dažāda precizitāte, kas atkarīga no svaru veida, un mērīšanas apjoms. Mūsdienās visizplatītākie ie elektroniskie svari. Elektroniskie svari sastāv no svaru devēja un svaru vadības bloka.
+
+
+== Vēsture ==
+
+Senākie zināmie svari ir tikuši izmantoti jau 2400.—1800. gadā p.m.ē. Par senākajiem svariem tiek uzskatīti sviras svari, kur mērāmā objekta svars/masa tiek salīdzināta ar cita objekta svaru/masu.

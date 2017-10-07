@@ -1,0 +1,8 @@
+Voltmetrs (elektriskajā ķēdē apzīmē ar riņķa līnijā ievilktu burtu V) ir mērierīce, ko izmanto elektriskās strāvas sprieguma mērīšanai. Analogie voltmetri pārvieto rādītāju pa skalu proporcionāli elektriskās ķēdes spriegumam. Digitālie voltmetri rāda skaitlisku sprieguma attēlojumu, izmantojot analogo uz digitālo strāvas pārveidotāju. Sprieguma mērīšanai var izmantot arī digitālo multimetru. Voltmetri tiek ražoti plašā klāstā un ir daudz dažādi to tipi. Voltmetra spailes vienmēr ir jāpieslēdz tiem diviem elektriskās ķēdes punktiem, starp kuriem spriegums ir jāizmēra.
+
+
+== Vēsture ==
+Alesandro Volta bija itāļu fiziķis, kas kļuva slavens ar to, ka 1800. gadā izgudroja galvanisko jeb Voltas bateriju. Tā bija pirmā ierīce, ar ko varēja iegūt pastāvīgu elektrisko strāvu. Viņa vārdā arī nosaukti volti. 1954. gadā Endrjū Kijs izgudroja digitālo voltmetru, pēc tam, kad saprata, ka analogie voltmetri nav pietiekami precīzi.
+
+
+== Atsauces ==

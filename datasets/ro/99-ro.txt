@@ -1,0 +1,20 @@
+În chimia organică, un tiol este un compus organic care conține unul sau mai mulți atomi sulf, legați de catena de carbon prin legături de tipul R–SH (unde R reprezintă un radical alchil sau un alt substituent organic, iar -SH este o grupă sulfhidril). Tiolii sunt compușii analogi ai alcoolilor, dar conțin grupa sulfhidril -SH în locul grupării hidroxil -OH, iar denumirea lor provine de la „theion” (θεῖον) și sufixul -ol, primul cuvânt fiind echivalentul grecesc pentru sulf. 
+Mercaptanii sunt adăugați în gazele combustibile, întrucât au un miros extrem de neplăcut și ajută la semnalarea pierderii accidentale de gaz. Un tiol adesea folosit în acest domeniu este terț-butiltiolul (sau 2-metil-2-propantiol). Mirosul este asemănător celui de usturoi sau de ouă stricate.
+
+
+== Nomenclatură ==
+Tiolii mai sunt denumiți câteodată mercaptani. Denumirea de mercaptan a fost introdusă în 1832 de William Christopher Zeise și este derivată de la cuvintele latinești mercurium captāns. 
+Tiolii se denumesc asemănător alcoolilor, indicând hidrocarbura de la care provine și adăugând sufixul -tiol. De asemenea, se mai pot denumi și adăugând sufixul -mercaptan la numele radicalului hidrocarbonat.  Astfel, CH3-SH poate fi denumit metantiol sau metilmercaptan. Alte exemple de tioli sunt: cisteina, etantiolul (etilmercaptan), propantiolul (propilmercaptan), tiofenolul, coenzima A și glutationul.
+
+
+== Proprietăți ==
+Tiolii formează săruri numite mercaptide. Astfel, prin reacția cu hidroxidul de sodiu se formează săruri de forma R-SNa, iar prin reacția cu mercurul și alte metale grele se formează săruri de forma (R-S)2Hg.  Ca și hidrogenul sulfurat, tiolii sunt sensibili la autoxidare, formând disulfuri. Oxidarea mai energică duce la acizi sulfinici și sulfonici.
+
+
+== Vezi și ==
+Alcool
+Tioeter
+Tial
+
+
+== Referințe ==

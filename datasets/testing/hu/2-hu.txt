@@ -1,0 +1,23 @@
+A 76 (hetvenhat) a 75 és 77 között található természetes szám.
+
+
+== A szám a matematikában ==
+A tízes számrendszerbeli 76-os a kettes számrendszerben 1001100, a nyolcas számrendszerben 114, a tizenhatos számrendszerben 4C alakban írható fel.
+A 76 páros szám, összetett szám. Kanonikus alakja 22 · 19, normálalakban a 7,6 · 101 szorzattal írható fel. Hat osztója van a természetes számok halmazán, ezek növekvő sorrendben: 1, 2, 4, 19, 38 és 76.
+Középpontos ötszögszám. Tizennégyszögszám.
+Lucas-szám.
+Nontóciens szám.
+Mivel található olyan 76 egymást követő egész szám, amelynél minden belső számnak van közös prímtényezője akár az első, akár az utolsó taggal, a 76 Erdős–Woods-szám.
+A 76 három szám valódiosztó-összegeként áll elő, ezek a 48, 92 és 146.
+
+
+== A tudományban ==
+A periódusos rendszer 76. eleme az ozmium.
+
+
+== Források ==
+Möbius and Mertens values for n=1 to 2500
+http://www.wolframalpha.com (EulerPhi, Divisors, SumDivisors)
+
+
+== Jegyzetek ==

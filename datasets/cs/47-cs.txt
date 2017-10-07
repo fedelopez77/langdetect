@@ -1,0 +1,38 @@
+Bytové družstvo je typem družstva, které úzce souvisí s bydlením. Obecně je družstvo definováno jako právnická osoba věnující se podnikání a zajišťující potřeby svých členů (například sociální), s možností věnovat se kterékoli hospodářské činnosti.
+Bytové družstvo je určeno k zajišťování bytových služeb svých členů. Takovéto družstvo musí vždy nést označení „bytové družstvo“ a nesmí být, mimo zvláštní případy, kdy je to umožněno zákonem, založeno za jiným účelem, než je právě zajišťování bytových služeb členů družstva. Tímto zamezením podnikatelské činnosti se bytové družstvo odlišuje od jiných typů družstev.
+
+
+== Funkce bytového družstva ==
+Zajišťování bytových potřeb členů
+Spravování domů, bytů a nebytových prostor, které vlastní jiné osoby (v omezeném rozsahu)
+Provozování dalších činností, ve výjimečných případech i podnikatelských, a to za předpokladu, že neohrozí bytové potřeby svých členů; podnikatelská činnost navíc může být pouze vedlejší (nikoli hlavní).
+
+
+== Členství ==
+Členem bytového družstva je osoba, která splní či převezme vkladovou povinnost, a to ve výši dalšího členského vkladu, danou ve stanovách. Stát se jím může fyzická či právnická osoba, záleží však na stanovách daného bytového družstva, které právnickou osobu nemusí přijmout. V případě manželů je zde tzv. společné členství v bytovém družstvu. Pokud se toto společné členství manželů změní na členství jen jednoho z nich, nezaniká tím společné nájemní právo; toto právo zůstává a vychází z práva nájmu toho z manželů, který je i výlučným členem daného družstva.
+
+
+=== Práva a povinnosti členů ===
+Právo uzavření smlouvy o nájmu družstevního bytu na dobu neurčitou
+Právo na stanovení nájemného
+Povinnost hradit náklady na opravy či rekonstrukce těch domů, které obývají
+Člena bytového družstva lze vyloučit v případě, že poruší některou z povinností, které vyplývají z nájmu, nebo v případě, že byl tento člen odsouzen za úmyslný trestný čin, který spáchal na některé z osob žijících v domě nebo jejich majetku, případně na celém družstvu. Tím se vyloučenému členovi znemožňuje také uzavřít smlouvu nájemní. Existují i obecné způsoby zániku členství vztahující se i na společné členství manželů. Zde je dále možné členství ukončit také vypořádáním společného jmění. Dále platí, že v případě zániku členství toho z manželů, který byl zodpovědný za společné nájemní právo, se zánik tohoto nájemního práva vztahuje i na druhého manžela.
+
+
+== Družstevní byt ==
+Družstevní byt, případně družstevní nebytový prostor, je takový, který:
+Nachází se v budově ve (spolu)vlastnictví bytového družstva
+Je ve (spolu)vlastnictví bytového družstva a zároveň byl pronajat členovi družstva, který se podílel za pomoci členského vkladu na jeho pořízení (podílet se mohl i předchůdce nájemce)
+Je umístěn v jiné nemovitosti než v té, kterou vlastní družstvo, avšak člen bytového družstva se na pořízení takového bytu podílel členským vkladem v rámci družstevní bytové výstavby; podmínkou je, aby bytové družstvo mělo k takovému bytu právo, jenž odpovídá věcnému břemenu
+V případě zájmu o nájem družstevního bytu je mezi družstvem a jeho členem uzavřena nájemní smlouva, a to za podmínek, které stanovuje zákon o obchodních korporacích.
+
+
+== Odkazy ==
+
+
+=== Reference ===
+
+
+=== Literatura ===
+NOVOTNÝ, Marek; HORÁK, Tomáš; HOLEJŠOVSKÝ, Josef; OEHM, Jaroslav. Bytové spoluvlastnictví a bytová družstva. Komentář. Praha : C. H. Beck, 2016. 401 s. ISBN 978-80-7400-602-9.  
+DVOŘÁK, Tomáš. Bytové družstevnictví. Praha : C. H. Beck, 2017. 208 s. ISBN 978-80-7400-643-2.

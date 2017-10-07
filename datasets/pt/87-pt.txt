@@ -1,0 +1,24 @@
+Peter Jay Weinberger é um Cientista da Computação que trabalha na Google. É um dos criadores da linguagem de programação AWK
+
+
+== Biografia ==
+Ele recebeu seu PhD em matemática (teoria dos números), em 1969 da Universidade da Califórnia, Berkeley sob orientação de Derrick Henry Lehmer com a sua tese intitulada "Proof of a Conjecture of Gauss on Class Number Two" (Prova de uma conjectura de Gauss na classe número dois). Depois de deter uma posição no Departamento de Matemática da Universidade de Michigan, Ann Arbor, onde continuou seu trabalho em teoria analítica dos números, ele se mudou, em 1976, para a AT&T Bell Labs.
+Lá, ele contribuiu para a concepção da pioneira linguagem de programação AWK (onde ele é o "W" em AWK). Uma explicação detalhada de suas contribuições para a linguagem AWK e outras ferramentas Unix podem ser encontradas nesta transcrição de entrevista na Universidade de Princeton. Outra entrevista Laurianne McLaughlin, "From AWK to Google: Peter Weinberger Talks Search," IEEE Security & Privacy, vol. 3, no. 5, Setembro/Outubro 2005, pp. 11-13 lança alguma luz sobre o seu trabalho no Google.
+Ambas as entrevistas também confirmam os rumores sobre sua participação no início da fotografia digital, em especial o abuso de uma fotografia de seu rosto para demonstrar os efeitos da imagem digital. Quando Peter Weinberger foi promovido a chefe de Pesquisa de Ciência da Computação na Bell Labs, sua imagem foi fundida com o logo "estrela da morte" da AT&T de meados dos anos 80, criando a imagem PJW Face, que já apareceu em inúmeros locais, incluindo t-shirts, canecas, CDs, e pelo menos uma torre de água. As faces PJW remanescentes na Bell Labs estão um pouco precárias, mas há planos para a repará-las.
+Antes de ingressar na Google Peter Weinberger foi diretor de tecnologia da Renaissance Technologies.
+Peter Weinberger tem um Número de Erdős 2.
+
+
+== Ver também ==
+AWK
+
+
+== Bibliografia ==
+AHO, Alfred V.; KERNIGAN, Brian K.; WEINBERGER, Peter J. (1988). The AWK Programming Language. Reading, Massachusetts, EUA: Addison-Wesley. 210 páginas. ISBN 0-201-07981-X  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sítio Web dedicado a PJW

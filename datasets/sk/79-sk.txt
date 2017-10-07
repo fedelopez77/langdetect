@@ -1,0 +1,12 @@
+Elektronické peniaze (iné názvy: e-peniaze, elektronická hotovosť, elektronická mena, digitálne peniaze, digitálna hotovosť, digitálna mena) sú peniaze, ktoré sa vymieňajú výhradne elektronicky. Využívajú sa hlavne pri používaní počítačových sieti, internetu. Elektronický prevod peňazí (EFT), kreditné či debetné karty sú príkladom elektronických peňazí.
+Technicky sú elektronické peniaze reprezentáciou, alebo systémom debetov a kreditov, používaných najmä na výmenu hodnoty s iným systémom alebo samotným systémom, na ktorom sa nachádzajú.
+Niektoré súkromné organizácie, ako napríklad Americká armáda, používajú svoju vlastnú súkromnú menu nazývanú Eagle Cash. Súkromná mena môže byť na zvýšenie bezpečnosti krytá zlatom, potom hovoríme o zlatých elektronických peniazoch. Systém elektronických peňazí môže byť úplne krytý zlatom, čiastočne krytý alebo vôbec nemusí byť krytý zlatom.
+Veľa systémov predáva elektronické peniaze priamo svojim koncovým používateľom ako napríklad PayPal, Payza a Web Money, ale niektoré, ako napríklad e-Gold, na to využívajú výlučne tretie strany nazývané digital currency exchangers. Digital currency exchangers sú nezávislí obchodníci, ktorí obchodujú na trhoch a vymieňajú elektronické peniaze za nekryté peniaze (teda peniaze, ktoré majú hodnotu na základe prísľubu vlády alebo si ich vláda vyžaduje napr. pri platení daní).
+So vznikom elektronických peňazí sa otvorilo veľa nových možností ako napríklad Ripple monetary system. Je to projekt, ktorý vyvíja distribuovaný systém elektronických peňazí, ktorý bude nezávislý od lokálnej meny. Vynorilo sa aj veľké množstvo otázok napríklad so zabezpečením proti krádeži, inflácií a podobne.
+
+
+== Externé odkazy ==
+e-Gold
+Pay Pal
+Payza
+Web Money

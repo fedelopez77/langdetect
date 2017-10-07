@@ -1,0 +1,79 @@
+A csípőbél (ileum) a vékonybél harmadik szakasza, a jejunum és a vastagbél között helyezkedik el.
+
+
+== Etimológia ==
+ileum jelentése görögül (eileo): összenyomom, csavarom
+
+
+== Embriológia ==
+A csípőbél az embrionális középbélből fejlődik ki.
+A szikhólyag és a foetalis bél között összeköttetés van, amely az 5. embrionális héten záródik és eltűnik, ha nem Meckel-divertikulum formájában fennmaradhat.
+
+
+== Méretek ==
+hossza: 2-4 m
+átmérője: 2-2,5 cm
+
+
+== Anatómia ==
+
+
+=== Ér- és idegellátás ===
+
+
+==== Vérellátás ====
+
+A csípőbél vérellátását az a. mesenterica superior végzi:
+aa. ileales: 5-10 rövid és vékony artéria
+Az ileum végének (terminalis ileum) vérellátása sajátos: az utolsó ileumkacs, valamint a hozzá tartozó mesenterium vérellátása szegényes (Treves-féle avasculris rész). Az utolsó ileum artéria és az a. ileocolica ilealis ága között anasztomózis áll fenn.
+
+A mesenteriumban az ellátó artérák két ágra oszlanak, és az egymással szomszédos artériák érárkádokat hoznak létre. A jejunumtól a coecum (vakbél) irányába egyre több artériás árkádot képeznek, a terminális ileum szintjén akár 5 árkádot is. Az utolsó árkád, a bél szélétől néhány centiméterre a béllel párhuzamosan halad, ebből a bélre merőleges artériák indulnak, ezek a Dwight-féle egyenes erek. Az egyenes erek kb. 4 mm távolságra erednek egymástól, párban vagy eredés után oszlanak két ágra, amelyek majd a bél jobb és bal oldalán haladnak körbe. A belet elérve átfúrják a muscularis réteget, és a submucosában hálózatot alkotnak, majd a mucosa irányába ágakat adnak.
+
+
+==== Vénás elvezetés ====
+
+A vénák nagyjából az artériákat követik, számuk kisebb, mint az artériáké, egymással gazdag anasztomózis rendszert alakítanak ki, az éhbél vénáival egyesülve a v. mesenterica superior alkotásában vesznek részt.
+tr. intermedialis: ferdén felfelé és jobbra tart, az jejunoilealis átmenet vérét gyűjti.
+tr. ilealis: függőleges ágakból szedődik össze (vv. ileales), az ileum kacsok vérét drénezi.
+v. ileocolica: az utolsó ileum kacstól ered.
+
+
+==== Nyirokkeringés ====
+A nyirokkeringés három hálózattal (mucosa, submucosa, subserosa szintjén) veszi kezdetét.
+A nyirokcsomók 3 csoportban helyezkednek a nyirokutak mentén:
+Perifériás (Nodii lymphatici mesenterici juxtaintestinales): a mesenteriumban, a bél és az utolsó artériás árkád között helyezkednek el.
+Intermedialis: az első érárkádok mentén vannak.
+Centrális (Nodii lymphatici mesenterici centrales / superiores): a mesenterium gyökben, az a. és v. mesenterica superior körül helyezkednek el.
+
+
+==== Beidegzés ====
+Szimpatikus:
+
+plexus coeliacus
+plexus mesentericus superior
+
+Paraszimpatikus:
+
+nervus vagus
+
+
+=== Szövettan ===
+A jejunum falának felépítése hasonló a vékonybél többi részéhez (részletesen lásd ott). Néhány különbség figyelhető meg szabad szemmel és mikroszkopikusan:
+átmérője kisebb
+mesenteriumában több zsírszövet található
+belső felszínén számos nyálkahártyaredő látható, de kevesebb, mint az éhbélen
+a bélbolyhok rövidebbek és gyérebbek, mint az éhbélben
+sok Peyer-plakk és kehelysejt található
+submucosában nincsenek Brunner-mirigyek
+a serosa szinte körkörösen borítja
+
+
+== Élettan ==
+Ahogyan jól körülírt strukturális határ nincs a jejunum és ileum között, így nincs jelentős különbség a funkcióban sem.
+
+
+== Források ==
+Seres-Sturm L., Costache M. – Anatomia abdomenului, Târgu Mureş, 2001, 103-110 o.
+Littmannn I. – Sebészeti műtéttan, Medicina Könyvkiadó, Budapest, 1977, 421-422 o.
+Altorjay Áron (Kiss János szerkesztésében) – Gastroenterologiai sebészet, Medicina Könyvkiadó, Budapest, 2002, 397-398 o.
+Vékonybél, angol wikipedia
