@@ -7,33 +7,33 @@ Given a text, it returns a list of tuples of length `MAX_RESULTS`, sorted accord
 
 - Library usage:
 
-    
-    >>> text = """Automatic summarization is the process of reducing a text document with a
-    computer program in order to create a summary that retains the most important points
-    of the original document. As the problem of information overload has grown, and as
-    the quantity of data has increased, so has interest in automatic summarization.
-    Technologies that can make a coherent summary take into account variables such as
-    length, writing style and syntax. An example of the use of summarization technology
-    is search engines such as Google. Document summarization is another."""
+```python
+>>> text = """Automatic summarization is the process of reducing a text document with a
+computer program in order to create a summary that retains the most important points
+of the original document. As the problem of information overload has grown, and as
+the quantity of data has increased, so has interest in automatic summarization.
+Technologies that can make a coherent summary take into account variables such as
+length, writing style and syntax. An example of the use of summarization technology
+is search engines such as Google. Document summarization is another."""
 
-    >>> import langdetect as ld
-    >>> print ld.detect_language(text)
-    [('en', 0.8657936828582331), ('fr', 0.11200285727639105), ('es', 0.022203459865375846)]
-
+>>> import langdetect as ld
+>>> print ld.detect_language(text)
+[('en', 0.8657936828582331), ('fr', 0.11200285727639105), ('es', 0.022203459865375846)]
+```
 
 Since building the models for every language it is a time consuming operation, to perform many detections it is better to use:
 
-    
-    >>> profiles = ld.create_languages_profiles()
-    >>> ld.detect_language(text, profiles)
-
+```python
+>>> profiles = ld.create_languages_profiles()
+>>> ld.detect_language(text, profiles)
+```
 
 - Command-line usage:
 
-    
-    cd path/to/folder/langdetect/
-    python langdetect.py -f FILE
-    
+```    
+cd path/to/folder/langdetect/
+python langdetect.py -f FILE
+``` 
 
 ## Datasets
 The datasets to train, validate and test the software were collected with [this scrapper](https://github.com/fedelopez77/langdetect/tree/master/datasets/wikiscrapper.py) from Wikipedia articles.
