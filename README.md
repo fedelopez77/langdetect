@@ -17,8 +17,8 @@ Given a text, it returns a list of tuples of length `MAX_RESULTS`, sorted accord
     is search engines such as Google. Document summarization is another."""
 
     >>> import langdetect as ld
-    >>> ld.detect_language(text)
-    COPIAR Y PEGAR LA SALIDA
+    >>> print ld.detect_language(text)
+    [('en', 0.8657936828582331), ('fr', 0.11200285727639105), ('es', 0.022203459865375846)]
 
 
 Since building the models for every language it is a time consuming operation, to perform many detections it is better to use:
@@ -30,13 +30,13 @@ Since building the models for every language it is a time consuming operation, t
 
 - Command-line usage:
 
-
+    
     cd path/to/folder/langdetect/
     python langdetect.py -f FILE
-
+    
 
 ## Datasets
-The datasets to train, validate and test the software were collected with [this scrapper](link_to_scrapper) from Wikipedia articles.
+The datasets to train, validate and test the software were collected with [this scrapper](https://github.com/fedelopez77/langdetect/tree/master/datasets/wikiscrapper.py) from Wikipedia articles.
 
 ## Available Languages
 | Language      | Code          |
