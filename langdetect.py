@@ -1,6 +1,8 @@
 # encoding: cp850
 
 import os
+import sys
+import getopt
 import re
 import string
 import operator
@@ -93,7 +95,8 @@ def create_profile_dict(sorted_ngrams):
     :return: dictionary of {ngram: (freq, order)}
     """
     profile = {}
-    for i in xrange(MAX_AMOUNT_OF_NGRAMS):
+    iterations = MAX_AMOUNT_OF_NGRAMS if len(sorted_ngrams) >= MAX_AMOUNT_OF_NGRAMS else len(sorted_ngrams)
+    for i in xrange(iterations):
         ngram, freq = sorted_ngrams[i]
         profile[ngram] = freq, i
     return profile
@@ -138,17 +141,6 @@ def measure_all_distances(profiles, profile_text):
         result.append((language, distance))
     return result
 
-#
-# def process_results(result):
-#     """
-#     :param result: list of (language, distance)
-#     :return: sorted list of length MAX_RESULTS of language and the probability of that language being the right match
-#     """
-#     sorted_result = sorted(result, cmp=lambda x,y: cmp(x[1], y[1]))[0:MAX_RESULTS]
-#
-#     inverted_scores = [1 / float(elem[1]) for elem in sorted_result]
-#     total = sum(inverted_scores)
-#     return zip([x[0] for x in sorted_result],[y / total for y in inverted_scores])
 
 def process_results(result):
     """
@@ -166,14 +158,53 @@ def process_results(result):
     return zip([x[0] for x in sorted_result],[y / total for y in inverted_scores])
 
 
-def detect_language(profiles, profile_text):
+def detect_language(text, profiles=None):
+    if not profiles:
+        profiles = create_languages_profiles()
+
+    profile_text = create_text_profile(text)
+
     results = measure_all_distances(profiles, profile_text)
     return process_results(results)
 
 
-def main(text):
-    #text = get_text()   # Conseguir el texto de alguna forma
-    profiles = create_languages_profiles()
-    profile_text = create_text_profile(text)
+def get_arguments():
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], "f:h", ["file=", "help"])
+    except getopt.GetoptError as err:
+        print str(err)
+        usage()
+        sys.exit(2)
 
-    return detect_language(profiles, profile_text)
+    for o, a in opts:
+        if o in ("-f", "--file"):
+            return a
+        elif o in ("-h", "--help"):
+            usage()
+            sys.exit()
+        else:
+            assert False, "unhandled option"
+
+
+help_text = """Usage: python langdetect.py -f FILE
+-f FILE, --file=FILE:
+\tPATH to text file to detect language
+-h, --help:
+\tprints this help
+"""
+def usage():
+    print help_text
+
+
+def main():
+    file_path = get_arguments()
+
+    with open(file_path) as file_text:
+        text = file_text.read()
+    file_text.close()
+
+    print detect_language(text)
+
+
+if __name__ == "__main__":
+    main()

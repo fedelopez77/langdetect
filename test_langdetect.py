@@ -3,16 +3,14 @@ import os
 
 import langdetect as ld
 
-# Lo que quiero hacer es probar contra el lote de train y luego contra uno de test para ver la precision de los
-# resultados.
-# Luego, puedo hacer un grid search contra el lote de test.
+TESTING_LANGUAGES = {"en", "es", "fr", "ar"}
 
 
 def test_data(profiles, dir_path):
     right = 0
     wrong = 0
     print "Test in %s" % dir_path
-    for language in ld.LANGUAGES:
+    for language in TESTING_LANGUAGES:
         print "Language:", language
 
         lang_right = 0
@@ -22,8 +20,7 @@ def test_data(profiles, dir_path):
             with open(path + filename, 'r') as f:
                 text = f.read()
                 f.close()
-                profile_text = ld.create_text_profile(text)
-                results = ld.detect_language(profiles, profile_text)
+                results = ld.detect_language(text, profiles)
                 detected_language = results[0][0]
 
                 if detected_language == language: lang_right += 1
