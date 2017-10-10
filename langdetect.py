@@ -194,7 +194,7 @@ def get_arguments():
 help_text = """Usage: python langdetect.py -f FILE
 -f FILE, --file=FILE:
 \tPATH to text file to detect language
--h, --help:
+-h, --help: 
 \tprints this help
 """
 def usage():
