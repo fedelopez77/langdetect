@@ -1,18 +1,29 @@
-Rolf Johan Widerøe (født 22. november 1969) er en norsk journalist og forfatter. Han jobber som krimjournalist i VG og har dekket det norske kriminelle miljøet i en årrekke, og har utgitt en bok om NOKAS-ranet.
+Hawala (fra arabisk حوالة DIN: ḥawāla «veksel / endring») er en metode eller et system for overføring av verdier og/eller betalingsformidling mellom ulike land.
 
 
-== SKUP-prisen ==
-Widerøe har fått SKUP-prisen flere ganger. I 2001 fikk han SKUP-diplom for sine avsløringer om polititysteren som påtalemyndigheten har latt slippe straffeforfølgelse for blant annet væpnet ran og besittelse av heroin. I 2004 fikk han den sammen med Tor Strand for å ha avdekket kriminelle forhold i forbindelse med Lucia-stiftelsen i 2003. I 2003 dekket han også en sak for VG om at norsk-kenyaneren Koigi wa Wamwere hevet uføretrygd fra Norge samtidig som han var heltidspolitiker i Kenya.
+== Omfang ==
+Systemet brukes oftest hvor betalingsmottakerne bor i land som ikke har et normalt fungerende bankvesen eller hvor innførsel av valuta av andre grunner er forbundet med problemer, som for eksempel i Somalia. Hawalasystemet har i stor utstrekning vært brukt av emigranter fra slike land (typisk fremmedarbeidere, flyktninger, asylsøkere o.l.) for å overføre penger til familiemedlemmer i hjemlandet.
 
 
-== Bibliografi ==
-Dødsranet. David Toska og veien til NOKAS 2009 ISBN 9788205391109 Sammen med Hans Petter Aass
-Krigshelten. Historien om marinejegeren og etterretningsagenten Trond Bolle 2012 ISBN 9788205424272 Sammen med Hans Petter Aass
-"Kuppet. På innsiden av Norges mektigste mafiafamilie" sammen med Hans Petter Aass
+== Organisering ==
+Hawala organiseres gjerne ved at penger innbetales til en betrodd person (innsamler) i landet hvor betaleren oppholder seg. Innsamleren har kontakt over telefon, telefaks eller e-post med en hawala-sentral/kontor i mottakerlandet som bemyndiges til å utbetale tilsvarende hva innsamleren har mottatt i en gangbar valuta til oppgitte mottakere. Tradisjonelt vil mottakerne ha kjennskap til et «kodeord» som de bruker for å identifisere seg for hawalasentralen, slik at sentralen vet at pengene utbetales til rett person.
+Hawalasentralen får oppgjør for sine utlegg på flere ulike måter:
+Innsamleren betaler tilsvarende beløp til mellommenn i naboland som bringer (muligens smugler) valuta fysisk over til mottakerlandet.
+Hawalasentralen kjøper varer fra leverandører i utlandet som mottar oppgjør fra innsamleren. Varene leveres i mottakerlandet, enten til hawalasentralen, eller forbrukere som betaler hawalasentralen.
+Omkostninger som påløper og eventuelle provisjoner til mellomleddene beregnes og belastes normalt overfor betalerne i avsenderlandet.
+
+
+== Juridisk vurdering ==
+Hawalavirksomhet lovreguleres ulikt fra land til land. I Norge er virksomheten ikke i prinsippet kriminell, men vil i praksis bare være tillatt dersom den er basert på konsesjon i henhold til lov om finansieringsvirksomhet. Det kreves i utgangspunktet en grunnkapital på minimum € 5 000 000 for å få slik konsesjon, og virksomheten vil bl.a. være regulert av hvitvaskingsloven. I flere tilfeller er personer som har drevet hawalavirksomhet i Norge blitt straffedømt.
+
+
+== Se også ==
+Aval
 
 
 == Referanser ==
 
 
 == Eksterne lenker ==
-Forfatterside hos Gyldendal
+Andreas Bakke Foss: Vil legalisere Hawala. Aftenposten 3. mars 2008
+VG: Stortingsflertall vil legalisere hawala, 11. mars 2008

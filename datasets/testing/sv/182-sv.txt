@@ -1,0 +1,63 @@
+Ett förband är en sammanfogning av två beståndsdelar i en teknisk anordning. Det finns många olika typer av förband, som har olika egenskaper när det gäller ekonomi, hållfasthet med mera.
+
+
+== Typer av förband ==
+svetsförband
+limförband
+lödning
+murförband
+bomförband
+kilförband
+Träförbindningar med beslag
+
+
+=== Förband med genomgående komponenter ===
+spikförband
+skruvförband
+nitförband
+dymlingsförband
+söm
+
+
+== Träförband ==
+knutförband
+spikförband
+skruvförband
+bultförband
+dymlingsförband
+limförband
+
+
+=== Förbindningar i möbler ===
+limfog
+falsning
+notspår
+notspår med lös sleif
+notspår och fjäder
+
+gradning
+tappning
+nagel och kil
+nagel och slits
+
+
+=== Ramförbindningar ===
+slits med tapp eller fjäder
+centrumtappar
+ramar med fals
+
+
+=== Sinkning ===
+öppen sinkning
+halvförtäckt sinkning
+helförtäckt sinkning
+
+
+== Se även ==
+gänga
+kardborreband
+
+
+== Externa länkar ==
+
+ Wikimedia Commons har media som rör Förbandsteknik.

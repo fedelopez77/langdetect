@@ -1,0 +1,242 @@
+Kontiinumi hüpotees ehk kontiinuumi hüpotees ehk kontiinumhüpotees ehk kontiinuumhüpotees (inglise keeles continuum hypothesis, lühend CH) on hulgateoorias järgmine väide:
+Ei eksisteeri hulka, mille võimsus oleks suurem kui täisarvude hulga võimsus ja väiksem kui reaalarvude hulga võimsus.
+Selle väite sõnastas esimest korda Georg Cantor hüpoteesina 1878. Kontiinumi hüpoteesi tõesuse või vääruse tõestamine oli üks 23 Hilberti probleemist, mis ta sõnastas 1900. Kurt Gödeli tulemus aastast 1940 ning Paul Coheni tulemus aastast 1963 näitavad, et Zermelo-Fraenkeli aksiomaatika (ZFC) alusel ei tõestada ei kontiinumi hüpoteesi väärust ega tõesust, juhul kui see aksiomaatika on kooskõlaline.
+Väite nimetus tuleb reaalsirge nimetusest "kontiinum".
+
+
+== Lõpmatute hulkade võimsus ==
+Kahel hulgal öeldakse olevat sama võimsus, kui nende vahel on üksühene vastavus (bijektsioon). Näitlikult öeldes on hulkadel S ja T sama võimsus, kui hulga S elemendid saab hulga T elementidega niimoodi paari panna, et hulga S iga element saab paariliseks parajasti ühe elemendi hulgast T ja ümberpöördult.
+Lõplike hulkade puhul on üksühese vastavuse näitamine põhimõtteliselt lihtne, lõpmatute hulkade (näiteks täisarvude hulk ja ratsionaalarvude hulk) on see keerukam. Ratsionaalarvude hulk on näiliselt vastunäide kontiinumi hüpoteesile: täisarvude hulk on ratsionaalarvude hulga pärisalamhulk ning ratsionaalarvude hulk on reaalarvude hulga pärisalamhulk, mistõttu tekib intuitiivne mulje, et ratsionaalarve on rohkem kui täisarve ja reaalarve on rohkem kui ratsionaalarve. Ent see intuitiivne kaalutlus ei võta arvesse asjaolu, et kõik kolm hulka on lõpmatud hulgad. Osutub, et tegelikult saab ratsionaalarvud täisarvudega üksühesesse vastavusse seada, nii et ratsionaalarvude hulgal ja täisarvude hulgal on sama võimsus: mõlemad on loenduvad hulgad.
+Cantor tõestas kahel viisil, et täisarvude hulga võimsus on rangelt väiksem kui reaalarvude hulga võimsus (vaata Cantori esimene mitteloenduvuse tõestus ja Cantori diagonaaltõestus). Tema tõestused ei näita aga üldse, "kui palju" täisarvude hulga võimsus on reaalarvude hulga võimsusest väiksem. Cantor pakkus selle küsimuse võimaliku vastusena välja kontiinumi hüpoteesi.
+See hüpotees ütleb, et reaalarvude hulgal on kõige väiksem võimalik võimsus, mis on täisarvude hulga võimsusest suurem. Teiste sõnadega, kuna täisarvude hulga võimsus on kardinaalarv 
+  
+    
+      
+        
+          ℵ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \aleph _{0}}
+   (alef-null) ja reaalarvude hulga võimsus on kontiinumi võimsus 
+  
+    
+      
+        
+          2
+          
+            
+              ℵ
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle 2^{\aleph _{0}}}
+  , siis kontiinumi hüpotees ütleb, et ei ole olemas hulka 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  , mille korral
+
+  
+    
+      
+        
+          ℵ
+          
+            0
+          
+        
+        <
+        
+          |
+        
+        S
+        
+          |
+        
+        <
+        
+          2
+          
+            
+              ℵ
+              
+                0
+              
+            
+          
+        
+        .
+        
+      
+    
+    {\displaystyle \aleph _{0}<|S|<2^{\aleph _{0}}.\,}
+  
+Kui eeldada valikuaksioomi, siis on olemas vähim kardinaalarv, mis on suurem kui 
+  
+    
+      
+        
+          ℵ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \aleph _{0}}
+  , (tähis 
+  
+    
+      
+        
+          ℵ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \aleph _{1}}
+  , vaata alef-numbrid) ning kontiinumi hüpotees on samaväärne võrdusega
+
+  
+    
+      
+        
+          2
+          
+            
+              ℵ
+              
+                0
+              
+            
+          
+        
+        =
+        
+          ℵ
+          
+            1
+          
+        
+        .
+        
+      
+    
+    {\displaystyle 2^{\aleph _{0}}=\aleph _{1}.\,}
+  
+Üks järeldus kontiinumi hüpoteesist on, et reaalarvude hulga igal lõpmatul alamhulgal on kas sama võimsus mis täisarvude hulgal või sama võimsus mis kogu reaalarvude hulgal.
+On olemas kontiinumi hüpoteesi üldistus, mida nimetatakse üldistatud kontiinumi hüpoteesiks (GCH): see ütleb, et kõigi ordinaalarvude 
+  
+    
+      
+        α
+        
+      
+    
+    {\displaystyle \alpha \,}
+   korral
+
+  
+    
+      
+        
+          2
+          
+            
+              ℵ
+              
+                α
+              
+            
+          
+        
+        =
+        
+          ℵ
+          
+            α
+            +
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle 2^{\aleph _{\alpha }}=\aleph _{\alpha +1}.}
+  
+
+
+== Kontiinumi hüpoteesi tõesuse või vääruse tõestamise võimatus ZFC-s ==
+Cantor uskus, et kontiinumi hüpotees on tõene, ning püüdis aastaid asjatult seda tõestada. See oli esimene nn Hilberti probleemidest, mille David Hilbert rahvusvahelisel matemaatikute kongressil Pariisis 1900 esitas. Aksiomaatiline hulgateooria ei olnud sel ajal veel sõnastatud.
+Kurt Gödel näitas 1940 avaldatud töös, et kontiinumi hüpoteesi ei saa ümber lükata standardses Zermelo-Fraenkeli hulgateoorias (ei versioonis ZF ega valikuaksioomiga versioonis ZFC). Paul Cohen näitas 1963, et samadest aksiomaatikatest lähtudes ei saa kontiinumi hüpoteesi ka tõestada. Seega on kontiinumi hüpotees ZFC-st sõltumatu. Mõlemad tulemused on saadud eeldusel, et Zermelo-Fraenkeli aksiomaatika ise sisaldab vastuolu; üldiselt arvatakse, et see eeldus on tõene.
+Kontiinumi hüpotees ei olnud esimene väide, mille sõltumatust ZFC-st on näidatud. Üks vahetu järeldus Gödeli mittetäielikkuse teoreemist, mis avaldati 1931, et on olemas ZFC kooskõlalisust väljendav formaalne lause (üks iga sobiva Gödeli numeratsiooni korral), mis on ZFC-st sõltumatu. Kontiinumi hüpotees ja valikuaksioom olid esimeste matemaatiliste väidete seas, mille sõltumatust aksiomaatikast ZF näidati. Need sõltumatuse tõestused viidi lõpuni alles siis, kui Paul Cohen 1960ndatel töötas välja forsseerimise meetodi.
+Kontiinumi hüpotees on lähedalt seotud paljude väidetega matemaatilises analüüsis, punktihulkade topoloogias ja mõõduteoorias. Kontiinumi hüpoteesi sõltumatusest järeldub, et ka mitmed olulised olutised nois valdkondades on sõltumatud.
+Seni teadaolevalt paistab kontiinumi hüpotees olevat sõltumatu kõigist teadaolevatest suure kardinaalarvu aksioomidest ZFC kontekstis.
+Gödeli ja Coheni negatiivsed tulemused ei ole lahendusena üldtunnustatud ning asja uuritakse edasi (vaata Woodin 2001a). Ka Koellner (2011a) on kirjutanud ülevaate viimase aja uurimustest kontiinumi hüpoteesi kohta.
+
+
+== Argumendid kontiinumi hüpoteesi poolt ja vastu ==
+Gödel uskus, et kontiinumi hüpotees on väär ning tema tõestus, et kontiinumi hüpotees on ZFC-ga kooskõlas, tõestab ainult, et Zermelo-Fraenkeli aksiomaatika ei kirjelda hulkade universumit adekvaatselt. Gödel oli platonist ning seetõttu võis ta probleemideta väita väidete tõesust või väärust sõltumatult nende tõestatavusest. Kuigi Cohen oli formalist, kaldus ka tema kontiinumi hüpoteesi vääraks pidama.
+Ajaloolaselt on matemaatikud, kes pooldasid "rikast" ja "suurt" hulkade universumit, kontiinumi hüpoteesi vastu, need aga, kes pooldasid "puhast" ja "kontrollitavat" universumit, on olnud kontiinumi hüpoteesi poolt. Rööbiti on esitatud argumente konstrueeritavuse aksioomi poolt ja vastu (konstrueeritavuse aksioomist järeldub kontiinumi hüpotees). Hiljem on Matthew Foreman osutanud sellele, et ontoloogilist maksimalismi saab tegelikult kasutada argumentides kontiinumi hüpoteesi kasuks, sest mudelite seas, milles on samad reaalarvud, on "rohkemate" reaalarvude hulkadega mudelitel on suuremad šansid rahuldada kontiinumi hüpoteesi (Maddy 1988:500).
+Teise vaatenurga järgi ei ole hulga mõiste piisavalt konkreetne, et kindlaks teha, kas kontiinumi hüpotees on tõene või väär. Selle ütles välja juba 1923 Thoralf Skolem, juba enne Gödeli esimest mittetäielikkuse teoreemi.
+Skolemi argument viitas nn Skolemi paradoksile, ja hiljem sai see seisukoht kinnitust CH sõltumatuselt ZFC-st, sest ZFC aksiomaatika piisav hulkade ja võimsuste elementaarsete omaduste tõestamiseks. Selle seisukoha lükkaks ümber tõestus, et mingid uued aksioomid, mis on intuitsiooniga kooskõlas, võimaldavad tuletada kontiinumi hüpoteesi või selle eituse. Kuigi konstrueeritavuse aksioom võimaldab kontiinumi hüpoteesi tõestada, ei ole see aksioom üldtunnustatult intuitiivselt tõene (Kunen 1980:171).
+On välja pakutud veel kaks aksioomi, mis kontiinumi hüpoteesi tõesust mõjutavad, ei ole aga leidnud matemaatikute seas laia heakskiitu. Aastal 1986 pakkus Chris Freiling välja kontiinumi hüpoteesi vastase argumendi, mis näitab, et kontiinumi hüpoteesi eitus on samaväärne Freilingi sümmeetriaaksioomiga. Freiling peab seda aksioomi intuitiivselt tõeseks, kuid teised pole sellega nõustunud. Keerulise argumendi kontiinumi hüpoteesi vastu on esitanud W. Hugh Woodin (2001a, 2001b); see on 2000. aastast saadik küllaltki palju tähelepanu äratanud. Foreman (2003) ei lükka Woodini argumenti tagasi, kuid manitseb ettevaatusele.
+Solomon Feferman (2011) esitas keeruka filosoofilise argumendi selle kasuks, et kontiinumi hüpotees ei ole määratletud matemaatiline probleem. Ta pakub välja "määratletuse" teooria, kasutades aksiomaatika ZF poolintuitsionistlikku alamsüsteemi, mis aktsepteerib klassikalist loogikat seotud kvantorite juures, kuid kasutab intuitsionistlikku loogikat on sidumata kvantorite juures, ning nimetab propositsiooni 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   matemaatiliselt "määratletuks", kui poolintuitsionistlikus teoorias saab tõestada propositsiooni 
+  
+    
+      
+        (
+        ϕ
+        ∨
+        ¬
+        ϕ
+        )
+      
+    
+    {\displaystyle (\phi \lor \neg \phi )}
+  . Ta oletab, et kontiinumi hüpotees ei ole selles mõttes määratletud, ning leiab, et kontiinumi hüpoteesile ei tuleks omistada tõeväärtust. Koellner (2011b) kirjutas Fefermani artiklile kriitilise kommentaari.
+
+
+== Kirjandus ==
+Georg Cantor. Ein Beitrag zur Mannigfaltigkeitslehre. – Journal für die Reine und Angewandte Mathematik, 1878, kd 84, lk 242–258. Veebiversioon.
+K. Gödel. The Consistency of the Continuum-Hypothesis, Princeton University Press 1940.
+Paul J. Cohen. The Independence of the Continuum Hypothesis. – Proceedings of the National Academy of Sciences of the United States of America, 1963, kd 50, nr 6, 15. detsember 1963, lk 1143–1148. Veebiversioon.
+Paul J. Cohen. The Independence of the Continuum Hypothesis, II. – Proceedings of the National Academy of Sciences of the United States of America, 1963, kd 51, nr 1, 15. jaanuar 1964, lk 105–110. Veebiversioon.
+Martin, D. (1976). "Hilbert's first problem: the continuum hypothesis," in Mathematical Developments Arising from Hilbert's Problems, Proceedings of Symposia in Pure Mathematics XXVIII, F. Browder, editor. American Mathematical Society, 1976, pp. 81–92. ISBN 0-8218-1428-1
+Herbert Enderton. Elements of Set Theory, Academic Press 1977.
+Kenneth Kunen., Kenneth (1980). Set Theory: An Introduction to Independence Proofs. Amsterdam: North-Holland. ISBN 978-0-444-85401-8.  
+K. Gödel. What is Cantor's Continuum Problem? – Ümbertrükk raamatus: Benacerraf, Putnam (toim). Philosophy of Mathematics, 2. trükk, Cambridge University Press 1983. (Resümee Gödeli argumentidest kontiinumi hüpoteesi vastu.)
+Chris Freiling. Axioms of Symmetry: Throwing Darts at the Real Number Line. – Journal of Symbolic Logic, 1986, lk 51, nr 1, lk 190–200.
+H. G. Dales, W. H. Woodin. An Introduction to Independence for Analysts, Cambridge 1987.
+Maddy, Penelope (Juuni 1988). "Believing the Axioms, I". Journal of Symbolic Logic (Association for Symbolic Logic) 53 (2): 481–511. JSTOR 2274520. doi:10.2307/2274520.  
+Matt Foreman. Has the Continuum Hypothesis been Settled?, 2003 (pdf)
+McGough, Nancy. "The Continuum Hypothesis". 
+Merimovich, Carmi (2007). "A power function with a fixed finite gap everywhere". Journal of Symbolic Logic 72 (2): 361–417. doi:10.2178/jsl/1185803615. 
+Woodin, W. Hugh (2001a). "The Continuum Hypothesis, Part I" (PDF). Notices of the AMS 48 (6): 567–576. 
+Woodin, W. Hugh (2001b). "The Continuum Hypothesis, Part II" (PDF). Notices of the AMS 48 (7): 681–690. 
+Solomon Feferman. [Is the Continuum Hypothesis a definite mathematical problem? http://math.stanford.edu/~feferman/papers/IsCHdefinite.pdf]. – Exploring the Frontiers of Independence (Harvardi loenguseeria 2011) (Loenguslaidid)
+Koellner, Peter (2011a). "The Continuum Hypothesis". Exploring the Frontiers of Independence (Harvard lecture series). 
+Koellner, Peter (2011b). "Feferman On the Indefiniteness of CH".

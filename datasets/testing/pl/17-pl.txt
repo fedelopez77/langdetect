@@ -1,30 +1,21 @@
-Kwas chlorowy (nazwa Stocka: kwas chlorowy(V)), HClO
-3 – nieorganiczny związek chemiczny z grupy kwasów tlenowych. Istnieje wyłącznie w postaci roztworów wodnych o maksymalnym stężeniu 40% (m/V).
+Ranunculus muscigenus W.T. Wang – gatunek rośliny z rodziny jaskrowatych (Ranunculaceae Juss.). Występuje endemicznie w Chinach, w południowo-wschodniej części Tybetu.
 
 
-== Właściwości ==
-Jest to kwas o dużej mocy, o silnych właściwościach utleniających. W kontakcie ze śladowymi ilościami substancji organicznych wybucha.
+== Morfologia ==
+Pokrój
+Roślina jednoroczna o nagich pędach. Dorasta do 1–5 cm wysokości.
+Liście
+Są potrójnie klapowane. Mają kształt od owalnego do romboidalnie owalnego. Mierzą 1,5–3 cm długości oraz 2–3 cm szerokości. Nasada liścia ma klinowy lub zaokrąglony kształt. Ogonek liściowy jest nagi i ma 0,5–1,5 cm długości.
+Kwiaty
+Są pojedyncze. Pojawiają się w kątach pędów. Mają żółtą barwę. Dorastają do 3 mm średnicy. Mają 5 eliptycznych działek kielicha, które dorastają do 1 mm długości. Mają 5 owalnych lub eliptycznych płatków o długości 1–2 mm.
 
 
-== Otrzymywanie ==
-Kwas chlorowy można otrzymać przez dodanie kwasu siarkowego do wodnego roztworu chloranu baru (wytrąca się wtedy nierozpuszczalny siarczan baru):
-Ba(ClO
-3)
-2 + H
-2SO
-4 → BaSO
-4↓ + 2HClO
-3
-Kwas chlorowy powstaje też jako produkt dysproporcjonowania kwasu podchlorawego. Można też otrzymać go przez rozpuszczenie w wodzie dwutlenku chloru:
-2ClO
-2 + H
-2O → HClO
-2 + HClO
-3
+== Biologia i ekologia ==
+Rośnie w lasach. Występuje na wysokości od 3200 do 3600 m n.p.m. Kwitnie w lipcu.
 
 
-== Sole kwasu chlorowego ==
-Sole kwasu chlorowego to chlorany. Są one silnymi utleniaczami. Najbardziej znany jest chloran potasu (tzw. sól Bertholleta).
+== Zobacz też ==
+Lista gatunków z rodzaju jaskier
 
 
 == Przypisy ==

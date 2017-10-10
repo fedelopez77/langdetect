@@ -1,31 +1,34 @@
-Zoguela (ou Zogela) est un village du Cameroun situé dans la région de l’Est, le département du Haut-Nyong et la commune d'Atok, sur la route qui relie Abong-Mbang à Ayos.
+Cryptoblepharus gloriosus est une espèce de sauriens de la famille des Scincidae.
 
 
-== Nom du village ==
-Selon des sources locales, le toponyme viendrait de juog (éléphant) et láú (trappe) : le village aurait été fondé par des gens qui avaient uni leurs forces pour achever un éléphant tombé dans un piège.
+== Répartition ==
+
+Cette espèce se rencontre :
+dans les îles Glorieuses ;
+dans l'archipel des Comores sur les îles de Mayotte et de Mohéli.
 
 
-== Population ==
-En 1966-1967, Zoguela comptait 378 habitants, principalement des Maka Bebend, un sous-groupe des Maka. Lors du recensement de 2005, on y dénombrait 524 personnes. Une enquête de terrain publiée en 2011 en a recensé 525.
+== Liste des sous-espèces ==
+Selon Reptarium Reptile Database (9 août 2012) :
+Cryptoblepharus gloriosus gloriosus (Stejneger, 1893) - îles Glorieuses
+Cryptoblepharus gloriosus mayottensis Mertens, 1928 - Mayotte
+Cryptoblepharus gloriosus mohelicus Mertens, 1928 - Mohéli
 
 
-== Infrastructures ==
-La localité dispose d'une école protestante et d'un centre de santé (CSI).
+== Publications originales ==
+Mertens, 1928 : Neue Inselrassen von Cryptoblepharus boutonii (Desjardin). Zoologischer Anzeiger, vol. 78, p. 82-89.
+Stejneger, 1893 : On some collections of reptiles and batrachians from East Africa and the adjacent islands, recently received from Dr. W. L. Abbott and Mr. William Astor Chanler, with descriptions of new species. Proceedings of the United States National Museum, vol. 16, p. 711-741 (texte intégral).
+
+
+== Liens externes ==
+Référence Animal Diversity Web : Cryptoblepharus gloriosus (en) (consulté le 9 août 2012)
+Référence Reptarium Reptile Database : Cryptoblepharus gloriosus (Stejneger, 1893) (en) (consulté le 9 août 2012)
+Référence UICN : espèce Cryptoblepharus gloriosus (Stejneger, 1893) (en) (consulté le 9 août 2012)
+Référence uBio : Cryptoblepharus gloriosus Stejneger 1893 (en) (consulté le 9 août 2012)
 
 
 == Notes et références ==
 
-
-== Annexes ==
-
-
-=== Bibliographie ===
-Séverin Cécile Abéga, « L'évolution de la situation des femmes et des règles matrimoniales chez les Maka », in Les violences sexuelles et l'État au Cameroun, Karthala, 2007, p. 29-62 (ISBN 9782845865228) (enquête menée notamment à Zoguela en 1994-1995)
-Dictionnaire des villages du Haut-Nyong, Centre ORSTOM de Yaoundé, juin 1968, 84 p.
-
-
-=== Liens externes ===
-Atok, sur le site Communes et villes unies du Cameroun (CVUC)
-Climat : Zoguela (climate-data.org)
-Plan communal de développement (PCD) Atok 2011, 137 p., téléchargeable [4]
- Portail du Cameroun
+ Portail de l’herpétologie
+ Portail des Comores
+ Portail de Mayotte

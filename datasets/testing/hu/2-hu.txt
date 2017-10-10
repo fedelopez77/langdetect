@@ -1,23 +1,36 @@
-A 76 (hetvenhat) a 75 és 77 között található természetes szám.
+A shosholoza egy hagyományos dél-afrikai (ndebele) népdal. A dalt több helyen énekelték hagyományosan. Férfiak munka közben, úgy, hogy éneklés közben hívták egymást és válaszoltak rá.
+A dal különböző művészek által lett feldolgozva, többek között Helmut Lotti, Ladysmith Black Mambazo, PJ Powers, The Glue, Soweto Gospel Choir, Peter Gabriel és Drakensberg Fiúkórus.
+A dal további népszerűségre tett szert, amikor a Dél-Afrikaiak megnyerték az 1995-ös rögbi-világbajnokságot. Ezt a dalt énekelte a dél-afrikai labdarúgó-válogatott, ahogy jött be a pályára, hogy megnyissa a 2010-es labdarúgó-világbajnokságot.
+A szó azt jelenti, Shosholoza-előre, illetve, azt, hogy a következő ember jön, de maga a szó a gőzmozdonyra emlékeztet. A dalt eredetileg a ndebele munkavállaló Dél-Afrikából hazautazva énekelte.
+A dal Zimbabwe-ből ered. A dalnak címét Team Shosholoza adta, az első afrikai versenyző az Amerikai kupán, valamint a Shosholoza Meyl, a távolsági személyszállító vonat egy szerelője.
+A dal eredeti szövege:
+
+   Shosholozah
+   Shosholozah
+   Ku lezontabah
+   Stimela siphum' eSouth Africa
+   Shosholozah
+   Shosholozah
+   Ku lezontabah
+   Stimela siphum' eSouth Africa
+   Wen' uyabalekah
+   Wen' uyabalekah
+   Ku lezontabah
+   Stimela siphum' eSouth Africa
+
+Fordítása:
+
+   Előre
+   Előre
+   Ezek a hegyek
+   Ez a vonat Dél-Afrikából.
+   Előre
+   Előre
+   Menekülök
+   Menekülök
+   Ezek a hegyek
+   Ez a vonat Dél-Afrikából.
 
 
-== A szám a matematikában ==
-A tízes számrendszerbeli 76-os a kettes számrendszerben 1001100, a nyolcas számrendszerben 114, a tizenhatos számrendszerben 4C alakban írható fel.
-A 76 páros szám, összetett szám. Kanonikus alakja 22 · 19, normálalakban a 7,6 · 101 szorzattal írható fel. Hat osztója van a természetes számok halmazán, ezek növekvő sorrendben: 1, 2, 4, 19, 38 és 76.
-Középpontos ötszögszám. Tizennégyszögszám.
-Lucas-szám.
-Nontóciens szám.
-Mivel található olyan 76 egymást követő egész szám, amelynél minden belső számnak van közös prímtényezője akár az első, akár az utolsó taggal, a 76 Erdős–Woods-szám.
-A 76 három szám valódiosztó-összegeként áll elő, ezek a 48, 92 és 146.
-
-
-== A tudományban ==
-A periódusos rendszer 76. eleme az ozmium.
-
-
-== Források ==
-Möbius and Mertens values for n=1 to 2500
-http://www.wolframalpha.com (EulerPhi, Divisors, SumDivisors)
-
-
-== Jegyzetek ==
+== További információk ==
+A dal a YouTube-on

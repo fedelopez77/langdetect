@@ -1,0 +1,54 @@
+IVAO tai International Virtual Aviation Organisation on Internetissä toimiva voittoa tavoittelematon yhdistys. Sen tarkoitus on tarjota lentosimulaattoreista kiinnostuneille pääsy palvelimiin, joilla voidaan lentää muiden käyttäjien kanssa, käyttää oikeita sääolosuhteita ja lennonjohtoa.
+IVAO luo virtuaalisen maailman lentäjille ja lennonjohtajille ja sen tehtävä on tarjota realistinen, hauska ja rento ympäristö lentämiselle ja lennonjohtamiselle ilmaiseksi.
+
+
+== Toiminta ==
+IVAO tarjoaa monia palvelimia, joihin virtuaalilentäjät ja -lennonjohtajat voivat yhdistää. Näitä palvelimia käyttäen lennonjohtajat näkevät lentäjät tutkaohjelmansa (IvAc) näytöllä. Kommunikointi tapahtuu oikean radiofraseologian mukaan joko puheyhteyden tai tekstin välityksellä. Puheyhteys on suositellumpi ja yleisempi kuin tekstin käyttö. Tekstin käyttö on monesti hidasta ja kömpelöä, lisäksi puheyhteys tarjoaa realistisemmat puitteet simulointiin.
+Käytetyt ohjelmat ja järjestelmät (paitsi lentosimulaattori ja VoIP-ohjelma (TeamSpeak) on kehittänyt IVAO:n oma ohjelmaosasto. Nämä ohjelmat ovat saatavilla ilmaiseksi käyttöön IVAO:n verkossa.
+
+
+== Jäsenet ==
+IVAO koostuu noin 150 000 jäsenestä (vuonna 2009). Suomen osastoon kuuluu 147 jäsentä ja jäsenmäärä on kasvussa. Jäsenyys on saatavilla kenelle tahansa mistä päin maailmaa tahansa.
+Paikallisia osastoja (division) löytyy joka puolelta maailmaa. Näitä osastoja hoitavat paikalliset harrastajat, jotka huolehtivat osastojen johtamisesta, koulutuksesta, tiedon tarjoamisesta ja jäsenien auttamisesta. Kouluttajat ovat usein oikeassa elämässä lentäjiä/lennonjohtajia.
+Osastot tarjoavat jäsenilleen erilaisia palveluja, kuten lennonjohtoa, koulutusta, ja tapahtumia.
+
+
+== IVAO Finland ==
+IVAO Finland perustava kokous pidettiin 26.1.2006, jossa tehtiin toimintasuunnitelma tulevalle osastolle. Kokouksessa oli läsnä vain kolme henkilöä. Intensiivisesti aloitettu suunnitelman mukainen toiminta ja kehitystyö kantoi hedelmää varsin nopeasti. Perustavia jäseniä ilmaantui nopeasti se määrä, jonka toiminnan edelleen kehittäminen ja tähän asti pääseminen vaati.
+
+
+== Ohjelmat ==
+IVAO:n ohjelmat kehittää oma osastonsa SoftDev. IVAO tarjoaa myös mahdollisuuksia ulkopuolisille kehittäjille, jotka voivat tehdä ohjelmistaan yhteensopivia IVAO:n kanssa.
+Lista tuetuista lentosimulaattoreista:
+Microsoft Flight Simulator, IvAp:lla versiot FS2002, FS2004 sekä FSX
+X-Plane käyttäen XSquawkBox:ia tai X-IvAp:ia
+PS1 käyttäen SB747:ää
+Fly! käyttäen SquawkBox for Fly!-ohjelmistoa
+
+
+=== IvAp ja X-IvAp ===
+IvAp (IVAO virtual Pilot client) on Microsoft Flight Simulator 2002:lle, MS Flight Simulator 2004:lle ja MS Flight Simulator X:lle tehty ohjelma IVAO:n verkkoon yhdistämiseen.
+X-IvAp (IVAO virtual X-Plane client) on X-Plane:lle tehty versio IvAp:sta.
+
+
+=== IvAc ===
+IvAc (IVAO virtual ATC client) on lennonjohtajille tehty ohjelma IVAO:n verkkoon.
+
+
+=== WebEye ===
+WebEye on netissä oleva näyttö jolta voit seurata lentoja ja lennonjohtoa. Tämä korvasi vanhan IvAe:n (The Eye) ohjelman.
+
+
+=== IvAi ===
+IvAi:a (IVAO Interface) käyttäen voit lisätä samaan yhteyteen monta eri IVAO:n ohjelmaa (monien yhteyksien ottaminen verkkoon on kiellettyä, siksi tämä ohjelma), esimerkiksi IvAc:in ja IvAp:in tai kaksi IvAc:ia
+
+
+== Mukaan toimintaan ==
+Suomessa toimii aktiivinen IVAO-osasto ja lennonjohtoa sekä liikennettä on tarjolla päivittäin. Mukaan toimintaan pääset tutustumalla sivuun IVAO Finland. Rekisteröitymällä voi aloittaa verkkolentämisen virtuaalitaivaalla.
+
+
+== Aiheesta muualla ==
+IVAO:n kotisivu (englanniksi)
+IVAO Finland (Suomen osasto)
+IVAO:n ohjelmakehitysosaston kotisivu
+IVAO:n keskustelufoorumi

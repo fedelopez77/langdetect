@@ -1,0 +1,50 @@
+Nihkevektor ehk nihe on vektoriaalne füüsikaline suurus, vektor liikuva keha algasukohast keha lõppasukohta. Tähis 
+  
+    
+      
+        
+          
+            
+              s
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {s}}}
+  .
+Keha nihke pikkus ja tema liikumise teepikkus on võrdsed vaid sirgjoonelise liikumise korral. Näiteks kui jooksja jookseb linnast A linna B, siis tema nihkevektoriks on 
+  
+    
+      
+        
+          
+            
+              A
+              B
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {AB}}}
+  . Kui ta jookseks edasi linna C, siis oleks tema nihkevektoriks 
+  
+    
+      
+        
+          
+            
+              A
+              C
+            
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {AC}}}
+  .
+Nihke pikkus sõltub liikumise trajektoorist, liikumiskiirusest ja liikumisajast.

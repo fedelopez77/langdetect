@@ -1,56 +1,16 @@
-Konenäöksi kutsutaan sellaista järjestelmää, jossa tietokonenäköä sovelletaan teolliseen tarkoitukseen. Järjestelmä koostuu valonlähteestä, kohteesta, kamerasta, tietokoneesta ja siinä toimivassa kuvankäsittelyohjelmasta, joka tulkitsee kuvan automaattisesti. Sovelluskohteita ovat esimerkiksi pullonpalautusautomaatti ja teollisuuden robottisolut.
-Konenäköjärjestelmät suorittavat pääasiassa tarkoin ennalta ohjelmoituja tehtäviä, kuten kappaleiden laskentaa liukuhihnalta, sarjanumeroiden lukemista tai pintavikojen etsimistä. Vaikka konenäköjärjestelmillä ei ole älyä tai ihmisen oppimiskykyä, niitä pidetään käyttökelpoisina useaan eri tehtävään. Järjestelmiä käytetään tehtäviin, joissa optisen tarkastuksen pitää olla nopeaa, tarkkaa, ympärivuorokautista ja toistettavaa.
-Konenäöllä voidaan korvata ihmiselle rasittavia rutiinitehtäviä esimerkiksi liukuhihnalla tai suorittaa ihmisen näkökyvylle mahdottomia tehtäviä käyttämällä avuksi aallonpituuksia, joita ihmisen silmä ei pysty havaitsemaan.
+Oulun kansainvälinen lasten- ja nuortenelokuvien festivaali on Oulussa vuosittain pidettävä lasten- ja nuortenelokuvien katselmus- ja kilpailutapahtuma. Festivaalin järjestää Oulun Elokuvakeskus ry. Tapahtumaa on järjestetty vuodesta 1982 lähtien.
+Festivaali jakaantuu viiteen sarjaan: kilpasarja, nuortensarja, maailmanpyörä, kotimainen katselmus ja erikoissarjat.
+Festivaaleilla jaetaan muun muassa kilpailusarjan parhaan elokuvan ohjaajalle sanomalehti Kalevan lahjoittama 3 000 euroa, Kansainvälisen lasten- ja nuortenelokuvien järjestön CIFEJ:n palkinto sekä Sanna Koiviston suunnittelema Pikku karhu, suomalaisen lastenelokuva-alan tunnustuspalkinto.
+Festivaali järjestetään vuosittain viikolla 47. Esityspaikkoja ovat Finnkino Plaza sekä Kulttuuritalo Valveella sijaitsevat Valvesali ja Studio.
 
 
-== Konenäköjärjestelmän osat ==
-Kaikkein tärkein osa konenäköjärjestelmästä on valo. Se tuottaa sen informaation lähteen jolla informaatio muuttuu valonlähteestä kohteen kautta havainnoitsijaan. Valon muuttuminen tehdään tai se aiheutuu sen optisen välitilan kautta jossa valo kulkee. Kaikki alla olevat selitykset ovat vain osa sitä kokonaisuutta jolla valoa siis muutetaan osaksi sitä tapahtumaa jolla havainnoija sitten lopuksi kokee. Havainnoija voi olla ihminen tai konenäköjärjestelmään liitetty laite/järjestelmä. Päätarkoitus on kuitenkin, että valon tuottamaa tietoa käytetään jollain tavalla.
-Tyypillinen konenäköjärjestelmä, joka kuvaa kuljettimella kulkevia kappaleita, voi koostua muun muassa seuraavista osista:
-Valokenno
-Mustavalko-kamera
-Valaisin
-Liitäntäkortti kameralle, ”framegrabber”
-Tietokone
-Digitaaliset liitännät koko prosessin ohjausjärjestelmään
-Valokenno laukaisee kameran kappaleen kulkiessa kameran ohi. Valaistusjärjestelyillä kuva on mittausta varten saatu optimaaliseksi korostamalla tarkkailtavia kohtia kuvasta.
-Kuva siirretään digitaalisessa muodossa liitäntäkortin kautta tietokoneelle, jossa sitä voidaan käsitellä. Kuvan tulkitsemisessa on yleensä useita vaiheita. Aluksi kuvasta voidaan suodattaa kohinaa pois tai yksinkertaistaa muuttamalla harmaasävykuva vain mustaa ja valkoista sisältäväksi kuvaksi. Tämän jälkeen yksinkertaistetusta kuvasta voidaan laskea, mitata tai tunnistaa kappaleita tai kappaleen osia. Mittaustuloksien perusteella tietokoneohjelma luokittelee kappaleen ennalta ohjelmoidulla tavalla, esimerkiksi hyvä tai huono. Tieto välitetään kameraa seuraaville laitteille tuotantolinjalla, jotka voivat esimerkiksi poistaa huonot kappaleet liukuhihnalta.
-Useimmat konenäköjärjestelmät käyttävät mustavalkoisia kameroita, mutta värikameroiden käyttö yleistyy jatkuvasti.
-Erillistä tietokonetta ei aina tarvita, sillä kamerat, joissa on sisäänrakennettu tietokone, älykamerat, ovat yleistyneet. Älykameran käyttö tekee erillisien tietokoneen ja liitäntäkortin käytön tarpeettomaksi, jolloin systeemistä tulee edullisempi ja varmempi.
-FireWire ja USB -väylien yleistymisen myötä ne ovat tulleet myös konenäköjärjestelmien osaksi. Näihin väyliin liitettävät kamerat ovat helppokäyttöisempiä kuin aiemmat oman liitäntäkortin vaatineet.
+== Lähteet ==
 
 
-== Konenäköprosessi ==
-Konenäköjärjestelmän input data voi olla videokuvaa tai yksittäisiä kuvia. Kuvat voivat yhden kameran sijasta olla myös kahdella tai useammalla kameralla otettuja stereokuvia.
-Esikäsittely
-Segmentointi
-Luokittelu
-Esikäsittelymenetelmiä ovat
-histogrammin ekvalisointi
-terävöinti
-pehmennys
-geometrinen muunnos (mm. Affiinimuunnos)
-polynominen muunnos (mm. polynominen warppaus)
-Kuvaparista koostuvien stereokuvien esikäsittelyssä pyritään palauttamaan pikselien z-informaatio.
-
-
-== Kuvankäsittelymetodeja ==
-Konenäkösovellukset sisältävät yleensä valmiita metodeja kuvankäsittelyä varten, muun muassa seuraavia:
-Pikselien määrän laskenta, lasketaan tietyltä alueelta tummien ja vaaleiden pikselien määrä
-Kynnystys, kuvan sävyjen määrää vähennetään, yleisesti valkoiseen ja mustaan
-Segmentointi, vaaleista ja tummista pikseleistä muodostetaan alueita, joilla on muun muassa sijainti ja pinta-ala
-Viivakoodin ja kaksiulotteisten koodien lukeminen
-OCR, tekstin tunnistus
-Kuvassa esiintyvän kappaleen mittaaminen
-Reunan haku, kohteen reunojen etsiminen kuvasta
-Kuvion etsintä, tietyn kuvion etsiminen, mallin sovittaminen kuvaan ja löytöjen määrän laskeminen
-Hahmontunnistus
-Kääntyneen, osittain peittyneen ja eri kokoisen hahmon etsiminen kuvasta Goadin algoritmillä
-Stereonäkö
-Useimmissa tapauksissa konenäköjärjestelmät käyttävät useita eri tekniikoita kokonaisen tarkastuksen tekemiseen. Viivakoodin lukeva järjestelmä saattaa myös selvittää kappaleen pinnan eheyden ja mitata kappaleen leveyden ja pituuden.
-
-
-== Menetelmät joiden luokittelu konenäöksi on tulkinnanvaraista ==
-Joskus näissä käytetään kameraa, tarkoitukseen tehdyn sensorin sijasta:
-Fotometria
-Optinen datansiirto vapaassa tilassa vastaanottimen osalta
-Myös SAR (tutka) eli suuren laskennallisen läpimitan tutka tuottaa valokuvalta näyttäviä kuvia, joiden tulkintaan on mahdollista käyttää konenäköalgoritmeja.
+== Aiheesta muualla ==
+Oulun Elokuvakeskus ry
+Elokuvateatteri Studio
+Oulun kaupunki
+Kulttuuritalo Valve
+CIFEJ
+european-films.net

@@ -15,10 +15,10 @@ LANGUAGES = {"it": "Italian", "pl": "Polish", "ru": "Russian", "sk": "Slovak", "
              "lv": "Latvian", "lt": "Lithuanian", "fa": "Persian", "hu": "Hungarian", "he": "Hebrew",
              "el": "Greek", "ar": "Arabic"}
 MIN_NGRAM = 1
-MAX_NGRAM = 5
+MAX_NGRAM = 3
 MAX_AMOUNT_OF_NGRAMS = 400
 MAX_RESULTS = 3
-PENALIZATION_DISTANCE = 500
+PENALIZATION_DISTANCE = 700
 
 
 # Taken from gensim

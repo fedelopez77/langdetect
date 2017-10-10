@@ -1,0 +1,6 @@
+Avbruddsfri strømforsyning, på engelsk uninterruptible power supply (UPS), er et apparat som opprettholder en kontinuerlig leveranse av elektrisk kraft til det tilkoblede utstyret, selv når den eksterne strømforsyningen svikter. Hensikten er å sikre at viktig utstyr ikke mister strømmen hvis strømnettet faller ut, samt å filtrere urenheter i nettet, slik at sensitivt utstyr ikke tar skade.
+Alle UPS-er er avhengige av et energilager. Vanligst er det da med batterier, men det kan også benyttes svinghjul, brenselceller eller andre energikilder.
+Det finnes tre hovedtyper av UPS.
+Offline
+Line-interactive
+Online

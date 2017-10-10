@@ -1,22 +1,56 @@
-1329. aasta
-Sajandid: 13. sajand - 14. sajand - 15. sajand
-Aastakümned: 1270. aastad 1280. aastad 1290. aastad 1300. aastad 1310. aastad - 1320. aastad - 1330. aastad 1340. aastad 1350. aastad 1360. aastad 1370. aastad
-Aastad: 1324 1325 1326 1327 1328 - 1329 - 1330 1331 1332 1333 1334
+Jämepeamadu (Dipsas) on maoperekond.
 
 
-== Sündmused maailmas ==
-Augustis 1328 või augustis 1329 oli Tartus suur tulekahju.
-21. september – Taani kuningas Christoffer II tõotab, et ta ei anna Eestimaad kunagi ära.
-septembris korraldasid leedulased sõjakäigu Riia ülestõusu toetuseks Liivi ordu ja ordumeister Eberhard von Monnheimi vastu, mis ulatus Paistuni.
+== Klassifikatsioon ==
+Jämepeamadude perekonda klassifitseeritakse roomajate andmebaasis järgmised maoliigid:
+Dipsas albifrons (Sauvage, 1884)
+Dipsas alternans (Fischer, 1885)
+Dipsas andiana (Boulenger, 1896)
+Dipsas articulata (Cope, 1868)
+Dipsas baliomelas Harvey, 2008
+Dipsas bicolor (Günther, 1895)
+Dipsas brevifacies (Cope, 1866)
+Dipsas bucephala (Shaw, 1802)
+Dipsas catesbyi (Sentzen, 1796)
+Dipsas chaparensis Reynolds & Foster, 1992
+Dipsas copei (Günther, 1872)
+Dipsas elegans (Boulenger, 1896)
+Dipsas ellipsifera (Boulenger, 1898)
+Dipsas gaigeae (Oliver, 1937)
+Dipsas gracilis (Boulenger, 1902)
+Dipsas incerta (Jan, 1863)
+Dipsas indica Laurenti, 1768
+Dipsas infrenalis Rosen, 1905
+Dipsas maxillaris (Werner, 1910)
+Dipsas nicholsi (Dunn, 1933)
+Dipsas oreas (Cope, 1868)
+Dipsas pakaraima Macculloch & Lathrop, 2004
+Dipsas pavonina Schlegel, 1837
+Dipsas peruana (Boettger, 1898)
+Dipsas pratti (Boulenger, 1897)
+Dipsas sanctijoannis (Boulenger, 1911)
+Dipsas sazimai Fernandes, Marques & Argôlo, 2010
+Dipsas schunkii (Boulenger, 1908)
+Dipsas temporalis (Werner, 1909)
+Dipsas tenuissima Taylor, 1954
+Dipsas variegata (Duméril, Bibron & Duméril, 1854)
+Dipsas vermiculata Peters, 1960
+Dipsas viguieri (Bocourt, 1884).
 
 
-== Sündmused Eestis ==
-...
+== Levila ==
+Nad elavad Lõuna- ja Kesk-Ameerikas ning Mehhikos.
 
 
-== Sündinud ==
-...
+== Viited ==
 
 
-== Surnud ==
-...
+== Välisallikad ==
+Sissekanne Animal Diversity Web-is
+Sissekanne Catalogue of Life-s
+Sissekanne IUCN-is
+Sissekanne NCBI Taxonomy database-s
+Sissekanne roomajate andmebaasis
+Sissekanne SITI-s
+Sissekanne saidil Wikispecies
+Selles artiklis on kasutatud prantsuskeelset artiklit fr:Dipsas seisuga 12.04.2014.

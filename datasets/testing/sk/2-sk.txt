@@ -1,38 +1,12 @@
-Požiar je každé nežiadúce horenie, pri ktorom sú bezprostredne ohrozené životy alebo zdravie fyzických osôb alebo zvierat, majetok alebo životné prostredie, pri ktorom vznikajú škody na majetku, životnom prostredí alebo ktorého následkom je zranená alebo usmrtená fyzická osoba alebo zviera. Presné definície a ich objasnenie pozri nižšie, v kapitole Definície.
+Pearland je americké mesto v Brazoria County v juhovýchodnom Texase. Za desať rokov takmer strojnásobilo počet obyvateľov, z 37 640 na 91 252 v roku 2010. V roku 2007 magazín Forbes zaradil mesto na 34. miesto medzi najrýchlejšie rastúcimi predmestiami USA. Je najrýchlejšie rastúcim predmestím Veľkého Houstonu.
 
 
-== Definície ==
-Na Slovensku oficiálne definície požiaru upravujú právne predpisy a slovenské technické normy (STN), ktoré schvaľuje a vydáva Úrad pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky v súlade s medzinárodnými a európskymi štandardmi. Kvôli úplnosti sú uvedené doslovné citácie z príslušných dokumentov.
-§ 2 ods. 1 zákona č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov: „Požiar je každé nežiaduce horenie, pri ktorom sú bezprostredne ohrozené životy alebo zdravie fyzických osôb alebo zvierat, majetok alebo životné prostredie, pri ktorom vznikajú škody na majetku, životnom prostredí alebo ktorého následkom je zranená alebo usmrtená fyzická osoba alebo zviera.“
-Terminologický slovník bezpečnosti a ochrany zdravia pri práci (2006):
-„a) Nežiadúce horenie, pri ktorom vznikajú škody na majetku, životnom prostredí alebo následkom ktorého je usmrtená alebo zranená osoba alebo uhynuté zviera.“
-„b) Nežiadúce horenie, pri ktorom sú ohrozené životy alebo zdravie osôb, zvieratá, majetok alebo životné prostredie.“
-„c) Neriadené samovoľné horenie, ktoré sa nekontrolovane šíri v čase i priestore.“
-
-Slovenská technická norma (STN) ISO 8421-1 (92 0002): „Neželateľné horenie šíriace sa nekontrolovane v priestore a čase.“
-STN EN ISO 13943 (92 0102): „[Neriadené] samovoľné horenie, ktoré nebolo úmyselne pripravené na získanie užitočných výsledkov a ktorého rozsah nie je časovo ani priestorovo obmedzený.“
-Pre praktické potreby Hasičského a záchranného zboru bol v roku 1996 zostavený Terminologický slovník, publikovaný vo formáte MS Excel (postupne aktualizovaný), ktorý uvádza vyššie spomenutú definíciu zo zákona a definície podľa STN ISO 8421-1 (92 0002) a STN EN ISO 13943 (92 0102).
+== Dejiny ==
+História mesta sa začína príchodom železnice na konci 19. storočia. Pôvodný názov Mark Belt bol zmenený na Pearland z dôvodu pestovania veľkého množstva ovocia (hrušiek). Poľnohospodárske centrum v 19. storočí, v tridsiatych a štyridsiatych rokoch bolo mesto známe svojimi tanečnými zábavami a stretnutiami pri pive. V deväťdesiatych rokoch mesto objavili developeri, ktorí tu začali vo veľkom skupovať pozemky.
 
 
-== Typológia ==
-
-
-=== Triedy požiarov ===
-STN EN 2/A1 (92 0001) klasifikuje rôzne druhy požiarov podľa vlastností horľavých látok do štyroch kategórií (tried A, B, C, D). V európskych normách je ako samostatná trieda uvádzaná aj trieda F (požiare rastlinných alebo živočíšnych olejov a tukov používaných v kuchynských spotrebičoch).
-Americké a austrálske normy definujú ako osobitnú triedu požiare elektrických zariadení (v Austrálii trieda E, v Spojených štátoch (USA) a Kanade trieda C), ktorá zahŕňa požiare látok ostatných tried pod vplyvom elektrického prúdu – v prípade takéhoto požiaru sa najskôr odstaví elektrický prúd a následne možno pokračovať v hasení podľa zásad ostatných tried, v závislosti od horľavej látky.
-Klasifikácia požiarov v Spojených štátoch a Kanade sa líši od európskej a austrálskej tiež v zahrnutí požiarov kvapalín/skvapaľniteľných látok a požiarov plynov do triedy B (austrálske a európske triedy B a C) a v označení požiarov kuchynských olejov a tukov ako triedy K (austrálska a európska trieda F).
-
-
-== Fázy rozvoja požiaru ==
-
-Rozvoj požiaru má štyri fázy:
-fáza rozkladu bez plameňa – je čas od vzniku požiaru do intenzívneho rozvoja horenia (vznietenia) podľa druhu materiálu, ktorý horí (3-10 minút)
-fáza rozvíjajúceho sa požiaru – je čas od intenzívneho rozvoja požiaru (vznietenia) až po zachvátenie požiarom všetkých horľavých materiálov (objemové vzplanutie – angl. flashover)
-fáza rozvinutého požiaru – je čas od objemového vzplanutia až do času, kedy sa začne znižovať intenzita horenia
-fáza zániku požiaru – je čas od zníženia intenzívneho horenia až do úplného vyhorenia horľavého materiálu
-
-
-== Poznámky ==
+== Hospodárstvo ==
+Keďže tri štvrtiny obyvateľstva sú zamestnané v službách, mesto nemá žiaden veľký priemysel. Najväčšími zamestnávateľmi v meste sú Pearland Independent School District, Wal-Mart, H-E-B Plus, mesto Pearland, Randall's (potraviny), Kemlon (obsluha ropných polí), TurboCare (výroba a oprava turbín), Target, Tele-Flow (kúrenie/klimatizácia) a Lowe's (výroba stavebných materiálov).
 
 
 == Referencie ==
@@ -40,5 +14,12 @@ fáza zániku požiaru – je čas od zníženia intenzívneho horenia až do ú
 
 == Iné projekty ==
 
- Wikicitáty ponúkajú citáty od alebo o Požiar
- Commons ponúka multimediálne súbory na tému Požiar
+ Commons ponúka multimediálne súbory na tému Pearland (Texas)
+
+
+== Externé odkazy ==
+Oficiálna stránka
+
+
+== Zdroj ==
+Tento článok je čiastočný alebo úplný preklad článku Pearland na anglickej Wikipédii.

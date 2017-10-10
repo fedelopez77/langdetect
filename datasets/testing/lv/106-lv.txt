@@ -1,0 +1,7 @@
+Vēja enerģija ir enerģija, ko iegūst no vēja, izmantojot vēja ģeneratorus. Vējš pieder pie atjaunojamiem, ekoloģiski relatīvi tīriem enerģijas avotiem. Vēja turbīnas enerģiju sāk ražot, līdzko vēja ātrums sasniedz 2,5 m/s. Nominālais vēja ātrums — 12 m/s. Vētrā turbīnas apstājas. Enerģijas daudzums, ko var iegūt no vēja, ir proporcionāls vēja plūsmas iedarbības laukumam un vēja ātrumam kubā: E~S·v³. Vispiemērotākās vietas vēja ģeneratoru izvietošanai ir jūras piekraste, jūras šelfs un kaili pakalni.
+
+
+== Eiropa ==
+
+
+== Atsauces ==

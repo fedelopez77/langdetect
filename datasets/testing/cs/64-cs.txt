@@ -1,0 +1,361 @@
+Robert Manning, (22. října 1816, Avincourt, Normandie - 9. prosince 1897, Dublin) byl irský inženýr a hydrolog.
+
+
+== Životopis ==
+Narodil se v Normandii, kde žil až do smrti svého otce, a poté, v roce 1826 se společně se svou matkou přestěhoval do Irska, do Waterfordu. Od roku 1834 do roku 1845 pracoval jako účetní pro svého strýce, Johna Stephanse. V roce 1846, v době velkého hladomoru, byl přijat jako kreslič do oddělení trubního odvodnění (Arterial Drainage Division) na Irské institutu veřejných komunikací a staveb (Irish Office of Public Works). Ještě téhož roku se stal asistentem oblastního inženýra, Samuela Robertse, a poté, co ji Roberts v roce 1848 opustil, byl jmenován na jeho pozici, kterou zastával až do roku 1855.
+Od roku 1855 do roku 1869 byl zaměstnancem Markýze z Downshiru a kromě výzkumné činnosti dohlížel i na výstavbu mostu v zátoce Dundrum Bay a navrhl zásobování vodou pro město Belfast.
+Po markýzově smrti, v roce 1869, se Manning vrátil na Irský institut veřejných komunikací a staveb do pozice asistenta hlavního inženýra. V roce 1874 se stal hlavním inženýrem, aby tuto pozici zastával až do odchodu do důchodu v roce 1891.
+Manningovi se nikdy nedostalo formálního vzdělání v technických oborech ani v mechanice proudění kapalin a mohl klidně skončit jako účetní. Jak sám uvádí ve spise z roku 1895, až přečtení Traité d'Hydraulique od d'Aubissona des Voissons v něm vzbudilo opravdový zájem o hydrauliku. Jeho práci doprovázelo zejména logické myšlení a schopnost najít podstatu problému a tu potom řešit.
+
+
+== Dílo ==
+Základem jeho díla byla práce se sedmi v té době nejpoužívanějšími rovnicemi pro výpočet rychlosti proudění kapalin:
+Du Bautova (1786)
+Eytelweinova (1814)
+Weisbachova (1845)
+St. Venantova (1851)
+Nevillova (1860)
+Darcy-Bazinova (1865)
+Ganguillet-Kutterova (1869)
+Po dosazení stejných hodnot sklonu dna a hydraulického poloměru (používal hodnoty 0,25 m < R < 30 m) dostaneme z každé z předešlých rovnic jiný výsledek. Manning tyto výsledky porovnával a poté dospěl ke vztahu, který tyto výsledky nejlépe popisoval:
+
+  
+    
+      
+        v
+        =
+        32
+        
+          
+            R
+            i
+            (
+            1
+            +
+            
+              R
+              
+                
+                  1
+                  3
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle v=32{\sqrt {Ri(1+R^{\frac {1}{3}})}}}
+  
+Manning popsal tento vztah jako zcela empirický a později ho zjednodušil na vztah:
+
+  
+    
+      
+        v
+        =
+        C
+        
+          i
+          
+            
+              1
+              2
+            
+          
+        
+        
+          R
+          
+            x
+          
+        
+      
+    
+    {\displaystyle v=Ci^{\frac {1}{2}}R^{x}}
+  
+aby poté na základě výsledků výzkumu Humphreyho a Abbota na řece Mississippi a stejně tak na základě práce Bazina stanovil koeficient 
+  
+    
+      
+        x
+        =
+        0
+        ,
+        666
+      
+    
+    {\displaystyle x=0,666}
+  . V roce 1885 Manning tedy přišel se vztahem:
+
+  
+    
+      
+        v
+        =
+        C
+        
+          R
+          
+            
+              2
+              3
+            
+          
+        
+        
+          i
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle v=CR^{\frac {2}{3}}i^{\frac {1}{2}}}
+  
+V dopise Flamentovi Manning poznamenal: "Obrácená hodnota koeficientu 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   odpovídá koeficientu 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , který definovali švýcarští inženýři Ganguillet a Kutter; 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   i 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   je pro stejné koryto konstantní.
+4. prosince 1889, v 73 letech, Manning předal tento vzorec irskému institutu veřejných komunikací a staveb. Publikován byl v roce 1891 v jeho pojednání nazvaném Proudění vody v otevřených korytech a potrubí (On the flow of water in open channels and pipes) vydaném Transactions of the Institution of Civil Engineers v Irsku.
+Manning neměl rád svůj vlastní vzorec a to hned ze dvou důvodů:
+ve své době bylo velice obtížné spočítat třetí odmocninu
+rovnice byla rozměrově nesprávně.
+Právě z těchto dvou důvodů ještě upravil svůj vztah na:
+
+  
+    
+      
+        v
+        =
+        C
+        
+          
+            g
+            .
+            i
+          
+        
+        [
+        
+          
+            R
+          
+        
+        +
+        
+          
+            
+              0
+              ,
+              22
+            
+            
+              m
+            
+          
+        
+        (
+        R
+        −
+        0
+        ,
+        15
+        m
+        )
+        ]
+      
+    
+    {\displaystyle v=C{\sqrt {g.i}}[{\sqrt {R}}+{\frac {0,22}{\sqrt {m}}}(R-0,15m)]}
+  
+kde 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   je barometrický tlak na rtuťovém sloupci v metrech a konstanta 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   je bezrozměrné číslo, které se mění v závislosti na tvaru a povrchu koryta.
+Nicméně od konce 19. století a hlavně od začátku 20. století je v učebnicích hydrauliky výše uvedený vztah psán ve tvaru:
+v imperiální měrové soustavě
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              1
+              ,
+              49
+            
+            n
+          
+        
+        
+          R
+          
+            
+              2
+              3
+            
+          
+        
+        
+          i
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle v={1,49 \over n}R^{2 \over 3}i^{1 \over 2}}
+  
+v soustavě metrické
+
+  
+    
+      
+        v
+        =
+        
+          
+            1
+            n
+          
+        
+        
+          R
+          
+            
+              2
+              3
+            
+          
+        
+        
+          i
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle v={\frac {1}{n}}R^{\frac {2}{3}}i^{\frac {1}{2}}}
+  
+kde 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   je rychlost proudění v m.s-1, 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   je drsnostní součinitel, 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   je hydraulický poloměr a 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   je podélný sklon dna koryta. Tento vztah je nazýván Maningovou rovnicí. Součinitel 1,49 je převodní součinitel mezi imperiální a metrickou měrovou soustavou.
+Porovnáním s Chézyho rovnicí lze získat Chézyho rychlostní součinitel podle Manninga ve tvaru (pro metrickou měrovou soustavu)
+
+  
+    
+      
+        C
+        =
+        
+          
+            1
+            n
+          
+        
+        
+          R
+          
+            
+              1
+              6
+            
+          
+        
+      
+    
+    {\displaystyle C={1 \over n}R^{1 \over 6}}
+  
+Historii vzniku a zajímavé poznámky lze kromě internetového odkazu níže nalézt v publikaci 
+
+
+== Reference ==
+History of the Manning Formula
+Water engineers you ought to know
+Životopis (en)

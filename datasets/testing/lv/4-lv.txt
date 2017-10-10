@@ -1,11 +1,54 @@
-Nikolajs Katiševs (1900. gada 5. novembris — 1978. gada 16. marts) bija krievu tautības Latvijas armijas un vēlāk Latviešu leģiona virsnieks (pulkvedis—leitnants). Dzelzs krusta II un I pakāpes kavalieris.
+Deniņu kauls (Os temporale) ir pāra, gaisu saturošs, cilvēka galvaskausa smadzeņu daļas kauls. Deniņu kauli ir novietoti galvaskausa apakšējā - sānu daļā un to uzbūve ir ļoti sarežģīta. Deniņu kaulā ir ārējā auss ejas atvere (porus acusticus externus), kas ved uz ārējo auss eju (meatus acusticus externus).
+Deniņu kaulam ir četras daļas:
+Akmens daļa (pars petrosa)
+Aizauss daļa (pars mastoidea)
+Bungdobuma daļa (pars tympanica)
+Zvīņas daļa (pars squamosa)
 
 
-== Biogrāfija ==
-Dzimis Daugavpilī. Dienējis Latvijas armijā. 1926. gadā komandēts uz Kara skolu. No 1931. gada dienējis Latvijas armijas Smagās artilērijas pulkā. 1934. gada 27. augustā Katiševs ar atzīmi "ļoti sekmīgi" pabeidza Kara politehniskos kursus un septembra sākumā Latvijas Universitāte Ķīmijas fakultāti, iegūstot kara inženiera grādu. 1934. gada 13. septembrī Katiševu aizkomandēja uz Intendantūras galveno pārtikas noliktavu.
-Pēc Latvijas okupācijas turpinājis dienestu armijā, kura vēlāk tika pārveidota par 24. teritoriālo strēlnieku korpusu, tomēr 1941. gada jūnijā Katiševu atvaļināja no dienesta.
-Otrā pasaules kara laikā dienējis Latviešu leģionā (mobilizēts 1943. gadā), kur viņš bija 15. ieroču SS grenadieru divīzijas 15. artilērijas pulka diviziona komandieris, bet vēlāk pulka komandiera vietnieks. Piedalījies arī kaujās Kurzemes cietoksnī, jo 15. ieroču SS grenadieru divīzijas artilērijas vienības tika piekomandētas 19. ieroču SS grenadieru divīzijai. Pēc artilērijas pulka komandiera Skaistlauka saslimšanas un evakuācijas uz Vāciju Katiševs komandēja artilērijas smagos divizionus. Kaujās Kurzemes cietoksnī apbalvots ar Dzelzs krusta II un I pakāpi. Pirms Otrā pasaules kara beigām Katiševam izdevās pamest Latvijas teritoriju.
-Pēc Otrā pasaules kara Katiševs dzīvojis trimdā Vācijā un vēlāk Anglijā, kur 1978. gadā miris Dārbi.
+== Akmens daļa ==
+Akmens daļai, jeb piramīdai (pars petrosa (pyramis)) ir trīsstūra piramīdas forma, tā ir novietota horizontālā plaknē ar virsotni uz priekšu un mediāli, bet pamatne vērsta uz mugurpusi un laterāli un pāriet aizauss daļā (pars mastoidea). Piramīdai ir trīs virsmas: priekšējā (facies anterior), mugurējā (facies posterior) un apakšējā virsma (facies inferior), kā arī trīs malas: priekšējā mala (margo anterior), augšējā mala (margo superior) un mugurējā mala (margo posterior). Piramīdas galotnē (apex partis petrosae) ir miega artērijas kanāla iekšējā atvere (canalis caroticus).
+Deniņu kaula akmens daļā atrodas bungdobums - tas ir ~1 cm3 liels, ar gaisu bildīts dobums, kas pieder pie vidusauss (auris media). Šajā dobumā atrodas dzirdes kauliņi. Šajā daļā atrodas arī deniņu kaula kanāli un iekšējās auss (auris interna) visas daļas - gliemezis, priekštelpa un pusloka kanāli.
 
 
-== Atsauces ==
+=== Akmens daļas priekšējā virsma ===
+Uz akmens daļas priekšējās virsmas (facies anterior) atrodas gluds laukums - bungdobuma jumts (tegmen tympani). Uz priekšpusi no bungdobuma jumta ir lokveida pacēlums (eminentia arquata), no kura mediāli un uz priekšu atrodas lielā akmens nerva kanāla atvere (hiatus canalis nervi petrosa majoris), kas tuvāk augšējai malai savienojas ar sejas nerva kanālu (canalis facialais), kā arī mazā akmens nerva kanāla atvere jeb bungdobuma kanāliņa augšējā atvere (hiatus canalis nervi petrosa minoris s. apertura superior canaliculi tympanici). No abu kanālu atverēm atiet rieviņas, kurās ieguļ attiecīgie nervi. Pie piramīdas virsotnes ir trijzaru nerva iespiedums (impressio trigemini).
+
+
+=== Akmens daļas mugurējā virsma ===
+
+Akmens daļas mugurējā virsmā (facies posterior) redzama iekšējā auss ejas atvere (porus acusticus internus), kas ved iekšējā auss ejā (meatus acusticus internus).
+
+
+=== Akmens daļas apakšējā virsma ===
+Akmens daļas apakšējās virsmas laterālajā daļā ir īlenveida izaugums (processus styloideus), kā priekša ir īlenveida izauguma un aizauss paugura atvere (foramen stylomastoideum). Mediāli no īlenveida izauguma atrodas jūga bedre (fossa jugularis), bet uz šķautnes starp jūga bedri un miega artērijas kanāla ārējo atveri - akmens bedrīte (fossula petrosa), kuras dziļumā atveras bungdobuma kanāliņa (canaliculus tympanicus) apakšējā atvere. Uz priekšu no jūga bedres atrodas miega artērijas kanāla (canalis caroticus) apakšējā atvere.
+
+
+=== Akmens daļas malas ===
+Akmens daļai ir trīs malas: priekšējā, mugurējā un augšējā. Uz augšējās malas atrodas augšējā akmens sinusa rieva (sulcus sinus petrosi superioris), bet uz mugurējās malas - apakšējā akmens sinusa rieva (sulcus sinus petrosi inferioris). Uz mugurējās malas ir arī jūga ierobs (incisura jugularis), kas piedalās jūga atveres veidošanā (foramen jugulare), kā arī gliemeža kanāliņa ārējā atvere (apertura externa canaliculi cochleae).
+
+
+== Aizauss daļa ==
+Aizauss daļa (pars mastoidea) ir akmens daļas turpinājums laterālā virzienā. Aizauss daļā ir masīvs izaugums uz leju - aizauss paugurs (processus mastoideus), kas veidojas pēc dzimšanas. Aizauss paugura iekšienē ir aizauss paugura šūnas (cellualae mastoideae) un aizauss paugura dobums (antrum mastoideum), kas ir pildīti ar gaisu. Aizauss paugura mediālajā pusē ir aizauss paugura ierobs (incisura mastoidea), kam paralēli iet sekla pakauša artērijas rieva (sulcus arteriae occipitalis). Virs ieroba ir neliela aizauss paugura atvere (foramen mastoideum), kas atveras kaula iekšējā virsmā S veida sinusa rievā.
+
+
+== Bungdobuma daļa ==
+Bungdobuma daļai (pars tympanica) ir izliektas plātnītes forma un tā veido ārējās auss ejas sienas. Bungdobuma daļā atrodas arī bungdobuma un akmens daļas sprauga (fissura petrotympanica), kas savienojas ar bungdobumu.
+
+
+== Zvīņas daļa ==
+Zvīņas daļa (pars squamosa) atrodas uz augšu un uz priekšu no bungdobuma daļas un veido cilvēka galvaskausa smadzeņu daļas laterālo sienu. Zvīņas daļai ir divas virsmas: deniņu virsma (facies temporalis) un smadzeņu virsma (facies cerebralis). Deniņu virsmas (ārējās virsmas) apakšējā malā ir vaiga izaugums (processus zygomaticus), kas iet uz priekšu un, savienojoties ar vaiga kaula deniņu izaugumu, veido vaiga loku (arcus zygomaticus). Zem vaiga izauguma ir dziļa apakžokļa bedre, kuras priekšā ir cilindrisks pacēlums - locītavas pauguriņš (tuberculum articulare). Locītavas bedre un pauguriņš piedalās apakšžokļa locītavas veidošanā. Iekšējā virsmā (smadzeņu virsmā) ir asinsvadu rievas (sulci arteriosi et venosi), smadzeņu kroku un rievu iespiedumi bedrīšu un pacēlumu veidā (impressiones digitatae et juga cerebralia).
+
+
+== Deniņu kaula kanāli ==
+Deniņu kaulā ir vairāki kanāli:
+Miega artērijas kanāls (canalis caroticus)
+Sejas nerva kanāls (canalis facialis)
+Bungdobuma stīgas kanāliņš (canaliculus chordae tympani)
+Bungdobuma kanāliņš (canaliculus tympanicus)
+Muskuļa un dzirdes caurules kanāls (canalis musculatubarius)
+Gliemeža kanāliņš (canaliculus cochleae)
+Priekštelpas ūdensvads (aquaeductus vestibuli)
+
+
+== Papildus attēli ==

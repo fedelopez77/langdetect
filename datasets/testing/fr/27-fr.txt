@@ -1,32 +1,23 @@
-Carlo Chelli né à Carrare en 1807 et mort dans la même ville en 1877 est un sculpteur italien.
+EasyOS est une distribution Linux créée par la société Neuf Cegetel pour son EasyGate qui met l'accent sur la simplicité d'utilisation et la légèreté. Ce système d'exploitation est entièrement basé sur des logiciels libres, les logiciels développés par Neuf Cegetel étant placés sous licence GNU GPL.
 
 
-== Biographie ==
-Carlo Chelli qui a étudié à l'Académie des beaux-arts de Carrare a été surtout actif à Turin, Bologne, Rome) et au Chili.
+== Interfaces ==
+L'EasyOS permet à l'utilisateur de choisir parmi 3 niveaux de navigation en fonction de son expérience.
 
 
-== Œuvres ==
-Statue de la Foi (à gauche) et Statue de la Réligion (à droite), à la base du grand escalier de l'église Gran Madre di Dio de Turin (1827)
-Sacra Famiglia con S. Giovanni e S. Anna, marbre conservé à l'Accademia Albertina de Turin
-Aiace (1833), Accademia di Belle Arti, Carrare
-Ganimede (1834), Accademia di Belle Arti, Carrare
-Danzatrice (1835), Accademia di Belle Arti, Carrare
-Madonna col Bambino (1844), chiesa di San Francesco, Bologne
-Statue d' Ézéchiel, (1857), piédestal de la Colonne de l'Immaculée Conception à Rome.
-Cella Grabinski, (1861), Cimetière monumental de la Chartreuse de Bologne
-Paolo e Virginia (1863), Accademia di Belle Arti, Carrare
-Tombe de Nicola Puccetti (1868), Église Santa Maria in Aquiro, Rome.
+=== Easy ===
+Easy est une interface en 3 dimensions permettant une navigation intuitive.
 
 
-== Images ==
+=== Ergo ===
+Il s'agit de l'interface par défaut. Elle offre une navigation simplifiée mais plus complète que l'interface Easy.
 
 
-== Notes et références ==
+=== Expert ===
+Articulée autour de Xfwm 4 (le gestionnaire de fenêtres de Xfce), cette interface est plus classique, conforme à la navigation habituelle.
 
 
-== Liens externes ==
-Carlo Chelli Enciclopedia Treccani
-Carlo Chelli, Museo Virtuale della Certosa de Bologne
-Notices d'autorité :
- Portail de la sculpture
- Portail de l’Italie
+== Lien externe ==
+(fr) Site de easyneuf
+ Portail des logiciels libres
+ Portail GNU/Linux

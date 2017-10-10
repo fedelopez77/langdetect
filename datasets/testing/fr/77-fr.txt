@@ -1,0 +1,19 @@
+Voici une liste des enregistrements DNS (Domain Name System) et leur utilité.
+
+
+== Liste des enregistrements ==
+Voici la liste officielle des enregistrements DNS disponibles sur le site de l'IANA.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Domain Name System : Système de noms de domaine
+Enregistrement Mail eXchanger : Enregistrement MX (Mail eXchanger)
+Enregistrement SRV : Enregistrement SRV (service)
+ Portail de l’informatique
+ Portail d’Internet

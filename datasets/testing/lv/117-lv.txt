@@ -1,0 +1,23 @@
+Portera piecu spēku analīze ir tirgus konkurences analīzes modelis, kas apskata piecus spēkus, kas ietekmē peļņas iespējas konkrētajā tirgū. Analīzes modeli 1979. gadā radīja Hārvarda Universitātes profesors Maikls Porters, kā alternatīvu SVID modelim. Porters uzskata, ka tirgus mikrovidi nosaka pieci spēki:
+aizvietojošu preču un pakalpojumu rašanās draudi
+konkurence ar jau esošajiem konkurentiem
+draudi no jaunu konkurentu parādīšanās
+piegādātāju iespējas diktēt noteikumus
+pircēju iespējas diktēt noteikumus
+Papildus riskiem, ko ikdienā rada konkurence ar jau esošajiem konkurentiem, Porters izdala vēl četrus spēkus un to ietekmi.
+
+
+== Jaunu konkurentu risks ==
+Veiksmīgs, augošs un peļņu nesošs tirgus segments agri vai vēlu piesaistīs arī citu uzņēmēju interesi, kas ieies tirgū. Ja dominējošais tirgus dalībnieks nespēs bloķēt jaunu dalībnieku ienākšanu tirgū, rezultātā samazināsies visu tirgus dalībnieku peļņa. Daži no faktoriem, kas ietekmē jaunu konkurentu rašanos ir: tirgus barjeras, kas traucē jaunu dalībnieku ienākšanu; valdības regulas; nepieciešamā starta kapitāla lielums, mēroga ekonomija, produktu diferencēšana, zīmola kapitāls, pārslēgšanās izmaksas, piekļuve izplatīšanas tīkliem, patērētāju lojalitāte, iespējamā peļņa, tīkla efekts u.c.
+
+
+== Aizvietotāju radītais risks ==
+Draudus rada patērētāju iespēja izvēlēties aizvietojošus produktus, kas atrodas ārpus tirgus nišas. Piemēram, Coca-cola un Pepsi-cola ir savstarpēji konkurenti, bet to aizvietotājs ir ūdens vai sula. Abu kolas ražotāju mārketinga aktivitātes audzē kolas tirgu, bet ūdens vai sulas mārketings apdraud un samazina kolas tirgu. Faktori, kas motivē izvēlēties aizvietotāju: pircēju lojalitātes trūkums un paradums izvēlēties aizvietotājus; cenu atšķirība par labu aizvietotājam; patēriņa maiņas izmaksas; produkta diferencēšana; aizvietojošo produktu daudzums tirgū; aizvietošanas vieglums; kvalitātes problēmas u.c.
+
+
+== Pircēju spēks ==
+Pircēji var radīt risku uzņēmumam un tā produktiem, mainot savu izvēli. Visbiežāk to ietekmē cenas izmaiņas. Ja tirgū pastāv daudzi līdzīgi produkti, pastāv ļoti liels risks, ka pircēji izvēlēsies alternatīvu un lētāku piedāvājumu. Liela pircēju skaita zaudēšana rada lielākos riskus. Faktori, kas to ietekmē ir: konkurentu skaits, kas sacenšas par pircējiem; pircēju atkarība no esošajiem produktu izplatīšanas tīkliem; ražotāja iespēja samazināt fiksētās izmaksas; izvēles maiņas izmaksas; informācijas pieejamība par konkurējošo piedāvājumu; pircēju jūtība pret cenu izmaiņām; produkta unikalitāte u.c.
+
+
+== Piegādātāju spēks ==
+Ražošanai nepieciešamo izejvielu piegādātāji var izdarīt spiedienu uz ražotāju, it sevišķi, ja tirgū trūkst alternatīvu izejvielu piegādātāju. Par izejvielu var uzskatīt arī elektroenerģiju, gāzi, darbaspēku un specializētu ekspertu pakalpojumus. Piegādātāji var izmantot šo spēku, lai pieprasītu augstāku cenu par saviem produktiem un pakalpojumiem. Starp ietekmes faktoriem šeit var minēt: piegādātāja maiņas izmaksas; izejvielas ietekme uz produkta cenu un diferencēšanu; alternatīvu piegādātāju un izejvielu pieejamība; arodbiedrību spēks u.c.

@@ -1,0 +1,319 @@
+Barnes interpolation, named after Stanley L. Barnes, is the interpolation of unstructured data points from a set of measurements of an unknown function in two dimensions into an analytic function of two variables. An example of a situation where the Barnes scheme is important is in weather forecasting where measurements are made wherever monitoring stations may be located, the positions of which are constrained by topography. Such interpolation is essential in data visualisation, e.g. in the construction of contour plots or other representations of analytic surfaces.
+
+
+== Introduction ==
+Barnes proposed an objective scheme for the interpolation of two dimensional data using a multi-pass scheme. This provided a method to interpolating sea-level pressures across the entire United States of America, producing a synoptic chart across the country using dispersed monitoring stations. Researchers have subsequently improved the Barnes method to reduce the number of parameters required for calculation of the interpolated result, increasing the objectivity of the method.
+The method constructs a grid of size determined by the distribution of the two dimensional data points. Using this grid, the function values are calculated at each grid point. To do this the method utilises a series of Gaussian functions, given a distance weighting in order to determine the relative importance of any given measurement on the determination of the function values. Correction passes are then made to optimise the function values, by accounting for the spectral response of the interpolated points.
+
+
+== Method ==
+Here we describe the method of interpolation used in a multi-pass Barnes interpolation.
+
+
+=== First pass ===
+For a given grid point i, j the interpolated function g(xi, yi) is first approximated by the inverse weighting of the data points. To do this as weighting values is assigned to each Gaussian for each grid point, such that
+
+  
+    
+      
+        
+          w
+          
+            i
+            j
+          
+        
+        =
+        exp
+        ⁡
+        
+          (
+          −
+          
+            
+              
+                r
+                
+                  m
+                
+                
+                  2
+                
+              
+              κ
+            
+          
+          )
+        
+        ,
+        
+      
+    
+    {\displaystyle w_{ij}=\exp \left(-{\frac {r_{m}^{2}}{\kappa }}\right),\,}
+  
+where 
+  
+    
+      
+        κ
+      
+    
+    {\displaystyle \kappa }
+   is a falloff parameter that controls the width of the Gaussian function. This parameter is controlled by the characteristic data spacing, for a fixed Gaussian cutoff radius wij = e−1 giving Δn such that:
+
+  
+    
+      
+        κ
+        =
+        5.052
+        
+        
+          
+            (
+            
+              
+                
+                  2
+                  
+                  Δ
+                  n
+                
+                π
+              
+            
+            )
+          
+          
+            2
+          
+        
+        .
+        
+      
+    
+    {\displaystyle \kappa =5.052\,\left({\frac {2\,\Delta n}{\pi }}\right)^{2}.\,}
+  
+The initial interpolation for the function from the measured values 
+  
+    
+      
+        
+          f
+          
+            k
+          
+        
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle f_{k}(x,y)}
+   then becomes:
+
+  
+    
+      
+        
+          g
+          
+            0
+          
+        
+        (
+        
+          x
+          
+            i
+          
+        
+        ,
+        
+          y
+          
+            j
+          
+        
+        )
+        =
+        
+          
+            
+              
+                ∑
+                
+                  k
+                
+              
+              
+                w
+                
+                  i
+                  j
+                
+              
+              
+                f
+                
+                  k
+                
+              
+              (
+              x
+              ,
+              y
+              )
+            
+            
+              
+                ∑
+                
+                  k
+                
+              
+              
+                w
+                
+                  i
+                  j
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle g_{0}(x_{i},y_{j})={\frac {\displaystyle \sum _{k}w_{ij}f_{k}(x,y)}{\displaystyle \sum _{k}w_{ij}}}.}
+  
+
+
+=== Second pass ===
+The correction for the next pass then utilises the difference between the observed field and the interpolated values at the measurement points to optimise the result:
+
+  
+    
+      
+        
+          g
+          
+            1
+          
+        
+        (
+        
+          x
+          
+            i
+          
+        
+        ,
+        
+          y
+          
+            j
+          
+        
+        )
+        =
+        
+          g
+          
+            0
+          
+        
+        (
+        
+          x
+          
+            i
+          
+        
+        ,
+        
+          y
+          
+            j
+          
+        
+        )
+        +
+        ∑
+        (
+        f
+        (
+        x
+        ,
+        y
+        )
+        −
+        
+          g
+          
+            0
+          
+        
+        (
+        x
+        ,
+        y
+        )
+        )
+        exp
+        ⁡
+        
+          (
+          −
+          
+            
+              
+                r
+                
+                  m
+                
+                
+                  2
+                
+              
+              
+                γ
+                κ
+              
+            
+          
+          )
+        
+        .
+        
+      
+    
+    {\displaystyle g_{1}(x_{i},y_{j})=g_{0}(x_{i},y_{j})+\sum (f(x,y)-g_{0}(x,y))\exp \left(-{\frac {r_{m}^{2}}{\gamma \kappa }}\right).\,}
+  
+It is worth to note that successive correction steps can be used in order to achieve better agreement between the interpolated function and the measured values at the experimental points.
+
+
+== Parameter selection ==
+Although described as an objective method, there are many parameters which control the interpolated field. The choice of Δn, grid spacing Δx and 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   as well influence the final result. Guidelines for the selection of these parameters have been suggested, however the final values used are free to be chosen within these guidelines.
+The data spacing used in the analysis, Δn may be chosen either by calculating the true experimental data inter-point spacing, or by the use of a complete spatial randomness assumption, depending upon the degree of clustering in the observed data. The smoothing parameter 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   is constrained to be between 0.2 and 1.0. For reasons of interpolation integrity, Δx is argued to be constrained between 0.3 and 0.5.
+
+
+== Notes ==

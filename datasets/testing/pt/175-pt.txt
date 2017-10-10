@@ -1,0 +1,130 @@
+Em matemática, o k-corte mínimo é o problema de otimização combinatória que requer encontrar um conjunto de arestas cuja remoção dessas arestas iria particionar o grafo em k componentes conexos. Essas arestas são chamadas de k-corte. O objetivo é encontrar o k-corte de peso mínimo. Esse particionamento pode ter aplicações em design VLSI, mineração de dados, elementos finitos e comunicação em computação paralela.
+
+
+== Definição formal ==
+Dado um grafo não direcionado G = (V, E) com atribuição de pesos nas arestas w: E → N e um inteiro k ∈ {2, 3, …, |V|}, particione V em k conjuntos disjuntos F = {C1, C2, …, Ck} enquanto minimizando
+
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            k
+            −
+            1
+          
+        
+        
+          ∑
+          
+            j
+            =
+            i
+            +
+            1
+          
+          
+            k
+          
+        
+        
+          ∑
+          
+            
+              
+                
+                  
+                    
+                      v
+                      
+                        1
+                      
+                    
+                    ∈
+                    
+                      C
+                      
+                        i
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      v
+                      
+                        2
+                      
+                    
+                    ∈
+                    
+                      C
+                      
+                        j
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        w
+        (
+        
+          {
+          
+            v
+            
+              1
+            
+          
+          ,
+          
+            v
+            
+              2
+            
+          
+          }
+        
+        )
+      
+    
+    {\displaystyle \sum _{i=1}^{k-1}\sum _{j=i+1}^{k}\sum _{\begin{smallmatrix}v_{1}\in C_{i}\\v_{2}\in C_{j}\end{smallmatrix}}w(\left\{v_{1},v_{2}\right\})}
+  
+Para um k fixo, esse problema é solúvel em tempo polinomial de O(|V|k2). No entanto, o problema é NP-completo se k for parte da entrada. Também é NP-completo se especificarmos 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   vértices e pedirmos para o k-corte mínimo que separa esses vértices entre cada um dos conjuntos.
+
+
+== Ver também ==
+Corte máximo
+Corte mínimo
+
+
+== Notes ==
+
+
+== Referências ==
+Goldschmidt, O.; Hochbaum, D. S. (1988), Proc. 29th Ann. IEEE Symp. on Foundations of Comput. Sci., IEEE Computer Society, pp. 444–451 
+Garey, M. R.; Johnson, D. S. (1979), Computers and Intractability: A Guide to the Theory of NP-Completeness, ISBN 0-7167-1044-7, W.H. Freeman 
+Saran, H.; Vazirani, V. (1991), «Finding k-cuts within twice the optimal», Proc. 32nd Ann. IEEE Symp. on Foundations of Comput. Sci, IEEE Computer Society, pp. 743–751 
+Vazirani, Vijay V. (2003), Approximation Algorithms, ISBN 3-540-65367-8, Berlin: Springer 
+Guttmann-Beck, N.; Hassin, R. (1999), «Approximation algorithms for minimum k-cut» (PDF), Algorithmica, pp. 198–207 
+Comellas, Francesc; Sapena, Emili (2006), «A multiagent algorithm for graph partitioning. Lecture Notes in Comput. Sci.», Algorithmica, ISSN 0302-9743, 3907 (2): 279–285, doi:10.1007/s004530010013 
+Crescenzi, Pierluigi; Kann, Viggo; Halldórsson, Magnús; Karpinski, Marek; Woeginger, Gerhard (2000), «Minimum k-cut», A Compendium of NP Optimization Problems 
+Fernandez de la Vega, W.; Karpinski, M.; Kenyon, C. (2004). «Approximation schemes for Metric Bisection and partitioning». Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete Algorithms. pp. 506–515,

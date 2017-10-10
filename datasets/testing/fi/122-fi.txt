@@ -1,0 +1,59 @@
+Työsuojelulla tarkoitetaan toimia, joilla vapaaehtoisesti ja myös lain velvoittamana pyritään ehkäisemään, vähentämään ja poistamaan työssä ja työoloista aiheutuvia vaaroja ja vaurioita. Työsuojelulla pyritään muuttamaan työ ja työolot sellaisiksi, että ne edistävät ihmisen ruumiillista, henkistä terveyttä, turvallisuutta ja viihtyvyyttä. Työsuojelutoimenpiteet kohdistuvat ensisijaisesti työntekijöihin: työsuojelu pyrkii vähentämään työstä työntekijälle koituvia vaaroja ja haittoja.
+
+
+== Historia ==
+Työntekijöiden suojelu on sosiaalipolitiikan vanhin toiminta-alue. Suomessa se käsittää pääasiallisesti työturvallisuus- ja työaikasuojelun. Vasta teollisuuden läpimurto Isossa-Britanniassa 1700-luvun lopulla ja 1800-luvun alussa toi työelämään liittyvät riskit varsinaisesti ajankohtaisiksi. Ammattikuntalaitoksen soveltamat työsuojelua koskevat säännökset eivät sopineet teollistuvaan yhteiskuntaan. Erityisesti työntekijöiden aseman turvattomaksi teki liberalistinen käsitys, jonka mukaan talouselämässä ei saanut olla rajoittavia säännöksiä. Sosialistiset opit vaikuttivat työntekijäin suojelua koskevien lakien säätämiseen Saksassa, jossa huomiota herättivät 1800-luvun loppupuolella säädetyt Bismarckin sosiaalivakuutuslait. Työsuojelun tarvetta alkoi esiintyä myös muissa maissa teollistumisen seurauksena. Suomessa ensimmäiset työsuojelua tarkoittavat säännökset olivat asetuksessa teollisuusammateissa olevien työntekijöiden suojelemisesta vuodelta 1889.
+
+
+== Työsuojelu Suomessa ==
+Työsuojeluun Suomessa kuuluvat
+(1) työaikasuojelu, joka käsittää nuorten ja naisten työaikasuojelun sekä yleisen työaikasuojelun, ja
+(2) työturvallisuussuojelu, joka jakautuu työtapaturmasuojeluun ja työterveyssuojeluun.
+Sosiaali- ja terveysministeriö johtaa, valvoo ja hoitaa työsuojeluhallintoa. Paikallista työsuojelua varten maa on jaettu aluehallintovirastossa viiteen työsuojelun vastuualueeseen. Ennen aluehallintouudistusta 2010 alueellisesta työsuojelusta vastasivat työsuojelupiirit.
+Työpaikkatarkastus voi koskea työsuhdetta, työympäristöä, teknistä laitetta, vaarallista ainetta tai työmenetelmää, työntekijän terveyttä tai muuta työsuojeluun kuuluvaa asiaa. Myös markkinavalvonta on osa työsuojelua.
+Työsuojelua koskevien periaatekysymysten käsittelyä, työsuojelun yhtenäistämistä ja edistämistä varten on sosiaali- ja terveysministeriön yhteydessä työsuojeluneuvottelukunta. Työsuojelun vastuualueittain näitä tehtäviä hoitavat työsuojelulautakunnat.
+Työsuojelusta on Suomessa annettu yleissäädös Työturvallisuuslaki, joka määrittelee yleisellä tasolla työntekijän ja -antajan velvollisuudet ja oikeudet työsuojeluasioissa. Nuorten työntekijöiden työsuojelusta on lisäksi erityislaki.
+Työsuojelun piirissä olevien haittojen laajuutta kuvaa hyvin se, että yksistään Suomessa altistuu vuosittain 1,5 miljoonaa työntekijää melulle, tärinälle, kylmälle, säteilylle, myrkyille ja kemikaaleille. Puutteellisista työoloista arvioidaan koituvan Suomen kansantaloudelle noin kolmen miljardin euron vuotuiset menetykset.
+
+
+=== Työsuojelun historia Suomessa ===
+Vuonna 1889 annettiin keisarin asetus Teollisuusammateissa olevain työntekijäin suojelemisesta. Asetus ei tähdännyt yksinomaan työntekijöiden fyysisen turvallisuuden turvaamiseen, vaan myös taloudellisten ja henkisten asioiden huomioon ottamiseen. Tämä ensimmäisen työväensuojelulain sisällön olennaisen osan muodostivat määräykset tietyistä työaikarajoituksista. Samalla se sisälsi joitakin työturvallisuutta ja tehtaiden työolosuhteita koskeneita määräyksiä. Merkittävin uudistus oli ammattientarkastajien ammattikunnan muodostuminen, jota voidaan pitää syntynä suomalaiselle työsuojeluorganisaatiolle. Vuonna 1908 annettu leipomotyölaki kielsi ylityön leipomoissa ja säännösteli niiden työajan. Vuonna 1927 annettiin laki ammattientarkastusjärjestelmästä.
+Nk. "tieteellisen liikkeenhoidon" työmenetelmät eli taylorismi, Kello-Kallet ja ammattitautien yleistyminen pitivät teollisten työpaikkojen työolot kurjina . Vuonna 1930 säädettiin ensimmäinen työturvallisuuslaki, jota voitaneen pitää ensimmäisenä askeleena kohti kattavampaa työsuojelusäännöstöä. Vuonna 1958 säädettiin uusi työturvallisuuslaki, jossa säädettiin mm. työoloista ja työajoista. Laki sisälsi maininnan työterveyshuollosta, jolla mahdollistettiin lääkärintarkastusten määrääminen erityistä sairastumisen vaaraa aiheuttaville työaloille.
+1970-luvulla suomalainen työsuojelutoiminta muuttui voimakkaasti. Puutteellisen tai olemattoman työsuojelun seurauksena oli 1970-luvun alussa tapahtunut Nokian Paperitehtaalla kuolemaan johtaneita altistuksia difenyylille. Aineella käsiteltiin hedelmien suojapapereita. Kalevi Sorsan hallituksen syyskuussa 1972 hyväksytyn ohjelman mukaisesti Tampereelle perustettiin vuonna 1973 sosiaali- ja terveysministeriön alainen keskusvirasto, Työsuojeluhallitus. Vuonna 1974 säädettiin Työsuojelun valvontalaki, aikaisemmasta ammattientarkastajiin perustuneesta järjestelmästä luovuttiin ja Työsuojeluhallituksesta tuli työsuojelun keskeinen valvova viranomainen. Sen tukena toimivat keskusviraston kanssa samanaikaisesti perustetut, silloisen lääninjaon mukaiset työsuojelupiirit. Työpaikkatason työsuojelu käynnistyi, valittiin työsuojeluvaltuutetut ja työsuojelupäälliköt
+Työsuojelupiirit, joita alkuaan oli 11 oli perustettu 1.9.1972. Silloisten ammattientarkastuspiirien toimistoista tuli työsuojelutoimistoja. Työsuojelupiirit toimivat 1.10.1973 aloittaneen työsuojeluhallituksen alaisuudessa. Kunnallinen työsuojelutarkastus yhdistettiin työsuojelupiireihin 1.12.1988. Työsuojeluhallinto siirtyi 1.6.1989 työministeriön alaisuuteen. Työsuojelun organisaatiossa tapahtui merkittävä muutos 1.3.1993, jolloin työsuojeluhallitus lakkautettiin keskusvirastona ja työministeriöön perustettiin uusi työsuojeluosasto. Samanaikaisesti lakkautettiin erilliset metsä- ja maatalouden työsuojelupiirit ja työsuojelupiireistä tuli itsenäisiä ministeriön alaisia virastoja. Työsuojeluhallinto siirrettiin sosiaali- ja terveysministeriöön 1.4.1997, mutta työsuhdeasioiden lainsäädäntö jäi työministeriön työympäristöosastolle. 1.1.2004 alkaen työsuojelupiirejä yhdistettiin ja jäljelle jäi kahdeksan piiriä. Vuoden 2010 alussa aluehallintouudistuksen myötä kahdeksasta työsuojelupiiristä muodostettiin viisi työsuojelun vastuualuetta.
+
+
+=== Työsuojeluorganisaatio Suomessa ===
+Suomessa työsuojelusta vastaa lain mukaan työnantaja. Työpaikoilla toimii lain velvoittamana työsuojelupäällikkö ja työsuojeluvaltuutettu. Työterveyshenkilöstö ja työterveyshuolto vastaavat käytännön työterveyden järjestämisessä yhdessä yrityksen henkilöstöhallinnon kanssa.
+Järjestökentässä toimivat työsuojelurahasto, työturvallisuuskeskus ja työmarkkinajärjestöt. Toimijat ohjaavat sopimuksia, koulutuksia, tiedonvälistystä ja tutkimusmäärärahoja. Ammattiliitoilla on työsuojelutoiminnasta vastaavia henkilöitä, jotka toimivat työsuojelun ohella työpaikan edunvalvonnan osana.
+Tutkimus- ja palvelulaitokset, kuten VTT, vakuutusyhtiöt, standardisoimisliitto ja korkeakoulut tuottavat työsuojeluun ja –terveyteen liittyvää materiaalia ja ohjeistusta. Laitokset antavat asiantuntijalausuntoja sekä tekevät mittauksia.
+
+
+==== Työsuojeluhallinto ====
+Työsuojeluhallinnon tärkein tavoite on ylläpitää ja edistää työsuhteessa olevien työntekijöiden ja toimihenkilöiden työ- ja toimintakykyä sekä ehkäistä työtapaturmia ja ammattitauteja. Yhteisellä työpaikalla valvotaan myös, että itsenäiset työnsuorittajat täyttävät velvoitteensa. Työsuojeluhallinnon tehtävänä on valvoa määräysten noudattamista. Suurin osa voimavaroista käytetään valvontatehtäviin. Valvonta suunnataan siten, että yhteiskunnallinen vaikuttavuus on mahdollisimman suuri. Valvonnan lisäksi työsuojeluhallinnon tehtävänä on mm. antaa ohjeita ja neuvoja työsuojelusäännösten ja -määräysten soveltamisesta. Lisäksi se tekee yhteistyötä työsuojeluasioissa työnantajien ja työntekijöiden järjestöjen kanssa.
+Työsuojelutoimintaa johtaa Suomessa Sosiaali- ja terveysministeriö, jossa toimii työsuojelu- ja terveysosastot. Osastoilla määritellään Suomessa sovellettava työsuojelunormitus ja –valvonta. STM:n työsuojelutoimintaa tukevat viranomaistaho: Työministeriö, Turvallisuus- ja kemikaalivirasto (Tukes), Säteilyturvakeskus (STUK), Kuluttajavirasto sekä Sosiaali- ja terveydenhuollon tuotevalvontakeskus (STTV).
+Sosiaali- ja terveysministeriö vastaa sosiaali- ja terveyspalvelujen kehittämisestä sekä väestön elinolojen parantamisesta ehkäisevän sosiaali- ja terveyspolitiikan keinoin. Sosiaali- ja terveysministeriön ohjauksessa toimivat työsuojelun vastuualueet valvovat viran­omaisina työsuojelusäädösten noudattamista työpaikoilla. Lisäksi työsuojelun vastuualueet ohjaavat ja neuvovat työntekijöitä ja työnantajia työoloja, työsuhdetta ja tasa-arvoa koskevien säädösten soveltamisessa.
+Työministeriön tehtävänä on edistää työmarkkinoiden ja työorganisaatioiden toimivuutta, sekä maahanmuuttajien kotoutumista. Politiikkaosasto on vastuussa ministeriön strategiasta sekä keskittyy lakien ja työ- ja maahanmuuttopolitiikan valmisteluun. Toimeenpano-osasto vastaa työpolitiikan toimeenpanosta työvoima- ja elinkeinokeskusten kautta.
+Turvallisuus- ja kemikaalivirasto Tukes on teknisen turvallisuuden ja luotettavuuden asiantuntija, valvoja ja kehittäjä. Sen toimialoja ja valvonnan kohteita ovat muun muassa kemikaali- ja prosessiturvallisuus, paineastiaturvallisuus, sähköturvallisuus, pelastustoimen laitteet sekä mittaamisvälineet ja jalometallituotteet.
+Säteilyturvakeskus on säteily- ja ydinturvallisuutta valvova viranomainen ja asiantuntijalaitos. Sen toimialaan kuuluvat säteilylaitteet, radioaktiiviset aineet, ydinvoimalaitokset sekä ydinmateriaalit ja ydinjätteet. Toiminta-ajatus on säteilyn vahingollisten vaikutusten estäminen ja rajoittaminen.
+
+
+== Katso myös ==
+Ammattientarkastus
+Työterveyslaitos
+Työsuojelupäällikkö
+Työsuojeluvaltuutettu
+Työsuojeluviranomainen
+Työturvallisuus
+Työsyrjintä
+Kemian työsuojeluneuvottelukunta
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+Työsuojeluhallinto
+Työturvallisuuslaki 23.8.2002/738
+Turvallisuusuutiset.fi - Työturvallisuuden ja -terveyden aihealueen uutisia, menetelmiä työpaikkojen turvallisuustyöhön, lainsäädäntö ja lakimuutosten seuranta, sekä koulutusmateriaalia
+Terveys-EU-portaali - Työterveys ja turvallisuus

@@ -1,0 +1,18 @@
+Wolfram Alpha je odpovídací stroj, vytvořený firmou Wolfram Research. Jde o službu, která se snaží přímo odpovídat na dotazy uživatele, na rozdíl od vyhledávacích služeb, které poskytnou pouze seznam stránek, pravděpodobně obsahujících odpověď. Wolfram Alpha je vytvořen na základě výpočetního softwaru Mathematica, který je využíván pro řešení algebraických úloh, numerických a statistických výpočtů, ale i vizualizaci výsledků. Odpověď na dotaz se zobrazí v člověku čitelné a přehledné formě. Často je přiložen i postup vedoucí k výsledku.
+Wolfram Alpha je často schopen odpovídat i na faktické otázky podané přirozeným jazykem. Například: „Where was Antonin Dvorak born?“ nebo ještě složitější otázky: „How old was Queen Elizabeth II in 1974?“.
+
+
+== Filmové a jiné dotazy ==
+Stojí za to vyzkoušet například:
+„Are you Skynet?“
+„What is the meaning of life?“ pro fanoušky Stopařova průvodce po Galaxii.
+„What’s the speed of an unladen swallow?“ pro fanoušky Monty Pythonů
+„How many roads must a man walk down before you can call him a man?“ pro fanoušky Boba Dylana
+„distance between moon and earth / length of a football field“
+„I don't like you“
+„I love you“
+
+
+== Externí odkazy ==
+ Obrázky, zvuky či videa k tématu Wolfram Alpha ve Wikimedia Commons
+http://www.wolframalpha.com/ Oficiální stránky

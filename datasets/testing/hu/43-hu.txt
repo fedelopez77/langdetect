@@ -1,0 +1,484 @@
+
+== Hangszerek ==
+
+
+=== Akusztikus hangszerek ===
+Függőleges húrozású zongorák
+M1
+M450
+M475
+M500
+DP22M3
+DP600M3
+T116
+T121
+U1
+U2
+U3
+U5
+Hangversenyzongorák
+GB1
+GC1
+GC1FP
+GC1G
+C1
+C2
+C3
+C5
+C6
+C7
+CFIIIS
+S4
+S6
+Játékozongorák
+Disklavier
+Gitárok
+C-40 (Nylon húr klasszikus)
+CG-100A (Nylon húr klasszikus)
+F-310 (Steel húr akusztikus)
+Ütőshangszerek
+Yamaha Drums
+Húros hangszerek
+Rézfúvósok
+YTR-2320S (Silver-Plated Intermediate-Level Bb Trumpet)
+YTR-232 (Brass Intermediate-Level Bb Trumpet)
+Szoprán szaxofonok
+YSS-475II
+YSS-675
+YSS-875EX
+Alt szaxofonok
+YAS-23
+YAS-275
+YAS-475
+YAS-62II
+YAS-82Z
+YAS-875EX
+Tenor szaxofonok
+YTS-23
+YAS-275
+YTS-475
+YTS-62II
+YTS-82Z
+YTS-875EX
+Bariton szaxofonok
+YBS-52
+YBS-62
+Fuvolák
+YFL211S
+YFL221S
+YFL261S
+YFL281S
+YFL311S
+YFL411
+YFL481/H
+YFL584/H
+YFL774/H
+Klarinétok
+Advantage
+34
+150
+250
+350
+450
+850
+1050
+
+
+=== Elektromos hangszerek ===
+Elektromos hangversenyzongorák
+CP-80
+CP-70
+CP-70B
+CP-70M
+CP-60M
+PF-1000
+PF-500
+P-140/140S
+P-120/120S
+P-70/70S
+P-60/60S
+Elektromos gitárok
+AE sorozat
+AE-11
+AE-12
+AE-18
+AE-1200
+AE-1200S2
+AE-1200T
+AE-1500
+AE-2000
+AE500
+
+AES sorozat
+AES1500/AES1500B
+
+AEX sorozat
+AEX500N2
+AEX1500
+
+EG sorozat
+EG-012
+EG-112
+EG-303
+
+LP (Lord Player) sorozat
+PAC (Pacifica) sorozat
+PAC012
+PAC112J
+PAC112JL
+PAC112V
+PAC412V
+PAC612V
+PAC812V
+PAC904
+PAC1511MS (Mike Stern Signature)
+
+Yamaha RGX
+RGZ Series
+SA (Super Axe) sorozat
+SA-5/SA-5B
+SA-15/SA-15D
+SA-17
+SA-20/SA-20B
+SA-30/SA-30T
+SA-50/SA-50B
+SA-60
+SA-70/SA-70B
+SA-75
+SA-90
+SA-700
+SA-900
+SA-1000
+SA-1100
+SA-1200S
+SA-1300
+SA-1800
+SA-2000/SA-2000S
+SA-2100II
+SA-2500
+SA-RR
+SA500
+SA503 TVL
+SA2200
+
+SAS sorozat
+SAS-II
+SAS-1500
+
+SB sorozat
+SB-1C
+SB-2
+SB-2A
+SB-5A
+SB-7A
+SB-30
+SB-50
+SB-55
+SB-70
+SB-75
+SB-500/SB-500S
+SB-600
+SB-700
+SB-800/SB-800S
+SB-1200S
+
+SC sorozat
+SC-700
+SC-800
+SC-1000
+SC-1200
+SC-3000
+SC-5000
+SC-7000
+
+SE sorozat
+SE-110
+SE-1212
+SE-150
+SE-200
+SE-203
+SE-211
+SE-250
+SE-300
+SE-300H
+SE-350
+SE-350H
+SE-603M
+SE-612
+SE-612A
+SE-700HE
+SE-700M
+SE-903A
+
+SF sorozat
+SF-500
+SF-600
+SF-700
+SF-1000
+SF-3000
+SF-5000
+SF-7000
+SF550
+
+SG sorozat
+SG-2
+SG-2A
+SG-2C
+SG-3/SG-3C
+SG-5
+SG-5A
+SG-7
+SG-7A
+SG-12A
+SG-25S/SG-25T
+SG-30
+SG-30A
+SG-35
+SG-35A
+SG-40
+SG-45
+SG-50
+SG-60
+SG-65
+SG-70
+SG-80
+SG-85
+SG-175
+SG-175B
+SG-200
+SG-500
+SG-510
+SG-600
+SG-700
+SG-710T
+SG-800
+SG-800S
+SG-1000-24
+SG-1000L
+SG-1000N
+SG-1000NW
+SG-1000X
+SG-1000XU
+SG-1000XY
+SG-1300
+SG-1300-24
+SG-1300T
+SG-1300TS
+SG-1500
+SG-1600
+SG-1966
+SG-1996
+SG-2500
+SG-I
+SG-T
+TSG
+SG2000
+SG3000
+
+SJ sorozat
+SJ-500
+SJ-800
+
+SL (Studio Lord) sorozat
+SX Series
+SX-60
+SX-80
+SX-125
+SX-800A
+SX-800B
+SX-900A
+SX-900B
+
+Basszusgitárok
+ATT Limited II (Yamaha ATTLTDII)
+BB Series
+BB-414
+BB-615
+BB-550
+BB-650
+BB-800
+BB-850
+BB-1000
+BB-1200
+BB-2000
+BB-2000F
+BB-2000S
+BB-5000
+BB-G4A
+BB-G4S
+BB-G5A
+BB-NES
+BB-VI
+BB-VIS
+BB-VII
+
+RBX sorozat
+TRB sorozat
+Elektro-Akusztikus gitárok
+apx
+cpx
+fax
+5a
+
+
+=== Elektronikus hangszerek ===
+Orgonák (hordozható elektromos orgonák)
+A-3
+YC-10
+YC-20
+YC-30
+YC-25D
+YC-45D
+Digitális zongorák
+Clavinova CVP sorozat
+YPG sorozat
+Digitális színpadi zongorák
+CP300
+CP33
+Yamaha P-250
+Elektronikus orgonák
+EL-25
+EL-40
+EL-900
+ELX-1
+AR-100
+AR-80
+STAGEA
+ELS-01C
+ELS-01
+ELS-01X
+ELB-01 Mini
+
+Hordozható szintetizátorok
+Yamaha PortaTone (PSS) sorozat
+PortaSound (PSR/VSS) sorozat
+Yamaha PC-50
+Yamaha PSR-170
+Yamaha PSR-175
+Yamaha PSR-172
+Yamaha PSR-185
+Yamaha PSR-500M
+Yamaha PSR-9000
+Yamaha PSR-9000 Pro
+Yamaha PSR-S500
+Yamaha PSR-S700
+Yamaha PSR-S900
+Yamaha PSR-2000
+Yamaha PSR-1500
+Yamaha PSR-3000
+Yamaha PSR-A300
+Yamaha PSR-2100
+Yamaha PSR-1100
+Yamaha PSR-A1000
+Yamaha PSR-550
+Yamaha PSR-E213
+Yamaha VSS-30
+Yamaha VSS-100
+Yamaha VSS-200
+Yamaha Tyros
+Yamaha Tyros 2
+Yamaha DGX-200 sorozat
+Yamaha DGX-300 sorozat
+Yamaha DGX-500 sorozat
+Yamaha DGX 620
+Yamaha DJ-X sorozat
+Zenei munkaállomások
+Yamaha SY55
+Yamaha SY77
+Yamaha SY99
+Yamaha SY85
+Yamaha EX5
+Yamaha QS 300
+Motif
+Motif ES
+Motif XS
+MM6
+Yamaha MO
+V50
+Szintetizátorok
+Yamaha AN1x
+Yamaha CS1x
+Yamaha CS2x
+Yamaha CS-6x
+Yamaha CS-01
+Yamaha CS-10
+Yamaha CS-15
+Yamaha CS-20m
+Yamaha CS-30/CS-30L
+Yamaha CS-40m
+Yamaha CS-5
+Yamaha CS-50
+Yamaha CS-60
+Yamaha CS-70m
+Yamaha CS-80
+Yamaha DX7
+Yamaha DX11
+Yamaha FS1R
+Yamaha GX1
+Yamaha RM1x
+Yamaha S80
+Yamaha S90
+Yamaha S90 ES
+Yamaha SHS-10
+Yamaha VL1
+Hanggenerátorok
+Yamaha MU-sorozat
+Yamaha TG77
+Yamaha TX7
+Yamaha TX802
+Yamaha TX81Z
+Yamaha VL70m
+Fafúvós MIDI vezérlő
+Yamaha WX5
+Yamaha WX11
+Yamaha WX7
+Hordozható eszközök
+Yamaha Miburi
+
+
+=== Professzionális audió ===
+Analóg keverőpult
+Digitális keverőpult
+M7CL
+01v
+Digitális hang keverő
+
+
+=== Otthoni elektronika ===
+Yamaha DSP-1
+Hangfelvevők
+Yamaha MDR-1
+Yamaha MDR-10
+
+
+=== Szintetizátor szoftverek ===
+S-YG20
+S-YXG50
+S-YXG70
+S-YXG100
+S-YXG100 PVL
+
+
+=== Hang chipek ===
+Yamaha YM2149
+Yamaha Y8950
+Yamaha YM2413
+Yamaha YM2151
+Yamaha YM2203
+Yamaha YM2608
+Yamaha YM2610
+Yamaha YM3526
+Yamaha YM3812
+Yamaha YMF262
+Yamaha YMF278
+Yamaha YM2612
+Yamaha YMF7xx (
+Yamaha YMU786
+Egyéb termékek
+BODiBEAT
+VOCALOID
+VOCALOID2
+
+
+== Külső hivatkozások ==
+Yamaha Pro Audio

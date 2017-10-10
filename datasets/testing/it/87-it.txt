@@ -1,0 +1,323 @@
+La pista centrifuga è una pista di allenamento di forma circolare con pedana inclinata o parabolica per evitare sbandamenti laterali nella corsa. È stata inventata dall'ingegnere giarrese Giuseppe Scuderi.
+Il diametro esterno può variare da 6 ad 8 metri.
+Attualmente la pista centrifuga ed il metodo centrifugo-gravitazionale sono utilizzati al Campo Scuola di Catania.
+Si tratta di un metodo per correre imporre sovraccarico verticale durante l'azione di corsa.
+
+
+== Principio fisico ==
+L'atleta, correndo su una traiettoria circolare, è sottoposto alla forza centrifuga; in tal modo, quindi, riesce ad aumentare il proprio peso apparente senza utilizzare pesi, tirare funi o correre in salita. L'effetto della forza centrifuga si va a sommare a quello della forza di gravità terrestre. L'atleta è così sottoposto ad un surrogato maggiorato dell'accelerazione di gravità calcolabile come segue:
+
+  
+    
+      
+        g
+        =
+        9.80
+        
+          
+            m
+            
+              s
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g=9.80{m \over s^{2}}}
+   accelerazione di gravità
+
+  
+    
+      
+        g
+        =
+        
+          
+            P
+            m
+          
+        
+      
+    
+    {\displaystyle g={P \over m}}
+   relazione tra accelerazione di gravità e peso
+
+  
+    
+      
+        G
+        =
+        
+          
+            F
+            m
+          
+        
+      
+    
+    {\displaystyle G={F \over m}}
+   generica accelerazione applicata a un corpo di massa m
+Da queste applicazioni del secondo principio della dinamica, il metodo di allenamento è denominato centrifugo-gravitazionale.
+
+
+== Linee di corsa ==
+La linea più interna corrisponde al livello di sforzo più basso, meno impegnativo, per l'utilizzatore. In questo primo livello è più bassa sia la velocità di corsa sia l'accelerazione cui si è soggetti. L'aumento dell'accelerazione comporta un aumento del peso apparente dell'utilizzatore; tale aumento di peso è direttamente proporzionale all'accelerazione di gravità (
+  
+    
+      
+        P
+        =
+        m
+        ⋅
+        g
+      
+    
+    {\displaystyle P=m\cdot g}
+   ; dove P è il peso dell'atleta, m è la sua massa e G è l'accelerazione di gravità apparente), quindi se l'accelerazione di gravità è pari ad esempio ad 1.3 G il peso dell'atleta aumenterà del 30%.
+La linea più esterna è la più impegnativa perché impone all'utilizzatore la velocità maggiore e il massimo carico possibile sulla pista centrifuga. A fianco di ogni linea si trovano tre numeri, essi indicano: la velocità di corsa espressa in m/s che deve avere l'atleta per correre in assetto cioè ortogonale alla pedana, l'accelerazione espressa in G cui si è sottoposti correndo su quella linea e rispettando la predetta velocità ed il terzo numero indica il tempo che bisogna realizzare a giro per ottenere la predetta velocità e quindi la predetta accelerazione di gravità. La pista consente di correre sulla linea più interna con velocità minima di 4.5 m/s e accelerazione di gravità di 1.2 G (dove G è l'accelerazione di gravità terrestre pari a 
+  
+    
+      
+        9.8
+        
+          
+            m
+            
+              
+                s
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle 9.8{m \over {s^{2}}}}
+  ) e sulla linea più esterna con velocità massima di 8 m/s ed accelerazione di gravità di 1.8 G. La pista centrifuga non presenta velocità di corsa ed accelerazioni di gravità inferiori a 4.5 m/s e 1.2 G in quanto sono state ritenute poco allenanti per migliorare la spinta e la velocità di corsa.
+
+
+== Utilità ==
+Consente di imporre un carico verticale (inteso come perpendicolare al piano di appoggio dell'atleta) senza indossare pesi.
+Sviluppa sostanzialmente le stesse fasce muscolari utilizzate nella corsa.
+Permette di scegliere carico durante la corsa variando l'anello da percorrere.
+Impegna in modo uniforme la colonna vertebrale.
+Può facilitare il riscaldamento specifico in spazio relativamente piccolo, mantenendo l'assetto della corsa naturale senza sovraccarico.
+Permette di allenarsi al coperto in poco spazio, quando le condizioni meteo-climatiche esterne impediscono l'allenamento.
+Consente di fare correre più atleti contemporaneamente in poco spazio.
+
+
+== Limiti ==
+Non esiste nessun significativo sovraccarico orizzontale, contrariamente ad altre esercitazioni con sovraccarico quali corsa con paracadute e traino
+Difficilmente trasportabile, mentre il traino, le cinture zavorrate e il paracadute possono far parte del bagaglio di viaggio.
+Bassa velocità massima raggiungibile (uno sprinter di basso livello raggiunge facilmente 10 m/s), mentre la pista centrifuga non permette elevate velocità a sovraccarichi ridotti (servirebbe una dimensione molto maggiore, che vanificherebbe l'aumento di gravità apparente o la compattezza dell'attrezzo).
+In fase lanciata l'azione prevalente è un rimbalzo in tempi molto più ridotti di quelli ottenibili con l'utilizzo della pista centrifuga, a causa delle minori velocità sviluppabili; il sovraccarico per stimolare il rimbalzo dell'arto in fase lanciata è normalmente una cintura zavorrata fissata all'altezza dell'ombelico, che non sovraccarica la schiena, né rallenta la corsa lanciata.
+
+
+== Programmi di allenamento ==
+Non esiste ancora uno studio che stabilisca in modo univoco quale sia il programma di allenamento più conveniente da seguire in funzione del periodo di allenamento e della gara da svolgere. Tale studio richiederà sicuramente ancora molto tempo vista la complessità della ricerca che presenta tra l'altro anche molte variabili. Sulla base dell'esperienza finora acquisita, è stato sviluppato solo un programma di allenamento provvisorio.
+
+
+=== Allenamento per il velocista ===
+Preso un velocista abbia un tempo di 11.0 secondi sui 100 metri.
+La velocità media (
+  
+    
+      
+        
+          V
+          
+            m
+          
+        
+      
+    
+    {\displaystyle V_{m}}
+  ) è di:
+
+  
+    
+      
+        
+          V
+          
+            m
+          
+        
+        =
+        
+          
+            
+              100
+              m
+            
+            
+              11.00
+              s
+            
+          
+        
+        =
+        9.09
+        
+          
+            m
+            s
+          
+        
+      
+    
+    {\displaystyle V_{m}={100m \over 11.00s}=9.09{m \over s}}
+  
+mentre velocità massima Vmax è stimata in circa:
+
+  
+    
+      
+        
+          V
+          
+            m
+            a
+            x
+          
+        
+        =
+        
+          9.09
+          ⋅
+          1.1
+        
+        =
+        10
+        
+          
+            m
+            s
+          
+        
+      
+    
+    {\displaystyle V_{max}={9.09\cdot 1.1}=10{m \over s}}
+  
+
+
+==== Determinazione della linea di corsa sulla quale l'atleta sviluppa il carico massimo ====
+La pista centrifuga presenta:
+sulla prima linea G = 1.2 g e V = 4.7 m/s.
+sulla seconda linea G = 1.3 g e V = 5.5 m/s.
+sulla terza linea G = 1.4 g e V = 6.2 m/s.
+sulla quarta linea G = 1.5 g e V = 6.8 m/s.
+sulla quinta linea G = 1.6 g e V = 7.3 m/s.
+sulla sesta linea G = 1.7 g e V = 7.7 m/s.
+sulla settima linea G = 1.8 g e V = 8.1 m/s (81% della Vmax con 80% di peso combinato)
+dove G è l'accelerazione di gravità apparente che si esercita sull'atleta che corre sulla pista rispetto alla pedana di corsa, e V è la velocità di corsa dell'atleta in m/s.
+Dalle misurazioni di velocità effettuate sugli atleti si è calcolato:
+
+  
+    
+      
+        g
+        ⋅
+        V
+        =
+        1.35
+        G
+        ⋅
+        
+          V
+          
+            m
+            a
+            x
+          
+        
+      
+    
+    {\displaystyle g\cdot V=1.35G\cdot V_{max}}
+  
+in pratica il prodotto numerico dell'accelerazione di gravità cui sono sottoposti per la velocità di corsa sulla pista centrifuga è pari a 1.35 volte il prodotto dell'accelerazione di gravità terrestre per la velocità massima terrestre. In questo caso l'atleta sarà sottoposto al massimo carico correndo sulla linea nella quale il prodotto della velocità per l'accelerazione di gravità sono pari a
+
+  
+    
+      
+        1.35
+        G
+        ⋅
+        
+          V
+          
+            m
+            a
+            x
+          
+        
+      
+    
+    {\displaystyle 1.35G\cdot V_{max}}
+  
+cioè pari a
+
+  
+    
+      
+        1.35
+        ⋅
+        9.8
+        ⋅
+        10.0
+        =
+        127.4
+      
+    
+    {\displaystyle 1.35\cdot 9.8\cdot 10.0=127.4}
+  
+La linea sulla quale dovrà correre l'atleta è la sesta, infatti sulla sesta linea abbiamo:
+
+  
+    
+      
+        1.7
+        ⋅
+        9.8
+        ⋅
+        7.7
+        =
+        128.28
+        ≈
+        127.4
+      
+    
+    {\displaystyle 1.7\cdot 9.8\cdot 7.7=128.28\approx 127.4}
+  
+L'atleta potrà benissimo correre sulle linee più interne ma su quelle linee il sovraccarico sopportato sarà minore. Quando non sia in grado di mantenere le velocità adatte, non deve correre sulle linee più esterne in quanto sarebbe possibile mantenere un allineamento perpendicolare corretto lungo l'asse sagittale.
+
+
+==== Determinazione del numero di giri da effettuare per il velocista ====
+Sappiamo quindi stabilire la linea di corsa che l'atleta deve seguire per ottenere il massimo carico e questo grazie alle misurazione di velocità effettuate sugli atleti impegnati al massimo delle loro capacità sulla pista centrifuga.
+Verificando su un ridotto campione di atleti di diversa qualificazione, un atleta molto allenato e di buon livello (che corre i 100 metri in 11.0 secondi) riesce a mantenere per circa 20 secondi il carico massimo ed un'atleta di medio livello (che corre i 100 m in 12,0 secondi) mantiene per circa 15 secondi il carico massimo. Dopo questo tempo, essi cedono inesorabilmente e sono costretti a correre su linee più interne riducendo proporzionalmente la velocità di corsa e l'accelerazione di gravità apparente cui sono sottoposti. I tempi corrispondono, rispettivamente, a 7 giri e 5 giri di pista centrifuga.
+
+
+=== Allenamento per il mezzofondista ===
+Per lavori con sovraccarico orientati all'aumento di forza il mezzofondista potrà utilizzare lo stesso metodo adottato per il velocista, mentre per quanto riguarda il lavoro di resistenza è stato adottato il seguente criterio.
+
+
+==== Lavoro di resistenza alla corsa veloce ====
+A partire da un mezzofondista con un primato personale di 4' 20” sui 1500 metri cioè 4 x 60 + 20 = 260 secondi sui 1500 metri, si calcola una velocità media di 1500 / 260 = 5,76 m/s. La velocità massima in questo caso si può considerare la stessa di 5,76 m/s.
+Il mezzofondista può correre per un periodo di tempo minore del 20% cioè per circa 260 x 0.8 = 208 secondi cioè 3' 28” sulla pista centrifuga. Tale riduzione tiene conto del maggior sforzo muscolare cui è impegnato l'atleta sulla pista centrifuga a parità di velocità tentando di mantenere all'incirca la stessa velocità di gara per 3' 28”. Tra le varie linee egli sceglierà la linea da 5.5 m/s, corrispondente a un aumento di accelerazione di gravità apparente del 30%.
+
+
+==== Determinazione del numero di giri da effettuare per il mezzofondista ====
+Per l'allenamento di potenziamento e velocizzazione si stimano da 5 a 8 giri al massimo carico, stabiliti con lo stesso criterio utilizzato per il velocista. Per l'allenamento alla resistenza il numero di giri è rapportato all'80% del tempo di gara (208 secondi) diviso il tempo a giro o periodo, riportato nell'esempio sulla seconda linea di corsa.
+
+
+== Dove trovarla ==
+Roma - Stadio della Farnesina
+Catania - Cittadella universitaria
+Giarre - Liceo Scientifico "Leonardo"
+Villafranca Tirrena
+Piedimonte Etneo - Campo sportivo comunale

@@ -1,0 +1,12 @@
+Ruliul este balansul unui vehicul (de ex. al unei nave) în jurul axului longitudinal, datorită valurilor înalte, paralele cu direcția de înaintare a navei.
+Mărimea ruliului depinde de gradul de agitație al mării, direcția drumului navei față de direcția de propagare a valului, pescajul, suprastructura navei etc.
+Perioada de ruliu reprezintă intervalul de timp între două înclinări maxime într-un bord. Mărimea perioadei de ruliu este de aproximativ 7 sec. pentru submarine, de 11-14 sec. pentru nave militare și de 14-20 sec. pentru navele comerciale.
+
+
+== Bibliografie ==
+Ilie Manole, Gheorghe Ionescu: Dicționar marinăresc. Editura Albatros, București, 1982
+
+
+== Vezi și ==
+Mișcare perturbatoare
+Tangaj

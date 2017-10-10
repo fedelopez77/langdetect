@@ -1,0 +1,22 @@
+IEEE 802.15.4 é um padrão que especifica a camada física e efetua o controle de acesso para redes sem fio pessoais de baixas taxas de transmissão. É mantido pelo Institute of Electrical and Electronics Engineers (IEEE) como padrão 802.15 IEEE. É a base para as especificações ZigBee, ISA100.11a,WirelessHART, MiWi e Thread, cada uma das quais estende ainda mais o padrão através do desenvolvimento de camadas superiores que não são definidas pelo 802.15.4.
+
+
+== Visão Geral ==
+O padrão IEEE 802.15.4 pretende oferecer os fundamentos para as camadas inferiores em uma rede do tipo de área pessoal e sem fio (WPAN), que foca no baixo custo e na comunicação de baixa velocidade onipresente entre os dispositivos (em contraste com outros, mais orientadas ao usuário final, tais como Wi-Fi). A ênfase está na comunicação de custo muito baixo de dispositivos próximos, com pouca ou nenhuma infra-estrutura subjacente, com a intenção de explorar isso para menor consumo de energia possível.
+A estrutura básica concebe uma distância média de 10 metros para comunicações com uma taxa de transferência de 250 kbit/s. Trade-offs são possíveis para favorecer mais radicalmente dispositivos embarcados com requisitos de energia ainda mais baixos, através da definição de não uma, mas várias camadas físicas. Menores taxas de transferência de 20 e 40 kbit/s foram inicialmente definidas, com a taxa de 100 kbit/s sendo adicionado na revisão atual.
+Mesmo taxas inferiores podem ser consideradas no efeito resultante sobre o consumo de energia. Como já mencionado, a principal característica de identificação de 802.15.4 entre WPAN é a importância de alcançar produção com custos de operação e simplicidade tecnológica, sem sacrificar a flexibilidade ou generalidade.
+Características importantes incluem em tempo real adequação de reserva de horários garantidos, evitar colisão com CSMA/CA e suporte integrado para comunicações seguras. Os dispositivos incluem também funções de gerenciamento de energia, como a qualidade da ligação e detecção de energia.
+Dispositivos certificados 802.15.4 podem usar uma das três bandas de freqüência disponíveis para a operação.
+
+
+== Ligações externas ==
+802.15.4 Task Group
+Get IEEE 802.15
+IEEE standard 802.15.4d-2009
+IEEE standard 802.15.4c-2009
+IEEE standard 802.15.4a-2007
+IEEE standard 802.15.4-2006
+IEEE standard 802.15.4-2003
+802.15.4 Resourcesincluding whitepapers and glossary]
+802.15.4 vs ZigBee
+Security in 802.15.4 and ZigBee networks

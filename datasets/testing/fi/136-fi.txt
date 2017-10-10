@@ -1,0 +1,14 @@
+Tina(II)kloridi (SnCl2) on tina- ja kloridi-ionien muodostama epäorgaaninen ioniyhdiste. Yhdistettä käytetään muun muassa pelkistimenä ja päällystettäessä metallipintoja tinalla elektrolyyttisesti. Tina(II)kloridi on tärkein tina(II)suoloista.
+
+
+== Ominaisuudet ==
+Tina(II)kloridi on huoneenlämpötilassa kiinteää valkoista ainetta. Kidevedettömän yhdisteen lisäksi tunnetaan myös kidevedellinen dihydraatti (SnCl2·2H2O). Yhdiste liukenee helposti veteen ja myös moniin orgaanisiin liuottimiin, kuten etanoliin ja asetoniin. Kiinteänä yhdiste säilyy pitkiäkin aikoja hapettumatta, mutta liuokset hapettuvat helposti esimerkiksi ilman hapen vaikutuksesta tina(IV)kloridiksi. Laimeissa liuoksissa voi tapahtua myös hydrolyysiä niukkaliukoiseksi tinahydroksidikloridiksi (Sn(OH)Cl). Tämä voidaan ehkäistä lisäämällä liuokseen happoa, kuten suolahappoa. Tina(II)kloridi on suhteellisen vahva pelkistin, joka pelkistää muun muassa Fe3+-ionit Fe2+-ioneiksi. Alkalimetallikloridien kanssa yhdiste muodostaa triklorostannaatti- tai tetraklorostannaattisuoloja.
+
+
+== Valmistus ja käyttö ==
+Kidevedetöntä tina(II)kloridia valmistetaan kuuman tinan ja vetykloridikaasun välisellä reaktiolla, tinan ja kloorin välisellä reaktiolla tai pelkistämällä tina(IV)kloridia metallisen tinan avulla. Liuotettaessa tinaa suolahappoon ja haihdutettaessa liuos kuiviin yhdiste kiteytyy dihydraattina. Tina(II)klorididihydraatista voidaan saada kidevedetöntä yhdistettä kuuman vetykloridikaasun tai väkevän rikkihapon avulla.
+Sn + 2 HCl → SnCl2 + H2
+Tärkein tina(II)kloridin käyttö on metallien elektrolyyttinen pelkistäminen tinalla. Elektrolyysiseos koostuu sulasta tina(II)kloridin ja kaliumkloridin seoksesta. Yhdistettä käytetään huomattavia määriä orgaanisessa synteesissä pelkistimenä muun muassa väriaineiden valmistuksessa. Se pelkistää muun muassa aromaattiset nitroyhdisteet amiineiksi, alifaattiset nitroyhdisteet oksiimeiksi tai hydroksyyliamiineiksi ja nitriilit aldehydeiksi. Se on myös hyvä katalyytti useissa orgaanisissa reaktioissa. Tina(II)kloridia voidaan käyttää myös ruoan lisäaineena. Sen E-koodi on E512 ja Suomessa sen käyttö on sallittu vain säilykeparsassa.
+
+
+== Lähteet ==

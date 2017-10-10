@@ -1,0 +1,19 @@
+Hakerių kultūra – nuostatų, pažiūrų bei elgesio taisyklių rinkinys, nusistovėjęs tarp hakerių bei su jais susijusių žmonių.
+
+
+== Hakerių atmainos ==
+Skiriamos dvi hakerių subkultūros, atsiradusios beveik tuo pat metu, apie 1960 metus. Akademinė hakerių subkultūra pradėjo vystytis mokslo aplinkoje, pasirodžius pirmiesiems minikompiuteriams. Apie 1961 metus ji susijungė su pirmųjų Interneto bandytojų kultūra, apie 1980 metus – su Unix kultūra ir apie 1987 metus įtraukė žmones, kurių hobis buvo pirmieji mikrokompiuteriai. Nuo maždaug 1990 metų ši subkultūra didele dalimi sutampa su laisvosios programinės įrangos judėjimu. Tuo tarpu Hobio ir interneto subkultūros hakeriai daugiau domėjosi įvairiais kompiuteriniais žaidimais ir gilinosi, ką juose galima perdaryti savaip bei kaip panaikinti juose esančią gamintojo apsaugą nuo nelegalaus kopijavimo. Šios dvi subkultūros turi kai kurių bendrų idėjų ir ryškiai viena nuo kitos atsiskyrė tik apie 1983 metus. Akademinės pakraipos hakeriai reikalauja skirti šias kultūras nes nenori būti siejami su piratine programine įranga bei įsilaužimais į kompiuterines sistemas, nes jie tokiais dalykais neužsiima. GNU ir kiti panašūs projektai skiria itin daug dėmesio tam, kad visa jų veikla būtų absoliučiai legali [1]. Kopijuotojams ir įsilaužėliams įvardinti jie siūlo atskirą krakerio (angl. cracker) terminą. Hobio ir interneto subkultūra, priešingai, siekia susitapatinti su visu hakerų judėjimu.
+
+
+== Bruožai ==
+Pagrindiniai hakerių kultūros bruožai yra
+Itin didelis laisvės nagrinėti, suprasti ir žinoti vertinimas. Nepakantumas bet kokioms paslaptims.
+Galimybės laisvai keistis informacija vertinimas, laikant tai tiek siektinu idealu, tiek ir naudinga praktine strategija.
+Teisės bei galimybės sukurti savo, nepriklausomą programavimo projekto atšaką vertinimas.
+Būtinybės ieškoti racionalaus sprendimo akcentavimas.
+Menka pagarba bet kokiems autoritetams.
+Humoras kalbant tiek apie juokingus, tiek ir apie rimtus dalykus.
+
+
+== Simboliai ==
+Akademinės pakraipos hakeriai turi keletą būdingų emblemų bei aprangos atributų, tokių kaip Linux pingvinas ar BSD kipšas. Visų hakerių bendra emblema yra pasiūlytas matematinio žaidimo „gyvenimas“ figūra „sklandytuvas“.

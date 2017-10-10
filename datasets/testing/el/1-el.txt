@@ -1,9 +1,48 @@
-Η έννοια ορθολογισμός έχει αυστηρά καθορισμένη έννοια στα οικονομικά.
-Ορθολογιστικό θεωρείται ένα άτομο όταν έχει μια συνάρτηση οφέλους των Νόιμαν και Μόργκενστερν την οποία και μεγιστοποιεί με τον καλύτερο δυνατό τρόπο, δεδομένων των πληροφοριών που έχει. Αν δηλαδή ένα άτομο μπορεί να διαλέξει την κίνηση Α που ξέρει ότι του προσφέρει όφελος 6 και την κίνηση Β που του προσφέρει όφελος 18, πρέπει να επιλέξει αυστηρά την Β.
-Όταν υπάρχει αβεβαιότητα για την κατάσταση του κόσμου, συνήθως θεωρείται μη-ορθολογική η αποστροφή στο ρίσκο, και τότε η συνάρτηση οφέλους πρέπει να ζυγίζει γραμμικά τα διάφορα ενδεχόμενα. Αυτό σε απλά ελληνικά σημαίνει ότι ένα άτομο που ερωτάται ποσά λεφτά θα έδινε για να αγοράσει ένα λαχείο στην ακόλουθη λοταρία:
-Α 100 ευρώ με πιθανότητα 50%
-Β 0 ευρώ με πιθανότητα 50%
-θα έπρεπε να απαντήσει ακριβώς 50 που είναι το αναμενόμενο κέρδος του στην λοταρία (50%*100+50%*0=50).
-Η έννοια του ορθολογισμού μαζί με την έννοια των συνεπών πιστεύω (consistent beliefs) σε στατικά παιχνίδια, οδηγεί στην ισορροπία κατά Νας (Nash Equilibrium).
-Σε δυναμικά παιχνίδια η έννοια περιπλέκεται λίγο, καθώς υπάρχει το ερώτημα πως πρέπει ένα άτομο να ανανεώνει τις πληροφορίες του και τα πιστεύω του όταν βλέπει την εξέλιξη ενός παιχνιδιού. Οι περισσότεροι θα συμφωνούσαν ότι ο ορθολογισμός συνεπάγεται ανανέωση των πιστεύω κατά Μπέις (Bayesian updating).
-Σε αυτήν την περίπτωση ερχόμαστε στην τέλεια Μπεϊσιανή θέση ισορροπίας (perfect Bayesian equilibrium).
+H κβαντική συλλογιστική ή κβαντική νόηση (αγγλικά: Quantum cognition) είναι ένας αναδυόμενος τομέας που εφαρμόζει τον μαθηματικό φορμαλισμό της κβαντικής θεωρίας στη μοντελοποίηση[1] γνωστικών φαινομένων, όπως στην επεξεργασία πληροφοριών από τον ανθρώπινο εγκέφαλο, στη λήψη αποφάσεων, στην ανθρώπινη μνήμη, στην αποσαφήνιση εννοιών και την εννοιολογική συλλογιστική, στην ανθρώπινη κρίση, και στην αντίληψη. Είναι γνωστή και ως "κβαντική διαλεκτική", με την βασική αγγλική ερμηνεία του όρου της "διαλεκτικής" ως "συλλογιστική" και όχι ως επιχειρηματολογικού διαλόγου. Το πεδίο διακρίνεται σαφώς από τον "κβαντικό νου" (κυριολεκτική, φυσική, μη φιλοσοφική προσέγγιση), καθώς δεν εξαρτάται από την υπόθεση ότι συμβαίνουν μικρο-φυσικά φαινόμενα (νανο-φυσική, κλίμακα Planck) της κβαντικής μηχανικής στον εγκέφαλο. H κβαντική συλλογιστική βασίζεται στην κβαντομηχανική σαν παράδειγμα ή γενικευμένα συμπεράσματα της κβαντικής θεωρίας, ή ιδιότητες της κβαντική δομής (πχ μη απόλυτος διαχωρισμός της ουσιώδους εσωτερικής αλήθειας από το όλον - επίσης η μερικότητα και η σχετικότητα των δεδομένων). H κβαντική συλλογιστική επεξεργάζεται πληροφορίες από πολύπλοκα συστήματα όπως ο εγκέφαλος (ή είναι ανοιχτή σε εξέλιξη αλγορίθμων αν δεν έχουν ήδη σχεδιαστεί σε κάποιο τομέα), λαμβάνοντας υπόψη τα συμφραζόμενα (το γενικότερο πλαίσιο), την αλληλοεξάρτηση-συσχέτιση των πληροφοριών και την πιθανοτική θεωρία (όχι μόνο μαθηματικά αλλά και φιλοσοφικά - μελέτη πιθανοτικής αιτιότητας βλ. probabilistic causation - Stanford University), επίσης μπορεί να περιγραφεί μαθηματικά στο πλαίσιο της ανάλυσης της κβαντικής πληροφορίας και της κβαντικής θεωρίας πιθανοτήτων.
+H κβαντική συλλογιστική χρησιμοποιεί τον μαθηματικό φορμαλισμό της κβαντικής θεωρίας για να εμπνεύσει και να επισημοποιήσει μοντέλα της γνωστικής λειτουργίας που στοχεύουν να αποτελέσουν πρόοδο σε σχέση με παλαιότερα (μοντέλα) που βασίζονται στην παραδοσιακή κλασική θεωρία πιθανοτήτων (η πιθανοτική αιτιότητα της κβαντικής συλλογιστικής δεν ταυτίζεται με την κλασική φιλοσοφική ανάλυση πιθανοτικής αιτιότητας, εφόσον αποδέχεται αλγορίθμους σε αντίθεση με παλαιότερα πιθανοτικά φιλοσοφικά ρεύματα). Το πεδίο εστιάζει σε φαινόμενα μοντελοποίησης της γνωστικής επιστήμης που παραδοσιακές τεχνικές απέτυχαν να ερμηνεύσουν επαρκώς ή όπου τα παραδοσιακά μοντέλα φαίνεται να έχουν φτάσει σε κάποιο ανυπέρβλητο εμπόδιο (π.χ., ανθρώπινης μνήμης), και μοντελοποιούν χαρακτηριστικά της θεωρίας αποφάσεων που εμφανίζονται ως παράδοξα από παραδοσιακές λογικές αντιλήψεις (π.χ., ανατροπές προτίμησης). Δεδομένου ότι επικαλείται η χρήση της κβαντικής θεωρίας για σκοπούς μοντελοποίησης, η αναγνώριση των κβαντικών δομών των γνωστικών φαινομένων δεν προϋποθέτει την ύπαρξη μικροσκοπικών κβαντικών διαδικασιών στον ανθρώπινο εγκέφαλο. Η κβαντική συλλογιστική αφορά στοχαστικές κβαντικές εφαρμογές, όχι υλικές. Η κβαντική συλλογιστική ούτε υποστηρίζει ούτε ακυρώνει την ύπαρξη μικρο-φυσικής υλικής κβαντομηχανικής εμπλοκής, απλά δεν την επικαλείται ούτε σχετίζεται με υλικά κβαντομηχανικά φαινόμενα (υπάρχουν οι παρανοήσεις ότι είτε ταυτίζεται με την υλική κβαντομηχανική, είτε την ακυρώνει, ενώ η κβαντική συλλογιστική δεν ασχολείται καν ούτε αναλύει την ύπαρξη της υλικής-σωματιδιακής κβαντομηχανικής - απλά δεν παίρνει θέση, δεν την αφορά εφ' όσον εξετάζει γνωστικά και όχι σωματιδιακά φαινόμενα).
+
+
+== Παραπομπές ==
+https://en.wikipedia.org/wiki/Quantum_cognition
+
+
+== Εξωτερικοί σύνδεσμοι ==
+http://mypage.iu.edu/~jbusemey/quantum/Quantum%20Cognition%20Notes.htm
+http://www.vub.ac.be/CLEA/aerts/
+http://www.le.ac.uk/ulsm/research/qdt/index.html
+http://www.quantum-cognition.de/
+http://www.quantuminteraction.org/
+https://people.ok.ubc.ca/lgabora/research.htm
+http://www.saistmp.com/
+
+
+== Περαιτέρω ανάγνωση ==
+Accardi, L., Khrennikov, A., Ohya, M. (2009) Quantum Markov model for data from Shafir-Tversky experiments in cognitive psychology. Open Systems and Information Dynamics, 16, 371-385.
+Aerts, D. & Aerts, S. (1995). Applications of quantum statistics in psychological studies of decision processes. Foundations of Science, 1, 85-97.
+Aerts, D., Aerts, S. and Gabora, L. (2009). Experimental evidence for quantum structure in cognition. In P. D. Bruza, D. Sofge, W. Lawless, C. J. van Rijsbergen and M. Klusch (Eds.), Proceedings of QI 2009-Third International Symposium on Quantum Interaction, Book series: Lecture Notes in Computer Science, 5494, 59-70. Berlin, Heidelberg: Springer.
+Aerts, D., Broekaert, J. & Gabora, L. (2011). A case for applying an abstracted quantum formalism to cognition. New Ideas in Psychology, 29(1), 136-146.
+Aerts, D., Broekaert, J. & Smets, S. (1999). A Quantum Structure Description of the Liar Paradox. International Journal of Theoretical Physics, Volume 38, Issue 12, pp 3231-3239.
+Aerts, D. and D'Hooghe, B. (2009). Classical logical versus quantum conceptual thought: Examples in economics, decision theory and concept theory. In P. D. Bruza, D. Sofge, W. Lawless, C. J. van Rijsbergen and M. Klusch (Eds.), Proceedings of QI 2009-Third International Symposium on Quantum Interaction, Book series: Lecture Notes in Computer Science, 5494, 128-142. Berlin, Heidelberg: Springer.
+Atmanspacher, H. (1992). Categoreal and a categoreal representation of knowledge. Cognitive Systems, 3, 259-288.
+Atmanspacher, H., Filk, T., & Romer, H. (2004). Quantum Zeno features of bistable perception. Biological Cybernetics, 90, 33-40.
+Blutner, R. (2009). Concepts and bounded rationality: An application of Niestegge's approach to conditional quantum probabilities. In L. Accardi, G. Adenier, C. Fuchs, G. Jaeger, A. Khrennikov, L. J. A. & S. Stenholm (Eds.), Foundations of Probability and Physics - 5 (Vol. 1101, pp. 302–310): NY: American Institute of Physics Conference Proceedings.
+Bordley, R. F. (1998). Quantum mechanical and human violations of compound probability principles: Toward a generalized Heisenberg uncertainty principle. Operations Research, 46, 923-926.
+Bruza, P. D., Lawless, W., van Rijsbergen, C.J., & Sofge, D., Editors. (2007). Proceedings of the AAAI Spring Symposium on Quantum Interaction, March 27–29. Stanford University, 2007. AAAI Press.
+Bruza, P. D., Lawless, W., van Rijsbergen, C.J., & Sofge, D., Editors. (2008). Quantum interaction: Proceedings of the Second Quantum Interaction Symposium. London: College Publications.
+Bruza, P.D., Sofge, D., Lawless, W., Van Risjbergen, K., & Klusch, M., Editors. (2009). Proceedings of the Third Quantum Interaction Symposium. Lecture Notes in Artificial Intelligence, vol. 5494, Springer.
+Busemeyer, J. R. & Bruza, P. D. (2012). Quantum models of cognition and decision. Cambridge University Press.
+Busemeyer, J. R., Wang, Z., & Townsend, J. T. (2006). Quantum dynamics of human decision making. Journal of Mathematical Psychology, 50 (3), 220-241.
+Conte, E. (2012) Advances in application of quantum mechanics in neuroscience and psychology: a Clifford algebraic approach, Nova Science Publishers.
+Conte, E., Todarello, O., Federici, A., Vitiello, F., Lopane, M., Khrennikov, A. (2006). Some remarks on an experiment suggesting quantum-like behavior of cognitive entities and formulation of an abstract quantum mechanical formalism to describe cognitive entity and its dynamics. Chaos, Solitons, and Fractals, 31, 1076-1088.
+Danilov, V.I. & Lambert-Mogiliansky, A., 2008. "Measurable systems and behavioral sciences," Mathematical Social Sciences, Elsevier, vol. 55(3), pages 315-340
+Danilov & A. Lambert-Mogiliansky, 2010. "Expected utility theory under non-classical uncertainty," Theory and Decision, Springer, vol. 68(1), pages 25-47
+Franco, R. (2009). The conjunctive fallacy and interference effects. Journal of Mathematical Psychology, 53(5), 415-422.
+Gabora, L., Rosch, E., & Aerts, D. (2008). Toward an ecological theory of concepts. Ecological Psychology, 20(1), 84-116.
+Gabora, L. & Aerts, D. (2009). A model of the emergence and evolution of integrated worldviews. Journal of Mathematical Psychology, 53, 434-451.
+Ivancevic, V. and Aidman, E. (2007). Life space foam: a medium for motivational and cognitive dynamics. Physica A, 382, 616-630.
+Ivancevic, V. and Ivancevic, T. (2010) Quantum Neural Computation. Springer.
+Kak, S. (1996) The three languages of the brain: quantum, reorganizational, and associative. In Learning as Self-Organization, Karl Pribram and J. King (editors). Lawrence Erlbaum Associates, Mahwah, NJ, 185-219.
+Kak, S. (2000) Active agents, intelligence, and quantum computing. Information Sciences, vol. 128, 1-17.
+Khrennikov, A. Y. (1999). Classical and quantum mechanics on information spaces with applications to cognitive, psychological, social, and anomalous phenomena.Foundations of Physics, 29, 1065-1098.
+LaMura, P. (2009) Projective expected utility. Journal of Mathematical Psychology, 53 (5) 408-414.
+Lambert- Mogiliansky, A., Zamir, S., and Zwirn, H. (2009) Type indeterminancy: A model of the KT (Kahneman – Tversky) type man. Journal of Mathematical Psychology, 53 (5) 349-361.

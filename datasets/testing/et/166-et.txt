@@ -1,0 +1,8 @@
+Netoproduktsioon ehk puhastoodang on mõiste ökoloogiast, mille all mõeldakse mingil perioodil assimileeritud energiakogust, lahutades viimasest maha sama ajavahemiku jooksul rakuhingamise tarbitud energia. Sageli arvutatakse need kogused ümber biomassile, mis võimaldab tulemuse anda biomassiühikutes.
+Kui netoproduktsioon on negatiivne, ehk süsteemis on (raku)hingamisel suurem osakaal, siis süsteemi biomassihulk väheneb.
+Esmasprodutsentide puhastoodangut nimetatakse esmaseks puhastoodanguks (netoprimaarproduktsioon), sekundaarprodutsentide puhastoodangut aga teiseseks puhastoodanguks.
+
+
+== Vaata ka ==
+Primaarproduktsioon
+Brutoproduktsioon

@@ -1,0 +1,15 @@
+Příkaz k inkasu je bezhotovostní platební metoda umožňující příkazci čerpat peníze z jiného bankovního účtu ve prospěch svého účtu. Opakem této platby je žiro – platba odesílaná z účtu příkazce ve prospěch jiného účtu.
+
+
+== Využití ==
+Využití služby je podmíněno souhlasem osoby oprávněné k manipulaci s zatíženým, debetovaným účtem. Tento souhlas je jednorázově vysloven vystavením splatného šeku ze zatíženého účtu nebo je udělen do odvolání pro určitý účet klientem banky oprávněným manipulací se zatíženým účtem. Banky nazývají tuto službu svolení k inkasu z účtu.
+Svolení k inkasu z účtu je nutné zřídit v případě placení SIPO ve prospěch inkasního střediska SIPO.
+banky s ním inkasují poplatky za své služby
+používá se při bezhotovstním proplácení šeků
+užívá se k placení pevných i pohyblivých plateb poskytovatelům služeb a surovin jako alternativa trvalého příkazu.
+
+
+== Související články ==
+inkaso
+SIPO
+dokumentární inkaso

@@ -1,0 +1,390 @@
+În geometria triunghiului, cercul înscris sau exînscris unui triunghi este un cerc tangent tuturor laturilor triunghiului sau prelungirilor acestora.
+
+
+== Cercul înscris ==
+Cercul înscris unui triunghi este acel cerc aflat în interiorul triunghiului și căruia toate laturile triunghiului (considerate ca segmente) și nu prelungirile acestora) îi sunt tangente. Este cel mai mare cerc aflat în interiorul triunghiului.
+Centrul cercului înscris unui triunghi se află la intersecția bisectoarelor unghiurilor acestuia.
+Raza cercului înscris se determină cu formulele:
+
+  
+    
+      
+        r
+        =
+        
+          
+            S
+            p
+          
+        
+        =
+        4
+        R
+        sin
+        ⁡
+        
+          
+            
+              
+                A
+                ^
+              
+            
+            2
+          
+        
+        sin
+        ⁡
+        
+          
+            
+              
+                B
+                ^
+              
+            
+            2
+          
+        
+        sin
+        ⁡
+        
+          
+            
+              
+                C
+                ^
+              
+            
+            2
+          
+        
+        =
+      
+    
+    {\displaystyle r={\frac {S}{p}}=4R\sin {\frac {\hat {A}}{2}}\sin {\frac {\hat {B}}{2}}\sin {\frac {\hat {C}}{2}}=}
+  
+
+  
+    
+      
+        =
+        (
+        p
+        −
+        a
+        )
+        tan
+        ⁡
+        
+          
+            
+              
+                A
+                ^
+              
+            
+            2
+          
+        
+        =
+        (
+        p
+        −
+        b
+        )
+        tan
+        ⁡
+        
+          
+            
+              
+                B
+                ^
+              
+            
+            2
+          
+        
+        =
+        (
+        p
+        −
+        c
+        )
+        tan
+        ⁡
+        
+          
+            
+              
+                C
+                ^
+              
+            
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle =(p-a)\tan {\frac {\hat {A}}{2}}=(p-b)\tan {\frac {\hat {B}}{2}}=(p-c)\tan {\frac {\hat {C}}{2}},}
+  
+
+unde  
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+    sunt lungimile laturilor triunghiului,  
+  
+    
+      
+        p
+        =
+        
+          
+            
+              a
+              +
+              b
+              +
+              c
+            
+            2
+          
+        
+      
+    
+    {\displaystyle p={\frac {a+b+c}{2}}}
+    semiperimetrul, iar  
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+    aria triunghiului.
+
+
+== Cercul exînscris ==
+Cercul exînscris este tangent doar uneia dintre laturi (considerată ca segment) și prelungirilor celorlalte două. Există trei asemenea cercuri. Astfel, cercul care corespunde vârfului A are centrul în  
+  
+    
+      
+        
+          J
+          
+            A
+          
+        
+      
+    
+    {\displaystyle J_{A}}
+    care este situat la intersecția bisectoarei din A cu perpendicularele duse la bisectoarele din B și din C.
+Razele cercurilor exînscrise sunt date de:
+
+  
+    
+      
+        
+          r
+          
+            a
+          
+        
+        =
+        
+          
+            S
+            
+              p
+              −
+              a
+            
+          
+        
+        =
+        
+          
+            
+              
+                p
+                (
+                p
+                −
+                b
+                )
+                (
+                p
+                −
+                c
+                )
+              
+              
+                p
+                −
+                a
+              
+            
+          
+        
+        =
+        p
+        tan
+        ⁡
+        
+          
+            
+              
+                A
+                ^
+              
+            
+            2
+          
+        
+        ;
+      
+    
+    {\displaystyle r_{a}={\frac {S}{p-a}}={\sqrt {\frac {p(p-b)(p-c)}{p-a}}}=p\tan {\frac {\hat {A}}{2}};}
+  
+
+  
+    
+      
+        
+          r
+          
+            b
+          
+        
+        =
+        
+          
+            S
+            
+              p
+              −
+              b
+            
+          
+        
+        =
+        
+          
+            
+              
+                p
+                (
+                p
+                −
+                a
+                )
+                (
+                p
+                −
+                c
+                )
+              
+              
+                p
+                −
+                b
+              
+            
+          
+        
+        =
+        p
+        tan
+        ⁡
+        
+          
+            
+              
+                B
+                ^
+              
+            
+            2
+          
+        
+        ;
+      
+    
+    {\displaystyle r_{b}={\frac {S}{p-b}}={\sqrt {\frac {p(p-a)(p-c)}{p-b}}}=p\tan {\frac {\hat {B}}{2}};}
+  
+
+  
+    
+      
+        
+          r
+          
+            c
+          
+        
+        =
+        
+          
+            S
+            
+              p
+              −
+              c
+            
+          
+        
+        =
+        
+          
+            
+              
+                p
+                (
+                p
+                −
+                a
+                )
+                (
+                p
+                −
+                b
+                )
+              
+              
+                p
+                −
+                c
+              
+            
+          
+        
+        =
+        p
+        tan
+        ⁡
+        
+          
+            
+              
+                C
+                ^
+              
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle r_{c}={\frac {S}{p-c}}={\sqrt {\frac {p(p-a)(p-b)}{p-c}}}=p\tan {\frac {\hat {C}}{2}}.}

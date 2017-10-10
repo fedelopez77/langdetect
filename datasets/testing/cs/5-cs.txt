@@ -1,26 +1,52 @@
-Samantha Crawfordová, nepřechýleně Samantha Crawford (* 18. února 1995 Atlanta) je americká profesionální tenistka. Ve své dosavadní kariéře nevyhrála na okruhu WTA Tour žádný turnaj. Do září 2012 získala na ITF Circuit jeden titul ve čtyřhře.
-Na žebříčku WTA byla ve dvouhře nejvýše klasifikována v srpnu 2012 na 294. místě a ve čtyřhře pak v témže měsíci na 438. místě. Trénuje ji Kathy Rinaldiová.
-NA US Open 2012 si jako kvalifikantka zajistila účast v hlavní soutěži, kde podlehla v úvodním kole Britce Lauře Robsonové.
+Dekompozice (rozklad) je postupná dezintegrace mrtvé organické hmoty, vrcholící mineralizací, tedy úplnou přeměnou na látky anorganické, jako je voda, oxid uhličitý a různé soli. Rozkladu podléhají jak části těl (spadané listí, mrtvé kusy kůže), tak i celé organizmy poté, co zemřou. Příčinou rozkladu jsou nejen fyzikální, ale zejména také biologičtí činitelé, kteří mrtvou biologickou hmotu konzumují.
 
 
-== Finálové účasti na turnajích okruhu ITF ==
+== Typy rozkladu ==
 
 
-=== Dvouhra: 1 (0–1) ===
+=== Fyzikální a chemický rozklad ===
+Organizmy se obvykle vzápětí po smrti rozkládají samovolně, a to díky procesu autolýzy. Tělo trpí nedostatkem kyslíku, v buňkách se hromadí odpadní produkty a nekontrolovaně začnou pracovat i různé hydrolytické trávicí enzymy (lipázy, proteázy a podobně). K popisu stavu těla se používá několika termínů: algor mortis označuje vyrovnání teploty těla s okolím, livor mortis představuje blednutí pokožky, rigor mortis (ztuhlost) je způsobeno gelovatěním cytoplazmy buněk. Nakonec se vylijí z buněk živiny a ke slovu se následně dostává spíše biologický rozklad.
 
 
-=== Čtyřhra: 1 (1–0) ===
+=== Biologický rozklad ===
+Podrobnější informace naleznete v článku rozkladač.
+V dekompozici jsou asi nejvýznamnějším činitelem právě organizmy, v této souvislosti nazývaní rozkladači (zejména pokud se jedná o houby a bakterie) nebo detritovorové (pokud se jedná o živočichy), případně saprotrofové a saprofyty (pokud se jedná o houby a živočichy). Speciálním případem jsou též koprofágové, živící se trusem.
+Rozklad bez přístupu kyslíku činností anaerobních organizmů se označuje jako anaerobní digesce či hnití.
+
+
+== Průběh dekompozice ==
+Obvykle neprobíhá rozklad jednotlivých stavebních látek zároveň, nýbrž v jednotlivých fázích. Nejprve se rozkládají jednoduché cukry, následně škrob, hemicelulózy, dále pektiny a proteiny, a až v posledních fázích celulóza, ligniny, suberiny a kutiny.
+
+
+=== Rozklad těla obratlovců ===
+
+Udává se, že rozklad např. lidského těla začíná již asi 4 minuty po smrti, a to díky chemickým a fyzikálním procesům v těle (autolýza), při nichž začnou nekontrolovaně pracovat různé trávicí enzymy. Nejdříve tyto enzymy zasáhnou orgány, kde je enzymů velké množství (játra) nebo obsahují mnoho vody (mozek), postupně však enzymy natráví celé tělo. Nejprve není tento proces patrný, ale po několika dnech se na kůži vytvoří puchýře a popraská kůže.
+Brzy se však začnou uplatňovat i organizmy a začíná biologický rozklad. Tělo obratlovců nejdříve kolonizují rozkladači – bakterie a dále tzv. cukrové plísně (známé rody Mucor, Penicillium). Obě skupiny jsou v těle přítomny již za života (bakterie v trávicím traktu, plísně na sliznicích a na kůži), ale k masovému šíření do těla jim obvykle brání imunitní systém. Po smrti rychle využívají vzniklé situace. Cukrové plísně se živí, jak název naznačuje, převážně volně přítomnými cukry, ale i aminokyselinami.
+V přírodě brzy následují i další fáze. Těkavé látky lákají k tělu zástupce hmyzu (bzučivkovití, masařkovití), které nakladou vajíčka, z nichž se brzy vylíhnou larvy a živí se proteiny ve svalech a tuky. Další skupiny živočichů se poměrně záhy specializují na konzumaci nikoliv těla samotného, ale rozkladačů v něm usídlených (tzv. mikrobivorové živící se hyfami hub a bakteriemi). Jiné druhy loví kořist větší velikosti: larvami much a podobně.
+V poslední fázi na těle mrtvého obratlovce obvykle zbývá jen kůže, kosti a některé další tuhé a tím pádem těžko stravitelné části. Někteří jsou však schopní konzumovat i tento typ potravy: konkrétně kožojedi (Dermestidae), moli (Tineidae), určité skupiny roztočů (Acari) a podobně.
+V zeměpisných šířkách České republiky dochází při pohřbu do země ve vhodné půdě za 6–12 měsíců k rozpadu kůže a měkkých částí, po 1–2 letech k rozrušení chrupavek žeber, obnažení přední části kostí, obličejové dutiny zejí a hrudní a břišní dutina je široce otevřena. Celý proces dekompozice je zakončen zhruba za 10 let, kdy již z těla zůstávají pouze kosti a vlasy.
+
+
+=== Rozklad těla rostlin ===
+
+Za zmínku také stojí rozklad rostlinného materiálu. Obecně platí, že odolné části se rozkládají pomaleji. Dřevo se rozkládá obvykle činností hub, a to dvojího typu. Takzvané celulózovorní houby rozkládají celulózu a způsobují, že má zbylý materiál červenou barvu (červená hniloba), zatímco ligninovorní houby rozkládají lignin a způsobují, že zbylé dřevo dostává bílou barvu (bílá hniloba). Například dřevomorka domácí (Serpula lacrymans) patří mezi houby celulózovorní. Na rozkladu listí se rovněž podílí dvě skupiny organizmů: nejen ti schopní rozkládat celulózu, ale dále také ti rozkládající kutin.
+Specifickým příkladem je dekompozice nektaru a jiných sladkých částí u rostlin: ty obvykle kolonizují jako první kvasinky, které jsou schopné kvasit cukry (někdy za vzniku alkoholů, tímto procesem se totiž vyrábí např. víno a pivo). Zelená píce je obvykle zpracovávána na siláž, k tomu slouží skupina bakterií (zejména z okruhu laktobacilů), které z glycidů tvoří kyselinu mléčnou a další organické kyseliny. Listový opad, který spadne do vody, zase obvykle jako první osídlí vřeckovýtrusné houby ze skupiny Hyphomycetes.
 
 
 == Odkazy ==
 
 
 === Reference ===
-V tomto článku byl použit překlad textu z článku Samantha Crawford na anglické Wikipedii.
+
+
+=== Literatura ===
+BALÁŽ, Vojtech, et al. Smrt jako součást života. Praha : NIDM, 2008. Dostupné online.  
+BEGON, Michael; HARPER, John L.; TOWNSEND, Colin R.. Ekologie; jedinci, populace a společenstva. Olomouc : Univerzita Palackého, 1997.  
+
+
+=== Související články ===
+Farma mrtvol
 
 
 === Externí odkazy ===
- Obrázky, zvuky či videa k tématu Samantha Crawfordová ve Wikimedia Commons
-(anglicky) Samantha Crawfordová na stránkách Ženské tenisové asociace
-(anglicky) Samantha Crawfordová na stránkách Mezinárodní tenisové federace
-(anglicky) Samantha Crawfordová na stránkách Fed Cupu
+ Obrázky, zvuky či videa k tématu dekompozice ve Wikimedia Commons

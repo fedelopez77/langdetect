@@ -1,0 +1,57 @@
+Otrava oxidem uhelnatým nastává po vdechnutí většího množství oxidu uhelnatého. Oxid uhelnatý (CO) je bezbarvý, nedráždivý plyn bez zápachu, lehčí než vzduch. Vůči lidskému organismu je vysoce toxický. Vzniká jako vedlejší produkt parciální oxidace uhlíku během nedokonalého spalování látek, které ve své molekule obsahují výše uvedený prvek. Vzniká tehdy, pokud je teplota spalování příliš nízká, čas hoření je příliš krátký, nebo není k dispozici dostatek kyslíku. Přírodní zdroje se ze 40 % podílí na jeho celkové produkci zejména vulkanickou činností, větší měrou se na jeho produkci podílí antropogenní činnost (60 %). Nejvýraznější podíl na antropogenní produkci CO v současné době způsobuje vypalování deštných pralesů (rozvojové země) a spalování fosilních paliv, především ve spalovacích motorech dopravních prostředků (vyspělé země), a to i přes výrazné snížení emisí v posledních dvaceti letech díky zavedení katalyzátorů. V běžném prostředí je CO obsažen v koncentraci nižší než 0,001% (neboli 10 ppm-parts per million). V městských aglomeracích je jeho koncentrace vyšší než ve venkovských oblastech. V centru Mexico City se hodnoty běžně pohybují kolem 100-200 ppm. Pro srovnání, kouřový plyn v ústí komínů obsahuje cca 5000 ppm.
+
+
+== Problematika diagnostiky a léčby otravy oxidem uhelnatým ==
+
+
+=== Epidemiologie a zdroje otravy ===
+Otrava oxidem uhelnatým je významným zdravotním, sociálním a ekonomickým problémem ve většině vyspělých zemí světa. K otravě dochází inhalací vzduchu obsahujícího toxickou koncentraci CO. Otravy oxidem uhelnatým mohou být jak náhodné (v Evropě ve většině případů), tak sebevražedné (zpravidla zplodinami spalovacích motorů v garážích- převažují v USA). V Evropě mezi nejčastější zdroje otravy oxidem uhelnatým patří:
+při hoření různých spotřebičů na zemní plyn nebo propan-butan ( oba tyto užitkové plyny jsou primárně netoxické) ve špatně ventilovaných malých prostorách, kde při nedokonalém hoření a spalování uhlíku dochází k produkci CO (koupelny s průtokovým ohřívačem vody, kabiny řidiče v kamiónech a automobilech).
+ve výfukových plynech benzínových či dieselových motorů automobilů či jiných strojů, které obsahují vysoké procento CO- v uzavřeném či nedostatečně větraném prostoru může dojít k jeho toxickému působení (garáže, výrobní haly, studny, sportovní haly, zimní stadiony, ale také rušné křižovatky velkoměst, vodní plochy při závodech závodních člunů apod.).
+jako součást kouřových zplodin při hoření v ohništích a krbech, kde při nedokonalém odvodu spalin komínem v nedostatečně větraných místnostech dochází k jeho hromadění
+vzniká při požárech uvnitř budov, přítomnost dalších toxinů z různorodých hořících látek otravu dále modifikuje a komplikuje (fosgen, kyanidy)
+vzniká v průmyslových provozech, u vysokých pecí při výrobě oceli, může se hromadit v nedokonale odvětraných důlních provozech
+
+
+=== Incidence ===
+Zaujímá první místo mezi náhodnými otravami v Evropě i Severní Americe. Jen v USA je každoročně 30 000-56 000 osob ošetřeno, 600 -1000 osob zemře na náhodnou a 3000-6000 na úmyslnou otravu. Ve Velké Británii je ročně ošetřeno 25 000 osob, ve Francii 5000 – 8000 osob, v Polsku je hospitalizováno závratných 46 500 osob. Náhodné otravy jsou častější ve studených měsících (říjen-březen) a v místech se studenějším klimatem. V mnoha epidemiologických studiích bylo prokázáno, že minimálně 30% případů není během prvního vyšetření správně diagnostikováno. Nejčastěji je mylně hodnocena jako chřipkové onemocnění, deprese, otrava jídlem, gastroenteritida, mozková příhoda, únavový syndrom, migréna nebo intoxikace alkoholem. Ve Spojených státech amerických nejsou výjimečné hromadné otravy epidemického typu při sněhových bouřích nebo hurikánech s desítkami až stovkami postižených, kupříkladu v roce 2005 v souvislosti s hurikánem Katrina bylo 51 osob postiženo otravou, z toho 5 smrtelně. Důvodem je obvykle výpadek elektřiny a hromadné užívání dieselových agregátů, grilů na dřevěné uhlí k ohřevu uvnitř obytných prostor. Taktéž byly popsány hromadné otravy osob v hotelech a motelech různých typů. Ani v České republice nejsou hromadné otravy výjimkou, existují zkušenosti s ošetřením více osob či celých rodin otrávených současně. Výjimkou nejsou ani hromadná úmrtí několika osob bydlících dokonce v různých bytových jednotkách při poruše odtahu spalin mrtvým ptákem zapadlým do průduchu komína (5 usmrcených osob, Ostrava, 1996). V České republice obecně incidence po prudkém poklesu v 80. a 90. letech v poslední době opět mírně stoupá, podle dostupných statistických údajů postihuje v ČR každoročně několik tisíc občanů. Jako příčina úmrtí je otrava CO stanovena asi u 150 osob ročně, patří mezi ně i oběti požárů. V ČR je informovanost o tomto nebezpečí velmi nízká. V povědomí veřejnosti je pevně zafixována nepřesná informace, že při hoření zemního plynu nehrozí žádné nebezpečí, vyjma rizika vzniku požáru.
+
+
+=== Patofyziologie ===
+Vdechnutý CO přestupuje v plicích přes alveolo-kapilární membránu do krve plicní mikrocirkulace a rozpouští se v plazmě. Velmi silně se však váže na tzv. hemoproteiny a blokuje jejich fyziologickou funkci. Jedná se o hemoglobin v krvi, myoglobin ve skeletálním i srdečním svalu a cytochromy dýchacích řetězců v mitochondriích, čímž je blokována činnost mitochondriálních a dalších intracelulárních enzymů a dochází k inhibici procesu oxidativní fosforylace. Těmito mechanismy se rozvíjí tkáňová hypoxie kombinovaného původu – hypoxémická a histotoxická. U těžkých otrav po zahájení léčby kyslíkem a obnovení jeho dodávky do tkání dochází k rozvoji ischemicko-reperfuzního poranění a spuštění mnoha patofyziologických kaskád, aktivaci neutrofilů s adhezí k endotelu kapilár, lipidové peroxidaci a endoteliálnímu poškození. Může dojít k spuštění neuronální apoptózy, poruše rovnováhy excitačních neurotransmiterů a poškození myelinového bazického proteinu v neuronech s autoreaktivní proliferativní imunitní odpovědí.
+
+
+=== Klinický obraz ===
+Anamnesticky je nutno pátrat, zda zdravotním problémům nepředcházely problémy se spotřebičem, karmou, kotlem, krbem. Podezření by měla vzbudit neodborná oprava spotřebiče či kouřovodu, neobvyklý zápach, narudlé zbarvení plamene, popřípadě práce s přístrojem na benzínový pohon v uzavřeném a nevětraném prostoru. Pokud je postižena více než jedna osoba s podobnými příznaky nebo je nalezena více než jedna mrtvola v obytném prostoru, je vždy nutno vyloučit hypotézu otravy CO. Klinický obraz otravy je velmi nespecifický a souvisí s koncentrací CO ve vdechované směsi, délkou expozice, alveolární ventilací, tělesnou aktivitou a individuální vnímavostí. Obvyklé jsou mírnější příznaky jako nevolnost, zvracení, bolesti hlavy nebo na hrudi, závratě, palpitace, slabost, psychické příznaky. Při závažnějším stupni přistupují neurologické příznaky a dochází k poruše vědomí různého stupně až ke smrti.
+
+
+=== Klasifikace ===
+Klasifikace intoxikace a stanovení tíže onemocnění podle naměřené koncentrace COHb v krvi není přesné, protože hodnota COHb nemusí odrážet klinickou závažnost intoxikace. Pro následnou léčbu i prognózu má klinický obraz a hodnocení jednotlivých orgánových systémů daleko větší význam. Z praktického hlediska je tedy daleko vhodnější tzv. „Ostravská klasifikace“ (obrázek), ve které jsou hodnoceny stav vědomí, neurologické příznaky, vegetativní, respirační a kardiovaskulární systém.
+
+
+=== Diagnostika ===
+Stanovení diagnózy je někdy obtížné, zejména v případech, kdy se na možnost otravy CO nepomýšlí. Jedním z pilířů stanovení diagnózy je stanovení hladiny karbonylhemoglobinu. Obvykle se provádí analýzou krevního vzorku spektrofotometricky (co-oxymetrem) nebo stejnou metodou, z čidla speciálního přístroje (neinvazívně, obdoba pulsní oxymetrie). Jedná se o metodu rychlou, kontinuální a přitom dostatečně přesnou a nyní i cenově dostupnou. Levnou, avšak málo používanou metodou je určování množství CO ve výdechu, udává se v jednotkách ppm - 50 ppm odpovídá 6% COHb, 80 ppm hladině 10% COHb.
+Další možností je stanovení ze vzorku krve metodou plynové chromatografie, což je metoda přesná a cenná především z forensního hlediska. Z hlediska klinického provozu je však méně významná.
+
+
+=== Léčba ===
+S lehčím stupněm otravy se pacienti obvykle dostavují k praktickému lékaři či na interní ambulanci. K těžším případům s rychlým rozvojem příznaků jsou zpravidla voláni záchranáři. Postižení pacienti jsou systémem záchranných služeb převezeni zpravidla na interní ambulanci či urgentní příjem nemocnice. Zde jsou postižení ošetřeni dle aktuálního stavu, důležitou součástí je podání kyslíku ať za normálního tlaku, nebo podáním kyslíku za podmínek zvýšeného tlaku ve specializovaném léčebném centru. Tato metoda se nazývá hyperbarická oxygenoterapie neboli hyperbarická kyslíková terapie.
+
+
+=== Preventivní opatření (detektory CO) ===
+Společným cílem preventivních opatření by mělo být zesílení aktivity v této oblasti a navázání spolupráce mezi lékařskými obory, záchrannými, požárními sbory a legislativci(5). Velmi účinné jsou celonárodní kampaně v médiích, tisku, televizi, které upozorňují obyvatelstvo na nebezpečí této otravy.
+Největší význam pro prevenci má instalace hlásičů přítomnosti oxidu uhelnatého v obytných prostorách. Nebezpečná koncentrace oxidu uhelnatého začne být při překročení 100ppm (parts per million). Většina hlásičů oxidu uhelnatého spouští poplach již při 70-80 ppm. Hladina překračující 150-220 ppm je již života nebezpečná. Oxid uhelnatý je plyn lehčí než vzduch, proto se hlásič oxidu uhelnatého montuje ke stropu nebo do horní části místnosti.
+
+
+=== Závěr ===
+Otrava oxidem uhelnatým je významným zdravotním, sociálním a ekonomickým problémem ve většině vyspělých zemí světa. Přes velké pokroky ve vývoji medicínských věd není patofyziologie intoxikace CO vůči CNS zcela jasně objasněna. Kromě tkáňové hypoxie se na vývoji míry výsledného neurologického poškození podílí také imunitní mechanismy a nepochybnou roli hraje také genetická predispozice. Klinický obraz otravy oxidem uhelnatým je nespecifický, těžké otravy jsou charakterizovány poruchou vědomí a mohou vést k usmrcení či těžkému trvalému neurologickému deficitu. Je dobré, že v oblasti surveillance se v poslední době k odborné společnosti hyperbarické a letecké medicíny (6) přidávají i některé další odbornosti, které mají zájem na řešení situace v této oblasti, např. urgentní medicíny a medicíny katastrof, intenzívní medicíny, projevující se organizováním sekcí na odborných konferencích, publikováním léčebných doporučení apod. Velké množství práce však v budoucnu bude nutné vykonat především v oblasti diagnosticko-léčebné a zejména v oblasti prevence, legislativy (zavedení povinné instalace detektorů oxidu uhelnatého v obytných prostorech), mediálních kampaní apod.
+
+
+== Externí odkazy ==
+ Obrázky, zvuky či videa k tématu Otrava oxidem uhelnatým ve Wikimedia Commons
+http://www.mnof.cz/data/files/user/centrum_hyperbaricke_mediciny/1_upozorneni_a_vystraha__nebezpeci_oxidu_uhelnateho.pdf
+http://Carbon Monoxide - International Programme on Chemical Safety - Environmental Health Criteria 213
+http://www.cshlm.cz/dokumenty/hyperbar_oxygenoterapie_clanek.pdf
+http://www.mnof.cz/data/files/user/centrum_hyperbaricke_mediciny/2_poster_olomouc_5.ppt.
+http://www.cshlm.cz
+http://www.urgmed.cz/postupy/cizi/2009_co.pdf Diagnostický a léčebný standard otravy oxidem uhelnatým

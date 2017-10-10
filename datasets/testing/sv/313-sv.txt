@@ -1,0 +1,7 @@
+National Center for Supercomputing Applications (förkortat NCSA) ett samarbete mellan delstaten Illinois och den federala regering i USA är mest känt för att ha utvecklat webbläsaren NCSA Mosaic och webbservern NCSA HTTPd som är den ursprungliga programvaran till Apache HTTP Server.
+
+
+== Externa länkar ==
+National Center for Supercomputing Applications at the University of Illinois
+The NCSA HTTPd Home Page arkiverad kopia från originalet
+ Wikimedia Commons har media som rör National Center for Supercomputing Applications.

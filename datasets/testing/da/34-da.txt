@@ -1,13 +1,14 @@
-Inden for talteori er et excessivt tal et positivt helt tal der opfylder at summen af dets divisorer (tallet selv ikke medregnet, men tallet 1 medregnet) er større end tallet selv. For eksempel er 20 et excessivt tal, thi divisorerne i 20 (undtagen 20 selv) er 1, 2, 4, 5 og 10, og vi har 1+2+4+5+10 = 22 > 20.
-Et excessivt tal kan opfattes som et tal der har "for mange" divisorer til at være fuldkomment.
-Det første ulige excessive tal er 945.
-Hvis et tal er excessivt, gælder det samme for ethvert multiplum af tallet. Så når 20 og 945 er excessive, får vi let nye excessive tal.
-20,40,60,80,100,120,… og 945,1890,2835,3780,4725,5670,…
-Det er derfor let at finde store excessive tal. Det følger således at der findes uendeligt mange lige og uendeligt mange ulige excessive tal.
-Der gælder også at et ikketrivielt multiplum af et fuldkomment tal er excessivt, så for eksempel er 12,18,24,30,36,… alle excessive (fordi 6 er fuldkomment).
-Man kan bevise at 24,8 % af alle tal er excessive.
+George Chakiris (født 16. september 1934) er en amerikansk skuespiller, danser og sanger. Hans forældre indvandrede fra Grækenland.
+Han fik sit store gennembrud i Robert Wises filmatisering af West Side Story i 1961, hvor han spillede Bernardo, lederen af banden Sharks. Sagen var, at han havde spillet det samme stykke på et teater i Londons West End i to år, men da spillede han Riff, lederen af Jets. For sin præstation i filmen, vandt han både en Oscar for bedste mandlige birolle og en Golden Globe for bedste mandlige birolle - Komedie eller Musical.
+Han filmdebuterede, da han kun var 12 år gammel, i en mindre rolle i Udødelige toner fra 1947. Efter skoletiden flyttede han til Los Angeles, hvor han tog arbejde i et stormagasin. I sin fritid tog han sang- og danselektioner, og på den måde havde han mindre dansroller i film som White Christmas, Brigadoon, Sex på scenen (alle fra 1954) og Gentlemen foretrækker blondiner (1953).
+I 1967 spillede han over for Gene Kelly og Catherine Deneuve i Jacques Demys Pigerne fra Rochefort.
 
 
-== Se også ==
-Defektivt tal og fuldkomment tal
-Alikvotfølge
+== Eksterne henvisninger ==
+
+George Chakiris på Internet Movie Database
+George Chakiris på Filmdatabasen
+George Chakiris på Scope
+George Chakiris i Svensk Filmdatabas
+George Chakiris på AlloCiné
+George Chakiris på AllMovie

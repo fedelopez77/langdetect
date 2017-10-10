@@ -1,11 +1,8 @@
-Leveyspiiri eli paralleelipiiri on maapallon kiertävä päiväntasaajan suuntainen piiri. Sen maanpinnan kohdan sijainti päiväntasaajasta pohjoiseen tai etelään voidaan kertoa leveysasteen, minuuttien ja sekuntien avulla.
-Päiväntasaajan ja napojen lisäksi tärkeitä leveyspiirejä ovat Kravun kääntöpiiri (23° 26′ 22″ N) pohjoisella ja Kauriin kääntöpiiri (23° 26′ 22″ S) eteläisellä pallonpuoliskolla, jotka antavat auringon pohjoisimman ja eteläisimmän zeniittiaseman, sekä napapiirit (66° 33′ 39″), jotka kuvaavat kaamoksen rajaa.
-
-
-== Leveysaste ==
-Leveysastetta (φ) mitataan astein (°) kulmamittana päiväntasaajan 0°:sta (matalat leveysasteet) napojen 90°:seen (korkeat leveysasteet). Leveyspiirin sijainnilla on absoluuttinen arvo, mutta leveysaste on arvojen vaihteluväli. Leveysaste (°) voidaan jakaa 60 minuuttiin (′) ja edelleen 60 sekuntiin (″). Nämä minuutit ja sekunnit ilmoitetaan maapallon navan puolelta, eli esim. leveyspiiri 23° 26′ 22″ S on kauempana päiväntasaajalta kuin leveyspiiri 23° 00′ 00″ S.
-Pohjoista leveyttä merkitään yleensä kirjaimella N, eteläistä kirjaimella S. Joskus eteläinen leveys annetaan negatiivisena, pohjoinen positiivisena. Esimerkiksi Suomen mantereen pohjoisin kohta Utsjoen Nuorgamissa sijaitsee leveyspiirillä 70° 05′ N ja eteläisin Hangon Tulliniemessä vastaavasti kohdalla 59° 48′ N.
-Ekliptisessä koordinaatistossa, jonka pohjana on eläinrata, määritellään ekliptinen latitudi. Galaktinen latitudi on leveysaste galaktisessa koordinaatistossa. Galaktinen 0-leveysaste seuraa Linnunradan tasoa.
+Alien Workshop on Chris Carterin ja Mike Hillin vuonna 1990 aloittama yhdysvaltalainen rullalautavälineitä valmistava yritys. Yhtiön omisti DNA Distribution kunnes Burton Snowboards osti sen helmikuussa 2008. Ohion osavaltiossa sijaitseva yritys on tunnettu graafisesti kuvioiduista laudoistaan. Myös suomalainen rullalautailija Arto Saari kuului yrityksen tiimiin.
 
 
 == Lähteet ==
+
+
+== Aiheesta muualla ==
+Alien Workshopin kotisivut

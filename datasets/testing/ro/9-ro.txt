@@ -1,1 +1,13 @@
-Conwy este un oraș și una dintre cele 22 zone de consiliu ale Țării Galilor. Pe lângă orașul reședință Conwy, alte orașe importante sunt: Llandudno, Llandudno Junction, Llanrwst, Betws-y-Coed, Colwyn Bay, Abergele, Penmaenmawr și Llanfairfechan.
+BitLeu (BTL)  este alternativa românească de criptomonedă, creată în martie 2014 după modelul islandez Auroracoin. BitLeu utilizează algoritmul hashing scrypt-jane.
+După o preminare de 50% din totalul monedelor (2,5 miliarde de unități), s-a dorit distribuirea lor către companii românești și cetățeni români. 48% din totalul monedelor vor fi folosite pentru a fi distribuite prin intermediul Fundației BitLeu, 2% vor intra la Fundația BitLeu. Fiecare cetățean român va primi 100 de monede Bitleu. Prima livrare a avut loc în data de 1 decembrie 2014. 
+Deoarece ideea nu a fost promovată suficient, BitLeu a rămas în anonimat. După scurt timp, bursele online au început să delisteze BitLeu din opțiuni, ca urmare a volumului extrem de redus al tranzacțiilor. Din cauza lipsei de interes a dezvoltatorilor și a infrastructurii de bază, criptomoneda Bitleu a devenit inactivă, valoarea ajungând la numai 0,000003$.
+
+
+== Note ==
+
+
+== Legături externe ==
+Pagina web BitLeu.org en
+Bitleu BTL Information
+bitleu-iasi-conference web.archive.org
+Bitleu 1.1.2

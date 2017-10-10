@@ -1,0 +1,44 @@
+L'hexagone logique (également appelé hexagone d'opposition) met en évidence des connexions entre six types d'assertions qui sont reliées entre elles par leurs valeurs de vérité. C'est une extension du carré logique d'Aristote découverte de façon indépendante à la fois par Augustin Sesmat et par Robert Blanché qui consiste à introduire deux nouvelles connexions Y et U, Y étant la conjonction de I et O tandis que U est la disjonction de A et E.
+
+
+== Rappels sur le carré logique ==
+Selon les définitions d'Aristote, le carré logique traditionnel s'appuie sur quatre assertions divisées en deux groupes d'assertions contradictoires dénommées A et O d'une part et E et I d'autre part (où « contradictoire » veut dire qu'elles ne peuvent être toutes les deux vraies ni toutes les deux fausses à la fois), en un groupe d'assertions contraires A et E (où « contraire » veut dire qu'elles peuvent toutes deux être fausses en même temps, mais qu'elles peuvent pas être vraies ensemble) et un groupe d'assertions sous-contraires I et O (où « sous-contraire » veut dire qu'elles peuvent être vraies ensemble, mais ne peuvent pas être fausses ensemble). Toutefois, l'hexagone logique stipule en outre l'existence de deux nouvelles assertions, U et Y, qui sont contradictoires.
+
+
+== Interprétations de l'hexagone logique ==
+L'hexagone logique peut être interprété de diverses manières, notamment comme modèle de la logique propositionnelle, du calcul des prédicats, de la logique modale ou de la théorie des ordres.
+Par exemple, en calcul des prédicats, l'assertion A peut être interprétée comme "Quel que soit x, si x est un homme, alors x est blanc."
+(∀ x) ( H(x) → B (x))
+L'assertion E peut être interprétée comme "Quel que soit x, si x est un homme, alors x est non-blanc".
+(∀ x) (H (x) → ¬ B (x))
+L'assertion I peut être interprétée comme "Il existe un x qui est à la fois un homme et blanc."
+(∃ x) (H (x) ∧ B (x))
+L'assertion O peut être interprétée comme "Il existe au moins un x qui est à la fois un homme et non-blanc"
+(∃ x) (H (x) ∧ ¬ B (x))
+L'assertion Y peut être interprétée comme "Il existe au moins un x qui est à la fois un homme et blanc et il existe au moins un x qui est à la fois un homme et non-blanc"
+(∃ x) ((H (x) ∧ B (x)) ∧ (∃ x) ((H (x) ∧ ¬ B (x))
+L'assertion U peut être interprétée comme "Quel que soit x, si x est un homme, alors x est blanc ou quel que soit x, si x est un homme, alors x est non-blanc".
+(∀ x) (H (x) → B (x)) ∨ (∀ x) (H (x) → ¬ B (x))
+
+
+=== L'interprétation de l'hexagone logique en logique modale ===
+L'hexagone logique peut être interprété comme un modèle de la logique modale telle que
+A est interprété comme la nécessité
+E est interprété comme l'impossibilité
+I est interprété comme la possibilité
+O est interprété comme la non nécessité
+U est interprété comme la non contingence
+Y est interprété comme la contingence
+
+
+=== Hexagone logique et logique déontique ===
+Robert Blanché envisage également la possibilité d'une interprétation de l'hexagone en logique déontique (Le Raisonnement, Presses Universitaires de France, 1973, p. 207), si on comprend A comme l'obligatoire, E l'interdit, I le permis, O le facultatif ; U est alors représenté par le réglementé (obligatoire ou défendu) et Y le permis-facultatif. On retrouve entre les six termes les mêmes rapports de contradiction, contrariété, sous-contrariété et subalternation.
+
+
+== Bibliographie ==
+Ouvrages de Robert Blanché :
+Les structures intellectuelles, essai sur l’organisation systématique des concepts - 1966, ed. J. Vrin
+La Logique et son histoire, ed. Armand Colin, coll. U, Paris, 1996.
+
+« Présentation de l’hexagone de Blanché », sur le site d’Alessio Moretti
+ Portail de la logique

@@ -1,0 +1,125 @@
+La magnésite est une espèce minérale composée de carbonate de magnésium de formule MgCO3 avec des traces : Fe;Mn;Ca;Co;N et de composés organiques.
+
+
+== Historique de la description et appellations ==
+
+
+=== Inventeur et étymologie ===
+Décrite par le mathématicien allemand Dietrich Ludwig Gustav Karsten (1768-1810) en 1808. Elle fut nommée ainsi en référence à sa composition chimique, le magnésium, mais aussi sa localité type. Le nom magnésite a été inventé par Jean-Claude Delamétherie en 1785, mais il englobait dans cette appellation divers minéraux de magnésium (carbonate sulfate nitrate et chloride). C'est Karsten qui a restreint ce terme au carbonate.
+
+
+=== Topotype ===
+Magnesia, Thessalie, Grèce.
+
+
+=== Synonymie ===
+argillomurite (Kirwan)
+baldissérite (de Baldissero dans le Piémont où ont été trouvés les échantillons)
+bandisserite
+baudisserite (Jean-Claude Delamétherie 1806)
+giobertite (François Sulpice Beudant 1824), en l'honneur du minéralogiste G.A. Giobert.
+magnésianite
+magnésie carbonatée (René Just Haüy)
+roubschite (Jean-Claude Delamétherie 1806) décrite d'après des échantillons de Hrubschitz en Moravie qui a inspiré son nom.
+Cas particulier de la magnésite dite « écume de mer », il s'agit d'un minéral distinct du carbonate qui est en fait un silicate : la sépiolite (Ernst Friedrich Glocker). (synonyme : magnésie carbonaté silicifère (Armand Dufrénoy)
+
+
+== Caractéristiques physico-chimiques ==
+
+
+=== Critères de détermination ===
+La magnésite donne une effervescence à l'acide chlorhydrique chaud. Elle est difficile à différencier de la dolomite.
+
+
+=== Variétés ===
+ferromagnésite, (synonyme : ferroan magnesite; hallite (Lévy); walmstédtite, ou walmstédite) : variété riche en fer de magnésite, de formule idéale (Mg,Fe)CO3.Très nombreux gisements notamment en France en Auvergne dans la Haute-Loire et le Puy-de-Dôme.
+breunnerite, (synonyme : breinnerite ; breunerite) : variété de ferromagnésite pour un ratio magésium/fer de 90/10 à 70/30. De formule idéale (Mg,Fe)CO3. Décrite par Wilhelm Karl Ritter von Haidinger en sur des échantillons de Pfitsch pass, Zamser Grund, et Großer Greiner Mt., Zemmgrund, deux cites de la vallée de Ziller, Tyrol, Autriche. Il existe de nombreuses occurrences dans le monde : en France dans la météorite d'Orgueil, Tarn et Garonne; à Maniwaki-Gracefield district, Gatineau Co., Québec, Canada.
+mésitite, (synonyme : mésitine) variété de ferromagnésite pour un ratio magnésium/fer de 70/30 à 50/50. De formule idéale (Mg,Fe)CO3, décrite par Johann August Friedrich Breithaupt. Gisement remarquable : Traversella, Vallée de Chiusella, Canavese, Province de Turin, Piémont, Italie
+gelmagnesite, variété colloïdale de magnésite trouvée dans deux sites en Autriche.
+nickel-magnésite (synonyme : nickeloan magnesite, hoshiite (Kols et Rodda 1966)) variété de magnésite riche en nickel trouvée en Australie et en Chine de formule idéale NiMg(CO3).
+Turquenite, souvent donnée comme une variété de magnésite, est en fait une magnésite artificiellement colorée en bleu pour ressembler à la turquoise.
+
+
+=== Cristallochimie ===
+La magnésite forme deux séries, l'une avec la gaspéïte, l'autre avec la sidérite.
+Elle fait partie du groupe de la calcite.
+Groupe de la calcite
+Le groupe de la calcite est composé de minéraux de formule générale ACO3, où A peut être un ou plusieurs ions métalliques (+2) tout particulièrement le calcium, le cobalt, le fer, le magnésium, le zinc, le cadmium, le manganèse et / ou de nickel. La symétrie des membres de ce groupe est trigonale.
+Calcite (CaCO3)
+Gaspéite ({Ni, Mg, Fe}CO3)
+Magnésite (MgCO3)
+Otavite (CdCO3)
+Rhodochrosite (MnCO3)
+Sidérite (FeCO3)
+Smithsonite (ZnCO3)
+Sphaérocobaltite (CoCO3)
+
+
+=== Cristallographie ===
+Elle cristallise dans le système cristallin trigonal à réseau rhomboédrique, groupe d'espace R3c, structure de la calcite.
+Paramètres de la maille conventionnelle : a = 4.633, c = 15.15, Z = 6; V = 281.62
+Masse volumique calculée = 2,98 g/cm3
+
+
+=== Propriétés physiques ===
+Selon les impuretés présentes, la magnésite est incolore, blanche ou grise.
+Elle peut présenter une triboluminescence.
+
+
+=== Propriétés chimiques ===
+Il s'agit d'un minéral très stable en solution aqueuse
+MgCO3 = Mg2+ + CO32- : Ks = 10-8
+qui toutefois ne précipite pas pour des raisons cinétiques. En effet, les cations en solution sont hydratés et, pour être incorporés dans un cristal anhydre, ils doivent consommer leur énergie d'hydratation : c'est ce qu'on appelle la barrière de déshydratation. Le magnésium étant un petit cation, sa barrière de déshydratation est plus importante que celle du calcium, qui a rayon ionique supérieur. Par conséquent, à 25 °C la calcite cristallise 1010 fois plus rapidement que la magnésite.
+
+
+== Gîtes et gisements ==
+
+
+=== Gîtologie et minéraux associés ===
+Gîtologie 
+C'est un minéral rare dans les roches sédimentaires qui peut se former par :
+altération de roches contenant des silicates magnésiens, sous l'action d’eau carbonatée (magnésite cryptocristalline) ;
+remplacement de la calcite sous l’action de solutions magnésiennes (avec de la dolomite comme produit intermédiaire) ;
+action métamorphique.
+
+Elle peut être présente dans les météorites.
+Minéraux associés 
+aragonite, calcite, dolomite, serpentine et strontianite.
+
+
+=== Gisements producteurs de spécimens remarquables ===
+Allemagne
+Freiberg, Saxe, pour la variété mesitite.
+Australie
+Mt Bischoff, Waratah, Waratah district, Tasmanie,
+Autriche
+Magnesitlagerstätte, Sunk, Hohentauern, Niedere Tauern, Styrie
+Brésil
+Serra das Éguas, Brumado (Bom Jesus dos Meiras), Bahia(Meilleurs spécimens connus pour cette espèce)
+Espagne
+Carrière Azcárate, Eugui, Esteribar, Navarre 
+France
+Allevier, Azérat, Auzon, Haute-Loire, Auvergne 
+Les Ponts-Tarrets, Le Breuil, Tarare, Rhône, Rhône-Alpes
+Peisey-Nancroix, Les Arcs, Bourg-Saint-Maurice, Vallée de la Tarentaise, Savoie, Rhône-Alpes 
+
+
+== Exploitation des gisements ==
+Utilisations
+Minerai d'extraction du magnésium.
+La magnésite est une source de MgO pour l’industrie pharmaceutique et, calcinée, est utilisée pour la production de briques réfractaires utilisées dans les revêtements des fours basiques. Elle est aussi utilisée pour le ciment magnésien.
+Auparavant, elle était utilisée aussi comme source de Mg, qui aujourd’hui est extrait de l’eau de mer et des saumures.
+Le carbonate de magnésium est utilisé dans l'alimentation comme additif alimentaire et réglementé sous le numéro E504(i). Il sert comme anti-agglomérant, régulateur alimentaire de pH et agent de rétention de la couleur.
+Le carbonate de magnésium est utilisé sous le nom de magnésie dans certains sports comme la gymnastique artistique et l'escalade.* l'extraction et la production
+
+
+== Galerie ==
+
+
+== Références ==
+
+
+== Voir aussi ==
+
+ Portail des minéraux et roches
+ Portail de la chimie

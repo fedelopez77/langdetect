@@ -1,0 +1,59 @@
+UTF-8 (angļu: 8-bit Unicode Transformation Format, "astoņu bitu unikoda pārveidošanas formāts") ir mainīga platuma kodējums. Tas var attēlot jebkuru simbolu unikoda standartā, un vienlaikus ir savietojams ar ASCII. Tas ir guvis plašu izplatību e-pastā, vispasaules tīmeklī un citos teksta glabāšanas vai pārsūtīšanas lietojumos.
+UTF-8 izmanto no viena līdz četriem baitiem (precīzāk, oktetiem) uz vienu unikoda simbolu. Piemēram, ikvienam simbolam intervālā no U+0000 līdz U+007F ir vajadzīgs tikai viens baits, t.i., pirmie 128 simboli unikoda tabulā jeb visa ASCII kodu tabula UTF-8 kodējumā tiek attēlota bez izmaiņām.
+
+
+== Apraksts ==
+Standarts UTF-8 ir dokumentēts, piemēram, šeit:
+RFC 3629 / STD 63 (2003)
+UTF-8 koda iegūšanai, unikoda simbola numuru pieraksta divnieku skaitīšanas sistēmā, tad zīmīgos bitus sadala vairākās grupās un izveido UTF-8 kodējuma baitus. Simbols, kura unikoda numurs ir mazāks par U+0080 (t. i., mazāks par 128 decimālajā skaitīšanas sistēmā), UTF-8 ir kodējams ar vienu baitu. Šie "priviliģētie" unikoda simboli precīzi atbilst 128 septiņbitu ASCII simboliem.
+Visos citos gadījumos ir vajadzīgi divi, trīs vai četri baiti. Visi šādi UTF-8 kodējumā radītie baiti satur bitu '1' vecākajā pozīcijā, lai tie nesajuktu ar septiņbitu ASCII simbolu kodiem. Tālākminētajā tabulā ar 'x' apzīmēti biti un ir attēlots, kā tie jāpārgrupē baitos, lai iegūtu UTF-8.
+Kā ar UTF-8 kodējami tie retie simboli (U+010000—U+10FFFF), kuri atrodas unikoda papildplaknēs, sk. šī raksta angļu versiju.
+Piemēram, pēdējais burts latviešu alfabētā — ž (unikodā to sauc "mazais latīņu burts z ar karonu") ir ar unikoda numuru U+017E. Sk. Unicode Code Charts; Latin Extended A, Windows XP operētājsistēmas lietotāji var unikoda burtu numurus atrast arī šādi: Start -> All Programs -> Accessories -> System Tools -> Character Map. Mazā ž numura jeb heksadecimālā U+017E binārais pieraksts ir 0000-0001-0111-1110.
+Mazā ž numurs U+017E ir intervālā no U+0080 līdz U+07FF — tātad tam atbildīs divi baiti UTF-8 kodējumā.
+Izceļam tā binārajā pierakstā vienpadsmit jaunākos bitus — 0000-0001-0111-1110; sadalām tos divās grupās — vispirms 5 un tad 6 bitus. Tātad — 00101 un 111110.
+Saskaņā ar augšminēto tabulu izveidojas divi baiti — 11000101 un 10111110. Tos varam pierakstīt pierastākā, heksadecimālā formā: 0xC5 un 0xBE. Tas arī ir burta ž pieraksts UTF-8 kodējumā.
+Līdzīgi arī kirilicas, grieķu, armēņu u. tml. simboli ir kodējami ar diviem UTF-8 baitiem, jo to unikoda numuri ir no 0x0080 līdz 0x07FF. Salīdzinot ar UTF-16 kodējumu, UTF-8 ir īsāks tad, kad jāattēlo ASCII simboli (t. i., pirmie 32 kontroles simboli, kā arī visi simboli, kuri pieejami uz angļu/amerikāņu datora klaviatūras), jo divu baitu vietā vajadzīgs tikai viens baits. Toties UTF-8 ir garāks par UTF-16, lai pierakstītu ķīniešu, japāņu vai korejiešu rakstzīmes, kuru unikoda numuri ir U+0800 un lielāki, jo tad divu baitu vietā vajadzīgi trīs baiti. Lietojot UTF-16 vai UTF-8 tekstiem kādu saspiešanas algoritmu, šīs atšķirības parasti kļūst nebūtiskas. Pārsūtot UTF-8 tekstus pa e-pastu, tam parasti pielieto vēl arī Base64 kodējumu, jo e-pasta protokolā daži no 256 baitiem ir ar speciālu nozīmi.
+Lai UTF-8 dekodētu, t. i., no UTF-8 baitiem iegūtu atkal unikoda numurus, vispirms sadala baitu plūsmu grupās — ja kāds baits sākas ar 0, tad tas ir ASCII, ja tas sākas ar '110', tad tas ir kopā ar nākamo baitu, ja tas sākas ar '1110', tad tas ir kopā ar nākamajiem diviem baitiem. Ja baitu plūsma nav iegūta kā UTF-8 un nav arī ASCII (piemēram, ja tā ir Baltic Windows jeb Cp-1257 kodējumā), tad UTF-8 dekodēšanas procesā parasti tūlīt tiks pamanīta kļūda. Šīs kļūdas var apstrādāt dažādi:
+Ievietot šai vietā aizstājējsimbolu(s) (e.g. '?', '�'), kurš norāda, ka plūsmā ir nepareizi UTF-8 dati.
+Ignorēt kļūdainos baitus.
+Interpretēt baitus saskaņā ar citu kodējumu (parasti saskaņā ar ISO-8859-1 kodējumu).
+Censties kļūdu izlabot un aizstāt baitus ar tādiem, ko var nolasīt kā UTF-8 (šāds dekoderis būtu kļūdains).
+Pārtraukt dekodēšanu un izdot kļūdas paziņojumu.
+
+
+== Pielietojumi ==
+UTF-8 kodējumu izmanto Vikipēdijas lapas (t. sk. lapa, kuru šobrīd lasāt), kā arī daudzi citi interneta resursi.
+Šī Javas programma pārkodē tekstu no Baltic Windows jeb Windows-1257 kodējuma par UTF-8 kodējumu:
+
+// Šo izejas failu jānosauc FileEncoding.java
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+
+/**
+ * Klase, kura pārkodē failu no Cp1257 uz UTF-8; izsaukums izskatās šādi: 
+ * java FileEncoding infile outfile
+ */
+public class FileEncoding {
+    public static void main(String[] args) throws Exception {
+        FileInputStream fis = new FileInputStream(args[0]);
+        InputStreamReader isr = new InputStreamReader(fis, "Cp1257");
+        BufferedReader br = new BufferedReader(isr);
+
+        FileOutputStream fos = new FileOutputStream(args[1]);
+        OutputStreamWriter osw = new OutputStreamWriter(fos, "UTF-8");
+        BufferedWriter bw = new BufferedWriter(osw);
+
+        String line;
+        while ((line = br.readLine()) != null) {
+            bw.write(line, 0, line.length());
+            bw.newLine();
+        }
+
+        bw.close();
+        br.close();
+    }
+}

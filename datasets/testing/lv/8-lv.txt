@@ -1,3 +1,14 @@
-Franklina centrs (angļu: Franklin Center), saukts arī par AT&T Korporatīvo centru (AT&T Corporate Center), ir debesskrāpis, kas atrodas Čikāgā, Ilinoisas štatā, ASV. Debesskrāpja pamatakmens ir ielikts 1986. gadā, bet tā būvniecība pabeigta 1989. gadā. Ēka atrodas Čikāgas biznesa rajonā. Ēka ir būvēta ASV telekomunikācijas uzņēmuma AT&T Corporation vajadzībām, kā uzņēmuma galvenā, reģionālā mītnes vieta.
-Ēka sastāv no 60 stāviem, kuru kopējā platība ir 158 000 m². Torņa kopējais augstums līdz spicei ir 307 metri, tā augstums līdz jumtam ir 270 metri, bet augstums līdz pēdējam stāvam ir 252 metri. Ēkā ir izvietotas biroja un mazumtirdzniecības telpas.
-Tā ir augstākā uzbūvētā ēka 20. gadsimta beigu daļā. Pašlaik tā ir piektā augstākā ēka Čikāgā un trīspadsmitā augstākā ēka ASV.
+Speciālā relativitātes teorija ir teorija, kas apraksta mehānikas likumus, kā arī telpas un laika īpašības, ja kustības ātrumi ir tuvi gaismas ātrumam. Klasiskā Ņūtona mehānika ir uzskatāma par speciālās relativitātes teorijas tuvinājumu pie maziem ātrumiem. Novirzes no klasiskās mehānikas sauc par relatīvistiskajiem efektiem, bet ātrumus, pie kādiem šādi efekti sāk parādīties — par relatīvistiskajiem ātrumiem. Lielo ātrumu fiziku, kas balstās uz speciālo relativitātes teoriju, sauc par relatīvistisko fiziku (tā iedalās relatīvistiskajā mehānikā un relatīvistiskajā elektrodinamikā). Speciālā relativitātes teorija darbojas tikai inerciālās atskaites sistēmās, atšķirībā no vispārīgās relativitātes teorijas, kas apraksta arī gravitācijas mijiedarbību un neinerciālu kustību.
+
+
+== Vēsture ==
+Jau 19. gadsimtā tika iegūti Maksvela vienādojumi, kas aprakstīja elektromagnētisko lauku un tā mijiedarbību ar elektriskajiem lādiņiem un strāvām. No Maksvela vienādojumiem izrietēja, ka elektromagnētisko viļņu izplatīšanās ātrums vakuumā nav atkarīgs ne no šo viļņu avota ātruma, ne no novērotāja ātruma, kas bija pretrunā ar klasisko mehāniku.
+Speciālo relativitātes teoriju izstrādāja Hendriks Lorencs, Anrī Puankarē, Alberts Einšteins un citi zinātnieki 20. gadsimta sākumā, balstoties uz Maikelsona eksperimentu, kas negaidīti pierādīja, ka gaismas ātrums nav atkarīgs no atskaites sistēmas.
+
+
+== Postulāti ==
+Speciālās relativitātes teorijas pirmais postulāts ir apgalvojums, ka gaismas ātrums vakuumā ir nemainīgs un ir maksimālais dabā iespējamais ātrums, kas vienāds visos telpas virzienos un atskaites sistēmās. Šo apgalvojumu apstiprina visi mūsdienās veiktie mērījumi. Ar gaismas ātrumu (ko parasti apzīmē ar c) izplatās elektromagnētiskā lauka kvanti jeb fotoni vakuumā, bet fotoniem materiālā vidē, kā arī visām daļiņām un makroskopiskiem objektiem, kam piemīt miera masa, ātrums var būt tikai mazāks par gaismas ātrumu.
+Otrais postulāts izriet no Galileja relativitātes principa, saskaņā ar kuru dinamikas likumi ir vienādi visās inerciālajās atskaites sistēmās (t.i., tās ir ekvivalentas). Tas attiecas ne tikai uz mehāniku, bet arī uz elektromagnētismu, par ko liecina visi elektromagnētisko parādību novērojumi. Šo vispārinājumu sauc arī par Galileja—Einšteina relativitātes principu.
+
+
+== Atsauces ==

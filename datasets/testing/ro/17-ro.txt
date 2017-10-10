@@ -1,9 +1,102 @@
-Lapșîn (în ucraineană Лапшин) este localitatea de reședință a comunei Lapșîn din raionul Berejanî, regiunea Ternopil, Ucraina.
+Linia Siegfried (în limba germană: Siegfriedstellung) a fost inițial o porțiune a mai vastei Linii Hindenburg – o serie de forturi defensive și obstacole antitanc construite de Imperiul German în perioada 1916-1917 în nordul Franței, în timpul primului război mondial. Utilizarea contemporană a denumirii Linia Siegfried are legătură cu linia defensivă construită în timpul celui de-al doilea război mondial în deceniul al patrulea, linie opusă Liniei Maginot franceze. Germanii numeau această linie defensivă Westwall, dar Aliații au prefereat să o redenumească după numele liniei defensive din prima conflagrație mondială. Acest articol se referă la Linia Siegfried – Westwall.
+Linia Siegfried a fost un sistem defensiv care se întindea pe o distanță de peste 630 km, având peste 18.000 de bunkere, tunele și obstacole antitanc. Linia începea din dreptul localității Kleve de la granița cu Olanda, se întindea de-a lungul fostei granițe a Imperiului German până la orașul Weil am Rhein de la granița cu Elveția. Adolf Hitler, vizând mai degrabă scopuri propagandistice decât unele strategice, a făcut planuri pentru edificarea acestui sistem defensiv încă din 1938.
 
 
-== Demografie ==
+== Originea numelui Westwall ==
 
-Conform recensământului din 2001, majoritatea populației localității Lapșîn era vorbitoare de ucraineană (99,57%), existând în minoritate și vorbitori de alte limbi.
+Nu se poate spune cu exactitate în ce moment s-a luat hotărârea denumirii acestei linii defensive Westwall (Zidul Occidental). Se prea poate ca numele să fi apărut încă din 1938, ca o descriere a poziției sale geografice. Propaganda nazistă nu a folosit inițial acest termen foarte mult, dar, pe 20 mai 1939, Hitler a folosit denumirea în „Ordinul de zi către soldații și muncitorii de la Zidul Occidental”. Numele oficial al lucrărilor defensive a fost la început ales în așa fel încât să asigure secretul construirii sale. A fost folosit de exemplu denumirea „Programul Limesurilor”, care ar fi dus cu gândul eronat la cercetările arheologice care se terminaseră de puțină vreme la Limes Germanicus – antica frontieră a Imperiului Roman în regiune.
 
 
-== Note ==
+== Programe de construcție, 1938–1940 ==
+Au existat mai multe faze distincte de construcție a Liniei Siegfried:
+Supravegherea frontierelor pentru cele mai avansate poziții (1938)
+Programul „Limesului” (1938)
+Programul Aachen-Saar (1939)
+Amplasamentul Geldern dintre Brüggen și Kleve (1939–1940)
+Zona apuseană de apărare antiaeriană (1938)
+Aceste programe au avut un caracter prioritar, fiindu-le direcționate toate resursele disponibile.
+
+
+== Tipuri de bază de construcții ==
+La începutul fiecărui program de construcție, prototipurile de bază erau supuse procesului de aprobare, după care erau lansate în construcție, uneori în serii de mii de bucăți. Această standardizare a bunkerelor și obstacolelor antitanc era necesară pentru folosirea la maxim a resurselor limitate, atât a celor materiale, umane și a capacităților de transport.
+
+
+=== Programul de supraveghere a frontierelor ===
+Principala parte a acestui program a fost reprezentată de construirea de mici bunkere cu trei ambrazuri în partea din față. Zidurile cazematelor aveau doar 50 cm grosime și construcțiile nu ofereau niciun fel de protecți împotriva gazelor de luptă. Soldații care deserveau aceste fortificații aveau un spațiu limitat de cazare, care nu era dotat cu paturi, ci cu hamace. În zonele cu cea mai bună vizibilitate, erau construite cazemate cu turele blindate pentru observație. Toate aceste construcții au fost considerate depășite în momentul în care erau construite, ele neoferind protecție decât cel mult împotriva schijele proiectilelor de artilerie sau aviație sau a grenadelor de mână. Programul a fost executat de unitățile Grenzwacht – trupe de frontieră care acționau în Rhineland imediat după remilitarizarea regiunii. Bunkerele au fost contruite în imediata vecinătate a frontierelor.
+
+
+=== Programul „Limesului” ===
+
+Programul „Limesului” a fost declanșat ca urmare a ordinului dat de Hitler pentru întărirea fortificațiilor de pe granița vestică a Germaniei. Cazematele construite începând cu 1938 erau mult mai puternice. Fiecare bunker tip 10 construit în această fază a necesitat folosirea a peste 287 m3 de beton, cam aceiași cantitate necesară pentru construirea unui mic bloc de locuințe.
+Bunkerele aveau ziduri groase de 1,5 m, dar chiar și așa s-a dovedit insuficient chiar mai înainte de încheierea programului de construcție. Au fost construite 3.4741 de cazemate tip 10 de-a lungul întregii Linii Siegfried. Construcția avea o cameră centrală care putea adăposti 10 – 12 soldați și era prevăzută cu ambrazuri în trepte îndreptate spre spatele fortificației și altele, aflate la 50 cm mai sus, îndreptate în lateral și în față, prevăzute cu mitraliere, fiecare dintre aceste două serii de ambrazuri fiind deservite de căi de acces separate. Întreaga structură era prevăzută cu o serie de ambrazuri mici, destinate folosirii puștilor. Bunkerul era construit în așa fel încât să asigure protecție împotriva gazelor de luptă.
+Bunkerul era încălzit cu o sobă prevăzută cu sisteme de siguranță, iar coșul de fum, care se deschidea pe acoperișul construcției, era acoperit cu grătare solide din fier. Fiecărui soldat i se asigura un pat și un taburet. Comandantul avea la dispoziție un scaun cu spătar. Spațiul interior era restrâns, cam 1 m2 de persoană.
+
+
+=== Programul Aachen-Saar ===
+Bunkerele construite în cadrul acestui program semănau mult cu cele de tip 10. Noile cazemate erau de tip 107, cu ziduri din beton groase de 3,5 m. Principala diferență consta că nu mai erau prevăzute ambrazuri în partea din față, ci numai pe părțile laterale ale construcției. Tipul 107 avea prevăzute ambrazuri în partea din față doar în cazuri speciale, iar deschiderile erau prevăzute cu obloane solide din metal. Acest program de construcție a asigurat apărarea orașelor Aachen și Saarbrücken, care se aflau inițial la vest de linia programului „limesului”.
+
+
+=== Zona apuseană de apărare antiaeriană ===
+Zona apuseană de apărare antiaeriană (Luftverteidigungszone West ori LVZ West) era constituită din două serii de turnuri de turnuri „flak” (artilerie antiaeriană) din beton. Bateriile antiaeriene erau plasate în așa fel încât să silească avioanele inamice de bombardament să zboare la înălțime mare, ceea ce le-ar fi scăzut precizia atacurilor. Aceste turnuri ale antiaerienei erau apărate de bunkerele construite mai înainte în cadrul programelor Limesului și Aachen-Saar.
+
+
+=== Poziția Geldern ===
+
+Poziția Geldern prelungea Linia Siegfried spre nord până la Kleve pe fluviul Rin și a fost construită după începerea celui de-al doilea război mondial. Linia Siegfried se termina în nord lângă orașul Brüggen în districtul Viersen. La început, construcțiile ridicate în cadrul acestui program erau cazemate solide din beton armat, neînarmate. Pentru a li se asigura camuflajul, au fost construite în apropierea fermelor.
+
+
+=== Obstacolele antitanc ===
+
+Obstacolele antitanc au fost construite de-a lungul Liniei Siegfried și erau cunoscute popular ca „dinți de balaur” sau „cocoașe”. Ele erau constituite din șiruri de blocuri înalte din beton, construite cu toate pe o fundație comună. Existau două tipuri de obstacole antitanc – cu patru rânduri de „dinți”, a căror înălțime creștea de la primul rând spre ultimul sau cu cinci rânduri de „dinți”. Au mai fost construite și obtacole atipice în diferite zone. În zonele în care terenul favoriza astfel de construcții, au fost săpate șanțuri antitanc umplute cu apă.
+
+
+=== Blindaje și armament ===
+Industria germană nu era capabilă să livreze un număr atât de mare de blindaje necesare pentru montarea armelor în bunkere, ceea ce a făcut ca valoarea militară a fortificațiilor să fie redusă. Blindajul era prevăzut pentru ambaruzurile și pentru turelele tunurilor care asigurau apărarea cu o rază de acoperire de 360o. Germania a fost dependentă de uzinele metalurgice din alte state pentru a-și asigura necesarul de aliaje (în principal pe bază de nichel și molibden) necesare producției de blindaje. Din această cauză, o serie de blindaje au fost produse cu o cantitate scăzută de aliaje speciale, sau unele nu au mai fost fabricate deloc.
+Bunkerele au fost dotate cu tunuri, care s-au dovedit total ineficiente la începutul războiului și de aceea au fost demontate. În locul lor nu au putut fi montate alte arme de calibre mai mari.
+
+
+== Rolul Linie Siegfried la începutul războiului ==
+În ciuda faptului că Regatul Unit a declarat război Germaniei pe 3 septembrie 1939, urmată a doua zi de Franța, nu au existat acțiuni de luptă de-a lungul Liniei Siegfried la începutul campaniei din vest. Ambele tabere au rămas în expectativă în ceea ce a fost numit „războiul ciudat”. După încheierea primei faze a razboiului, tot armamentul care a putut fi transportat a fost demontat din bunkerele Liniei Siegfried și a fost mutat în alte locații. Cazematele au devenit inutile, multe dintre ele fiind transformate în magazii pentru echipamentul agricol.
+
+
+== Reactivarea Liniei Siegfried în 1944 ==
+Odată cu declanșarea debărcărilor din Normandia de pe 6 iunie 1944, Linia Siegfried a redevenit o opțiune de luat în seamă a defensivei. Pe 24 august 1944, Hitler a dat o directivă cu privire la renovarea și reînarmarea Liniei Siegfried. În zonă au fost aduși peste 20.000 de muncitori străini și membri ai Reichsarbeitsdienst (Serviciul național german de muncă), mulți dintre ei tineri de 14 – 16 ani. În special pentru construirea șanțurilor antitanc a fost mobilizată și populația locală. Toate tentativele de întărire a Liniei Siegfried au fost practic anulate de uriașa superioritate aeriană a Aliaților. Chiar în timpul construcției bunkerelor devenise evident că blindajele și zidurile de beton nu vor rezista noilor tipuri de arme. În momentul în care Linia Siegfried a fost reactivată, fortificațiile au fost completate cu mici cazemate din beton armat „Tobruk” (numite așa după numele portului libian Tobruk), care urmau să fie ocupate de un singur soldat.
+
+
+== Luptele de pe Linia Siegfried ==
+
+În august 1944 au izbucnit primele lupte de-a lungul Liniei Siegfried în regiunea Hürtgenwald, la 20 km sud-est de Aachen, o regiune puternic împădurită..
+După încheierea luptelor din Hürtgenwald, a izbucnit bătălia de pe Bulge, între Monschau și orașul luxemburghez Echternach. După această ultimă tentativă a germanilor de a întoarce în favoarea lor soarta războiului, Reichul a pierdut definitiv orice inițiativă tactică în vest.
+În diferite alte zone ale Liniei Siegfried au avut loc lupte sângeroase. Soldații care apărau bunkerele au refuzat de multe ori să renunțe la luptă, din convingere, sau de frica curților marțiale.
+În primăvara anului 1945 au fost cucerite ultimele bunkere ale Liniei Siegfried: cele din Saar și Hunsrück.
+
+
+== Linia Siegfried ca unealtă propagandistică ==
+Linia Siegfried a fost mai degrabă o unealtă propagandistică valoroasă decât o lucrare defensivă folositoare. Propaganda germană a prezentat „Linia Siegfried” în timpul construcției sale ca pe un bastion de necucerit, atât în țară cât și în străinătate.
+Pentru germani, construirea liniei era o dovadă a intențiilor serioase ale regimului în domeniul asigurării siguranței naționale, în timp ce pentru țările învecinate părea o amenințare directă. Din punctul de vedere al naziștilor a părut o strategie de succes atât la începutul cât și la sfârșitul războiului. La începutul războiului, trupele ambelor tabere au rămas în spatele liniilor lor defensive, ceea ce a permis trupelor germane să se atace fără probleme Polonia. La încheierea războiului, forțele Aliaților au pierdut mai mult timp decât era necesar pentru pregătirea atacului împotriva a ceea ce părea o linie de fortificații greu de cucerit, ceea ce a oferit un răgaz germanilor pentru a efectua diverse manevre pe frontul de răsărit.
+
+
+== Perioada postbelică ==
+
+În perioada postbelică, nemeroase secțiuni ale Liniei Siegfried au fost demolate prin explozie. De asemenea, s-a trecut la deminarea câmpurilor minate.
+
+
+=== „Der Denkmalswert des Unerfreulichen” ===
+În Renania de Nord-Westfalia au rămas intacte 30 de bunkere. Restul au fost demolate sau acoperite cu pământ. Obstacolele antitanc au rezistat mai bine. De exemplu, în regiunea Eifel, șirurile de obstacole antitanc se întind pe mai mulți kilometri.
+Începând din 1997 s-a început munca de restaurare și conservare a ceea ce a mai rămas din Linia Siegfried. Sub motto-ul Der Denkmalswert des Unerfreulichen (Valoarea neplăcutului pentru aducere-aminte), unele resturi Liniei Siegfried au fost transformate în monument. Intenția guvernului a fost stoparea propagandei neo-naziste prin demolarea mitului inpenetrabilității sistemului defensiv „Westwall”.
+În același timp a continuat și finanțare lucrărilor de demolare a unor părți a Liniei Siegfried. Mai înainte de distrugerea unei secțiuni a liniei defensive, se deschid șantiere arheologice, care asigură că nu se pierde niciun amănunt important cu privire la detaliile construcție. În societatea germană s-a iscat de mai multă vreme o controversă pe tema păstrării sau distrugerii structurilor militare ale Liniei Siegfried.
+
+
+=== Ecologiștii și Linia Siegfried ===
+Ecologiștii luptă pentru păstrarea resturilor Liniei Siegfried datorită valorii foarte mari a acestui nou lanț biotopic unde, datorită marilor sale proporții, cât și datorită faptului că zona ruinelor nu poate fi folosită pentru agricultură, trăiesc în siguranță numeroase plante și animale.
+
+
+== Legături externe ==
+
+http://www.westwallmuseum-irrel.de/
+Pillbox Warfare in the Siegfried Line
+Cântecul Liniei Siegfried [1]
+Parodie a cântecului Liniei Siegfried [2]
+Storming Simserhof near Bitche - 1944
+Imagini ale diferitelor bunkere din timpul celui de-al doilea război mondial
+Fotografii ale Liniei Siegfried

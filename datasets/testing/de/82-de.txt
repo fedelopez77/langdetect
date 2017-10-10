@@ -1,0 +1,37 @@
+Belle, Fluss und Einunddreißig, auch Dreisatz bzw. frz. Belle, Flux et Trente-un oder Les trois jeux ist ein historisches Karten-Glücksspiel, das in Deutschland und Frankreich im 17. und 18. Jahrhundert verbreitet war.
+Als Verwandter des Brag und des Poch, aus dem sich das Poker-Spiel entwickelt hat, ist es von kulturhistorischem Interesse.
+
+
+== Die Regeln ==
+Man spielt mit einem Paket französischer Spielkarten zu 52 Blatt, außerdem benötigt man drei Spielgeldtassen für die Einsätze.
+Vor Beginn eines Spiels setzt jeder Spieler in jede der drei Tassen einen vereinbarten Einsatz.
+So wie beim Pochspiel gibt es auch hier drei Touren, daher auch die Namen Dreisatz bzw. Les trois jeux.
+
+
+=== Belle ===
+Sind die Einsätze getätigt, so erhält jeder Spieler zwei Karten verdeckt und eine offen. Derjenige Spieler, der die höchste offene Karte, die sogenannte Belle, besitzt, gewinnt die erste Tour und erhält den Inhalt der ersten Tasse.
+Die Rangfolge der Karten lautet (vgl. Écarté):
+König - Dame - Bube - Ass (!) - Zehn - Neun - ... - Zwei
+Gibt es hierbei keinen eindeutigen Gewinner, so gewinnt die Vorhand, d.h. der Spieler, der am nächsten zum Kartengeber sitzt.
+
+
+=== Fluss ===
+In der zweiten Tour, Fluss (bzw. Flux oder Fluxus, vgl. engl. Flush), gewinnt derjenige Spieler, der den höchstwertigen Fluss vorzeigen kann. Ein Fluss ist eine Hand von drei Karten der gleichen Farbe.
+Hält kein Spieler einen Fluss, so bleiben die Einsätze in dieser Tasse für das nächste Spiel stehen.
+Halten zwei oder mehrere Spieler einen Fluss, so werden die Augenzahlen der Karten summiert, und der höchstwertige Fluss gewinnt. Hierbei zählt das Ass elf Augen, die Bildkarten jeweils zehn Augen und die Zählkarten zwei bis Neun gemäß ihrem aufgedruckten Wert. Bei gleicher Augenzahl gilt dieselbe Regel wie im Fall der Belle, d.h. es gewinnt die Vorhand.
+Im Gegensatz zum Pochspiel gibt es hier noch keine Wetten auf die höchste Kombination, wie sie für das spätere Poker typisch sind, insbesondere gibt es auch keine Möglichkeit zu bluffen.
+
+
+=== Einunddreißig ===
+In der dritten Tour schließlich versucht jeder Spieler durch den Kauf weiterer Karten, 31 Augen zu erreichen, bzw. so nahe wie möglich an 31 Augen heranzukommen (vgl. Siebzehn und Vier, bzw. die dritte Tour bei Brag).
+Der Spieler, der der Augenzahl 31 am nächsten kommt, gewinnt den Inhalt der dritten Tasse, bei gleichen Augenzahlen gewinnt wieder die Vorhand.
+Aus dieser Spielart entwickelte sich über das Trente-un und Vingt-un das moderne Casinospiel Black Jack.
+
+
+== Quellen ==
+Die oben angeführte Regel stellt eine Rekonstruktion auf Basis der nachstehenden Quellen dar, welche in Details voneinander abweichen, da das Spiel natürlich in unterschiedlichen Variationen gespielt wurde; die hier wiedergegebene Regel ist daher keinesfalls in dem Sinne verbindlich wie etwa die Regeln des Schachspiels.
+Meyers Konversationslexikon von 1888
+Brockhaus Konversationslexikon 1894/96
+Friedrich Anton: Encyklopädie der Spiele, Leipzig 1889
+Jacques Lacombe: Encyclopédie méthodiques. Dictionnaire des jeux, p. 7 Online, 1800
+David Parlett: The Oxford Guide to Card Games, Oxford University Press Oxford New York 1990

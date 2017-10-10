@@ -1,0 +1,6 @@
+Palm - en handdator liknande Newton. Första modellen fick namnet Pilot, men på grund av namnförväxlingar med penntillverkaren Pilot byttes namnet senare till PalmPilot.
+Tidiga modeller byggde kring en Motorola DragonBall-processor men har med tiden bytts ut mot en ARM-processor av RISC-typ.
+
+
+== Se även ==
+Palm (företag)

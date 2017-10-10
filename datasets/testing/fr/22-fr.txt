@@ -1,29 +1,34 @@
-Mitsui Group (三井グループ, Mitsui Gurūpu, TSE : 8031) est l'un des plus grands keiretsu (系列) du Japon avec un revenu annuel d'environ 41 milliards d'Euros (5500 milliards de Yens) en 2014 
-Les principales compagnies du keiretsu sont : Mitsui & Co. (general trading company), Sumitomo Mitsui Banking Corporation, Sapporo Breweries, Toray Industries, Mitsui Chemicals, Isetan Mitsukoshi Holdings, Sumitomo Mitsui Trust Holdings, Mitsui O.S.K. Lines et Mitsui Fudosan.
+Erfreute Zeit im neuen Bunde (Heureux temps de la Nouvelle Alliance), (BWV 83), est une cantate religieuse de Johann Sebastian Bach écrite à Leipzig en 1724.
 
 
-== Histoire ==
-L'entreprise est fondée par Mitsui Takatoshi et son siège est aujourd'hui situé à Tokyo dans le quartier de Shinjuku, tous les bureaux étant situés dans le Mitsui Building.
-Mitsui crée la première banque privée du Japon le 1er juillet 1876 qui porte plus tard le nom de Sumitomo.
-Le 5 mars 1932, son directeur général, Takuma Dan est assassiné par Hishinuma Goro, un nationaliste de droite, lors de l'incident de la Ligue du sang.
-Pendant les guerres menées par le Japon en Asie, l'entreprise, en symbiose avec l'Armée impériale japonaise, s'occupe du commerce entre le Japon, la Chine et le Manchoukouo, et en particulier de l'importation de l'opium persan, participant ainsi à l'intoxication massive du continent chinois.
-Mitsui est également active sur plusieurs continents dans le leasing de matériel ferroviaire sous le nom de Mitsui Rail Capital. Mitsui a également participé à la production de films, dont Solar Crisis.
-Mitsui a aussi une activité de construction et d'architecture sous le nom de Mitsui Construction, société qui a par exemple conçu l'Aoyama Park Tower à Tokyo.
+== Histoire et livret ==
+La cantate fut écrite lors de la première année du séjour de Bach à Leipzig. Il la dirigea pour la première fois le 2 février 1724, pour l'office du matin à l'église Saint-Nicolas et pour les vêpres à Saint-Thomas. Les lectures prescrites étaient Malachie 3:1-4 et Luc 2:22-32, pour la Présentation de Jésus au Temple. L'Évangile mentionne la purification de Marie mais s'étend sur Syméon à qui il avait été dit qu'il ne mourrait pas sans avoir vu le Messie. Pour cette destination liturgique, trois autres cantates ont franchi le seuil de la postérité : les BWV 82, 125 et 200. Le cantique de Siméon, Nunc dimittis (« Maintenant, laisse partir ton serviteur »), est un élément constant des services des Complies et de l’Evensong anglican. Le poète inconnu se concentre également sur cet aspect de l'Évangile et le met en relation avec l'attitude de l'auditeur vis-à-vis de sa propre mort. Dans le 2e mouvement il commente les paroles du cantique « Herr, nun lässest du deinen Diener de Friede fahren » par récitatif. Il fait du 3e mouvement comme une paraphrase des Hébreux 4:16. Le 4e mouvement rappelle le dernier verset de l'Évangile et le choral final exprime la même pensée avec les mots de Martin Luther dans la quatrième strophe de son choral Mit Fried und Freud ich fahr dahin.
+Cette cantate est la première qu'a composée Bach pour la Chandeleur, il la dirigea de nouveau en 1727. Il composa en 1725 une cantate Mit Fried und Freud ich fahr dahin, (BWV 125) sur la version allemande de Luther du Cantique de Siméon, en 1727, il écrivit son célèbre solo de la cantate Ich habe genug, (BWV 82).
+
+
+== Structure et instrumentation ==
+La cantate, festive, est composée pour alto, ténor, basse, un chœur à quatre voix dans le choral, deux cors, deux hautbois, violon solo, deux violons, alto et basse continue.
+Il y a cinq mouvements :
+aria (alto) : Erfreute Zeit im neuen Bunde
+aria (choral et récitatif, basse) : Herr, nun lässest du deinen Diener in Friede fahren-Was uns als Menschen schrecklich scheint
+aria (ténor) : Eile, Herz, voll Freudigkeit
+récitatif (alto) : Ja, merkt dein Glaube noch viel Finsternis
+choral : Es ist das Heil und selig Licht
+
+
+== Musique ==
+La première aria da capo est richement écrite pour l'orchestre complet. Sa première section célèbre le « temps joyeux ». La ritournelle présente un premier motif de coloratura ascendantes qui est ensuite repris par l'alto. Les groupes instrumentaux se répondent, dominés par les figures virtuoses du violon solo. Dans la section centrale, les répétitions du violon en cordes ouvertes imitent les cloches funèbres sur les mots : « die Ruhestatt, das Grab ».
+La deuxième partie est singulière dans les cantates de Bach. Elle contient le cantique de Siméon, chanté par la basse sur le huitième ton récitatif du chant grégorien, tandis que les cordes à l'unisson et la basse continue jouent un canon. Après le premier vers du cantique, trois sections du récitatif secco sont interrompus par le canon, puis les deux autres vers du cantique sont traités comme le premier. L'utilisation de tons psaumes était déjà considéré comme archaïque au temps de Bach.
+Dans la troisième partie le violon concertant joue sans fin une suite de triolets. Un court récitatif secco conduit au choral final à quatre voix. Bach avait déjà utilisé ce choral dans sa cantate pour funérailles Actus Tragicus (1707 ou 1708).
 
 
 == Notes et références ==
+Gilles Cantagrel, Les cantates de J.-S. Bach, Paris, Fayard, mars 2010, 1665 p.  (ISBN 978-2-213-64434-9)
+(de)/(en) Cet article est partiellement ou en totalité issu des articles intitulés en allemand « Erfreute Zeit im neuen Bunde » (voir la liste des auteurs) et en anglais « Erfreute Zeit im neuen Bunde, BWV 83 » (voir la liste des auteurs).
 
 
-== Annexes ==
+== Voir aussi ==
+Liste des cantates de Jean-Sébastien Bach
 
-
-=== Voir aussi ===
-Mine de Caserones
-Mitsui Chemicals
-ViaQuatro
-
-
-=== Lien externe ===
-(en) (ja) Site officiel
- Portail des entreprises
- Portail du Japon
+ Portail du baroque
+ Portail de la musique classique

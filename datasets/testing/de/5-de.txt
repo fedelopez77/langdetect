@@ -1,21 +1,28 @@
-Unter der Bezeichnung Ultra-Mobile PC (früherer Projektname: Origami), abgekürzt UMPC, lancierten Microsoft und Intel im Frühjahr 2006 auf der CeBIT eine neue Geräteklasse von tragbaren Computern. Einen ersten Versuch in diese Richtung machte Sony bereits 2004 mit der Vaio-U-Serie, die allerdings in Europa nie auf den Markt kam und nur in Asien verkauft wurde.
+Oliver Baumann (* 2. Juni 1990 in Breisach am Rhein) ist ein deutscher Fußballtorhüter, der bei der TSG 1899 Hoffenheim unter Vertrag steht.
 
 
-== Beschreibung ==
-Ultra-Mobile PCs sind kleiner als Subnotebooks, verfügen über ein diagonal etwa 12,7 bis 17,8 Zentimeter (5–7 Zoll) großes TFT-Display und werden, ähnlich wie Tablet-PCs, hauptsächlich über den berührungsempfindlichen Bildschirm oder mit Stylus-Stiften bedient. Tastaturen können extern angeschlossen werden oder sind teilweise sogar integriert. Weit verbreitet sind darüber hinaus auch bei Laptops übliche Features wie eine eingebaute Kamera für Videotelefonie oder Fotografie und Fingerabdrucksensoren zur Authentifizierung. Auch GPS-Module und Navigationssoftware werden gerne integriert.
-Die Geräte der ersten Generation sind vollwertige PCs, deren Betriebssystem Linux oder eine angepasste Windows XP Tablet-Edition ist.
-Die Geräte der zweiten Generation sollen einerseits stromsparender sein und damit eine längere Akkulaufzeit bieten (bis zu 5 Stunden), andererseits unterstützen sie Windows Vista, teilweise mit AeroGlass Oberfläche. Als Prozessoren werden bei den bisherigen Modellen VIA C7-M-ULV-Prozessoren mit VIA-VX700-Chipsatz oder Intel-A110-Prozessoren eingesetzt.
-Zwischen den Begriffen Subnotebook und Ultra-Mobile PC gibt es keine festgelegte Abgrenzung.
+== Karriere ==
 
 
-== Einsatzgebiete ==
-UMPCs werden für Geschäftsanwender beworben, die mit dieser Geräteklasse ihre Geschäftssoftware ohne wesentlichen Einschränkungen mobil nutzen können. Sie sind also leichter/mobiler als Notebooks, aber funktioneller als ein PDA. Ultra-Mobile PCs werden ebenfalls als Multimedia-Abspielgeräte oder Navigationssysteme angepriesen. Durch Bluetooth, UMTS- und WLAN-Internetzugang kann man damit mobil kommunizieren, auf Webseiten zugreifen, E-Mails lesen oder Online-Spiele spielen. Die angepeilte Nische hat Überschneidungen mit Subnotebooks und PDAs, wodurch selbst die Hersteller den Einsatzzweck nicht immer klar mitteilen können.
-Die ersten Geräte gab es von Asus (Modell „R2H“), Founder und Samsung (Modell „Q1“). Asus, Samsung und Gigabyte Technology (wird unter dem Label Medion verkauft) haben Geräte der zweiten Generation auf der CeBIT 2007 vorgestellt, die alle mit einer modifizierten Version von Windows Vista betrieben werden.
-Der erste Ultra-Mobile PC mit Schwerpunkt auf Videospiele ist die in Deutschland hergestellte Pandora.
+=== Verein ===
+Oliver Baumann spielte von der F-Jugend bis zum ersten D-Jugendjahr beim FC Bad Krozingen. Danach wechselte er 2002 in die Jugend des SC Freiburg. Dort erreichte er in der Saison 2007/08 mit der A-Jugend die Endrunde der A-Junioren Meisterschaft. Nachdem man sich im Halbfinale gegen die U-19 des 1. FC Köln durchgesetzt hatte, gewann man das Finale gegen den VfL Wolfsburg mit 2:0 und wurde deutscher A-Jugendmeister. In der folgenden Saison gewann Baumann mit der Mannschaft den DFB-Junioren-Vereinspokal 2008/09 mit einem Endspielsieg über Borussia Dortmund, einen Monat später trafen sie im Halbfinale der Endrunde um die A-Junioren-Meisterschaft erneut auf Dortmund, diesmal scheiterten sie jedoch.
+Am 8. August 2009 absolvierte er sein erstes Spiel bei den Amateuren des SC Freiburg gegen die Stuttgarter Kickers, das 0:0 endete. Bei den Amateuren sollten in dieser Saison noch 19 weitere Spiele folgen. Am 8. Mai 2010, dem letzten Spieltag der Fußball-Bundesliga 2009/10, gab er in der Startelf sein Profidebüt beim 3:1-Sieg gegen Borussia Dortmund. Danach war er vier Jahre lang Stammtorhüter des SC Freiburg. In der Saison 2013/14 unterliefen ihm drei Fehler im Spiel gegen den HSV, der das Spiel mit 3:0 gewann; Trainer Streich hielt dennoch an Baumann als Stammtorwart fest. Am darauf folgenden Spieltag zahlte sich das Vertrauen des Trainers aus: Baumann wehrte beim 3:0-Auswärtssieg gegen den 1. FC Nürnberg zwölf Torschüsse (bis dahin Ligarekord) ab und wurde zum Spieler des Spieltags gewählt. Am 10. Juni 2010 verlängerte er seinen Vertrag beim SC Freiburg bis zum Jahr 2014, im Sommer 2011 um ein weiteres Jahr.
+Zur Saison 2014/15 wechselte Baumann zur TSG 1899 Hoffenheim. Sein Vertrag läuft bis 2021.
+
+
+=== Nationalmannschaft ===
+Baumann spielte schon in der deutschen U-18 und U-19 Jugendnationalmannschaft. In der U-18 hatte er 2008 einen Einsatz, in der U-19 absolvierte er von 2008 bis 2009 sieben Spiele. 2010 spielte er in der deutschen U-20-Nationalmannschaft und bestritt dort zwei Spiele. Am 3. September 2010 gab er sein Debüt in der deutschen U-21-Nationalmannschaft gegen Tschechien im Rahmen der EM-Qualifikation. Am 28. Mai 2013 wurde Baumann von Trainer Rainer Adrion in das endgültige Aufgebot für die U-21-Europameisterschaft 2013 in Israel berufen. Am dritten Spieltag absolvierte er beim 2:1-Sieg gegen Russland sein einziges Spiel bei diesem Turnier.
+
+
+== Titel und Erfolge ==
+U-19-Bundesliga 2007/08
+DFB-Junioren-Vereinspokal 2008/09
 
 
 == Weblinks ==
+Oliver Baumann in der Datenbank von weltfussball.de
+Oliver Baumann in der Datenbank von fussballdaten.de
+Oliver Baumann: "Das Einfache ist das Schwere" Interview auf dfb.de
 
-heise online: Marktforscher zweifeln am schnellen Erfolg von Microsofts Origami-PC (2006)
-Golem berichtet über Intels Pläne bis 2008
-Umpcportal.com (englisch)
+
+== Einzelnachweise ==

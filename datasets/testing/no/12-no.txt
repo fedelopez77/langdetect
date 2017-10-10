@@ -1,24 +1,7 @@
-Hjalmar Welhaven (født 26. desember 1850, død 18. april 1922) var en norsk arkitekt og skientusiast.
-Welhaven studerte ved Den kongelige tegneskole i Kristiania i 1870, og fikk deretter sin arkitektutdannelse ved den tekniske høyskole i Hannover i perioden 1871–73. Fra 1875 etablerte Welhaven eget arkitektkontor, med spesialitet innen trebygninger i sveitserstil. Tidvis underviste han også ved Tegneskolen. Welhaven var slottsforvalter fra 1883 til 1920, først for kong Oscar II og etter tronskiftet i 1905 for Haakon VII, med drifts- og vedlikeholdsansvar for mange av kongens eiendommer som Det kongelige slott, Bygdøy kongsgård, Oscarshall og ferieboligen Skinnarbøl.
-Som arkitekt huskes han kanskje mest for murhuset Polhøgda fra 1902 i litt tung nyromansk stil til Fridtjof Nansen. Hjalmar var via Heiberg-slekten også søskenbarn til kona Eva Nansen, og hadde i 1889 tegnet dragestilvillaen «Godthaab» i Svartebukta til det nygifte ekteparet Nansen. Ellers vant Hjalmar en sølvmedalje ved Verdensutstillingen i Paris (1889) for arbeiderblokkene i Ruseløkkveien 60, som skulle bli det siste bygget oppført av det filantropiske eiendomsselskapet Arbeiderboligen av 1851.
-I 1892 tok Hjalmar Welhaven initiativ til å bygge Skimuseet. Han hadde en stor, privat skisamling, og denne ble grunnstammen i det nye museet. Han skrev også artikler om skisporten.
-Hjalmar var sønn av dikteren Johan Sebastian Cammermeyer Welhaven (1807–1873) og Josephine Angelica Bidoulac (1812–1866). Hjalmar ble gift med maleren Margrethe Backer (1851–1940), som stilte ut på Høstutstillingen i 1898 og forøvrig var søster av blant andre maleren Harriet Backer (1845–1932). To av deres barn ble profesjonelle kunstnere: Astri Welhaven Heiberg (1881–1967) og Sigri Welhaven (1894–1991).
+Gradnett, vanligvis kalt rutenett er et praktisk hjelpemiddel til å få orden på todimensjonale (flate) forhold. Det best kjente rutenettet finner vi i regnebøker, hvor tall og regnetegn skulle stå over og noen ved siden av hverandre. Rutepapir er fortsatt i handelen,men er på vei ut til fordel for «Grids» i dataprogrammer.
+Gradnett er også et tenkt rutenett på jordkloden, bygd opp av breddesirkler (parallellsirkler), og lengdesirkler (meridianer).
+Gradnettet ble brukt til å posisjonsbestemme seg selv(orientering), båten(navigasjon) eller stedet (landmåling). Dette er nå i stor grad endret med innføring av satellittsignaler i GPS-systemet. Posisjonen oppgis fortsatt i grader, minutter og sekunder i forhold til ekvator og Greenwich- linjen.
 
 
-== Trebygg ==
-Villaene «Eugen», «Carl», «Oscar», «Gustaf», «Victoria» og «Sophie», brukt som losjihus på vestsiden av Bygdøy, ved Bygdøy kongsgård, 1876. Den tilhørende «økonomibygningen», nybygg etter brann, 1881
-Hovedbygninger på Maarud og Kjærnsmo
-Nordstrand gamle skole (1891)
-Turisthyttene Gjendebu 1892, Steinbergdalshytten 1895, Glitterheim (1901 og Torfinnsbu 1905.
-Prinsehytten i Sikkilsdalen.
-Villa i Frognerveien 19 (1892)
-Tømmervilla på Blindern (nå tilhørende universitetet på Blindern (1894).
-Mysen kirke (1903)
-Kristinelundveien 14, ombygging i 1902
-
-
-== Murbygg ==
-Arbeiderboligene i Platous gate 4 (1880) og Ruseløkkveien 60 (1881).
-
-
-== Referanser ==
+== Se også ==
+Kart

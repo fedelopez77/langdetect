@@ -1,0 +1,16 @@
+Toto je zoznam CD objektov pre zónu deklinácie -27.
+
+
+== Legenda ==
+a, b, c - hviezda bola pridaná v roku 1903 alebo neskôr
+* - údaje boli opravené
+ ? - existencia hviezdy podľa Kuestnera alebo Stickera
+D - hviezda bola vymazaná v neskorších verziách prečiarknutím
+M - hviezda je označená ako chýbajúca od Chandlera alebo Pickeringa
+
+
+== Zdroj ==
+BD katalóg na cdsarc.u-strasbg.fr
+SD katalóg na cdsarc.u-strasbg.fr
+CP katalóg na cdsarc.u-strasbg.fr
+CD katalóg na cdsarc.u-strasbg.fr

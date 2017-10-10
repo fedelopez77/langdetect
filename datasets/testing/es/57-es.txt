@@ -1,0 +1,18 @@
+En Taxonomía y Nomenclatura, un nomen nudum (del latín "nombre desnudo", en plural nomina nuda) es un pretendido nombre científico para un taxón en el que fallan los criterios formales para su empleo científico. Un nombre puede ser un nomen nudum por ciertas razones:
+Puede no haber sido válidamente publicado, o publicado pero en una forma que no satisface las exigencias del código apropiado de la nomenclatura (por ejemplo no tener la diagnosis en latín, lo cual fue exigido hasta el 31 de diciembre de 2011).
+Puede haber sido publicado, pero sin la intención de crear un nuevo nombre científico, por ejemplo acompañado con condiciones, o con una negación, o simplemente la carencia de una indicación de que el nombre es intencionado para ser nuevo.
+Puede haber sido publicado, pero sin una descripción o sin el tipo nomenclatural, o con una descripción que es inadecuada para distinguir aquel taxón de otros similares.
+Entre las reglas del Código Internacional de Nomenclatura Zoológica están:
+
+12.1. Para estar disponible [es decir utilizable como un nombre científico], cada nuevo nombre publicado antes de 1931 debe … ser acompañado según una descripción o una definición del taxon que esto denota, o por una indicación [es decir una referencia a tal descripción o definición]. …
+13.1. Para estar disponible, cada nuevo nombre publicado después de 1930 debe … ser acompañado según una descripción o la definición que declara en los caracteres de palabras que son pretendidos para diferenciar el taxon, o ser acompañado por una referencia bibliográfica a una declaración tan publicada.[1]​
+
+Un nombre científico que no satisface estas y otras exigencias es un nomen nudum. Un nomen nudum puede ser reutilizado libremente por un autor posterior.
+Por ejemplo, en su Systema naturae de 1758, Carlos Linneo estableció la especie Homo troglodytes (literalmente, "hombre cavernícola"). Sin embargo, no tenía ningún espécimen tipo y es confuso a qué animal se refería - pudo haber sido un chimpancé o un orangután. Cuando Johann Friedrich Blumenbach publicó una descripción del chimpancé común en De Generis Humani Varietate Nativa (1775) usó el nombre de Linneo, pero asignó la especie al género Simia, como Simia troglodytes. Debido a la ausencia de una descripción por parte de Linneo, Homo troglodytes queda como nomen nudum. Hoy se denomina al chimpancé común como Pan troglodytes (Blumenbach, 1775) y no como "(Linnaeus, 1758)".
+
+
+== Véase también ==
+Nomen dubium, un nombre válido pero uno de uso desconocido o dudoso.
+
+
+== Referencias ==

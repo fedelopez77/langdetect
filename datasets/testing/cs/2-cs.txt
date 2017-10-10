@@ -1,9 +1,128 @@
-III. třída okresu Vyškov (okresní soutěž III. třídy) patří společně s ostatními třetími třídami mezi deváté nejvyšší fotbalové soutěže v Česku. Je řízena Okresním fotbalovým svazem Vyškov. Hraje se každý rok od léta do jara se zimní přestávkou. Účastní se ji 14 týmů z okresu okresu Vyškov, každý s každým hraje jednou na domácím hřišti a jednou na hřišti soupeře. Celkem se tedy hraje 26 kol. Vítězem se stává tým s nejvyšším počtem bodů v tabulce a postupuje do II. třídy okresu Vyškov. Poslední dva týmy sestupují do IV. třídy. Do III. třídy vždy postupuje vítězný a druhý tým z IV. třídy.
+Hrubý Jeseník (Vysoký Jeseník, dle staršího významu hrubý - vysoký, polsky Wysoki Jesionik, německy Altvatergebirge) je geomorfologický celek a dominantní pohoří Slezska a části severní Moravy, které patří ke Krkonošsko-jesenické subprovincii (respektive k Sudetům) jako jejich nejvýchodnější část. Nejvyšší hora je Praděd (1491 m n. m.).
+Na území Hrubého Jeseníku byla kvůli přírodnímu bohatství a jeho zachování v roce 1969 vyhlášena chráněná krajinná oblast Jeseníky o rozloze 740 km² se sídlem v Malé Morávce (v současné době sídlí Správa CHKO v Jeseníku). Zahrnuje celkem jedenáct maloplošných chráněných území. Kromě toho nabízí několik lyžařských lokalit (např. Červenohorské sedlo nebo Praděd), které jsou pro tradičně nejbohatší sněhovou nadílku v Česku navštěvovány nejdéle v roce. O poznání méně pozornosti přitahuje Nízký Jeseník, jehož nadmořská výška dosahuje pouze 800 m nad mořem.
 
 
-== Vítězové ==
+== Vymezení a rozdělení ==
+Pohoří Hrubý Jeseník má zhruba tvar písmene Y, jehož jednotlivá ramena tvoří tři hornatiny, vzájemně oddělené sedly Vidly a Červenohorské sedlo:
+Pradědská hornatina - leží v jižní části pohoří mezi sedly Skřítek a Červenohorské sedlo. Hlavními vrcholy od jihu jsou Pecný (1334 m), Břidličná (1358 m), Jelení hřbet (1367 m), Velký Máj (1386 m), Vysoká hole (1464 m), Petrovy kameny (1446 m), Praděd (1491 m, nejvyšší vrchol hornatiny i pohoří), Malý Děd (1355 m), Velký Jezerník (1304 m), Výrovka (1167 m) a Velký Klínovec (1164 m). Z hlavního hřebene vybíhá k západu mohutná rozsocha Mravenečníku (1343 m) s dalšími vrcholy Dlouhé stráně (1353 m) a Vřesník (1342 m), k západu hřebeny Ostružné (1184 m), Vysoké hory (1031 m) a Žárového vrchu (1094 m).
+Keprnická hornatina - leží v severozápadní části pohoří mezi Červenohorským sedlem a Ramzovským sedlem. V hlavním hřebeni leží vrcholy Červená hora (1337 m), Keprník (1423 m, nejvyšší vrchol hornatiny) a Šerák (1351 m), k jihozápadu vybíhá rozsocha Vozky (1377 m) se samostatným masívem Černé stráně (1237 m).
+Medvědská hornatina - leží v severovýchodní části pohoří. Oproti prvním dvěma hornatinám je výrazně plošší, bez nápadného hřebene. Je oddělena sedlem Vidly a táhne se k sedlu Rejvíz. K hlavním vrcholům patří Medvědí vrch (1216 m, nejvyšší vrchol hornatiny), Orlík (1204 m) a Jelení loučky (1205 m).
+Kompletní geomorfologické členění Hrubého Jeseníku uvádí následující tabulka:
+
+Hrubý Jeseník je od okolních geomorfologických jednotek oddělen většinou výraznými sedly a hlubokými údolími řek:
+od Branenské vrchoviny (součásti Hanušovické vrchoviny) na západě sedlem Přemyslov - Nové Losiny (766 m), a údolím řeky Branné
+od Hraběšické hornatiny (součásti Hanušovické vrchoviny) na jihu údolím Klepáčovského potoka a sedlem Skřítek
+od Nízkého Jeseníku na východě zlomem a údolími řek Černá Opava a Moravice
+od Rejvízské hornatiny (součásti Zlatohorské vrchoviny) na severovýchodě sedlem Rejvíz a potoky
+od Rychlebských hor na severozápadě sedlem Ramzovským sedlem a údolím Černého potoka a Ramzovského potoka
+
+
+== Název ==
+Hrubý a Nízký Jeseník a Jeseníky (pol. Wysoki, Niski Jesionik, Jesioniki) jsou horská jména (oronyma) vzniklá z něm. místního a pomístního jména Gesenke (1348). Původně se toto jméno týkalo zaniklého městečka a horského průsmyku k. Vrbna pod Pradědem, kudy vedla nejkratší cesta ze slezské Nisy do Olomouce. Něm. Gesenke znamená svah, úbočí. První počeštěné podoby toho jména byly zaznamenány v první pol. 17. stol.: Jeseník (na Komeniově mapě Moravy z r. 1631), Ksenk (v dopisu Karla st. ze Žerotína z r. 1636). Názvoslovná fantazie 19. stol. spojila něm. Gesenk skrz čes. Jeseník s řeckým jménem Askiburgion oros "jesenné hory", které zmíní Ptolemaiova Geografie. Doložené od středověku byly pro Jeseníky názvy Niské hory nebo Moravské hory. 
+
+
+== Geologické aspekty ==
+Po geologické stránce patří Jeseníky do Moravskoslezské oblasti, konkrétně Hrubý Jeseník do podoblasti Silesikum. Výrazně se zde projevilo variské vrásnění neboli hercynské, po něm v menší míře následovalo vrásnění alpínské. Napříč horstvem prochází Červenohorský hlubinný zlom, který ho dělí na dvě části, vyznačující se klenbovou strukturou. Západní reprezentuje klenba keprnická a východní desenská. Samotná klenba je tvořená mladšími migmatity. V místech, kde je narušena, tvoří povrch horniny starší, jako žuly nebo ortoruly. V okolí Červenohorského zlomu, například na Pradědu, vystupují na povrch přeměněné krystalické břidlice.
+
+
+== Významné vrcholy ==
+Autoři projektu Tisícovky Čech, Moravy a Slezska uvádí v Hrubém Jeseníku celkem 56 hlavních a 30 vedlejších vrcholů nad 1000 m. Hrubý Jeseník je tak pohořím s druhým nejvyšším počtem tisícovek (po Šumavě) a zároveň je druhým nejvyšším pohořím (po Krkonoších).
+Nejvyššími horami jsou:
+Praděd (1491 m) - pátá nejvyšší hora Česka, nejvyšší hora Moravy a českého Slezska. Horní plošina 162 m vysokého televizního vysílače na vrcholu Pradědu je dokonce nejvyšším (byť umělým) bodem v České republice.
+Vysoká hole (1465 m) - na východním úbočí Velká kotlina, botanicky nejbohatší lokalita Česka
+Petrovy kameny (1446 m) - údajné dějiště čarodějnických sletů
+Keprník (1423 m) - nejvyšší vrchol Keprnické hornatiny
+Velký Máj (1386 m)
+Vozka (1377 m) - na vrcholu 7 m vysoké svorové svědecké skály
+Podrobný seznam 86 nejvyšších a 16 nejprominentnějších hor Hrubého Jeseníku obsahuje Seznam vrcholů v Hrubém Jeseníku.
+Následující tabulka zobrazuje všechny jesenické tisícovky:
+
+
+== Významná sedla ==
+Rejvíz (760 m) - odděluje Hrubý Jeseník od jeho předhůří na severu
+Ramzovské sedlo (759 m) - odděluje Hrubý Jeseník od Rychlebských hor
+Červenohorské sedlo (1013 m) - odděluje keprnickou a pradědskou část Hrubého Jeseníku
+sedlo Vidly (930 m) - odděluje pradědskou a orlickou část Hrubého Jeseníku
+sedlo Hvězda (852 m) - u Karlovy Studánky
+sedlo Skřítek (874 m) - odděluje Hrubý Jeseník od Hraběšické vrchoviny
+
+
+== Horské chaty ==
+Alfrédka - bývalá chata, vyhořela
+Barborka
+Červenohorské sedlo - skupina chat
+Chata Jiřího na Šeráku
+Kurzovní chata
+Ovčárna
+Chata na Skřítku
+Švýcárna
+Vřesová studánka - bývala chata, vyhořela
+
+
+== Zajímavá místa ==
+
+
+=== Skalní útvary ===
+Čertova stěna
+Kamenné okno - nepravé skalní okno na severním hřebeni Červené hory
+Kazatelny
+Keprník - vrchol
+Obří skály - mohutné mrazové sruby na severním svahu Šeráku
+Pasák
+Pecný - vrchol
+Petrovy kameny
+Tabulové skály - u vrcholu Pradědu
+Vozka - vrchol
+Ztracené kameny
+
+
+=== Kotliny ===
+Malá kotlina - ve východním svahu Velkého Máje
+Sněžná kotlina - ve východním svahu Červené hory
+Velká kotlina - ve východním svahu Vysoké hole
+
+
+=== Prameny, potoky, vodopády ===
+Jelení studánka
+vodopády Bílé Opavy
+Vřesová studánka
+Vysoký vodopád
+
+
+=== Rašeliniště ===
+Malý a Velký Jezerník
+Rašeliniště Skřítek
+Rejvíz - s naučnou stezkou
+Trojmezí
+
+
+=== Zříceniny hradů ===
+Fürstenwalde
+Koberštejn
+Rabenštejn
+Quinburk
+Veisenštejn
+
+
+== Flóra a fauna ==
+
+
+=== Flóra ===
+Díky velkému výškovému rozpětí jsou na území Hrubého Jeseníku zastoupena vegetační pásma od listnatého lesa po subalpínské louky.
+Nejcennějšími rostlinnými společenstvy Hrubého Jeseníku jsou společenstva subalpínského stupně. Roste zde několik endemických druhů a poddruhů rostlin - zvonek jesenický (Campanula gelida), lipnice jesenická (Poa riphaea) (oba na Petrových kamenech), jitrocel tmavý sudetský (Plantago atrata sudetica), hvozdík kartouzek jesenický (Dianthus carthusianorum sudeticus) (oba ve Velké kotlině) a několik druhů jestřábníků (Hieracium). Velká kotlina je vůbec unikátní lokalitou v rámci České republiky i celé střední Evropy, bylo v ní zaznamenáno asi 350 druhů vyšších rostlin. Charakteristickým druhem subalpínského stupně je zvonek vousatý (Campanula barbata), který se pro svou nápadnost dostal do znaku CHKO Jeseníky. Řada druhů zde má jedinou lokalitu na českém území - devaterník velkokvětý (Helianthemum grandiflorum), jestřábník huňatý (Hieracium villosum), lipnice alpská (Poa alpina), psineček alpský (Agrostis alpina), šabřina tatarská (Coniosellinum tataricum), škarda sibiřská (Crepis sibirica), zvonečník hlavatý horský (Phyteuma orbiculare montanum). Další druhy rostou na území ČR mimo Hrubý Jeseník jen na několika málo místech - hlaváč lesklý (Scabiosa lucida), hvozdík pyšný alpínský (Dianthus superbus alpestris), jalovec obecný nízký (Juniperus communis alpina), jestřábník alpský (Hieracium alpinum), jestřábník černý (Hieracium nigritum), jestřábník kalný (Hieracium stygium), jestřábník omanovitý (Hieracium inuloides), jestřábník věsenkový (Hieracium prenanthoides), kopyšník tmavý (Hedysarum hedysaroides), prasetník jednoúborný (Hypochaeris uniflora), ostřice nejtmavší (Carex aterrima), ostřice pochvatá (Carex vaginata), ostřice skalní (Carex rupestris), ostřice tmavá (Carex atrata), ostřice Bigelowova (Carex bigelowii), ovsíř dvouřízný (Avenula planiculmis), řebříček obecný sudetský (Achillea millefolium sudetica), řeřišnice rýtolistá (Cardamine resedifolia), tučnice obecná (Pinguicula vulgaris), vraneček brvitý (Selaginella selaginoides), vrba bylinná (Salix herbacea), zvonek okrouhlolistý skalní (Campanula rotundifolia sudetica). K dalším zajímavým rostlinám subalpínských poloh patří kostřava nízká (Festuca alpina), lněnka alpská (Thesium alpinum), sítina trojklanná (Juncus trifidus), violka žlutá sudetská (Viola lutea sudetica).
+Jiným společenstvem, charakteristickým pro subalpínské polohy Hrubého Jeseníku, jsou vysokostébelné nivy v okolí horních toku potoků, kde roste havez česnáčková (Adenostyles alliariae), kamzičník rakouský (Doronicum austriacum), mléčivec alpský (Cicerbita alpina), oměj pestrý (Aconitum variegatum), oměj šalamounek (Aconitum callibotryon), oměj vlčí mor (Aconitum lycoctonum) a stračka vyvýšená (Delphinium elatum).
+Několik vzácných druhů rostlin roste na řadě jesenických rašelinišť - např. bříza karpatská (Betula carpatica), ostřice bažinná (Carex limosa), ostřice chudokvětá (Carex pauciflora). Z běžnějších druhů rostou na rašeliništích klikva žoravina (Oxycoccus palustris) a kyhanka sivolistá (Andromeda polifolia).
+
+
+=== Fauna ===
+K nejzajímavějším živočichům Hrubého Jeseníku patří motýli, ptáci a savci.
+Z motýlů jsou nejnápadnější horští okáči rodu Erebia. Nad hranici lesa na hřebeni Hrubého Jeseníku létá okáč menší (Erebia sudetica) a okáč horský (Erebia epiphron) - oba se v Česku vyskytují pouze zde. V lesním pásmu se vyskytuje okáč černohnědý (Erebia ligea) a ještě níže okáč rudopásný (Erebia euryale).
+Především v hřebenové oblasti Hrubého Jeseníku hnízdí několik horských druhů ptáků - datlík tříprstý, linduška luční, linduška horská, pěvuška podhorní, kos horský, čečetka tmavá. K dalším vzácnějším druhům, hnízdícím na území Hrubého Jeseníku, patří sokol stěhovavý, tetřívek obecný, jeřábek lesní, čáp černý nebo sluka lesní.
+Ze savců je možné se zde setkat vzácně s velkými šelmami (rys ostrovid, vlk, medvěd hnědý). Druhotně byl vysazen kamzík horský. Nejzajímavějším savcem je myšivka horská, památka na ledové doby (glaciální relikt).
+
+
+== Reference ==
 
 
 == Externí odkazy ==
-Skupina A
-Skupina B
+ Obrázky, zvuky či videa k tématu Hrubý Jeseník ve Wikimedia Commons

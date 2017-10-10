@@ -1,12 +1,20 @@
-Râul Răcaș este un curs de apă, unul din brațele care formează râul Căian
+Energia geotermică este o formă de energie regenerabilă obținută din căldura aflată în interiorul Pamântului. Apa fierbinte și aburii, captați în zonele cu activitate vulcanică și tectonică, sunt utilizați pentru încălzirea locuințelor și pentru producerea electricității.
 
 
-== Bibliografie ==
-Administrația Națională Apelor Române - Cadastrul Apelor - București
-Institutul de Meteorologie și Hidrologie - Rîurile României - București 1971
-Hidrografia comunei Șoimuș [1]
+== Tipuri de centrale geotermale ==
+Există trei tipuri de centrale geotermale care sunt folosite la această dată pe glob pentru transformarea puterii apei geotermale în electricitate: uscat, flash și binar, depinzând dupa starea fluidului: vapori sau lichid, sau după temperatura acestuia.
+centralele uscate au fost primele tipuri de centrale construite, ele utilizează abur din izvorul geotermal.
+centralele flash sunt cele mai răspândite centrale de azi. Ele folosesc apa la temperaturi de 182 °C (364 °F) , injectând-o la presiuni înalte în echipamentul de la suprafață.
+centralele cu ciclu binar diferă față de primele două, prin faptul că apa sau aburul din izvorul geotermal nu vine în contact cu turbina, respectiv generatorul electric. Apa folosită atinge temperaturi de până la 200 °C (400 °F).
 
 
-== Hărți ==
-Harta județului Hunedoara [2]
-Harta munților Apuseni [3]
+== Islanda ==
+Radu Dimeca, președintele Rosenc a declarat: ,,Islanda este cea mai cea mai importantă țară din lume care folosește energia geotermală. La 500 de metri extrag apă de 150 de grade Celsius, iar la 1.000 de metri, 300 grade Celsius. Ei au început exploatarea de 60-70 de ani. Au realizat că în loc să aibă cenușa toxică de la termocentrale, mai bine folosesc apa caldă de sub ei. Acum 80 la sută din energia lor este din surse geotermale, iar 12% din alte resurse regenerabile. Aproape toate locuințele din intreaga insula sunt încălzite cu apa termală, de acolo vine și apa caldă menajeră. Acesta se realizează prin centrale de tratare a apei deosebit de bogata in minerale, indeosebi sulf, de unde este trimisa prin magistrale catre localitati si distribuita pana la calorifere. De asemenea, energia electrică este obținută tot din resurse geotermale, prin folosirea căldurii și a aburilor”.
+
+
+== România ==
+
+Depresiunea Panonică, care în România include Banatul și vestul munților Apuseni, este bogată în zăcăminte geotermale. Județele Timiș, Arad și Bihor ar putea beneficia. În Timișoara există apă termală de până la 80 de grade Celsius. Conform unor calcule făcute de cei de la ADETIM, un foraj nou costă între 2-3 milioane de euro, însă studiile pentru foraj sunt mult mai costisitoare. Echipamentul pentru un oraș precum Jimbolia, unde specialiștii islandezi au făcut deja o vizită, ar costa peste șase milioane de euro, iar soluțiile cele mai eficiente pentru atragere de fonduri sunt prin programe europene.
+
+
+== Note ==

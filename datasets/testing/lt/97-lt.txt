@@ -1,0 +1,80 @@
+Mažakraujystė arba anemija – hemoglobino kiekis kraujyje žemiau normos ribos. Dėl to sumažėja deguonies pernešimas krauju į organizmo audinius, o tai gali sukelti hipoksiją, kas pasireiškia atitinkamais simptomais.
+
+
+== Klasifikacija ==
+
+
+=== Pagal eritrocitų dydį ===
+Pagal eritrocitų dydį anemija klasifikuojama į tris grupes:
+Mikrocitinė anemija. Vidutinis eritrocitų tūris (angl. mean cell volume, MCV) yra mažesnis nei normalus, t. y., mažiau nei 80 fl.
+Normocitinė anemija. MCV yra normalus (80-100 fl).
+Makrocitinė anemija. MCV yra didesnis nei normalus, t. y., daugiau nei 100 fl.
+
+
+=== Pagal hemoglobino koncentraciją ===
+Anemijai būdingas hemoglobino sumažėjimas, o hemoglobinas visada yra eritrocituose. Tai apibrėžiantis dydis vadinamas hemoglobino koncentracija eritrocite (angl. mean cell haemoglobine concentration, MCHC). Pagal jo kiekį eritrocite anemija skirstoma į šias grupes:
+Hipochrominė anemija, kai hemoglobino kiekis eritrocite yra mažas
+Normochrominė anemija, kai hemoglobino kiekis eritrocite yra normalus
+Hiperchrominė anemija, kai hemoglobino kiekis eritrocite yra padidėjęs
+
+
+=== Pagal kraujodaros aktyvumą ===
+Pagal kaulų čiulpų reakciją į sumažėjusį eritrocitų skaičių ar hemoglobino koncentraciją anemijas galima suskirstyti pagal kraujodaros aktyvumą. Lengviausiai šį rodiklį įvertinti pagal retikulocitas|retikulocitų kiekį kraujyje, kurie netiesiogiai rodo hemopoezė|kraujodaros aktyvumą. Anemijos pagal šį rodiklį skirstomos į šias grupes:
+Hiporegeneracinė anemija, kai kaulų čiulpuose nustatoma neadekvati reakcija
+Normoregeneracinė anemija, kai kaulų čiulpų reakcija į hemoglobino sumažėjimą adekvati, normali
+Hiperregeneracinė anemija, kai kaulų čiulpai aktyviai reaguoja į anemiją
+Kadangi vien tik retikulocitų skaičius nepakankamai gerai atspindi regeneracinį kaulų čiulpų aktyvumą, naudojamas išvestinis dydis, vadinamas retikulocitų produkcijos indeksu (RPI) (žr. straipsnį retikulocitai).
+
+
+== Priežastys ==
+Anemija yra dažniausia kraujo liga, ją gali sukelti įvairios priežastys. Išskiriamos pagrindinės grupės: anemija dėl skysčio tūrio organizme padidėjimo ir kraujo praskiedimo, anemija dėl padidėjusio eritrocitų irimo/suardymo (hemolizinė anemija), anemija dėl sumažėjusios eritrocitų produkcijos, anemija dėl eritrocitų netekimo-kraujavimo. Neretai kasdienėje praktikoje egzistuoja ne viena, o kelios priežastys vienu metu, kas apsunkina anemijos diagnostiką. Žemiau pateikiamas skirstymas į grupes taip pat nėra absoliutus, daugeliu atvejų sąlyginis. Pavyzdžiui, talasemijoms būdinga ir sutrikusi hemoglobino sintezė, ir padidėjęs eritrocitų suirimas, taigi, jas galima priskirti kelioms grupėms.
+
+
+=== Santykinė anemija ===
+Šiai grupei priskiriamas hemoglobino koncentracijos sumažėjimas dėl padidėjusio kraujo plazmos tūrio arba per didelio skysčių kiekio. Dažniausios priežastys yra:
+Nėštumas
+Intraveninės skysčių infuzijos
+Hiperproteinemija
+
+
+=== Sutrikusi hemoglobino sintezė ===
+Dėl geležies trūkumo: padidėjusio praradimo, pablogėjusios rezorbcijos (geležies trūkumo anemija)
+Sideroblastinė anemija: hemo sintezės sutrikimas dėl fermentų defektų
+Vitamino B12 arba folinės rūgšties trūkumas (megaloblastinė anemija)
+Lėtinių ligų sukeliama anemija (lėtinės ligos anemija)
+Talasemija
+
+
+=== Kraujavimas ===
+Anemija dėl eritrocitų netekimo esant kraujavimui (hemoraginė anemija). Šiuo atveju pagrindinė anemijos priežastis yra kraujo ir hemoglobino prardimas, esant lėtiniam, ilgiau trunkančiam kraujavimui atsiranda geležies trūkumas.
+
+
+=== Sutrikusi kaulų čiulpų funkcija ===
+Tai didelė ligų grupė, kurių daugelis vienu ar kitu būdu sutrikdo kaulų čiulpų funkciją, dėl ko mažėja kraujo gamyba. Šiai grupei galima priskirti ir megaloblastinę anemiją (žr. hemoglobino sintezės sutrikimai). Kaulų čulpų funkcijos sutrikimo priežastys:
+Kaulų čiulpų funkcijos pažeidimas: vaistų poveikis, po chemoterapijos; aplastinė anemija, jonizuojančioji spinduliuotė
+Kaulų čiulpų infiltracija dėl kitos ligos, dažniausiai piktybinės: leukemija, limfoma, mielofibrozė, karcinomos metastazės kaulų čiulpuose. Kaulų čiulpų audinys išstumiamas nenormalaus audinio, todėl nelieka vietos normaliam ląstelių dalijimuisi.
+Neefektyvi kraujodara: mielodisplastiniai sindromai, mielodisplastinės/mieloproliferacinės ligos. Kraujo ląstelės gaminamos, mikroskopiškai stebimas padidėjęs ląstelių skaičius kaulų čiulpuose, tačiau ši kraujodara neefektyvi, kadangi ląstelės nėra pilnavertės ir negali normaliai funkcionuoti.
+Sumažėjusi kraujo gamybos stimuliacija: inkstų ligos, endokrininės ligos, kitų lėtinių ligų sukeliama anemija (lėtinės ligos anemija). Šiais atvejais paprastai sumažėja eritropoetino arba kitų hormonų ar aktyvių medžiagų koncentracija, dėl ko sulėtėja kraujodara.
+Įgimtos kaulų čiulpų funkcijos sutrikimo priežastys: Fankoni anemija, šeiminė aplastinė anemija, Diamond Blackfan anemija
+Įgyta izoliuota aplastinė anemija
+
+
+=== Pagreitėjęs eritrocitų irimas ===
+Dėl eritrocito membranos ar fermentų defektų: įgimta sferocitozė, įgimta stomatocitozė, įgimta akantocitozė, paroksizminė naktinė hemoglobinurija, pastaroji yra vienintelis įgytas defektas, kitos šios grupės ligos yra įgimtos. Fermentų trūkumas: gliukozės-6-fosfatdehidrogenazės trūkumas, piruvatkinazės trūkumas
+Hemoglobinopatijos: talasemijos, hemoglobino C liga, pjautuvinė anemija (siklemija) ir kitos
+Hemolizė: imuninė ir neimuninė hemolizinė anemija.
+
+
+== Simptomai ==
+Simptomai kyla dėl sumažėjusio hemoglobino kiekio kraujyje ir audinių hipoksijos bei dėl organizmo kompensacinių reakcijų į šiuos pakitimus. Esant neišreikštai anemijai, simptomų nebūna, jie atsiranda tik progresuojant ligai.
+Silpnumas ir nuovargis, kartais dusulys, jau lengvo fizinio krūvio metu
+Dėl sumažėjusios hemoglobino koncentracijos būdimgas blyškumas, ypač gerai pastebima nagų srityje
+Organizmui stengiantis kompensuoti deguonies trūkumą didėja širdies susitraukimų dažnis, atsiranda tachikardija
+Kai kurioms anemijos formoms būdingi specifiniai simptomai, priklausomai nuo priežasties:
+Vitamino B12 trūkumo anemijai būdinga neuropatija
+Geležies stokos anemija gali pasireikšti neramių kojų sindromu, nagų pakitimais (koilonichija)
+Hemolizinei anemijai būdingas simptomas yra gelta
+
+
+== Diagnostika ==
+Anemiją galima diagnozuoti tik pagal kraujo mėginius, dažniausiai užtenka paprasto kraujo tyrimo, kuriuo ne tik nustatoma hemoglobino koncentracija, eritrocitų skaičius, bet ir jų dydis, svarbus ieškant anemijos priežasties. Hemoglobino normos ribos priklauso nuo naudojamo prietaiso ir laboratorijos normatyvų, tačiau orientaciniai skaičiai yra yra mažiau nei 13,0 g/dl vyrams, ir 12,0 g/dl moterims. Kiti tyrimai, atliekami anemijos diagnostikai, priklauso nuo anemijos rūšies ir įtariamų ligų spektro.

@@ -1,19 +1,6 @@
-Jaucējfunkcija jeb jaucējalgoritms (angļu: Hash function) ir algoritms, kas pārveido dažāda garuma ievaddatus noteikta, fiksēta garuma datu virknē. Izejas datu virknes garums ir atkarīgs no algoritma. Vienkāršs jaucējfunkcijas veids ir kontrolsumma.
-Tā kā ieejas dati ir garāki par izejas datiem (lai arī ne vienmēr, bet parasti), vieniem un tiem pašiem izejas datiem var atbilst vairāk kā vieni ieejas dati. To sauc par jaucējsadursmi (angļu: hash collision). Ja izejas datu kopa ir īsa (128 biti vai mazāk), tad šādai jaucējfunkcijai vieniem izejas datiem ir iespējams piemeklēt vairākus ieejas datus. Kontrolsummām, kuras lieto lai identificētu pārsūtīšanas kļūdas (tādām, kā kontrolsummas IP paketēs), tas nerada problēmas, jo varbūtība, ka pārsūtīšanas kļūda izmainīs datus tā, ka kontrolsumma to nepamanīs, ir maza. Jaucējfunkcijām, kuras lieto kriptogrāfijā (elektroniskajiem parakstiem, atslēgu ģenerēšanai no parolēm) ir jābūt tādām, lai vieniem izejas datiem nebūtu iespējams piemeklēt vairākus ieejas datus.
+Hivi (tiešs latviskojums no vācu: Hiwi, kas ir saīsinājums no vācu: Hilfswilliger) bija brīvprātīgie Vērmahta izpalīgi, kuri nāca no okupēto Padomju Savienības teritoriju iedzīvotāju vidus un karagūstekņiem. Otrā pasaules kara sākumā viņi izpildīja sanitāru, pavāru, šoferu, sapieru un citus darbus. Karam ritot uz priekšu un Trešā Reiha zaudējumiem pieaugot viņus sāka izmantot arī cīņās pret partizāniem. Latviešu valodā tika izmantots jēdziens Vācu armijas izpalīgi.
+Vāciskais nosaukums tulkojams kā “Palīdzēt gatavais”. Sākotnēji “hivi” nēsāja padomju formu, tikai bez jebkādām piederības zīmēm. Vēlāk viņi tika ietērpti Trešā Reiha formās. Par piederību “hivi” parasti liecināja īpašs apsējs uz rokas, kuram virsū bija uzraksts: “Im Dienst der Deutschen Wehrmacht”. Sievietēm, kuras pildīja izpalīdžu dienestu (pavāres, sanitāres un citi līdzīgi darbi), bija uzraksts: “Deutsche Wehrmacht”, bet tas nebija obligāts nosacījums sievietēm. Katrs “hivi” saņēma pilnu uzturdevu lielumā, kas atbilda vācu karavīru uzturdevai. Pēc 2 mēnešu dienesta “hivi” varēja saņemt arī algu un papildus uzturdevu.
+Kopš Trešā Reiha austrumu kampaņas sākuma “hivi” skaits nepārtraukti sāka augt. 1942. gadā tas sasniedz 200 000 cilvēku, bet 1943. gadā jau 600 000. Lai risinātu ar “hivi” saistītos jautājumus, tika radīts īpašs amats. 1943. gadā hivī tika iekļauti vācu divīzijas standartsastāvā ( ap 2000 vienā Vērmahta divīzijā). Pēc 1945. gada februāra datiem “hivi” skaits esot bijis 600 000 cilvēku sauszemes spēkos, 50 000 - 60 000 gaisa spēkos, bet ap 15 000 jūras spēkos. Arturs Silgailis savā darbā “Latviešu leģions” dod aptuvenu latviešu skaitu “hivi” dienestā, kas bija 12 159.
 
 
-== Populāri jaucējfunkciju piemēri ==
-Cikliskā redundances pārbaude (CRC)
-Drošais jaukšanas algoritms 1 (SHA-1)
-Drošais jaukšanas algoritms 2 (SHA-2)
-Lūna algoritms
-MD5
-RIPEMD
-
-
-== Skatīt arī ==
-Heštabula
-Kriptogrāfiska jaucējfunkcija
-
-
-== Atsauces ==
+== Piezīmes un atsauces ==

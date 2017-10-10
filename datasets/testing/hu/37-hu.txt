@@ -1,0 +1,22 @@
+A Pioneer–1 (angolul: úttörő) amerikai mesterséges bolygó, amelyet a Pioneer-program keretében indították, Hold kutató szonda.
+
+
+== Küldetés ==
+Feladata volt a Hold megközelítése, a technikai eszköz próbája, televíziós képek készítése, értékelés céljából a Földre továbbítása. A megalakult NASA legsikeresebb kísérlete volt.
+
+
+== Jellemzői ==
+A szondát a TRW, az ametikai légierő (USAF), a DC építette. Üzemeltetője a NASA és a DC (Washington).
+1958. október 11-én a Air Force Missile Test Center indítóállomásról egy Thor-Able hordozórakétával, direkt módszer alkalmazásával indították a Hold felé. Felépítése megegyezett a Pioneer–0 űrszondával. Programozási hiba miatt nem tudta elérni a második kozmikus sebességet, ezért 43 óra 17,5 perces repülés után, 113 830 kilométer távolságból visszazuhant és október 13-án a Csendes-óceán fölött a Föld légkörében elégett. Nagy magasságban adatokat gyűjtött a Van Allen sugárzási övről és a mágneses térről.
+Hasznos tömege 36 kilogramm, műszereinek súly 17,8 kilogramm, stabilizált eszköz, a kúp alakú felső és alsó fedelet hengeres rész köti össze, amelynek átmérője alsó 76 centiméter, magassága 74 centiméter. A fedőhenger laminált műanyagból készült. A kapcsolatot a 108 megahertzen (MHz) frekvencián, botantennákon keresztül biztosították. Az energiát nikkel-kadmium-elemek (NiCd) adták a rakéták gyújtására, ezüst-cellaelemek a televízió rendszerhez és higany-elemek a műszerek ellátására. Pályamódosítást segítő fúvóka (üzemanyaggal) 11 kilogramm, további 8 kis korrekciós fúvóka van elhelyezve a kúp tetején, amelyek használat után leválaszthatók.
+Az űreszköz magnetométert, Geiger–Müller-számlálót, mikrometeorit detektort, és letapogató televíziós rendszert tartalmazott
+
+
+== Források ==
+Űrhajózási lexikon. Főszerk. Almár Iván. Budapest: Akadémiai – Zrínyi. 1981. 
+ISBN 9630523485
+
+
+== Külső hivatkozások ==
+Pioneer–1. lib.cas.cz. (Hozzáférés: 2012. december 29.)
+Pioneer–1. skyrocket.de. (Hozzáférés: 2012. december 30.)

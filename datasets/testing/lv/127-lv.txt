@@ -1,0 +1,2 @@
+Periods ir mazākais laika intervāls, pēc kura ķermeņa kustība pilnībā atkārtojas. Fizikā periodu parasti apzīmē ar latīņu burtu T un mērvienība tam ir sekunde.
+Perioda apgriezto lielumu sauc par frekvenci.

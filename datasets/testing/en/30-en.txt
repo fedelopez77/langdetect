@@ -1,0 +1,29 @@
+KECO Industries, Inc. v. United States, 176 Ct. Cl. 983, 998 (Ct. Cl. 1966), was a case before the United States Court of Claims dealing with the procedure for handling contract adjustments when a contractor provides a substitution.
+
+
+== Background ==
+Defendant United States contracted with plaintiff to produce electric and gas refrigerators. The parties sought the intervention of the Court of Claims on two disputes:
+
+Plaintiff contractor sought judgment against defendant United States for claims arising from a contract for the production of gas and electric refrigerators: specifically, Plaintiff filed exceptions to the trial commissioner's report on its claims for the value of parts and tools, for transportation fees due to unit weights in excess of the specification, and for breach of the contract by requiring the substitution of electric units for some gas.
+Defendant sought judgment on its counterclaim for a downward adjustment in the contract price resulting from the substitution of lower cost electric units for some gas units --
+
+
+== Court of claims ==
+The court granted judgment on the government's counterclaim, less the amount due plaintiff for spare parts and tools. The contract obligated plaintiff to furnish the parts and tools; however, by eliminating a profit factor, the chargeback for deleted parts and tools was reduced. Despite defendant's design changes, damages for transportation fees were denied because the evidence did not establish that plaintiff could not have complied with the weight specifications. The change from gas to electric drives was not a breach because it was not a cardinal change. The resulting adjustment to the contract price urged by defendant in its counterclaim was correct because the changes did not increase plaintiff's losses or costs.
+
+
+=== Determinations ===
+Attempting to distinguish between "changes properly which may be said to properly come within the Changes article of Government contracts and "cardinal changes" which constitute breaches of contract":
+
+The reported decisions do not establish clear lines of demarcation between [these categories]. Certain guide lines in the decided cases are, however, helpful in determining how a given change should be regarded. In Saddler v. United States, 152 Ct. Cl. 557, 561, 287 F. 2d 411 (1961), the court stated: "We think that a determination of the permissive degree of change can only be reached by considering the totality of the change and this requires recourse to its magnitude as well as its quality."
+
+The court preserved the contractor's loss position and articulated the formula to be used when there is a substitution:
+
+In the instant case, if there had been no change order plaintiff would have lost $148.80 per unit in manufacturing the gasoline driven units . . . . the same unit loss which plaintiff would have had if there had been no change order. In other words, in the formula which defendant advocates under its counterclaim, the change would not, in the Nielsen language, increase plaintiff's losses . . . .
+It is accordingly concluded that the adjusted unit contract price of the 100 changed units should be $1,454.78 which represents the contract price of the gasoline driven units ($1,720) less $265.22 which is the difference between the production cost of the two type units . . . .
+176 Ct. Cl. at 1002, 364 F.2d at 850.
+
+"Within the scope" means that the work as modified is essentially the same work for which the parties originally contracted.
+The contract for the supply of a quantity of refrigerators clearly stated that listed spare parts were to be furnished by the contractor. The court held that the contractor could not rely upon an alleged pre-contract oral agreement that the government would not require that parts be furnished with the original equipment. Keco Industries, Inc. v. United States, 364 F.2d 838, 176 Ct. Cl. 983 (1966).
+When the contract contains a provision on guaranteed weight, the contractor must point to some act or conduct on the part of the Government to relieve the contractor of compliance with this provision. A contractor failed in this regard when it was unable to prove that after three designs had been rejected it was compelled to build a heavier piece of equipment at the government's insistence. Keco Indus., Inc. v. United States, 176 Ct. Cl. 983, 364 F.2d 838 (1966).
+A change that adds or deletes an integral part of the work takes the changed work outside of the scope of the contract. An order to substitute 100 electrically-driven refrigerators in place of 100 gasoline-driven refrigerators was a proper order within the scope of the changes clause, and the substitution of the power units was not a cardinal change. Keco Industries, Inc. v. United States, 364 F.2d 838 (Ct. Cl. 1966) . The Comptroller General relied upon the case last cited in concluding that an order to substitute solid-state tuners in place of electromechanical tuners came within the scope of the changes clause. Loral Elec. Sys., B-170584, 50 Comp. Gen. 540 (1971) . But see Appeal of American Air Filter Co., Inc., B-188408, 78-1 CPD 136, clarified, 78-1 CPD 443 (1978), where the Comptroller General held that a supplemental agreement changing gasoline-fired portable heaters to diesel heaters was a cardinal change beyond the scope of the original procurement.

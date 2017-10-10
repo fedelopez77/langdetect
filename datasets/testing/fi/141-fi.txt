@@ -1,0 +1,12 @@
+Platina(II)kloridi (PtCl2) on platina- ja kloridi-ionien muodostama epäorgaaninen ioniyhdiste. Platina(II)kloridia käytetään valmistettaessa muita platinayhdisteitä.
+
+
+== Rakenne ja ominaisuudet ==
+Platina(II)kloridilla on kaksi eri kidemuotoa. Näistä matalammissa lämpötiloissa stabiili α-PtCl2 on väriltään oliivinvihreää ja sen rakenne koostuu särmiä ja kulmia keskenään jakavista PtCl4-yksiköistä. Lämpötilavälillä 500–600°C stabiili β-PtCl2 on väriltään tumman punaista ja koostuu Pt6Cl12-yksiköistä ja on isomorfinen palladiumkloridin kanssa. Platina(II)kloridi hajoaa 581 °C:n lämpötilassa platinaksi ja kloorikaasuksi. Yhdiste ei liukene veteen, mutta liukenee eräisiin orgaanisiin liuottimiin, kuten bentseeniin. Suolahappo liuottaa platina(II)kloridin muodostaen kompleksisen tetrakloroplatinaatti(II)-ionin [PtCl4]2-. Ammoniakkiliuokset liuottavat yhdisteen muodostaen [Pt(NH3)4]2+-kompleksin.
+
+
+== Valmistus ==
+Platina(II)kloridia voidaan valmistaa suoralla platinan kloorauksella 240–250°C:n lämpötilassa. Sitä muodostuu myös kuumennettaessa platina(IV)kloridia. Muita tapoja valmistaa yhdistettä ovat tetrakloroplatina(II)hapon haihdutus vakuumissa, tai heksakloroplatinahapon pelkistys hydratsiinilla.
+
+
+== Lähteet ==

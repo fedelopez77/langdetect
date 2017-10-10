@@ -1,36 +1,14 @@
-Psyllotoxus er en slekt av biller som tilhører den artsrike underfamilien Lamiinae i familien trebukker (Cerambycidae).
+Sørpolteleskopet (engelsk: The South Pole Telescope, SPT) er et teleskop med diameter 10 meter, beliggende ved Amundsen–Scott-basen på Sørpolen. Det opererer i mikrobølge-/millibeterbølge-området og observerer i frekvensområdet 70–300 GHz. Hovedformålet med SPT er å finne og kartlegge flere tusen galaksehoper som kan gi informasjon om beskrankninger i tilstandsligningen for mørk energi.
+Prosjektet er et samarbeid mellom University of Chicago, University of California, Berkeley, Case Western Reserve University, University of Illinois at Urbana-Champaign, Smithsonian Astrophysical Observatory, University of Colorado, Boulder, McGill University og University of California, Davis. Det er finansiert av National Science Foundation.
 
 
-== Utseende ==
-Middelsstore, lyst brune trebukker. Antennene er noe lengre enn kroppen, det første og tredje leddet er fortykkede, klubbe- eller spoleformede. Pronotum er noe knudrete, uten tenner på sidene. Dekkvingene er nokså jevnbrede, med stumpvinklede "skuldre" og et nokså bredt, lysgrått tverrbånd.
+== Mikrobølge-/millimeterbølgeobservasjoner på Sørpolen ==
+Sørpolen er det beste stedet på jorda for observasjoner i millimeterområdet. Polpunktets høyde over havet (2800 meter) medfører at atmosfæren er relativt tynn, mens den ekstreme kulden sørger for lavt vanndamptrykk i lufta. Dette er spesielt viktig for observasjoner i millibeterområdet, der de innkommende signalene kan bli absorbert av vanndamp, og der vanndamp avgir stråling som kan forveksles med astronomiske signaler. Atmosfæren er også stabil på grunn av solas gang ved Sørpolen, og det er ingen interferens i millimeterområdet i månedene med mørketid.
 
 
-== Utbredelse ==
-Slekten er kjent fra Fransk Guyana og Brasil.
-
-
-== Systematisk inndeling ==
-Ordenen Biller, Coleoptera Linnaeus, 1758
-Underordenen Polyphaga Emery, 1886
-Gruppen (infraorden) Cucujiformia Lameere, 1938
-Overfamilien Chrysomeloidea Latreille, 1802 (=Phytophaga)
-Familien Trebukker, Cerambycidae Latreille, 1802
-Underfamilien Vedbukker, Lamiinae Latreille, 1825
-Stammen Onciderini J. Thomson, 1860
-Slekten Psyllotoxus J. Thomson, 1868
-Psyllotoxus dalensi Nearns & Tavakilian, 2012
-Psyllotoxus faurei Nearns & Tavakilian, 2012
-Psyllotoxus griseocinctus Thomson, 1868
-Psyllotoxus inexpectatus Martins & Galileo, 1990
-
-
-== Kilder ==
-Liste over slektene
-Katalog med utbredelsesdata
+== Referanser ==
 
 
 == Eksterne lenker ==
-Bildegalleri
-(en) Psyllotoxus i Encyclopedia of Life
-(en) Psyllotoxus i Global Biodiversity Information Facility
-(en) Kategori:Onciderini – bilder, video eller lyd på Wikimedia Commons
+Sørpolteleskopets offisielle nettsted
+(en) Kategori:South Pole Telescope – bilder, video eller lyd på Wikimedia Commons

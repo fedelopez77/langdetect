@@ -1,0 +1,2 @@
+Ƌ og ƌ var en bokstav som ble brukt for å skrive zhuang-språket mellom 1957 og 1986. Den ble da byttet ut med digrafen «nd», slik at språket kunne skrives med et ASCII-tegnsett. Både bokstaven ƌ og digrafen representerer lyden [nd].
+I Unicode kodes bokstaven som U+018B (Ƌ) og U+018C (ƌ).

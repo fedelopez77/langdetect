@@ -1,0 +1,6 @@
+Signalų apdorojimo teorijoje sąvoka impulsas turi šias reikšmes:
+Staigus, trumpalaikis pokytis signalo amplitudėje nuo pagrindinės vertės iki aukštesnės arba žemesnės vertės su staigiu grįžimu į pagrindinę vertę.
+Staigus pokytis signalo charakteristikuose, pvz., fazėje arba dažnyje, nuo pagrindinės vertės iki aukštesnės arba žemesnės su staigiu grįžimu į pagrindinę vertę.
+Telefonijoje impulsinis (toninis) telefono numerio rinkimas pertraukiamų elektrinių impulsų pagalba.
+Televizijoje horizontalios ir vertikalios sinchronizacijų impulsai yra signalai, nurodantys prietaisui, kada jis turėtų pradėti naują liniją arba naują kadrą.
+Optikoje šviesos impulsu yra vadinama banga, kurios elektrinis laukas nėra lygus nuliui baigtinį laiko tarpą (impulso trukmė).

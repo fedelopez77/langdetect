@@ -1,0 +1,33 @@
+Ūdens navigācijas termini ir speciāls nozares terminu apkopojums, ko izmanto kuģniecības un burāšanas navigācijā.
+Ass boja — boja, kas norāda drošas kuģošanas vietu ap to, t.i. kanāla vidus boja.
+Atpūtas kuģis — sportam un atpūtai paredzēts kuģošanas līdzeklis, kura garums ir no 1 līdz 22 metriem, kuru neizmanto komerciālos nolūkos un kuram nav profesionālas apkalpes, kā arī mazizmēra kuģošanas līdzeklis.
+Atsevišķas bīstamības bojas — bojas, kas apzīmē atsevišķas kuģošanai bīstamas vietas, kurām apkārt ir navigācijai piemēroti apstākļi.
+Avārijas vraku bojas — bojas, ko izmanto tikko nogrimušu vraku apzīmēšanai, ja tas rada kuģošanai paaugstinātu bīstamību.
+Bāka — speciālas konstrukcijas un krāsojuma kapitālā būve ar gaismas signāla optisko aparatūru.
+Boja — speciālas konstrukcijas un krāsojuma peldošais navigācijas līdzeklis, kas kalpo kuģu ceļu, jūras vai ostu kanālu, enkurvietu, kuģošanai bīstamu šķēršļu un citu jūras navigācijai bīstamu vietu iezīmēšanai.
+Diennakts gaišais laiks — diennakts laiks no saules lēkta līdz saules rietam.
+Diennakts tumšais laiks — diennakts laiks no saules rieta līdz saules lēktam.
+Dvarss - virziens perpendikulārs kuģošanas līdzekļa garenasij.
+Halze - braukšanas virziens, vējam pūšot burā no vienas vai otras puses; ja vējš pūš labajā bortā, skatotioes uz priekšgalu, jahta brauc labajā halzē; ja vējš pūš kreisajā bortā, skatoties uz priekšgalu - jahta brauc kreisajā halzē.
+Kardinālās bojas — bojas, kas norāda, kura to puse (ziemeļu — N, austrumu — E, dienvidu — S, rietumu — B) ir droši kuģojama.
+Kuģis — jebkurš kuģošanas līdzeklis — inženiertehniska ierīce, kas konstruktīvi paredzēta izmantošanai uz ūdens. Kuģa tiesības un pienākumus īsteno kuģa īpašnieks, kuģa kapteinis, kā arī operators vai fraktētājs.
+Kuģošanas līdzeklis — inženiertehniska ierīce, kas konstruktīvi paredzēta izmantošanai uz ūdens.
+Mazizmēra kuģošanas līdzeklis — airu laiva, ūdensmotocikls, kā arī motorlaiva un kuteris, kuru garums ir mazāks par 12 metriem.
+Minimālais ātrums — mazākais ātrums, ar kuru kuģošanas līdzeklis saglabā vadību noteiktos apstākļos un stāvoklī.
+Nepietiekama redzamība — laikapstākļi (piemēram, migla, lietus, sniegs), kuru dēļ redzamība kuģošanas zonā ir ierobežota.
+Piekrastes ūdeņi — virszemes ūdeņi uz krasta pusi no līnijas, kas savieno visus punktus, kuri atrodas vienu jūras jūdzi uz jūras pusi no bāzes līnijas vai sniedzas līdz pārejas ūdeņu ārējai robežai.
+Riņķa uguns — baltas gaismas lukturis, kas novietots tā, lai tā gaisma būtu redzama 360º lielā horizontālā lokā.
+Robežakvatorija — iekšējo ūdeņu akvatorija, pa kuru saskaņā ar starptautiskajiem līgumiem ir noteikta valsts robeža
+Sektora uguns — navigācijas līdzeklis, kas ar speciālu gaismas aparatūru noteiktos virzienos iezīmē lokus ar dažādas krāsas vai dažāda raksturojuma, vai ar dažādas krāsas un raksturojuma uguni.
+Speciālās nozīmes bojas — bojas, ko izmanto īpašu vietu vai īpatnību norādīšanai navigācijā.
+Stodere — īpašas formas un krāsojuma peldošais navigācijas līdzeklis bez gaismas aparatūras, ko izmanto, lai norobežotu kanālu un kuģu ceļu malas, navigācijai bīstamas vietas, kā arī kuģu apgriešanās vietas ostu iekšienē.
+Topuguns — balta uguns, kas novietota kuģošanas līdzekļa diametrālajā plaknē (uz garenass līnijas) tā, lai gaisma būtu redzama taisnā virzienā uz kuģošanas līdzekļa priekšgalu līdz 22,5º aiz katra borta dvarsa un apgaismotu ar nepārtrauktu gaismu 225º lielu horizonta loku.
+Ūdens satiksmes negadījums — ūdens satiksmes notikums, kurā bojāts vismaz viens kuģošanas līdzeklis, gājis bojā vai guvis miesas bojājumus cilvēks, radušies zaudējumi trešajai personai vai nodarīts kaitējums videi.
+Ugunszīme — speciālas konstrukcijas un krāsojuma navigācijas līdzeklis ar gaismas signāla aparatūru.
+Vadlīnija jeb vaduguns — navigācijas līdzekļu sistēma, kas sastāv vismaz no divām atsevišķām konstrukcijām ar zīmēm vai ugunīm, vai ar zīmēm un ugunīm, kas, raugoties no kanāla taisnas sekcijas centra līnijas vai dziļākā kuģu ceļa, savā starpā veido taisnu līniju. Tādu līniju sauc par vadlīnijas asi.
+Zibšņu uguns — uguns, kas uzzibsnī ar regulāriem intervāliem 120 vai vairāk reižu minūtē.
+Zīme — speciālas konstrukcijas un krāsojuma navigācijas līdzeklis bez gaismas aparatūras.
+
+
+== Ārējās saites ==
+Burāšanas termini un to skaidrojums

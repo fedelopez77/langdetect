@@ -1,0 +1,2 @@
+Blokķēde (angļu: Blockchain) ir izkliedēta datubāze, kas ir pastāvīgi augošs sakārtotu ierakstu, kurus dēvē par blokiem, saraksts. Katrs bloks satur laika zīmogu un norādi uz iepriekšējo bloku. Blokķēdes ir īpaši drošas pret ierakstu izmainīšanu — lai izmainītu kādu no senākiem blokiem, ir jāveic izmaiņas arī visos tam sekojošajos blokos.
+Blokķēdes principu 2008. gadā izgudroja Satoši Nakamoto un gadu vēlāk uz tā pamata tika radīta ciparnauda Bitcoin, kur blokķēde kalpo kā publisks visu jebkad veikto transakciju žurnāls.

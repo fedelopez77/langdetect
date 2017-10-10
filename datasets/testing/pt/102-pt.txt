@@ -1,0 +1,30 @@
+Mary Shaw (Pensilvânia, 1943) é uma engenheira de software estadunidense. É professora da cátedra Alan J. Perlis de ciência da computação da Carnegie Mellon School of Computer Science da Universidade Carnegie Mellon, conhecida por seu trabalho no campo da arquitetura de software.
+
+
+== Biografia ==
+Nascida em 1943, Shaw obteve um BA na Universidade Rice c. 1965, e um PhD em ciência da computação na Universidade Carnegie Mellon em 1972.
+Após a graduação na Universidade Rice Shaw começou sua carreira na indústria, trabalhando como programadora de sistemas na Research Analysis Corporation. Também continuou a pesquisar na Universidade Rice. Em 1972 passou a fazer parte da faculdade da Universidade Carnegie Mellon, onde foi indicada professora de ciências da computação. De 1984 a 1987 foi também cientista chefe de seu Instituto de Engenharia do Software, de 1992 a 1999 foi decana associada para educação profissional, e de 2001 a 2006 co-diretora do Sloan Software Industry Center.
+Em 2011 Shaw e David Garlan receberam o Outstanding Research Award da ACM SIGSOFT (Association of Computing Machinery's Special Interest Group on Software Engineering), por suas "contribuições significativas e duradouras à pesquisa de engenharia de software através do desenvolvimento e promoção da arquitetura de software."
+Em 3 de outubro de 2014 o presidente dos Estados Unidos Barack Obama anunciou que Shaw foi agraciada com a Medalha Nacional de Tecnologia e Inovação.
+
+
+== Obra ==
+A principal área de pesquisa de Shaw é engenharia de software, incluindo aspectos arquiteturais, educacionais e históricos. Shaw é autora de trabalhos fundamentais na área de arquitetura de software, juntamente com David Garlan.
+
+
+=== Arquitetura de software, 1996 ===
+O trabalho mais citado de Shaw é Software Architecture: Perspectives on an Emerging Discipline, em co-autoria com David Garlan, examinando o conceito de "arquiteturas para sistemas de software bem como melhores maneiras de suportar o desenvolvimento de softwares."
+
+
+== Publicações selecionadas ==
+Mary Shaw e Frank Hole. Computer analysis of chronological seriation, 1967.
+Mary Shaw, Alan Perlis e Frederick Sayward (Eds.) Software metrics: an analysis and evaluation, 1981.
+Mary Shaw (Ed.) Carnegie-Mellon curriculum for undergraduate computer science, 1985.
+Mary Shaw e David Garlan. Software Architecture: Perspectives on an Emerging Discipline, Prentice Hall, 1996.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Página pessoal

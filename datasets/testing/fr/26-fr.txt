@@ -1,39 +1,55 @@
-Goko ou Gooko (13° 40′ 53″ N, 2° 40′ 36″ O) est l’un des 16 villages de la commune de Didyr au Burkina Faso. Il est situé à l’ouest de Didyr et distant d’environ 7 km de Didyr. Il est limité à l’est par le village de Didyr, à l’ouest par le village de Ladiou, au nord par les villages de Kya, Youloupo et Mogueya, et au sud par le village de Goumi. Gooko est divisé en 3 quartiers : Bonépoum, Gooko-danso et Moutour. Bonépoum est le centre du village de Gooko. Gooko est peuplé seulement de gourounsi. La langue parlée est le lyélé.
+La carabine M1 (M1 carbine en anglais) produite par Winchester ainsi que de nombreuses autres firmes américaines dont Inland qui en est le plus grand fabricant, est l'arme individuelle la plus produite par les États-Unis durant la Seconde Guerre mondiale, avec 6 332 000 exemplaires construits à la fin du conflit.
 
 
-== Aperçu historique ==
-Les premiers habitants du village sont venus de Didyr centre. Ceux-ci étaient issus de la famille Bakouan. Ils sont venus d’abord s’installer sur la parcelle la plus humide et quand on sarclait un petit champ à l’époque, il produisait bien parce que la terre était fertile. Ils ont appelé cette terre fertile la terre des malades (même si tu es malade, avec ce petit espace humide, ton champ produisait bien) d’où Bonêpoum (terre fertile des malades). Comme cette terre était si fertile et traversée par un bas-fond, dès les premiers semis, le mil poussait et les cultures commencent. Ceux qui tardaient à semer n’arrivaient plus à contrôler leurs cultures parce que les champs étaient vite envahis de mauvaises herbes. C’est à ce moment que le chef disait à tous de se courber et semer les premiers en langue gouinko d’où « Gooko ».
+== Conception ==
+C'est en 1937 qu'a commencé, aux États-Unis, la production du fusil M1 semi-automatique,la Garand, un fusil de conception Springfield, et produit par de nombreuses autres firmes américaines.
+Mais en 1940, l'US Army, après un examen de l'équipement de ses unités combattantes, exprima la nécessité de disposer d'une carabine d'un stockage et d'un maniement facile, pouvant être utilisée d'une main tel un pistolet pour les postes n'étant pas forcément en première ligne du front. Plusieurs manufactures d'armement entrèrent alors en compétition et présentèrent leur projet. Le projet Winchester l'emporta et fut retenu sous le nom de carabine calibre 30-M1.
+La carabine M1 avait un mécanisme ressemblant à celui du M1 Garand, toutefois celui-ci est d'origine Winchester et n'est pas à proprement parler une copie du mécanisme du Garand (qui proposa aussi une carabine). Le fonctionnement est un classique emprunt des gaz p. Elle tirait une munition dite .30 Carbine (7,62x33mm), d'une puissance intermédiaire entre celle d'une cartouche de pistolet et celle d'un fusil.
+C'est Winchester qui remporta le concours mais comme ses moyens de productions étaient limités, tous ses concurrents la fabriquèrent : ils avaient perdu le concours mais les appels d'offre furent bien partagés, même General Motors, IBM, Underwood (machines à écrire) et Rock-Ola (Juke-boxes) et Inland qui en construit le plus grand nombre en ont fabriqué. Howa, fabricant d'armes Japonais en a aussi produit 10000 après la guerre pour l'Asie, une rareté aux États-Unis et en Europe.
+On définit généralement par un certain pourcentage la production à tel ou tel fabricant.
+Toutes les pièces des fabricants sont compatibles entre elles (hormis certaines culasses civiles "rondes"). Un exemple de production par divers fabricants tout comme le fusil M1 Garand d'ailleurs.
+La carabine connut un succès immédiat. Elle était légère et très maniable, et fut adoptée par de nombreuses unités d'appui, telles que les artilleurs ou les équipages d'unité blindées, mais aussi par les soldats ayant une fonction autre que le combat d'infanterie, tel les radios ou les techniciens des unités de soutien.Elle servit également aux soldats du front suite a son succès bien que moins précise que le M1 Garand.
 
 
-== Autorité coutumière ==
-Gooko fait partie de Didyr (c’est un hameau de culture érigé en village) et a comme chef de terre le chef de terre de Didyr (basé à Didyr centre). Un membre de la famille Bakouan de Gooko de la grande famille « Chièchina lié» peut devenir chef de terre de Didyr et transféré d’office à Didyr centre dans la maison sacrée appelé  « Béla dié »
-Les Bakouan de la grande famille « Chièchina lié » sont les chefs de village de Gooko. L’actuel chef de village vient d’être rappelé à Dieu. Bakouan Amédée Baya est l’un d ses fils qui le représente actuellement.
-Leur totem est la galette tombée à terre et la panthère. La galette tombée à terre parce qu’ils dépendent tous de la terre qui les protège. La panthère a sauvé leur ancêtre.
+== Controverse sur la puissance de la balle ==
+La carabine M1 présentait un inconvénient majeur, inhérent à la nature de la cartouche de faible puissance qu'elle utilisait : la portée pratique efficace n'était que d'environ 200 mètres. Néanmoins, les légendes urbaines à propos de la cartouche sont totalement infondées : il est faux que la .30 carbine ne puisse même pas traverser une boite en carton ou un drap mouillé à 100 mètres, ou encore que l'uniforme de l'ennemi suffise à stopper la balle.
+Ce genre d'histoires est évidemment exagéré et il faut se replacer dans le contexte historique pour comprendre la réputation de faible puissance de cette munition d'où sont parties toutes ces rumeurs infondées : le calibre standard de l'armée américaine était le .30-06 du M1 Garand, une munition extrêmement puissante (jusqu'à 4000joules). Lorsque les soldats ont été fournis en carabines USM1, ils ont vu une arme dont la puissance d'arrêt et la portée étaient bien inférieures à celles du M1 Garand, qui leur servait d'étalon pour les armes de ce type. De fait, ils ont trouvé que la munition de cette carabine était peu performant face au 30-06.
+Par ailleurs, durant la guerre de Corée, les soldats chinois luttaient contre le froid en mettant des épaisseurs de journaux sous leurs vêtements, ce qui permettait de ralentir de beaucoup la balle. En général, à 150 m, les tirs de 30M1 ne parvenaient pas à tuer, mais blessaient lourdement.
+Le 5,56 OTAN, cartouche pour fusil d'assaut a reçu le même accueil lors de sa démocratisation aux pays du bloc de l'Ouest durant les années 1960, car il était comparé à la cartouche 7,62 OTAN, d'une grande puissance car destinée aux fusils et mitrailleuses. Tout comme le 5,45 x 39 russe de la AK74, d'ailleurs, qui était comparé au 7,62 x 39 des AK47 et AKM dans le bloc de l'Est. Et pourtant ces deux calibres (le 5,56 OTAN et le 5,45 x 39) sont aujourd'hui les grands standards de l'armement militaire, déclinés aussi bien aux "micro" fusils d'assaut qu'aux mitrailleuses légères.
+Ainsi, les jugements de valeur sur le calibre .30 carbine sont à prendre avec un certain recul et à analyser en se replaçant dans le contexte historique. De plus, il faut se rappeler que l'idée de départ était de fabriquer un pistolet hypertrophié plus qu'un fusil. Ainsi, l'objectif était atteint puisqu'on avait une arme d'une compacité et d'une légèreté étonnante qui remplaçait donc sans problèmes le pistolet automatique mais qui offrait à l'utilisateur une puissance et une précision largement plus élevées et une portée plus que triplée (le standard militaire pour la portée avec précision acceptable d'une arme de poing est en général de 50 mètres et il est habituellement estimé que la limite de précision lors du tir de combat au pistolet se situe dans les environs de 15 mètres, soit un dixième de ce que permet la USM1). On notera d'ailleurs que le 9 mm parabellum (le standard actuel des pistolets et pistolets mitrailleurs) délivre entre 400 et 650 joules alors que le .30 carbine, lui, développe une énergie de 1 200 joules, soit deux à trois fois l'énergie du 9 mm parabellum.
+Actuellement, le calibre .30 carbine est très apprécié des tireurs sportifs, qui obtiennent d'excellents résultats à 100 et 200 mètres, son système de visée à œilleton aidant beaucoup les tireurs et son faible recul permettant une remise en ligne très facile par rapport aux autres armes semi automatiques plus puissantes. La cartouche est facile à recharger et très économique (peu de fissures, peu de poudre, une balle peu chère).
+Le calibre étant même utilisé pour la silhouette métallique, une discipline de tir de loisir et de tir sportif dont le but est de renverser des silhouettes en métal à plusieurs centaines de mètres et qui nécessite une cartouche puissante (pour renverser les silhouettes à coup sûr, à cause du poids élevé de ces silhouettes), preuve que cette munition n'est pas si peu efficace que l'imaginaire collectif le laisse entendre.
+Plusieurs armes de poing existent dans le calibre 30M1, en revolvers ou en pistolets semi automatiques (puissants et plus légers toutefois que le 44 magnum).
 
 
-== Les infrastructures ==
+== Engagements ==
+
+Essentiellement fabriquée à l'origine pour les unités de second échelon comme le génie ou les transmissions, son emploi s'étendit rapidement à certains personnels du front comme les officiers et les servants des pièces d'artillerie.
+En effet, la carabine était plus légère que le fusil M1, contenait plus de cartouches (15 à 30 cartouches de 7.62 mm contre 8), mais était moins précise que le Garand.
+Les unités parachutistes en furent équipées et les Marines l'employèrent lors des combats dans la jungle des îles du Pacifique.
+Des carabines M1 ont été parachutées dans les maquis français où elle fut d'ailleurs très recherchée car c'est une bonne arme, idéale pour les actions de guérilla. Elle est légère, très maniable et peu encombrante.
+La Wehrmacht la jugea assez valable pour l'utiliser elle-même sous le nom de Selbstladekarabiner 455 (a), dès qu'elle en eut saisi un assez grand nombre, dans les dernières phases de la guerre en Europe. Elle fut très appréciée par les Waffen-SS.
+Utilisée dans de nombreux conflits jusqu'aux années 1960 par les forces américaines ou leurs alliés, elle équipa en outre, la Belgique, le Sud-Viêt Nam, la France, la Corée du Sud, la majorité des pays d'Amérique latine ainsi que d'autres états en Afrique. Elle fut distribuée à ces pays par les États-Unis jusqu'aux années 1970
+Ainsi la carabine M1 arma-t-elle les soldats de l'armée française lors des guerres d'Indochine, de Corée et d'Algérie. Elle demeura embarquée dans les avions et hélicoptères français jusqu'à la première Guerre du Golfe. Des forces de police (comme la PJ) la conservèrent jusqu'aux années 1990, surtout en raison de sa cartouche de faible puissance qui convient mieux aux circonstances dans lesquelles elles doivent intervenir.
+De nombreux exemplaires d'une version « civile » sont vendus de nos jours aux États-Unis et en Israël.
+Israël a produit des versions de la USM1 destinée aux forces de l'ordre, aux gardes de frontières et postes et contrôles et certaines unités militaires ne nécessitant pas une arme plus imposante comme un fusil d'assaut. Ces USM1 israéliennes sont caractérisées par des garnitures synthétiques et non plus en bois et des crosses squelettiques repliables.
+Howa, fabricant d'armes Japonais en a aussi produit 10 000 après la Seconde Guerre mondiale pour l'Asie.
+La production en masse commença en septembre 1941 et sa mise en service eut lieu en juillet 1942.
 
 
-=== Les infrastructures éducatives ===
-Gooko a une école de 3 classes en bon état. Il y a 2 logements sur 3 pour les enseignants. L’école a un forage. Il existe une latrine à 6 appartements. L’école n’a pas de cuisine. Il y manque des tables-bancs pour les élèves. La population souhaite la normalisation de l’école, et ce sera chose faite à la rentrée 2017-2018. l’électrification solaire de l’école permet aux élèves d’étudier le soir et créer des cours de soir pour les analphabètes.
-Le village a un centre alpha
+== Versions ==
+M1 première version : œilleton de visée 2 positions rabattable (100 et 250 m)
+seconde version : œilleton de visée coulissable, avec plus de réglages possibles (50 75 100 et 250 m).
+La carabine M1 ne comporte pas de tenon de baïonnette au cours de la Seconde Guerre mondiale mais il a été ajouté par la suite (guerre de Corée).
+
+M1A1 : version destinée aux troupes parachutistes ; la M1A1 est très proche de la M1, mais diffère extérieurement par une crosse métallique pliante se rabattant sur le côté pour prendre moins de place lors des parachutages. Cette version fut construite à 150 000 exemplaires.
+M2 : version fusil d'assaut de la M1 avec une mécanique modifiée permettant le tir semi-automatique ou automatique à une cadence de 750 coups par minute. Le chargeur utilisé avec la M2 est plus grand, de 30 coups et de forme incurvée, qui pouvait également être monté sur les M1 et M1A1. La M2 fut produite à partir d'avril 1945 à environ 500 000 exemplaires. À ceux-ci s'ajoutent de nombreuses M1 transformées en M2 après 1945 grâce au kit de conversion T17. La M2 ne semble pas avoir été employée pendant la Seconde Guerre mondiale mais connut le feu durant la guerre de Corée aux mains des Américains, puis pendant celle du Viêt Nam, à la fois par les Américains (avant l'apparition du M16) et les Sud-vietnamiens. Les carabines M2 peuvent comporter un garde main ajouré en métal pour refroidir le canon de l'arme lors des tirs automatiques.
+M3 : version de tir de précision nocturne basée sur la M2, appelée à l'origine T3. L'appareil de visée, le système Bell & Howell M2 (alias T120) Sniperscope, est un système de vision nocturne de première génération dit « actif » : il utilise un phare émettant dans l'infrarouge pour « éclairer » la zone visée avec une lumière infrarouge (donc imperceptible par l'œil humain) ; une lunette grossissant 4 ×, alimentée par batterie, convertit l'image perçue en infrarouge en une image visible par le tireur. Ce système est lourd et a une faible portée. La M2 a été choisie car son faible poids compense celui du système de visée, et sa faible portée n'est pas un problème compte tenu de la faible portée permise par le système. La M3 fut produite à partir d'août 1945, et en faible nombre (entre 1 900 et 2 000 exemplaires). La M3 n'a quasiment pas été utilisée pendant la Seconde Guerre mondiale (il semble que des T3 aient été utilisées pendant la bataille d'Okinawa), mais elle le fut pendant la guerre de Corée.
+Des versions de tireur d'élite ont été produites pour la police du Danemark avec une lunette conventionnelle.
 
 
-=== Les infrastructures hydrauliques ===
-Gooko est doté de 3 forages. La population souhaite 3 forages de plus et 3 puits à grand diamètre pour se satisfaire en matière d’eau potable.
-Kaapoo est le cours d’eau important de Gooko. Il se situe à l’ouest du village. Il coule vers le sud (Goumi, Dassa jusqu’aux affluents du Mouhoun).
-Le village souhaite une retenue d’eau dans ce cours d’eau. La trajectoire de ce bas-fond est favorable pour la culture du riz fluvial.
+== Bibliographie ==
 
-
-=== Les infrastructures sanitaires et d’assainissement ===
-Gooko n’a pas de CSPS. Le paludisme et les maladies diarrhéiques sont les plus répandues, surtout chez les petits enfants et les femmes enceintes. Les hernies sont des maladies qui attaquent les personnes de 40 à 50 ans. Les malades de Gooko se soignent au CSPS de Didyr centre ou Koudougou selon la gravité. Pour réduire tous ces risques de perte de vie humaine au cours de ces maladies, le village souhaite avoir un dispensaire ou une maternité.
-Les latrines familiales à Gooko sont au nombre de 66.
-
-
-=== Les infrastructures marchandes et touristiques ===
-Gooko n’a pas de marché. Le village a une plateforme multifonctionnelle qui est en bon état actuellement. Il y a aussi plusieurs moulins à grains dans le village. Gooko n’a pas de site touristique.
-
-
-== Notes et références ==
-
- Portail du Burkina Faso
+ Portail de la Seconde Guerre mondiale
+ Portail des armes
+ Portail des forces armées des États-Unis

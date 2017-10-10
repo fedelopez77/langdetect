@@ -1,0 +1,46 @@
+Litiumilma-akku (Li-O2) on metalli-ilma akku, joka käyttää litiumin hapettumista anodilla ja hapen pelkistymistä katodilla sähkövirran muodostamiseen.
+
+
+== Toiminta ==
+
+Akussa on kolme osaa: anodi, katodi sekä elektrolyytti. Litium-ilma -akun anodi koostuu litiumista ja katodi litiumperoksidista (Li2O2) ja hiilen komposiitista. Litium-ionit toimivat varauksenkuljettajina ja katodilla reagoiva aine on happi. Reaktio (Li+ + e- + O2 -> LiO2) tuottaa litiumperoksidia. Elektrolyytti vaihtelee akun rakenteen mukaan. Näitä rakenteita ovat aproottinen, vesipohjainen, aproottisen ja vesipohjaisen yhdistelmä tai kiinteä. Akun purkautumisen aikana anodin litium hapettuu, ja positiivisesti varautuneet litiumionit kulkevat elektrolyytin läpi katodiin, jossa ne reagoivat happimolekyylien kanssa. Katodiin muodostuu litium-oksidia ja litium-peroksidia. Litium-ilma akkujen ominaisenergia/energiatiheys on laskettu teoreettisesti olevan 5,200Wh/kg tai 18 MJ/kg, kun happi lasketaan mukaan. Koska litium-ilma –akku ottaa happea ympäristöstään ja luovuttaa happea ympäristöönsä, ei ilmaa oteta huomioon ominaisenergiaa laskiessa. Tällöin teoreettinen ominaisenergia on 11,140Wh/kg tai 40,1 MJ/kg, joka on hyvin lähellä bensiiniä (noin 46 MJ/kg).
+
+
+== Rakenne ==
+
+
+== Elektrodit ==
+Litium-ilma -akkujen anodin valmistukseen käytetään litiumia. Katodien valmistuksessa käytettäviksi materiaaleiksi on tutkittu useita hiilipohjaisia materiaaleja näiden erinomaisen sähkönjohtavuuden vuoksi, sekä metalleja ja näiden oksideja. Tutkittuihin metalleihin kuuluu mm. jalo- ja siirtymämetalleja sekä mangaanioksidi. Katodilla tulisi olla kestävä huokoinen rakenne, jotta reaktiopinta-ala olisi mahdollisimman suuri. Litium-ilma -akuissa käytettäväksi katodiksi on kehitetty mangaanidioksidista valmistettua nanolankaa, jota on kasvatettu modifioidun M13 viruksen avulla. Tällä keinolla valmistetulla langalla saatiin aikaan piikikäs pinta, joka lisäsi reaktiopinta-alaa. Tämänlaisella elektrodilla kyettiin nostamaan akun kapasiteettia sekä elinikää.
+
+
+== Elektrolyytti ==
+Litium-ilma -akkujen elektrolyytin kehityksessä on keskitytty neljään eri tyyppiin, aproottisiin, vesipohjaisiin, kiinteisiin ja aproottisia sekä vesipohjaisia menetelmiä yhdistäviin elektrolyytteihin. Näistä jokaisessa on omat etunsa sekä haasteensa.
+
+
+=== Aproottinen ===
+Aproottista elektrolyyttiä hyödyntävissä akuissa on etuna niiden uudelleenladattavuus ja korkea teoreettinen energiatiheys. Näissä yleensä käytetään samoja etyleenikarbonaatti- ja propyleenikarbonaattiliuottimia kuin tavanomaisissa litiumioniakuissa, paitsi että nämä ovat hyytelömäisessä muodossa eivätkä nestemäisessä. Ongelmana karbonaattiliuottimissa on näiden haihtuminen sekä hapettuminen latauksen aikana korkean ylijännitteen vuoksi.
+
+
+=== Vesipohjainen ===
+Vesipohjaiset litium-ilma -akut koostuvat litiummetallianodista, vesipohjaisesta elektrolyytistä ja huokoisesta katodista. Elektrolyytti koostuu veteen liotetuista litiumsuoloista. Tämän tyyppistä elektrolyyttiä hyödyntävissä akuissa ei ole ongelmaa, jossa katodi tukkeutuu sillä reaktiossa syntyvät tuotteet ovat vesiliukoisia. Litiummetalli reagoi voimakkaasti veden kanssa, joten litium ja vesipohjainen elektrolyytti on erotettava toisistaan kiinteällä elektrolyytillä.
+
+
+=== Aproottisen ja vesipohjaisen yhdistelmä ===
+Aproottista ja vesipohjaista elektrolyyttiä yhdistävillä litium-ilma –akuilla pyritään yhdistämään molempien edut. Tämänkaltaiset akut ovat kaksiosaisia, joissa toinen osa on aproottinen ja toinen vesipohjainen. Nämä osat ovat erotettuna Li+ -johtavalla, yleensä keraamisella kalvolla. Anodi on yhteydessä aproottiseen osaan ja katodi vesipohjaiseen.
+
+
+=== Kiinteä ===
+Kiinteän olomuodon akuissa on litiumanodi, keraaminen tai lasinen elektrolyytti ja huokoinen hiilikatodi. Anodi ja katodi ovat tavallisesti erotettuna elektrolyytistä polymeeri/keraamisilla komposiittiaineilla, joka vahvistaa varauksen siirtoa anodilla. Heikkoutena kiinteän olomuodon akuissa on lasikeraamisten elektrolyyttien huono johtavuus. Etuna on turvallisuus, sillä ne eivät vahingoittuessaan aiheuta tulipalon vaaraa.
+
+
+== Käyttökohteet ==
+Litium-ilma akku tarjoaa teoriassa lähes saman ominaisenergian kuin bensiini, joten se on houkutteleva vaihtoehto autonvalmistajille.
+Litium-ilma akut esiteltiin jo 1970-luvulla mahdollisena virtalähteenä sähköautoille, mutta materiaalitekniikan kehityksen myötä, sekä uusiutuvien energialähteiden kasvavan kysynnän seurauksena, ne saavuttivat mielenkiintoa vasta 2000-luvun loppupuolella.
+Teoriassa litium-ilma-akku voisi tarjota huomattavasti paremman tehon sähkömoottoreille kuin nykyiset ratkaisut. Metalli-ilma akut, erityisesti sinkki-ilma -akut, ovat saaneet huomiota niiden korkean energiatiheyden ansiosta. Teoreettinen ominaisenergiatiheys Li-O2 akulle on 100 kertaa korkeampi kuin litiumioniakuille.
+
+
+== Haasteet ==
+Kaikkien akkujen perusongelmiin lukeutuvat: räjähdysvaara, lämpökarkaaminen, kestävyys, myrkyttömien sivutuotteiden syntyminen ladatessa/purettaessa sekä hinta. Myös litium-ilma -akkuja koskee useat näistä ongelmista. Akun reaktio tuottaa litium-peroksidia. Akku on tyhjä, kun kaikki positiivisesti varautuneet litiumionit ovat siirtyneet katodille, ja litiumperoksidia ei enää muodostu. Reaktion tuotteena syntyvä litiumperoksidi on huono johde, joka kulkeutuu elektrodille muodostaen siihen pinnoitteen ja täten estäen reaktion jatkuvan toiminnan. Cambridgessa tehty uusi tutkimus esittää mahdollisen ratkaisun edellä kuvailtuun ongelmaan. Yhdistämällä pieni määrä vettä ja litiumjodidia, saadaan aikaan litiumhydroksidia (LiOH). Elektrodi koostuu makrohuokoisesta grafeenista, joka kaappaa litiumhydroksidin ja täten estää sitä muodostamasta pinnoitetta. Litiumjodidi yhdistyy LiOH:n kanssa ja hajoaa, jonka johdosta grafeenin huokoset puhdistuvat. Tämä mahdollistaa täydellisen uudelleenlatauksen.
+
+
+== Lähteet ==

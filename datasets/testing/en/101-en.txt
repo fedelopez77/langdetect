@@ -1,0 +1,94 @@
+The SLS/Orion program is NASA's new program for beyond Low-Earth Orbit spaceflight. There are a number of notional, proposed missions for the program, none of which are confirmed. Some of the currently proposed NASA Design Reference Missions (DRM) and others include:
+
+
+== Unmanned missions ==
+
+
+=== Europa Clipper ===
+SLS has been proposed as a launch vehicle for a probe to Europa to study its atmosphere, magnetic and thermal characteristics, gravitational harmonics etc.
+
+
+=== Uranus orbiter and probe ===
+SLS has been proposed by Boeing as a launch vehicle for a Uranian probe. The rocket would "Deliver a small payload into orbit around Uranus and a shallow probe into the planet’s atmosphere." The mission would study the Uranian atmosphere, magnetic and thermal characteristics, gravitational harmonics as well as do flybys of Uranian moons.
+
+
+=== Titan Saturn System Mission ===
+SLS has been proposed as a launch vehicle for a probe to Saturn and its moons.
+
+
+== Lunar missions ==
+
+
+=== Exploration Mission 1 ===
+Exploration Mission 1 is scheduled to be the second mission of NASA's Orion on the Space Launch System. NASA had previously planned for this mission to a complete journey around the moon for 1 month.
+
+
+=== Exploration Mission 2 ===
+Exploration Mission 2 is scheduled to be the first crewed mission of NASA's Orion on the Space Launch System. NASA had previously planned for this mission for supply a power/propulsion module of Deep Space Gateway in Lunar Orbit.
+
+
+=== Exploration Mission 3 ===
+Exploration Mission 3 is scheduled to be the second crewed mission of NASA's Orion on the Space Launch System. NASA had previously planned for this mission for supply a Gateway Habitation Module of Deep Space Gateway in Lunar Orbit.
+
+
+=== Exploration Mission 4 ===
+Exploration Mission 4 is scheduled to be a third crewed mission of NASA's Orion on the Space Launch System. NASA had previously planned for this mission for supply a Gateway Logistics Module of Deep Space Gateway in Lunar Orbit.
+
+
+=== Exploration Mission 5 ===
+Exploration Mission 5 is scheduled to be a fourth crewed mission of NASA's Orion on the Space Launch System. NASA had previously planned for this mission for supply a Gateway Airlock Module of Deep Space Gateway in Lunar Orbit.
+
+
+=== Exploration Mission 6 ===
+Exploration Mission 6 is scheduled to be a sixth mission of NASA's Space Launch System. NASA had planned for this mission for supply a Deep Space Transport to the Deep Space Gateway in Lunar Orbit.
+
+
+=== Exploration Mission 7 ===
+Exploration Mission 7 is scheduled to be a fifth crewed mission of NASA's Orion on the Space Launch System. NASA had planned for this mission for long duration mission to the Deep Space Gateway in Lunar Orbit.
+
+
+=== Exploration Mission 8 ===
+Exploration Mission 8 is scheduled to be an eighth mission of NASA's Space Launch System. NASA had planned for this mission for supply a temporary refuel module to the Deep Space Transport for the Lunar missions.
+
+
+== Beyond Earth Orbit (BEO) Orion missions ==
+
+
+=== 2033 Forward Work Martian Moon Phobos/Deimos ===
+This is a crewed flexible path mission to one of the Martian moons. It would include 40 days in the vicinity of Mars and a return Venus flyby.
+
+
+=== 2037-2039 Forward Work Mars Landing ===
+This is a crewed mission, with four to six astronauts, to a semi-permanent habitat for at least 540 days on the surface of the red planet in 2033 or 2045. The mission would include in-orbit assembly, with the launch of seven SLS Block 2 heavy-lift vehicles (HLVs). The seven HLV payloads, three of which would contain nuclear propulsion modules, would be assembled in LEO into three separate vehicles for the journey to Mars; one cargo In-Situ Resource Utilization Mars Lander Vehicle (MLV) created from two HLV payloads, one Habitat MLV created from two HLV payloads and a crewed Mars Transfer Vehicle (MTV), known as "Copernicus", assembled from three HLV payloads launched a number of months later. Nuclear Thermal Rocket engines such as the Pewee of Project Rover were selected in the Mars Design Reference Architecture (DRA) study as they met mission requirements being the preferred propulsion option because it uses proven technology, has higher performance, lower launch mass, creates a versatile vehicle design, offers simple assembly, and has growth potential. A nuclear reactor serving as the power source for Ion propulsion was also an alternative option, in the case NTRs were not available.
+
+
+== Other proposed missions ==
+
+
+=== 2024 Single Shot MSR on SLS ===
+This is a crewed flight with a telerobotic Mars Sample Return mission proposed by NASA's Mars Program Planning Group. The time frame suggests SLS-5, a 105 t rocket to deliver an Orion capsule, SEP robotic vehicle, and Mars Ascent Vehicle (MAV). "Sample canister could be captured, inspected, encased and retrieved tele-robotically. Robot brings sample back and rendezvous with a crew vehicle." The mission may also include a "Possible Mars SEP (Solar Electric Power/Propulsion) Orbiter".
+
+
+=== Potential sample return missions ===
+PSR mission to Europa and Enceladus have also been noted.
+
+
+=== Skylab II ===
+
+Skylab II, proposal by Brand Griffin, an engineer with Gray Research Inc working with NASA Marshall, to use the upper stage hydrogen tank from SLS to build a 21st-century version of Skylab for future NASA missions to asteroids, Earth-Moon Lagrangian point-2 (EML2) and Mars.
+
+
+=== Five Near Earth Asteroid (NEA) missions ===
+They are ranging from "minimum" to "full" capability are being studied. Among these are two NASA Near Earth Object (NEO) missions in 2026. A 155-day mission to NEO 1999 AO10, a 304-day mission to NEO 2001 GP2, a 490-day mission to a potentially hazardous asteroid such as 2000 SG344, utilizing two Block 1B SLS vehicles, and a Boeing-proposed NEO mission to NEA 2008 EV5 in 2024. The latter would start from the proposed Earth-Moon L2 based Exploration Gateway Platform. Utilising an SLS third stage the trip would take about 100 days to arrive at the asteroid, 30 days for exploration, and a 235-day return trip to Earth.
+
+
+=== High Altitude Venus Operational Concept ===
+This is a manned Venus mission using two SLS Block 1B launches to send a crew of 2 to explore the atmosphere of Venus for 1 month, with retrieval in Earth orbit by a commercial crew vehicle or an Orion.
+
+
+=== Advanced Technology Large-Aperture Space Telescope (ATLAST) ===
+
+SLS has been proposed by Boeing as a launch vehicle for the ATLAST telescope. This will be an 8 m monolithic telescope or a 16.8 m deployable telescope at the Earth-Sun L2 point.
+
+
+== References ==

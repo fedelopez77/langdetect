@@ -1,0 +1,15 @@
+Membránový potenciál je definovaný ako rozdiel elektrického potenciálu medzi vonkajšou a vnútornou stranou biologickej membrány. Fyzikálne ide o napätie polarizovanej polopriepustnej membrány – napríklad na membráne nervového vlákna je jeho hodnota cca 80 mV. Príčinou vzniku je odlišná koncentrácia iónov Na+, K+ a Cl- na oboch stranách membrány, pričom vonkajšia plocha nesie kladný a vnútorná záporný náboj. Táto nerovnováha koncentrácií je udržiavaná transportnými systémami plazmatickej membrány, ktoré aktívne prenášajú ióny do a z bunky.
+Významnú úlohu pri udržiavaní membránového potenciálu zohrávajú aj ióny Ca2+, konkrétne ich koncentrácia v samotnej bunke. Nepodieľajú sa významnejšie na jeho hodnote priamo, no ovplyvňujú priepustnosť membrány pre Na+, K+ a Cl-.
+Veľkosť membránového potenciálu určujú:
+rozdielne koncentrácie iónov na oboch stranách membrány (Na+ a Cl- mimo bunky, K+ a záporne nabité proteíny v bunke)
+vlastnosťami plazmatickej membrány, ktorá je rôzne priepustná pre rôzne ióny (tzv. semipermeabilná membrána); napr. je prakticky nepriepustná pre ióny sodíka
+činnosť Na-K pumpy, ktorá transportuje ióny v pomere: 3 Na+ von z bunky  –  2 K+ do bunky. Na túto činnosť je potrebná energia ATP.
+Stabilná hodnota membránového potenciálu je riadená systémom negatívnej spätnej väzby.
+
+
+== Pozri aj ==
+Akčný potenciál
+
+
+== Zdroj ==
+KITTNAR, Otomar a kol. Lékařská fyziologie. Praha : Grada, 2011. ISBN 978-80-247-3068-4. (po česky)

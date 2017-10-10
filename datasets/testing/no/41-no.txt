@@ -1,15 +1,60 @@
-Store russiske encyklopedi (eller SRE) (russisk: Большая российская энциклопедия (БРЭ) – Bolsjaja rossijskaja entsiklopedija - BRE) er et nytt universelt leksikon i 30 bind, utgitt i Russland fra 2004. Det blir utgitt med hjelp av Det russiske vitenskapsakademi etter Vladimir Putins presidentdekret № 1156 i 2002.
-Hovedredaktøren for Store russiske encyklopedi er Vitenskapsakademiets president Jurij Osipov. Redaksjonens styre omfatter 80 av akademiets medlemmer, herunder nobelprisvinnerne Zjores Alfjorov og Vitalij Ginzburg.
-Det første, innledende bindet, som ble utgitt i 2004, handlet utelukkende om Russland, og er planlagt gjenutgitt hvert femte år. Fra 2005 til 2010 er det utgitt seksten bind, fra «А» til «Ласточковые».
+Coulomb kalles enheten for elektrisk ladning i SI-systemet og forkortes med C. Ladningen betegnes med formelsymbolet Q. Coulomb er oppkalt etter den franske fysikeren Charles Augustin Coulomb som fant Coulombs lov. En coulomb er en avledet SI-enhet definert som et amperesekund (As). En ladning på 1 C tilsvarer en samling av 6,24150948×1018 elektroner, hvilket er det samme som 6,24 milliarder milliarder. Dette tilsvarer at et elektron har den elementære ladningen
 
+  
+    
+      
+        e
+        =
+        −
+        1
+        ,
+        60217657
+        ×
+        
+          10
+          
+            −
+            19
+          
+        
+        
+          C
+        
+      
+    
+    {\displaystyle e=-1,60217657\times 10^{-19}\mathrm {C} }
+  
+Et proton har nøyaktig samme ladning, men med positivt fortegn.
+Innen elektrokjemien brukte man tidligere en ladningsenhet som tilsvarer Faradays konstant
 
-== Se også ==
-Store sovjetiske encyklopedi
-
-
-== Referanser ==
-
-
-== Eksterne lenker ==
-Store russiske encyklopedi sitt offisielle nettsted
-(en) Kategori:Great Russian Encyclopedia – bilder, video eller lyd på Wikimedia Commons (russisk)
+  
+    
+      
+        F
+        =
+        e
+        
+          N
+          
+            A
+          
+        
+        =
+        96485
+        ,
+        340
+        
+        
+          C
+          
+            /
+          
+          m
+          o
+          l
+        
+      
+    
+    {\displaystyle F=eN_{A}=96485,340\,\mathrm {C/mol} }
+  
+hvor NA er Avogadros konstant. Siden både denne og verdien til F var kjent i siste halvdel av 18-århundretallet, kunne man derfor allerede da finne en ganske nøyaktig verdi for elementærladningen e uten at man visste noe om eksistensen av elektroner eller protoner.

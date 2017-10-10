@@ -1,0 +1,2 @@
+Ühesuunaline funktsioon on arvutiteaduses kasutatav funktsioon mida on suvalisel sisendil lihtne arvutada aga võttes suvalise kujutise on raske leida originaali.
+Ei ole teada kas ühesuunalised funktsioonid eksisteerivad. Kui õnnestub tõestada, et ühesuunalised funktsioonid eksisteerivad siis sellest järeldub, et keerukusklassid N ja NP ei ole võrdsed. Samas ei järeldu keerukusklasside N ja NP mittevõrdsuse tõestusest otseselt ühesuunaliste funktsioonide eksistents.

@@ -1,23 +1,51 @@
-Le Musée de la Pipe et du Diamant de Saint-Claude est un musée de la pipe, des diamants et des pierres précieuses fondé en 1966 à Saint-Claude dans le Haut-Jura.
+Le réseau basque de la compagnie des Voies Ferrées Départementales du Midi est un réseau de tramway créée en 1916 pour desservir le Pays basque dans le département des Pyrénées-Atlantiques. Il a fonctionné entre 1916 et 1949.
+Toutes les lignes sont construites à voie métrique et électrifiées, excepté la ligne de Saint-Jean-Pied-de-Port à Mendive.
 
 
-== Description ==
-Saint-Claude est au XIXe siècle le centre mondial de l'industrie de la pipe et un site réputé de taille du diamant et des pierres précieuses.
-La Confrérie des Maitres-Pipiers et l'Association des Diamantaires du Haut-Jura de Saint-Claude se sont associées pour présenter dans ce musée l'histoire de la fabrication des pipes ainsi que l'histoire de l'industrie de la taille des pierres précieuses à Saint-Claude.
-Y sont exposés : collections de pipes d'hier et d'aujourd'hui, tabatières, diamants, pierres précieuses et pierres de synthèse taillés, chefs d’œuvres de différents artisans, outils et machines d'autrefois, atelier de fabrication et de taille, photos, documents, projection de vidéo...
+== Les lignes ==
+
+Bayonne - La Barre - Biarritz:(9 km), ouverture en 1916 et 1919 - fermeture en 1948 ;
+Biarritz - Saint-Jean-de-Luz - Hendaye (Midi) : (26 km), ouverture en 1924-25, fermeture en 1935 ;
+Saint-Jean-de-Luz - Sare : (15 km), ouverture en 1924, fermeture en 1936;
+Ceinture de Biarritz : (4 km), ouverture en 1927, fermeture en 1936 ;
+À ces lignes s'ajoutaient
+le réseau des tramways d'Hendaye : (4 km), ouverture en 1906, fermeture en 1937 ;
+le chemin de fer de la Rhune : (4 km), ouverture en 1924,
+Saint-Jean-Pied-de-Port - Mendive : (8 km), (ligne isolée), ouverture en 1927, fermeture en 1936 ; exploitée pour le trafic des marchandises uniquement par un entrepreneur privé et non électrifiée.
+
+
+== Matériel roulant ==
+Automotrices électriques
+EABe 1 à 9, à 2 essieux, livrées de 1914 à 1919, puissance: 2 x 67cv
+EABye 101 à 109, à bogies, livrées de 1922 à 1924, puissance: 4 x 67cv
+EABye 121 à 123, à bogies, livrées en 1925, puissance: 4 x 67cv
+EABye 201, à bogies, livrée en 1925, puissance: 4 x 67cv
+ZABye 1 à 6, à bogies, livrées en 1932, puissance: 4 x 75cv
+Voitures à voyageurs
+AB e 1 à 18, à 2 essieux, livrées en 1925
+AB e 19 à 20, à 2 essieux, livrées en 1920
+BD e 51 à 65, à 2 essieux, livrées en 1925
+By e 1 à 6, à bogies, livrées en 1932
+
+
+== Notes et références ==
+
+
+== Bibliographie ==
+Henri Domengie, Les petits trains de jadis - Sud-Ouest de la France, Éd. du Cabri, Breil-sur-Roya, 1986 (ISBN 2-903310-48-3)
 
 
 == Voir aussi ==
 
 
 === Articles connexes ===
-Tabac - Pipe - Confrérie des Maitres-Pipiers
-Diamants - Pierres précieuses - Association des Diamantaires du Haut-Jura
+Tramway
+Liste des chemins de fer à voie métrique de France
 
 
-=== Liens externes ===
-www.musee-pipe-diamant.com
- Portail des musées
- Portail du tabac
- Portail des minéraux et roches
- Portail du département du Jura
+=== Lien externe ===
+Image d'un train en ligne
+
+.
+ Portail du chemin de fer
+ Portail des Pyrénées-Atlantiques

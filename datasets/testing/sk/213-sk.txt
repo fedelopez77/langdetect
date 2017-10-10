@@ -1,0 +1,48 @@
+Vápnik (calcium) je chemický prvok v Periodickej tabuľke prvkov, ktorý má značku Ca a protónové číslo 20. Je to mäkký, ľahký kov, ktorý patrí medzi kovy alkalických zemín. Búrlivo reaguje s kyslíkom i vodou, preto sa s ním v prírode stretávame len v podobe zlúčenín. Ako biogénny prvok je jedným zo základných stavebných kameňov buniek všetkých živých organizmov na Zemi. Je tiež najvýznamnejšie zastúpeným kovom v organizmoch. Slovenský aj latinský názov je odvodený od názvu vápna a vápenca (lat. calx). Soli vápnika farbia plameň do červena. Vápnik objavil v roku 1808 sir Humphry Davy.
+
+
+== Výskyt v prírode ==
+Vďaka svojej veľkej reaktivite sa v prírode stretávame iba so zlúčeninami vápnika a to len s mocenstvom Ca2+.
+Zemská kôra je z veľkej časti tvorená horninami, v ktorých vápnik tvorí podstatnú zložku. Podľa posledných dostupných údajov tvorí vápnik 3,4 – 4,2% zemskej kôry a je piatym najviac zastúpeným prvkom. V morskej vode je jeho koncentrácia iba 0,4 g Ca/l a vo vesmíre pripadá na jeden atóm vápniku približne pol miliónu atómov vodíka.
+Najbežnejšou horninou na báze vápnika je vápenec, uhličitan vápenatý CaCO3 tvorený minerálom kalcitom rovnakého chemického zloženia. Táto hornina sa nachádza prakticky vo všetkých lokalitách biologického pôvodu a pochádza zo schránok obyvateľov pravekých (predovšetkým druhohorných) morí. Napr. Česko patrí vo svete medzi štáty s najbohatším výskytom hornín vápencového typu, známa je napríklad lokalita medzi Prahou a Berounom alebo Moravský kras.
+Špeciálny typ predstavuje krieda, takmer čistý mäkký pórovitý vápenec s typicky žiarivo bielou farbou, nachádzajúci sa napríklad na pobreží kanálu La Manche. Jej najväčšie ložiská vznikli v rovnomennom geologickom období v pravekých moriach vyzrážaním uhličitanu vápenatého na usadených vápenitých škrupinách prvokov. Najznámejším využitím je plavením prírodnej kriedy vyrobená písacia krieda, dôverne známa zo školského prostredia.
+Najviac cenenou odrodou vápenca je mramor, používaný predovšetkým k dekoratívnym účelom - obklady budov, sochy. Významné náleziská sú na Apeninskom polostrove (carrarský mramor), ale i v Česku (slivenecký mramor). Ide o premenenú horninu vzniknutú z vápenca rekryštalizovaného vysokým tlakom a teplotou. Výsledná farba je závislá na prísadách a pigmente v pôvodnej hornine. Prísady, ktoré sa v pôvodnej hornine vyskytovali vo vrstvách alebo v žilách, sa metamorfózou pretvárajú na charakteristickú mramorovú kresbu. Ta ho činí menej pevným, preto sa mramor s kresbou zvyčajne nepoužíva pre sochy.
+Vzájomné chemické prechody medzi uhličitanom a hydrogénuhličitanom vápenatým Ca(HCO3)2 sú príčinou vzniku krasových javov. Princíp týchto procesov spočíva v tom, že hydrogénuhličitan vápenatý je vo vode rozpustný viac než uhličitan vápenatý. Ak sa roztok Ca(HCO3)2 v podzemnej vode dostane do kontaktu s atmosférickým oxidom uhličitým CO2, dôjde k vzniku málo rozpustného uhličitanu, ktorý sa usadí na mieste svojho vzniku. Tieto prírodné úkazy sa vyskytujú v jaskynných systémoch po celom svete a pomalý rast stalaktitov, stalagmitov a stalagnátov je geologickou obdobou rastu a vývoja živých organizmov v prírode.
+
+Ďalším významným zdrojom vápnika je dolomit, zmiešaný uhličitan horečnato-vápenatý CaMg(CO3)2, ktorého ložiská sa nachádzajú v južnej Európe, Brazílii, južnej Austrálii a Severnej Amerike.
+Apatit je pomerne komplikovaný fosforečnan vápenatý, ktorý patrí medzi významné prírodné zdroje vápnika.
+Fluorit alebo kazivec je minerál s chemickým zložením CaF2 (fluorid vápenatý). Jeho ložiska sa nachádzajú v Číne, USA, Anglicku, Nemecku a Českej republike. Využíva sa predovšetkým ako surovina pre výrobu fluóru, ale i ako dekoratívny kameň pre výrobu ozdobných predmetov.
+Sadrovec je hydratovaný síran vápenatý CaSO4 · 2 H2O. Vyskytuje sa pomerne hojne v strednej Európe (ČR, SR, Nemecko, Rakúsko) a USA.
+
+
+== Výroba a využitie ==
+Kovový vápnik sa priemyselne vyrába elektrolýzou taveniny chloridu alebo fluoridu vápenatého. Ďalším produktom tejto reakcie je elementárny chlór alebo fluór, ktorý je ihneď ďalej spracovávaný v chemickej výrobe.
+Elementárny vápnik vykazuje veľmi silné redukčné vlastnosti a jemne rozptýlený kov sa využíva na redukcie v organickej syntéze ale i redukčnej výrobe iných kovov, napr. uránu, zirkónia alebo tória.
+Veľká reaktivita kovového vápnika slúži v metalurgii na odstraňovanie malých množstiev síry a kyslíka z taveniny železa a pri výrobe ocele.
+
+
+== Zlúčeniny a ich využitie ==
+Zásadný význam majú zlúčeniny vápniku v stavebníctve. Termickým rozkladom vápenca vzniká oxid vápenatý, CaO, známy ako pálené vápno.
+CaCO3 → CaO + CO2
+Reakciou páleného vápna s vodou vzniká hydroxid vápenatý Ca(OH)2, čiže hasené vápno.
+CaO + H2O → Ca(OH)2
+Hasené vápno je v stavebníctve zložkou mnohých dôležitých pojivých prvkov ako je napr. malta, omietkové zmesi atď. Pri ich aplikácii dochádza k reakcii zásaditého vápna so vzdušným oxidom uhličitým za vzniku pôvodného uhličitanu vápenatého CaCO3.
+Ca(OH)2 + CO2 → CaCO3 + H2O
+Podobné, i keď obmedzenejšie využitie má sadra, teda hemihydrát síranu vápenatého CaSO4 · ½ H2O. Táto zlúčenina sa vyrába termickým rozkladom sadrovca CaSO4 · 2 H2O a po zmiešaní s vodou dochádza k opätivnej hydratácii a vzniká žiarivo biela, pomerne pevná a tvrdá hmota. Má všestranné využitie v stavebníctve, pri výrobe kópií rôznych predmetov (v zubnom lékarstve) atď. Podľa podmienok pri výrobe sadry a prísad pri jej tuhnutí je možné docieliť celú škálu výsledných produktov s rôznou tvrdosťou, rýchlosťou tuhnutia, farbou a pod.
+Vápno i sadra sú zložkami pri výrobe dnes pravdepodobne najbežnejšieho stavebného materiálu – cementu. Po zmiešaní s pieskom a vodou vzniká pevná, tvrdá a odolná hmota – betón, s ktorou sa stretávame denne ako materiálom na konštrukciu moderných stavieb a základným materiálom ciest, leteckých pristávacích dráh, železničných pražcov a pod.
+Chlorid vápenatý normálne viaže 2 molekuly vody CaCl2 · 2 H2O. Zahriatim je možné kryštalickú vodu odstrániť a látku použiť na sušenie organických tekutín alebo plynov.
+Fosforečnany vápenaté, napr. CaHPO3, sa používajú ako priemyselné hnojivá, dodávajúce rastlinám fosfor a vápnik.
+Zlúčenina vápnika s uhlíkom - karbid vápenatý, CaC2 reakciou s vodou uvoľňuje acetylén a bol v minulosti používaný na svietenie v lampách, tzv. karbidkách.
+
+
+== Biologický význam vápnika ==
+Vápnik patrí medzi biogénne prvky, ktoré sú nevyhnutné pre všetky živé organizmy. V telách stavovcov je základnou súčasťou kostí a zubov, nachádza sa ale i vo svaloch, krvi a ďalších telesných tkanivách.
+Tvrdé schránky — škrupiny a mušle rozmanitých tvarov a veľkostí chrániace telá rôznych morských i sladkovodných ulitníkov a lastúrnikov sú tvorené z veľkej časti predovšetkým zlúčeninami vápnika.
+Mohutné koralové útesy, ktoré po stáročia vytvárajú morské polypy z triedy koralovcov, sú zvyšky vápenitých kostier týchto uhynutých živočíchov. V našej prírode sa najčastejšie stretávame so slimákmi, ktorých ich vápenitá ulita chráni pred predátormi.
+V ľudskej potrave predstavuje vápnik veľmi podstatnú zložku. Pretože je nevyhnutný pre zdravý vývin a rast kostí a zubov, je dôležité, aby sa pravidelne vyskytoval predovšetkým v jedálnom lístku detí a mládeže. Dôležitý pritom nie je len dostatok samotného vápnika, ale i vitamínu D, ktorý pomáha pri ukladaní vápnika do kostnej hmoty. Nedostatok niektorého z týchto faktorov je príčinou krivice (rachitídy). Starším ľuďom ubúda vápnik z kostnej hmoty, čo sa prejavuje ako tzv. osteoporóza (rednutie kostí). Kosti sú krehké, ľahko sa lámu a zlomeniny sa naopak ťažko a veľmi zdĺhavo hoja.
+Uvádza sa, že denná dávka vápnika by mala činiť 800 – 1 000 mg denne, ženy počas dojčenia ešte asi o 500 mg viac. Hlavným zdrojom vápnika v ľudskej potrave je mlieko a mliečne výrobky. Okrem toho je vápnik vo zvýšenej miere prítomný vo väčšine listovej zeleniny, semenách, orechoch, ovsených vločkách a v minerálnych vodách. Je potrebné si uvedomiť, že ľudská strava má byť celkovo vyvážená a spolu s prísunom dôležitého množstva vápnika musí obsahovať i dostatok ostatných minerálnych zložiek (napr. horčíka alebo fosforu).
+
+
+== Iné projekty ==
+
+ Commons ponúka multimediálne súbory na tému vápnik

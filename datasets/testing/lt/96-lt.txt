@@ -1,0 +1,34 @@
+Parengiamoji doroklė – kompiuterio programa, įvestyje atpažįstanti tam tikras komandas, ir išvedanti jų rezultatus, įterptus komandos vietoje.
+Labiausiai tai paplitę tarp programavimo įrankių. Pavyzdžiui, C kompiliatoriaus įprastam veikimui būtinas preprocesorius. Modernios kalbos parengiamosios doroklės dažniausiai nenaudoja.
+
+
+== C parengiamoji doroklė ==
+Jis atpažįsta komandas, reikalingiausias programų rašyme.
+Gali „įterpti“ (include) kitą failą.
+Gali nustatyti tam tikrus savo erdvės kintamuosius arba gauti jų reikšmes
+Minimalūs sąlygos sakiniai
+Galimas darbas su makrosais
+Failo įdėjimas:
+
+ #include <failas>
+ #include „failas“
+
+Pirmuoju atveju failo pirmiausiai ieškoma kompiliatoriui žinomame sisteminiame kataloge, antruoju – einamajame aplanke.
+Reikšmių nustatymas:
+
+ #define HAVE_FOOBAR 1
+ #ifdef HAVE_FOOBAR
+   ...
+ #endif
+
+Makrosai:
+
+ #define ODDP(x)           ((x)%2==1)
+
+ .. if (ODDP(3)) { ...
+
+
+== Galingesnės parengiamosios doroklės ==
+M4
+autogen
+WML

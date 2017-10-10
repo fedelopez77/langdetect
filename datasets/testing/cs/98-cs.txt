@@ -1,0 +1,36 @@
+Prohoz (angl.: picking, něm.: Schusseintrag) je odborný výraz pro činnost zanášení útku prošlupem mezi osnovní niti při výrobě tkanin.
+Rychlost a délka dráhy prohozu podstatně ovlivňují výkonnost stroje. Teoretický výkon (P) v m/min vyjádřený vzorcem
+P = počet prohozů / min. x délka zanešeného útku (m)
+je jedno z hlavních měřítek pro porovnání různých typů tkacích strojů.
+
+
+== Druhy prohozních ústrojí ==
+K zanášení útku slouží prohozní ústrojí, jejichž konstrukce byly během posledních více než 200 letech vyvinuty v mnoha variantách. Na začátku 21. století patří k základním, prakticky používaným typům zejména:
+
+
+== Rozsah použití prohozních zařízení ==
+Popsané techniky prohozu se ve světě používají na více než 8 milionech tkacích strojů. Z toho:
+Člunkový prohoz (na 2,8 milionech ručních  a 4 milionech mechanických stavech 
+Bezčlunkový prohoz (na 1,2 milionech skřipcových, jehlových, pneumatických a hydraulických strojích 
+Několik desítek tisíc kruhových a stuhových strojů je vybaveno speciálně upraveným prohozním ústrojím.
+V tabulce nejsou uvedeny:
+Víceprošlupní stroje dosahovaly ve zkušebním provozu výkonu až 6000 m/min, ve větším měřítku se však neprosadily a v roce 2005 se přestaly vyrábět.
+Stroje na kovové, netextilní tkaniny mohou zatkávat s jehlovým prohozním ústrojím až 450 m drátu za minutu. 
+Skřipcové stroje s mimořádnou pracovní šířkou (až 12 m) používané ke tkaní filmových pláten a geotextilií. Např. stroj se šířkou paprsku 846 cm běží se 130 obr./min. 
+
+
+=== Prohoz barevných útkových nití ===
+Výběrem ze 4 až 16 barev útkových nití a jejich systematickým zaváděním do prohozního ústrojí se vzorují tkaniny na strojích s běžnou pracovní šířkou do 150 cm.
+Používaná zařízení:
+U člunkových strojů je to (nejčastěji) tzv. stoupací člunečník (zásobník) sestávající ze 4 skříněk umístěných vedle prohozního ústrojí. Každá skříňka nese člunek s přízí v určité barvě, vertikální pohyb skříněk, kterým se přivádí člunek s požadovanou barvou příze přímo k prohoznímu ústrojí, je řízen speciální vačkou.
+U bezčlunkových strojů se odvíjí příze s patřičnou barvou z křížem soukané cívky umístěné na okraji stroje. Záměna barev je řízena listovým nebo žakárovým ústrojím a u strojů s vačkovým prošlupem děrnými kartami speciálního agregátu.  
+
+
+== Spotřeba elektrické energie v závislosti na způsobu prohozu ==
+U standardních tkacích strojů se počítá s následujícími poměry: 
+
+
+== Galerie prohozních ústrojí ==
+
+
+== Reference ==

@@ -1,78 +1,58 @@
-Le Olimpiadi degli scacchi del 1970 furono la diciannovesima edizione ufficiale (organizzata dalla FIDE) della manifestazione. Si svolsero a Siegen, in Germania Ovest, dal 5 al 27 settembre, e l'unico torneo previsto era quello open, disputato su quattro scacchiere. Contestualmente si svolse anche un congresso della FIDE.
+Landa Tenebrosa (in inglese Shadowmoor) è un'espansione del gioco di carte collezionabili Magic: l'Adunanza, edito da Wizards of the Coast. In vendita in tutto il mondo dal 2 maggio 2008, assieme al set successivo Vespro forma un mini-blocco a sé stante chiamato blocco di Landa Tenebrosa.
 
 
-== Torneo ==
-60 nazioni parteciparono a questa edizione delle Olimpiadi, con 360 giocatori; altre quattro squadre non poterono partecipare a causa di problemi di spazio. Le squadre furono divise in sei gironi da dieci squadre, e successivamente in cinque diverse finali. Come nell'edizione precedente, il risultato della partita tra due squadre qualificatesi alla stessa finale dallo stesso girone fu considerato valido anche per la finale.
-Anche l'apartheid entrò nelle Olimpiadi. Infatti, nei preliminari, l'Albania si rifiutò di giocare la partita contro il Sudafrica, e la parita fu quindi assegnata 4-0 a forfait.
+== Ambientazione ==
+Landa Tenebrosa non è altro che il nuovo nome con cui è conosciuto il piano dimensionale di Lorwyn, un tempo un luogo idilliaco popolato da creature da fiaba ora trasformato in un mondo spaventoso e crudele perennemente avvolto nelle tenebre.
 
 
-=== Prima fase ===
-Nel primo girone, alle spalle dell'Unione Sovietica, la lotta per qualificarsi alla finale A fu combattuta tra Spagna e Polonia; quest'ultima non riuscì a qualificarsi dopo aver perso dei punti preziosi con Perù, Tunisia e Repubblica Dominicana, non riuscendo al penultimo turno a battere gli spagnoli. Nel secondo gruppo l'Inghilterra perse la possibilità di qualificarsi dopo un errore di Jonathan Penrose, che lo portò a perdere una partita decisiva, mentre la Mongolia, battendo l'Indonesia all'ultimo turno per 2,5-1,5, permise al Canada di qualificarsi, non ottenendo abbastanza punti per superarli e facendo sopravanzare gli indonesiani di canadesi. Nel terzo gruppo, i Paesi Bassi perse con la Germania Est e non riuscì a superare gli Stati Uniti, facendosi relegare così nella finale B.
-Romania e Ungheria si qualificarono a spese della Danimarca nel gruppo 4, mentre nel quinto girone Israele andò vicino a qualificarsi sopravanzando Argentina e Cecoslovacchia, che persero diversi punti contro squadre meno titolate. Infine, nel sesto gruppo, Bulgaria e Germania Ovest si qualificarono senza problemi nella finale A.
-Nei seguenti elenchi, ogni colonna rappresenta un girone; in grassetto sono evidenziati i qualificati alla finale A, mentre per gli altri viene indicata tra parentesi la finale cui hanno partecipato.
+== Caratteristiche ==
+L'espansione è formata da 301 carte così suddivise:
+per colore: 27 bianche, 27 blu, 27 nere, 27 rosse, 27 verdi, 111 multicolore/ibride, 24 incolori, 31 terre.
+per rarità: 121 comuni, 80 non comuni, 80 rare, 20 terre base.
+Il simbolo dell'espansione è un'ala di pipistrello, e si presenta nei consueti tre colori a seconda della rarità: nero per le comuni, argento per le non comuni, e oro per le rare.
+Landa Tenebrosa è disponibile in bustine da 15 carte casuali, in mazzi da torneo contenenti 75 carte assortite casualmente, e in 5 mazzi tematici precostituiti da 60 carte ciascuno:
+Supremazia dell'Aura (bianco/blu)
+Spirale di Morte (nero/blu)
+Annientamento (rosso/verde)
+Esercito di Entropia (rosso/nero)
+Dietrofront (verde/bianco)
 
 
-==== Gruppi 1-3 ====
+=== Curiosità ===
+Landa Tenebrosa fu presentata in tutto il mondo durante i tornei di prerelease il 19 aprile 2008; in quell'occasione venne distribuita una speciale carta olografica promozionale, il Semidio della Vendetta, che presentava un'illustrazione alternativa rispetto alla carta che si poteva trovare nelle bustine.
+Nell'espansione sono state ristampate le seguenti carte già presenti in set precedenti:
+Lavativo della Prateria Brumosa (dal set Visione Futura)
+Tumuli Scolpiti (dal set Visione Futura)
+Ultimo Respiro (dal set Maschere di Mercadia)
+Tortura (presente nel set base Quinta Edizione e nell'espansione Origini)
+Flusso di Idee (dal set Ravnica: Città delle Gilde)
+Corrompere (presente nel set base Settima Edizione e nell'espansione Saga di Urza)
+Pozza Riflettente (dal set Tempesta)
 
 
-==== Gruppi 4-6 ====
+== Errori di traduzione ==
+Una carta di questo set ha ricevuto il nome Colonna di Fuoco nella sua versione italiana, come traduzione dell'originale Firespout, sebbene una carta chiamata Colonna di Fuoco fosse già stata stampata nella versione italiana dell'espansione Flagello, che era invece la traduzione di Pyrostatic Pillar, una carta completamente diversa. Questo può confondere i giocatori italofoni, che devono sapere a quale delle due carte ci si sta riferendo quando si parla di Colonna di Fuoco, essendo nei fatti due carte diverse.
 
 
-=== Seconda fase ===
-La seconda fase cominciò il 16 settembre, e i primi turni videro al primo posto l'Unione Sovietica e l'Ungheria. Questi si ritrovarono da soli al comando dopo che i sovietici pareggiarono con la Jugoslavia e vinsero di poco con gli Stati Uniti (la partita Spassky-Fischer, vinta dal primo, attirò un gran numero di spettatori), ma persero con gli iugoslavi al settimo turno, e furono superati di nuovo dai sovietici, che vinsero l'oro battendo negli ultimi turni una serie di squadre più deboli. Gli ungheresi riuscirono comunque ad ottenere l'argento, ad un solo punto di distanza dall'oro, battendo gli Stati Uniti, che arrivarono quarti, preceduti anche dalla Jugoslavia.
+== Novità ==
+Landa Tenebrosa introduce importanti novità nel gioco: oltre a tre nuove abilità definite da parole chiave, presenta le magie ibride monocromatiche e il nuovo simbolo di STAP.
 
 
-=== Risultati assoluti ===
+=== Nuove abilità ===
 
 
-==== Finale A ====
+==== Cospirare ====
+Abilità di alcune magie istantaneo o stregoneria che ti permette di copiare una volta quella magia se tappi due creature che condividono un colore.
 
 
-==== Finale B ====
+==== Persistere ====
+Quando una creatura con persistere viene messa in un cimitero dal gioco, se quella creatura non aveva segnalini -1/-1 su di sé, puoi rimetterla in gioco con un segnalino -1/-1 su di sé.
 
 
-==== Finale C ====
-
-
-==== Finale D ====
-
-
-==== Finale E ====
-
-
-=== Risultati individuali ===
-
-
-==== Prima scacchiera ====
-
-
-==== Seconda scacchiera ====
-
-
-==== Terza scacchiera ====
-
-
-==== Quarta scacchiera ====
-
-
-==== Quinta scacchiera (prima riserva) ====
-
-
-==== Sesta scacchiera (seconda riserva) ====
-
-
-== Congresso ==
-Contestualmente alle Olimpiadi si svolse il quarantunesimo congresso della FIDE. Durante questo il suo presidente, Folke Rogard, lasciò la guida dell'organizzazione ed al suo posto venne eletto l'ex Campione del mondo Max Euwe.
-Fu inoltre proposto ed adottato un nuovo metodo, ideato da un comitato comprendente Svetozar Gligoric, Arpad Elo e il vice presidente Dorazil, per il conferimento dei titoli di Grande maestro e di Maestro Internazionale.
-
-
-== Note ==
-
-
-== Altri progetti ==
-
- Wikimedia Commons contiene immagini o altri file su Olimpiadi degli scacchi del 1970
+==== Avvizzire ====
+Una magia o un permanente con avvizzire infligge danno sotto forma di segnalini -1/-1 invece come normali punti danno, quindi i danni inflitti a una creatura rimangono su di essa in forma di segnalini -1/-1, mentre i danni inflitti a un giocatore o un viandante vengono trattati in modo normale.
 
 
 == Collegamenti esterni ==
-Su OlimpBase, olimpbase.org.
+(EN) Pagina Ufficiale, wizards.com.
+(EN) Lista delle carte, ww2.wizards.com.

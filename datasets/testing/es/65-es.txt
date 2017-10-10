@@ -1,0 +1,20 @@
+SWIFT (del inglés: Society for Worldwide Interbank Financial Telecommunication, es decir, Sociedad para las Comunicaciones Interbancarias y Financieras Mundiales) es una organización que tiene a cargo una red internacional de comunicaciones financieras entre bancos y otras entidades financieras. En diciembre de 2005 tenía enlazadas más de 7.700 entidades financieras en 204 países. Se estima que en 2001 transmitió mensajes de órdenes de pago por un valor promedio de más de seis mil millones de dólares estadounidenses (6.000.000.000 USD) por día en 2001, y que en 2005 trasmitió cerca de dos mil trescientos millones de mensajes.
+SWIFT es una Sociedad Cooperativa bajo legislación belga, propiedad de sus propios miembros con oficinas alrededor de todo el mundo. La oficina central se encuentra en La Hulpe, cerca de Bruselas.
+
+
+== Historia ==
+SWIFT se fundó en Bruselas, Bélgica, en 1973, bajo el liderazgo de su primer director general Carl Reuterskiöld (1973-1983)[1]​ y el respaldo de 239 bancos en 15 países. Ayudó a establecer un estándar en común para las transacciones financieras así como un sistema de procesamiento de datos compartidos y una red de telecomunicaciones a nivel mundial. Los procedimientos de operación fundamentales, reglas para definir responsabilidades, etc. fueron establecidos en 1975 y el primer mensaje SWIFT se envió en 1977.
+El primer Centro de Operaciones de SWIFT en los Estados Unidos fue inaugurado por el entonces gobernador de Virginia John N. Dalton en 1979.
+
+
+== Véase también ==
+Código SWIFT (o BIC)
+Liquidación bruta en tiempo real (RTGS) (en inglés)
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Sitio oficial de SWIFT
+Prowide Core (anteriormente "WIFE"): librería Java Open Source para procesamiento de mensajes SWIFT

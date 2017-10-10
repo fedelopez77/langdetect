@@ -1,0 +1,16 @@
+PowerPC 620 to 64-bitowy mikroprocesor implementujący założenia architektury PowerPC oraz podzbiór założeń architektury POWER.
+
+
+== Charakterystyka ==
+data wprowadzenia na rynek: wrzesień 1994
+technologia produkcji: 0,50 µm.
+liczba tranzystorów: 7 milionów
+powierzchnia układu: 311 mm²
+częstotliwość zegara: 133 MHz
+szyna danych: adresowa – 40 bit, danych – 128 bit (2 × 64 bit)
+napięcie zasilania: 3,3 V
+rozmiar pamięci cache:
+L1: 32 KB – instrukcje, 32 KB – dane
+L2: 128 KB
+
+wydajność: SPECint92: 225 / SPECfp92: 300

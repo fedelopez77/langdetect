@@ -1,7 +1,21 @@
-Ilmenis (Ilmeņa ezers, Ilmeņezers; krievu: Ильмень) ir liels ezers Krievijas Eiropas daļā, Novgorodas apgabalā. Aizsalis no novembra līdz aprīlim. Ezera platība, atkarībā no ūdens līmeņa augstuma, mainās no 733 līdz 2090 km².
-Ezers agrāk bija daļa no dzīva tirdzniecības ceļa starp vikingu zemēm un Grieķiju. Sešus kilometrus lejpus ezera iztekai atrodas Veļikijnovgoroda — pilsēta ar lielu vēsturisko nozīmi. No ezera uz Lādogas ezeru iztek Volhovas upe. Populāra zvejas vieta.
-Ezera līmeni regulē Volhovas hidroelektrostacija.
+Gallium 3D ir nākamā Mesa3D - atvērtā koda brīvprogrammatūras OpenGL īstenojuma - versija.
+Gallium 3D pamatuzdevums ir pārskatīt Mesa 3D arhitektūru, lai nodrošinātu produktīvāku "darba dalīšanu" (piemēram, atmiņas pārvaldību nododot kerneļa nepastarpinātā renderēšanas infrastruktūras (DRI) draiverim) un atbalstītu modernas aparatūras arhitektūru.
+Gallium 3D nodrošinās apvienotu lietojumprogrammas saskarni darot pieejamas tādas modernas aparatūras standartfunkcijas kā šeideru vienības. Tādējādi tādām 3D lietojumprogrammu saskarnēm kā OpenGL (1., 2. un 3. versija), OpenVG, GPGPU un iespējams pat Direct3D (ja Wine nodrošinās šādu savienojamību), būs nepieciešama tikai viena vienīga aizmugursistēma (back-end), stāvokļu vadības serveris(state tracker), kas arī ir Gallium 3D lietojumprogrammas saskarne. Salīdzinājumam Mesa 3D bija nepieciešama atsevišķa aizmugursistēma katrai aparatūras platformai, un citas lietojumprogrammu saskarnes bija nepieciešams pārinterpretēt uz OpenGL, kā rezultātā radās resursu un jaudas virstēriņš.  Piedevām, elastīgā Gallium 3D modulārā struktūra nākotnē ļaus izmantot ZLVM kompilatoru un izveidot moduļus, lai tūlītēji optimizētu šeideru kodu.
+Gallium 3D atmiņas vadību nodrošinās NRP (Nepastarpinātās Renderēšanas Pārvaldnieks, DRM) kerneļa draiveri, un NRI Nepastarpinātas renderēšanas saskarnes draveris (tagad DRI2) būs vairāk uz GPU apstrādes veiktspēju orientēts. Šāds risinājums ļaus atrisināt atmiņas vadības problēmas, kas nebija atrisināmas Mesa 3D arhitektūrā.
 
 
-== Skatīt arī ==
-Eiropas lielākie ezeri
+== Šī brīža statuss ==
+Pirmie īstenotie un jau daļēji funkcionējošie draiveri ir Cell un Intel GMA draiveri. Dotajā brīdī ir sperts arī nozīmīgs solis ATI Radeon karšu darbības nodrošināšanā - tām tiek nodrošināts skeletondraiveris , un nouveau komanda savas tālākās izstrādes orientē uz Gallium 3D, iekļaujot risinājumu arī priekš vecajām Nvidia kartēm, kuru fiksēto funkciju arhitektūrā pietrūka programmējamo šeideru iespeja.
+
+
+== Ārējās saites ==
+Mesa 3D mājaslapa (angliski)
+Gallium 3D uzstādīšana (angliski)
+Tungstengraphics mājaslapas Gallium 3D sadaļa (angliski)
+Gallium3D funkcionālās diagrammas (angliski)
+Gallium 0.1 Freedesktop versiju kontroles resurspunktā (angliski)
+Iepazīsimies - Gallium3D! (angliski)
+LWN raksts par Gallium 3D (angliski)
+
+
+== Atsauces ==

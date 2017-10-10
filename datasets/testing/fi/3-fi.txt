@@ -1,11 +1,16 @@
-Juhannuskonferenssi on Suomen helluntaiseurakuntien järjestämä jokavuotinen kesäjuhla, jossa käy vuosittain noin 30 000 kävijää juhannusviikon keskiviikon ja sunnuntain välisenä aikana. Juhannuskonferenssi on vuoden suurimpia ja vanhimpia kristillisiä tapahtumia Suomessa, sitä on järjestetty vuodesta 1945 lähtien. Tapahtumaa on vietetty vuodesta 1993 Keuruulla, Iso Kirja -raamattuopistoalueella ja sitä ennen useilla muilla paikkakunnilla. Juhannuskonferenssi tunnetaan varsinkin nuorten keskuudessa myös konffana. Konferenssissa esiintyy vuosittain lukuisia gospelin huippuartisteja.
+Kreikan NUTS-aluejako (NUTS:EL) jakaa Kreikan aluehallinnon yksiköt kolmeen tasoon Euroopan unionin yhteisen tilastollisten alueyksiköiden nimikkeistön (NUTS) käytäntöjen mukaisesti.
+Aluejakoa on muutettu viime vuosina usein. Aiemmin Kreikan NUTS-koodi oli NUTS:GR ja ylimmän tason eli NUTS 1 -alueet koodeiltaan GR1–GR4. Vuodesta 2011 Kreikan NUTS-koodi on ollut NUTS:EL. Tämän jälkeen NUTS 1 -alueet olivat vuoteen 2013 saakka koodeiltaan EL1–EL4, vuodesta 2013 lähtien EL3–EL6.
 
 
-== Kuvia ==
+== Tasot ==
+NUTS-aluejaon kolme tasoa ovat Kreikassa:
+NUTS 1: 4 maantieteellistä aluetta (γεωγραφική ομάδα / geografikí omáda)
+NUTS 2: 13 aluetta eli periferiaa (περιφέρειες / periféries)
+NUTS 3: 52 aluetta, joista suurin osa vastaa suoraan jotakin Kreikan 74:stä alueyksiköstä ja osa muodostuu useammasta alueyksiköstä. Vuoteen 2011 saakka NUTS 3 -alueina toimivat Kreikan 51 prefektuuria.
 
 
-== Aiheesta muualla ==
-Juhannuskonferenssin kotisivut
+== Luettelo NUTS-alueista ==
+Vuodesta 2013 lähtien NUTS-alueet ovat:
 
 
 == Lähteet ==

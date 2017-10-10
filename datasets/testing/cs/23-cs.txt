@@ -1,12 +1,16 @@
-OpenShot je v informatice název svobodného nelineárního video editoru pro střih videa. Je napsán v Pythonu a používá MLT framework. Projekt byl zahájil v srpnu 2008 Jonathanem Thomasem s cílem vytvořit stabilní a snadno použitelný video editor.
+František Kořistka, německy Franz Koristka, italsky Francesco Koristka (1. března 1851 Jarkovice – 26. listopadu 1933 Milán) byl česko-italský podnikatel v oboru optiky narozený ve Slezsku. Je znám zejména díky založení společnosti Fratelli Koristka S.A. v Miláně v roce 1881.
 
 
-== Související články ==
-Seznam video editorů
-Porovnání video editorů
+== Život ==
+František Kořistka se narodil 1. března 1851 ve slezských Jarkovicích (dnes část Opavy). Nejprve pracoval jako optický projektant v německé optické firmě. Zpočátku působil ve Vídni a poté se přestěhoval do Milána, jako spolupracovník Angela Salmoiraghiho, kde později založil vlastní firmu Fratelli Koristka S.A. Ta se brzy stala nejvýznamnějším výrobcem mikroskopů a jedním z mála výrobců jemné mechaniky v tehdejší Itálii. Odbyt firma nacházela po celé Evropě a v Americe..
+Kořistka se osobně znal s německým optikem a podnikatelem Ernstem Abbem, díky čemuž měl možnost sestavovat mikroskopy a fotografické čočky za použití patentů Carla Zeisse.
+Je mu připisován objev semi-apochromatického objektivu, umožňující kombinaci vysoké kvality za rozumnou cenu. To způsobilo značné razšíření mikroskopů od počátku 20. století do vypuknutí první světové války. Během války Kořistka vyvinul dalekohled určený pro důstojníky italského Královského námořnictva zvaný Marenostrum.
 
 
-== Externí odkazy ==
- Obrázky, zvuky či videa k tématu OpenShot Video Editor ve Wikimedia Commons
-Oficiální stránky projektu (anglicky)
-Uživatelský manuál (česky), (anglicky)
+== Ocenění ==
+
+Roku 1907 byl italským Ministerstvem zemědělství, průmyslu a obchodu oceněn Řádem za pracovní zásluhy za přínos průmyslu.
+
+
+== Reference ==
+V tomto článku byl použit překlad textu z článku Francesco Koristka na italské Wikipedii.

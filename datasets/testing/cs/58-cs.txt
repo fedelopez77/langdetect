@@ -1,0 +1,88 @@
+Hydroxid sodný (NaOH) je silně zásaditá anorganická sloučenina. Zastaralé triviální názvy této látky jsou natron nebo louh sodný. V potravinářství je označován kódem E 524. V čistém stavu je to pevná bílá látka ve formě peciček, lístečků nebo granulí, silně hygroskopická a pohlcující oxid uhličitý ze vzduchu, čímž vzniká uhličitan sodný; proto musí být uchovávána v hermeticky uzavřených obalech.
+
+
+== Příprava ==
+Hydroxid sodný (NaOH) vzniká bouřlivou exotermní reakcí kovového sodíku s vodou za vzniku plynného vodíku; za přítomnosti vzdušného kyslíku vytvářející se vodík vzplane
+2 Na + 2 H2O → 2 NaOH + H2.
+Vzniká také rozpouštěním oxidu sodného ve vodě
+Na2O + H2O → 2 NaOH.
+V roztoku se také uvolňuje ze solí velmi slabých kyselin; příkladem může být hydrolýza alkoholátů sodných, např. ethoxidu (ethanolátu) sodného
+CH3CH2ONa + H2O → CH3CH2OH + NaOH.
+Vzniká také v katodovém prostoru při elektrolýze vodných roztoků sodných solí, především chloridu sodného
+2 Na+ + 2 H2O + 2 e- → H2 + 2 NaOH.
+
+
+== Průmyslová výroba ==
+Dříve se hydroxid sodný vyráběl tzv. kaustifikačním procesem z vodného roztoku uhličitanu sodného (sody) působením mírného nadbytku hydroxidu vápenatého, přidávaného ve formě suspenze hašeného vápna (vápenného mléka)
+Na2CO3 + Ca(OH)2 → 2 NaOH + CaCO3.
+Vznikající velmi málo rozpustný uhličitan vápenatý se oddělil sedimentací, případně následnou filtrací a odpařením vody ze zbývajícího roztoku se získal surový hydroxid sodný. Ten se většinou dále čistil rozpuštěním v ethanolu.
+V současné době se veškerý hydroxid sodný vyrábí elektrolytickým rozkladem roztoku chloridu sodného (solanky), přičemž vedlejším produktem elektrolýzy je plynný chlor. Používá se při tom tří různých metod, kterými se zabraňuje zpětné reakci chlóru s vzniklým hydroxidem.
+Při amalgamové metodě se používá Castner-Kellnerův elektrolyzér (vynalezený v roce 1892), kde jako katoda slouží kovová rtuť. Na ní proběhne redukce sodných iontů na elementární sodík
+Na+ + e- → Na,
+který se ve rtuti rozpustí za vzniku kapalného amalgámu. Tím se zabrání okamžité reakci kovového sodíku s vodou na hydroxid sodný; tento rozklad probíhá následně v oddělené reakční prostoře nazývané rozkladač, kam se kapalný amalgam přečerpává. Rtuť zbavená sodíku v rozkladači se pak vrací do elektrolyzéru. Tento postup užívají naši dva největší výrobci hydroxidu sodného, Spolana, a. s., Neratovice a Spolek pro chemickou a hutní výrobu, a. s., Ústí nad Labem a také více než polovina výrobců chlóru a hydroxidu sodného v Evropské unii (EU). Nevýhodou tohoto postupu je potřeba velmi čisté suroviny, relativně vysoký rozkladný potenciál (a tedy i vyšší nároky na elektrickou energii) a použití jedovaté rtuti.
+Při druhé, tzv. „diafragmové metodě“ (z roku 1885), jsou v Griesheimově článku anodový a katodový prostor vzájemně odděleny polopropustnou stěnou, která sice dovolí putovat v elektrostatickém poli malým iontům Na+ a molekulám vody, ale zabrání prostupu molekul vznikajícího chlóru Cl2. Do prostoru anody se kontinuálně přivádí roztok (solanka). Na anodě ionty chloru odevzdávají elektron a mění se na atomární chlor a následně na molekulární chlór, tedy
+2 Cl- - 2 e- → 2 Cl → Cl2,
+zatímco na katodě se redukují přibráním elektronu oxoniové kationty na vodík a vodu
+2 H3O+ + 2 e- → 2 H2O + 2 H → 2 H2O + H2.
+V katodovém prostoru se hromadí sodné kationty Na+ a jejich kladný náboj je kompenzován růstem koncentrace záporných hydroxylových aniontů OH-, čímž zde efektivně vzniká hydroxid sodný. Odpouštěný roztok obsahuje vedle sebe zbytky rozpuštěného chloridu sodného a vzniklého hydroxidu sodného, které je nutno následně oddělit. Diafragma (polopropustná stěna) je většinou zhotovována z azbestu, který je však ekologicky nevhodný a proto se hledají a zkoušejí jeho jiné náhrady. Nicméně tímto postupem se produkuje asi 75 % hydroxidu sodného v USA.
+Třetí, nejmodernější metodou zavedenou kolem roku 1970 a používanou v 90 % továren v Japonsku, je tzv. membránová metoda, která je modifikací předchozího postupu. Anodový a katodový prostor jsou odděleny ionexovou membránou, která umožňuje přestup pouze kationtům H3O+ a Na+. Do prostoru anody se kontinuálně přidává nasycená solanka a odčerpává se vyčerpaná; naopak do prostoru katody se čerpá deionizovaná (destilovaná) voda a odčerpává se roztok hydroxidu sodného.
+Jako finální produkt průmyslové prvovýroby hydroxidu sodného je jeho vodní roztok obsahující 50 % NaOH. Pouze menší část se odvodňuje a zpracovává do formy peciček, granulí nebo lístků, zejména pro použití v chemických laboratořích, v chemické malovýrobě a ve farmaceutickém průmyslu.
+
+
+== Vlastnosti ==
+Ve vodném roztoku jsou „molekuly“ hydroxidu sodného plně disociovány na sodné ionty a hydroxidové anionty. Vzhledem k tomu je velmi silnou zásadou. Vodný roztok hydroxidu sodného (min. 49%) je bezbarvá čirá viskózní kapalina, která při teplotě pod 10 °C krystalizuje. Bezvodý NaOH je bílá krystalická nebo amorfní látka. Dobře se rozpouští v ethanolu, methanolu a ve vodě, je nerozpustný v diethyletheru. Při rozpouštění se uvolňuje značné množství tepla.
+V pevném stavu je vysoce hygroskopický, takže ponechán na vzduchu se velice brzy rozteče na velmi koncentrovaný roztok. Reaguje i s oxidem uhličitým za vzniku uhličitanu sodného
+2 NaOH + CO2 → Na2CO3 + H2O
+
+(tato vlastnost bývala využívána ve starších filtroventilačních jednotkách a systémech s uzavřeným koloběhem vzduchu k zachycování oxidu uhličitého; nevýhodou bylo spékání absorpčního činidla, takže dnes je např. při aplikacích v pilotované kosmonautice nahrazován hydroxidem lithným). Podobně reaguje i s jinými plynnými oxidy, např. oxid siřičitý váže jako siřičitan sodný
+2 NaOH + SO2 → Na2SO3 + H2O
+
+což může být využito k odstraňování tohoto jedovatého plynu z ovzduší. S oxidem křemičitým reaguje za vzniku rozpustného ortokřemičitanu sodného
+4 NaOH + SiO2 → Na4SiO4 + 2 H2O.
+Protože sklo obsahuje značný podíl oxidu křemičitého, dlouhým působením koncentrovaného roztoku hydroxidu sodného jeho povrch matní. Zejména závažné je působení NaOH na skleněné laboratorní aparatury, u kterých může dojít k „zamrznutí“ (někdy také uváděn termín „zakousnutí“) skleněných kohoutů, či zabroušených spojů nebo i skleněných zátek u zásobních lahví s roztokem hydroxidu.
+S kyselinami tvoří reakcí nazývanou neutralizace soli, např. s chlorovodíkovou (solnou) vzniká chlorid sodný a voda
+NaOH + HCl → NaCl + H2O.
+S vícesytnými kyselinami tvoří podle množství normální nebo kyselé soli (hydrogensoli), např. s kyselinou sírovou vytváří nejprve hydrogensíran sodný
+NaOH + H2SO4 → NaHSO4 + H2O
+a po dalším přidání hydroxidu síran sodný
+NaOH + NaHSO4 → Na2SO4 + H2O
+Podobně reaguje i s organickými (karboxylovými) kyselinami, např. s kyselinou octovou vytváří octan sodný
+NaOH + CH3COOH → CH3COONa + H2O
+(tuto neutralizační reakci lze použít jako nouzovou dekontaminaci pokožky, zasažené roztokem NaOH). Dokonce tvoří soli i s tak slabými organickými kyselinami, jako jsou fenoly, např. s fenolem dává fenolát sodný
+NaOH + C6H5-OH → C6H5-ONa + H2O.
+Železo, měď a většinu ušlechtilých kovů hydroxid sodný nerozpouští, zato s amfoterními kovy reaguje za vývinu vodíku a tvorby solí. Např. kovový hliník se v koncentrovaném roztoku NaOH rozpouští za vzniku hlinitanu sodného
+2 Al + 6 NaOH → 3 H2 + 2 Na3AlO3.
+Podobně reaguje se zinkem za vzniku zinečnatanu sodného
+Zn + 2 NaOH → H2 + Na2ZnO2.
+Obě uvedené soli lze získat i působením nadbytku hydroxidu sodného na jiné soli těchto kovů, např.
+ZnCl2 + 4 NaOH → 2 NaCl + Na2ZnO2.
+Hydroxid sodný reaguje i s některými nekovy. Např. s fosforem dává fosfornan sodný
+2 P + 2 NaOH + 2 H2O → 2 NaH2PO2 + H2,
+s křemíkem ortokřemičitan sodný
+Si + 4 NaOH → Na4SiO4 + 2 H2.
+Průmyslově důležitou reakcí je působení hydroxidu sodného na estery organických kyselin, při nichž se tyto organické sloučeniny štěpí na alkoholy a volné kyseliny, které se okamžitě mění na jejich sodné soli. Tento proces se nazývá zmýdelňování. Např. působením vodného roztoku NaOH na ethylacetát získáme ethanol a octan sodný
+CH3CO–O–CH2CH3 + NaOH → CH3COONa + CH3CH2OH.
+Zmýdelňování esterů vyšších mastných kyselin neboli tuků a olejů je chemickou podstatou výroby mýdla a glycerolu.
+Působením na soli jiných kovů dochází k výměně iontů těchto kovů za sodík a k tvorbě hydroxidů. Např. působením NaOH na síran hlinitý získáme hydroxid hlinitý
+6 NaOH + Al2(SO4)3 → 3 Na2SO4 + 2 Al(OH)3,
+používaný ve vodárenství k čeření vody.
+
+
+== Použití ==
+Hydroxid sodný má velice široké použití v chemickém průmyslu (výroba mýdel a dalších povrchově aktivních látek, příprava dalších sloučenin sodíku, jako reakční složka při organických a anorganických syntézách), v textilním průmyslu, v průmyslu celulózy a papíru, v hutnictví a hliníkárenství, ve vodárenství při úpravách pitné vody. V potravinářském průmyslu se užívá při zpracování tuků a olejů, ale také jako desinfekční činidlo pro vymývání strojů. V domácnostech se dá užít při čištění odpadních potrubí a při praní.
+V chemických laboratořích se používá kalibrovaný roztok hydroxidu sodného jako titrační činidlo při kvantitativním stanovování obsahu kyselin ve vzorcích.
+
+
+== Fyziologické působení ==
+Hydroxid sodný silně leptá veškeré tkáně v organismu. Zmýdelňuje tuky, koaguluje bílkoviny, odnímá z tkání vodu. Při požití způsobuje zejména poleptání jícnu (nikoli žaludku jako u kyselin; při větších požitých množstvích však může být vážně poleptán i žaludek a tenké střevo), s rizikem nekrózy, žilní trombózy nebo až perforace jícnu. Častá jsou pozdější zúžení jícnu, komplikující polykání potravy. Mohou se vyskytnout i pozdní následky (po řadě let od poleptání) v podobě rakoviny jícnu, a to v 0,8 až 4 % případů. Velmi vážné následky způsobuje hydroxid sodný při zasažení očí, rychle proniká do rohovky a přední oční komory, i přes zdánlivě malé časné příznaky může způsobit slepotu.
+
+
+== Bezpečnost ==
+Hydroxid sodný není sice hořlavý ani výbušný, ale je to velmi silná žíravina a zdraví škodlivá látka. Při poleptání okamžitě omývejte napadené místo pokožky proudem studené vody a následně neutralizujte poleptané místo slabou kyselinou (zředěný ocet nebo kyselina citronová). Při zasažení očí se nesmí nikdy neutralizovat,[zdroj?] pouze neustále vymývat vodou. Pokud se jedná o poleptání většího rozsahu, zasažení očí či přetrvávající zdravotní potíže, navštivte ihned lékaře.
+
+
+== Reference ==
+
+
+== Literatura ==
+VOHLÍDAL, JIŘÍ; ŠTULÍK, KAREL; JULÁK, ALOIS. Chemické a analytické tabulky. 1. vyd. Praha : Grada Publishing, 1999. ISBN 80-7169-855-5.

@@ -1,0 +1,56 @@
+O Poder se expressa nas diversas relações sociais, assim, pode-se falar, que onde existem Relações de Poder, existe política. Por sua vez, a política se expressa nas diversas formas de poder e pode ser entendida como a política relacionada ao Estado, como também, em um sentido mais amplo, e não menos importante, em outras dimensões da vida social.
+Uma relação de poder se forma no momento em que alguém deseja algo que depende da vontade de outro. Esse desejo estabelece uma relação de dependência de indivíduos ou grupos em relação a outros. Quanto maior a dependência de A em relação a B, maior o poder de B em relação a A. Essa dependência aumenta à medida que o controle de B sobre o que é desejado por A aumenta.
+
+
+== Poder político ==
+
+Charles de Secondat, o barão de Montesquieu, afirmou que sem um princípio de contenção e equilíbrio de poder, o mundo está constantemente em risco. Ficou mundialmente conhecido pelo seu princípio da Separação de poderes:
+A separação de poderes deve ser em grau tal, que qualquer dos ramos pode operar sem restrições excessivas dos outros, mas a interdependência entre eles também devem estar em grau tal, que um único ramo não possa excluir os outros em suas decisões. (Montesquieu 1750)
+Max Weber afirmava que a política não se restringe ao campo institucional estatal e explicita claramente, que a política permeia outras atividades da vida cotidiana:
+
+"Hoje, nossas reflexões não se baseiam, decerto, num conceito tão amplo. Queremos compreender como política apenas a liderança, ou a influência sobre a liderança, de uma associação política, e, daí hoje, de um Estado" (Weber, 1974).
+
+Então não se deve conceber que a fonte do poder político é unicamente o Estado, pois existem relações de poder em qualquer relação de interesses entre dois ou mais sujeitos, sejam eles animais, pessoas ou entidades. Da mesma forma, poder não deve ser visto como imposição de vontade, manipulação ou dominação, pois pode, e frequentemente é, ser delegado voluntariamente por interesse de ambas as partes. Para Weber:
+"Poder é toda chance, seja ela qual for, de impor a própria vontade numa relação social, mesmo contra a relutância dos outros."
+São os cidadãos que fornecem o poder às leis e consequentemente aos políticos e servidores públicos que são investidos com poder pela lei em uma democracia. Quanto menor o acordo de vontade na concessão de poder, mais recursos são necessários para mantê-lo e mais limitado seu poder de controle. Sendo assim, acordos são essencialmente um tipo de poder mais eficiente do que coerção. Não se deve ver poder como uma relação vertical, para compreender poder político em toda sua amplitude é necessário entender a função e características de cada um de seus participantes. 
+
+
+== Relações de Poder no Âmbito das Organizações ==
+Relações de poder existem e muitas vezes definem, e não necessariamente com os critérios de justiça necessários, à saúde de uma organização. Justiça implica juízo de valor, e valores são minimamente compartilhados nas organizações, contestando a antiga visão da cultura única.
+
+
+=== Formas de poder ===
+Existem 4 formas de poder nas organizações:
+Autoridade formal: Poder legítimo fornecido por lei, por tradição ou por carisma que fornece aceito socialmente.
+Poder coercitivo: Imposição de vontade por ameaças e punições. A forma de poder mais condenada socialmente e que mais provoca reações de oposição por parte dos subordinados.
+Poder de recompensa: Poder de reforçar um comportamento com um recurso desejado. Por exemplo, a recompensa pode ser dinheiro, tarefas de trabalho interessantes, promoções, aumento de mérito, informações importantes, colegas amigáveis, aceitação no grupo, posições de trabalho preferidas ou uma troca de favores.
+Poder de competência: Domínio de especializações, habilidades especiais, contatos, clientes ou conhecimentos desejáveis para a execução de um determinado trabalho.
+
+
+=== Fatores de poder ===
+Dentre essas formas de poder, pode-se identificar 3 fatores que definem sua potência:
+Necessidade/Urgência
+Escassez
+Insubstituibilidade
+A ausência de qualquer desses fatores reduz imensamente seu poder. Não importa o quão raro e insubstituível uma obra de arte seja, ele não tem valor enquanto ninguém o desejar. Da mesma forma por mais que ar seja vital e insubstituível, ele não tem valor de troca se existe em abundância e disponível a quem quiser. O mesmo acontece com metais úteis e raros, quando puderem ser substituídos por metais comuns.
+
+
+=== Configurações de poder ===
+Mintzberg (1983) identificou 5 configurações de poder nas organizações:
+Configuração de Poder Instrumento. A organização serve a um influenciador externo dominador (ou a um grupo deles agindo em conjunto). Os empregados são induzidos a contribuir com os seus esforços, tendo pouca oportunidade para atuar nos jogos do poder. Esse tipo de configuração tende a emergir, quando a organização vivencia um poder externo, focalizado e organizado tipicamente em torno de uma dependência crítica ou de uma prerrogativa legal, que emana de um influenciador externo com objetivos claros e operacionais.
+Configuração de Poder Sistema Fechado: Ela se assemelha à configuração de instrumento, mas a diferença fundamental é que não enfrenta um poder focalizado dentro do seu ambiente, mas um conjunto de influenciadores externos dispersos e desorganizados (coalizão externa passiva). Essa configuração tende a aparecer em organizações mais estabelecidas, tipicamente as grandes organizações que operam em ambientes simples e estáveis, com trabalhadores sem especialização e influenciadores externos dispersos.
+Configuração de Poder Autocracia: A autocracia também enfrenta uma coalizão externa passiva, mas desenvolve um tipo bem diferente de coalizão interna. Todo o poder está focalizado no dirigente da organização, que a controla pessoalmente. Essa forma rígida de controle significa uma ausência virtual de jogos políticos; os empregados ou expressam uma lealdade ao dirigente ou vão embora. A autocracia persegue e, se necessário, maximiza qualquer objetivo que o dirigente deseje. As autocracias tendem a ser: organizações pequenas e pouco visíveis; organizações novas ou antigas que sejam dirigidas por seus fundadores; organizações que operam em ambientes simples e dinâmicos, algumas vezes com líderes fortes ou enfrentando crises severas.
+Configuração de Poder Missionária: A missionária é tão dominada por uma ideologia, que a sua coalizão externa também é passiva. A forte ideologia serve para amarrar a coalizão interna em torno dos seus objetivos ideológicos e permite, também, que os seus membros sejam confiáveis para tomar decisões, uma vez que todos eles compartilham as mesmas crenças e tradições. Dificilmente os jogos políticos se desenvolvem nessa configuração. Todos os esforços são devotados para perseguir o objetivo de preservar, expandir e/ou aperfeiçoar a missão da organização. A missionária tende a emergir quando a organização vivenciou uma liderança carismática no passado e, talvez, uma história importante, passando a desenvolver fortes tradições em torno de uma missão clara, distinta e atrativa para os seus membros.
+Configuração de Poder Meritocrática: A meritocracia focaliza o seu poder sobre os seus especialistas, desenvolvendo uma coalizão interna profissional. A presença de diferentes tipos de especialistas geralmente propicia boa dose de atividade política. Dessa forma, a coalizão externa pode ser mais bem descrita como passiva, embora ela pareça estar dividida. Devido ao seu treinamento, os especialistas possuem muitas oportunidades para a rotatividade e, por isso, a sua lealdade à organização é um fator fraco. A condição chave que faz surgir a meritocracia é a necessidade de a organização desempenhar um trabalho complexo, o qual requer alto nível de especialização na sua coalizão interna.
+Configuração de Poder Arena Política: A arena política é caracterizada por conflito, tanto na coalizão externa, que é dividida, quanto na coalizão interna, que é politizada. Algumas arenas políticas são caracterizadas por intenso conflito, o qual dura pouco tempo (senão a organização não sobrevive), enquanto outras são caracterizadas por um tipo de conflito mais moderado. Embora a arena política pareça uma disfunção - a harmonia permite melhor que as organizações atinjam as suas missões do que o conflito - ela não é, necessariamente, uma aberração. A arena política pode servir como estágio funcional e, na verdade, necessário na transição de uma configuração de poder para outra. Ela emerge quando uma organização vivencia um desafio à sua ordem de poder existente, ou aquela existente entre os seus influenciadores e, também, quando há forças equilibradas e irreconciliáveis dentro da organização.
+
+
+== Ver também ==
+Poder
+Política
+Sociedade
+Abuso de poder
+Coerção
+
+
+== Referências ==

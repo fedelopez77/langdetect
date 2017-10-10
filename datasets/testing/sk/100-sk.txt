@@ -1,0 +1,95 @@
+A20 - A28: BAKTERIÁLNE ZOONÓZY patria do I.kapitoly MKCH-10 - Infekčné a parazitárne choroby (MKCH-10, A00 - B99)
+A20 - MOR - PESTIS
+Zahŕňa infekcie zapríčinené Yersinia pestis
+A20.0 - Bubonový mor
+A20.1 - Kožná forma moru
+A20.2 - Pľúcna forma moru
+A20.3 - Morová meningitída
+A20.7 - Septikemická forma moru
+A20.8 - Iné formy moru
+Abortívny mor
+Bezpríznakový mor
+Pestis minor
+A20.9 - Nešpecifikovaný mor
+A21 - TULARÉMIA
+Zahŕňa:
+jeleniu chorobu (deer fly fever)
+infekciu vyvolanú Francisella tularensis
+zajačiu chorobu
+A21.0 - Ulceroglandulárna tularémia
+A21.1 - Okuloglandulárna tularémia
+Očná tularémia
+A21.2 - Pľúcna tularémia
+A21.3 - Gastrointestinálna tularémia
+Brušná tularémia
+A21.7 - Generalizovaná tularémia
+A21.8 - Iné formy tularémie
+A21.9 - Nešpecifikovaná tularémia
+A22 - SLEZINOVÁ SNEŤ - ANTRAX
+Zahŕňa infekcie zapríčinené Bacillus anthracis.
+A22.0 - Kožný antrax
+Malígny(a)
+karbunkul
+pustula
+A22.1 - Pľúcny antrax
+Inhalačný antrax
+Handrárska choroba
+Choroba spracovateľov vlny
+A22.2 - Gastrointestinálny antrax
+A22.7 - Antraxová septikémia
+A22.8 - Iné formy antraxu
+Antraxová meningitída (G01*)
+A22.9 - Nešpecifikovaný antrax
+A23 - BRUCELÓZA
+Zahŕňa horúčku:
+maltskú
+stredozemskú
+undulujúcu
+A23.0 - Brucelóza zapríčinená Brucella melitensis
+A23.1 - Brucelóza zapríčinená Brucella abortus
+A23.2 - Brucelóza zapríčinená Brucella suis
+A23.3 - Brucelóza zapríčinená Brucella canis
+A23.8 - Iná brucelóza
+A23.9 - Nešpecifikovaná brucelóza
+A24 - SOPĽAVKA - MALLEUS A MELIOIDÓZA - PSEUDOMALLEUS
+A24.0 - Sopľavka
+Infekcia zapríčinená Pseudomonas mallei
+Malleus
+A24.1 - Akútna a fulminantná melioidóza
+Melioidóza
+pneumonická forma
+septikemická forma
+A24.2 - Subakútna a chronická melioidóza A24.3 - Iná melioidóza A24.4 - Nešpecifikovaná melioidóza
+Infekcia zapríčinená Pseudomonas pseudomallei NS
+Whitmorova choroba
+A25 - HORÚČKA OD UHRYZNUTIA POTKANOM
+A25.0 - Spirilóza
+Sodoku
+A25.1 - Streptobacilóza
+Epidemický artritický erytém
+Haverhillská horúčka
+Streptobacilárna horúčka od potkanieho uhryznutia
+A25.9 - Horúčka od potkanieho uhryznutia nešpecifikovaná
+A26 - ERYZIPELOID - RUŽA OŠÍPANÝCH
+A26.0 - Kožný eryzipeloid
+Erythema migrans
+A26.7 - Eryzipelotrixová septikémia
+A26.8 - Iné formy eryzipeloidu
+A26.9 - Nešpecifikovaný eryzipeloid
+A27 - LEPTOSPIRÓZA
+A27.0 - Leptospirosis icterohaemorrhagica - Weilova choroba
+Leptospiróza zapríčinená Leptospira interrogans serovar icterohaemorrhagiae
+A27.8 - Iné formy leptospirózy
+A27.9 - Nešpecifikovaná leptospiróza
+A28 - INÉ BAKTERIÁLNE ZOONÓZY NEZATRIEDENÉ INDE
+A28.0 - Pasteurelóza
+A28.1 - Choroba z mačacieho uškrabnutia
+Horúčka z mačacieho uškrabnutia
+A28.2 - Extraintestinálna yersinióza
+Nezahŕňa enteritídu zapríčinenú Yersinia enterocolitica (A04.6) a mor (A20.-).
+A28.8 - Iné špecifikované baktériové zoonózy nezatriedené inde
+A28.9 - Nešpecifikovaná baktériová zoonóza
+
+
+== Zdroj ==
+Národné centrum zdravotníckych informácií

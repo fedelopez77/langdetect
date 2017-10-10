@@ -1,0 +1,61 @@
+Unified Video Decoder (wcześniej Universal Video Decoder lub UVD) – jednostka dekodująca wideo, stworzona przez ATI Technologies, która ma sprzętowo wspomagać dekodowanie H.264 oraz VC-1. Jest to część technologii ATI AVIVO HD.
+
+
+== Wsparcie w systemach operacyjnych ==
+Microsoft Windows: wspierane od początku. Aktualnie UVD dla platform Microsoft Windows oraz Xbox 360 wspiera tylko API DXVA (DirectX Video Acceleration) ze sprzętowym wsparciem dekodowania wideo. Z tego powodu odtwarzacz mediów musi wspierać DXVA aby skorzystać z UVD.
+Linux: od października 2008. Poprzez API XvBA (X-Video Bitstream Acceleration) możliwe jest używanie w X Window System w systemie Linux oraz UNIX akceleracji sprzętowej z wykorzystaniem UVD.
+
+
+== Wersje UVD ==
+
+
+=== UVD/UVD+ ===
+UVD jest oparte na procesorze graficznym ATI Xilleon zintegrowanym w jednej kości z GPU. Jest częścią technologii ATI Avivo HD do sprzętowego dekodowania wideo wraz z Advanced Video Processor (AVP). UVD, jak twierdziło AMD, obsługuje dekodowanie materiałów H.264/AVC oraz VC-1 całkowicie sprzętowo, jednakże post-processing jest przekazywany do shaderów. Dekodowanie MPEG-2 nie jest wykonywane w ramach UVD, ale w procesorach cieniowania. Dekoder spełnia wymagania wydajnościowe pozwalające na dekodowanie strumieni H.264 z przepływnościami do 40 Mbit/s. Posiada wsparcie CABAC dla H.264/AVC.
+W przeciwieństwie do podsystemów akceleracji w poprzednich GPU, które wymagały znacznego zaangażowania głównego CPU, UVD odciążą całkowicie dekoder video dla materiałów VC-1 oraz H.264, poza post-processingiem, który jest przenoszony na shadery. Dekodowanie MPEG-2 jest także wspierane, ale dekodowanie bitstream/entropia w takm strumieniu nie jest wykonywane sprzętowo.
+Wcześniej w przypadku serii ATI Radeon R520 (ATI Avivo) oraz serii NVidia Geforce 7 (NVIDIA PureVideo) dekompresja bitstream/entropia dla VC-1 oraz H.264 była wykonywana przez procesor główny komputera. UVD wspiera:
+Variable-length code/CAVLC/CABAC,
+przetwarzanie częstotliwości (frequency transform),
+pixel prediction,
+deblocking filter/inloop deblocking.
+Cały post-processing jest przekazywany do shaderów:
+usuwanie szumu,
+usuwanie przeplotu,
+skalowanie i zmiana rozmiaru
+AMD ogłosiło, że rozszerzenie UVD zajmuje w procesorze GPU tylko 4,7 mm² powierzchni w procesie technologicznym 65 nm.
+Odmiana UVD, zwana UVD+, została wprowadzona wraz z serią Radeon HD 3000. Zawiera wsparcie HDCP dla strumieni wyższych rozdzielczości. UVD+ był również sprzedawany jako zwykłe UVD.
+
+
+=== UVD 2 ===
+Standard UVD został odświeżony wraz z premierą produktów z serii Radeon HD 4000. Głównymi zmianami było:
+dekodowanie strumieni H.264/MPEG-4 AVC, VC-1 oraz MPEG2 bez ograniczeń.
+dekodowania podwójnych strumieni video.
+tryb Picture in Picture.
+Zmiany te spowodowały, że standard UVD2 stał się w pełni kompatybilny ze wszystkimi profilami Blu-ray.
+
+
+==== UVD 2.2 ====
+UVD 2.2 posiada przeprojektowany lokalny interfejs pamięci i zwiększa zgodność z MPEG2/H.264/VC-1. Był reklamowany jako "UVD 2 Enhanced" jako "specjalne rdzenie logiczne, dostępne w serii procesorów graficznych RV770 oraz RV730, pozwalające na sprzętowe dekodowanie MPEG2, H.264 i VC-1". UVD 2.2 należy traktować jako poprawkę dla UVD 2.
+
+
+=== UVD 3 ===
+UVD3 zawiera wsparcie dla dekodowania DivX oraz Xvid poprzez MPEG-4 część 2, a także odtwarzania Blu-ray 3D poprzez Multiview Video Coding wraz z 120 Hz stereo 3D. Optymalizowane w celu zmniejszenia obciążenia CPU.
+
+
+== Dostępność ==
+Pierwotnie ATI planowało implementację UVD w procesorach z serii RV550, przeznaczonych na rynek masowy z dwoma różnymi specyfikacjami. Pierwsza miała być wyposażona w HDMI oraz wyjście video, natomiast druga miała posiadać tylko DVI oraz wyjście video. Produkcja miała rozpocząć się w grudniu 2006, jednak nie jest do końca jasne czy ostatecznie model RV550 został przeznaczony na rynek OEMs, czy też zrezygnowano z jego produkcji.
+Większość kart serii Radeon HD 2000 wspiera UVD do sprzętowego dekodowania materiałów HD w rozdzielczości 1080p, jednakże karty z serii Radeon HD 2900 nie posiadają wsparcia dla UVD, choć jest w stanie zapewnić część funkcjonalności poprzez wykorzystanie jego shaderów. Błędne informacje o takim wsparciu zostały podane na stronach produktu oraz w pudełkach w produktach producentów końcowych przed rozpoczęciem sprzedaży kart serii Radeon HD 2900 XT, podczas gdy w rzeczywistości wspierały one tylko technologię ATI Avivo HD. Brak wsparcia dla UVD został potwierdzony oficjalnie.
+UVD2 zostało zaimplementowane w kartach graficznych z serii Radeon RV7x0 oraz R7x0. Dotyczy to także serii RS7x0, integrowanych w płytach głównych.
+
+
+== Procesory graficzne ze wsparciem UVD ==
+Uwagi:
+NB1: wersja dwuprocesorowa.
+NB2: muszą być użyte w wersji 8.371 lub późniejszej w przypadku GPU "Mobility Radeon HD 2300" aby włączenie UVD dla formatu H.264 nie powodowało awarii systemu.
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+ATI Avivo(TM) HD Technology Brief, July 2008
+Prezentacja porównań dekodowania przez CPU, ATI Avivo HD oraz PureVideo HD, a także porównanie dekodowania video w formatach VC-1 oraz H.264

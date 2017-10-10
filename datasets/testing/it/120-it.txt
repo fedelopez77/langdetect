@@ -1,0 +1,58 @@
+L'antenna è un'appendice, pari e articolata, del Capo degli insetti, in cui sono localizzati recettori sensoriali (sensilli). Questi organi sono presenti, come carattere ancestrale, in tutti gli ordini della classe; fanno eccezione le specie che comprendono forme involute, nelle quali le antenne possono ridursi fino a diventare atrofiche o scomparire del tutto.
+
+
+== Morfologia ==
+Le antenne sono differenziate dal terzo somite cefalico (somite oculo-antennale), insieme ad altre parti del capo . Si inseriscono sulla regione frontale del capo, secondo i gruppi sistematici nella fronte propriamente detta, delimitata dalle suture divergenti, oppure fra gli occhi composti e la fronte. L'articolazione al capo avviene attraverso una fossetta, detta torulo, spesso circondata da un orlo sclerificato. All'interno del torulo può differenziarsi un condilo sul quale si articola il primo segmento.
+Le antenne sono organi segmentati, composti da un numero variabile di articoli detti antennomeri. Il numero di antennomeri dipende dal raggruppamento sistematico e, in molti casi, dal sesso. Si tratta perciò di un elemento morfologico utile ai fini della determinazione tassonomica.
+A prescindere dalla forma e dal numero di antennomeri, nelle antenne si distinguono specificamente tre regioni:
+scapo: è l'antennomero prossimale, che si articola al torulo; in genere è anche il segmento di maggiore sviluppo in lunghezza.
+pedicello: è il secondo antennomero, generalmente più breve dello scapo;
+flagello: è la parte restante dell'antenna, a partire dal terzo antennomero.
+In molti insetti il flagello risulta composto da un certo numero di antennomeri di ridotto sviluppo seguiti, distalmente, da altri articoli che hanno dimensioni maggiori; di conseguenza, il flagello si presenta allora sottile e termina con un tratto ingrossato. In questi casi si attribuisce la denominazione di funicolo al tratto sottile e clava al tratto terminale ingrossato. Il numero di articoli che formano rispettivamente il funicolo e la clava e, nel complesso, lo stesso flagello, varia di specie in specie.
+Alcuni Insetti sono provvisti di particolari fossette, disposte nel capo, in cui vengono riposte le antenne in posizione di riposo. Questo carattere è una delle caratteristiche dei Coleotteri Curculionoidi: il capo di questi insetti è vistosamente prolungato a formare una sorta di proboscide, detta rostro, ai cui lati sono presenti due fossette, dette scrobi in cui vengono alloggiate le antenne in posizione di riposo.
+
+
+== Classificazioni morfologiche ==
+L'eterogeneità nella forma e nello sviluppo delle antenne e l'importanza che queste possono avere nella determinazione tassonomica ha prodotto una nomenclatura specifica per differenziare le varie tipologie di antenne:
+Aristate. Portano una robusta setola. È aristata l'antenna tipica dei Ditteri Brachiceri.
+Clavate. Mostrano un funicolo più o meno allungato e sottile seguito da un ingrossamento terminale (clava). Tipiche antenne clavate si trovano in molti Coleotteri e Imenotteri.
+Filiformi. Sono molto sottili e più o meno allungate, talvolta formate da decine o anche centinaia di articoli, molto piccoli e pressoché impercettibili. Tipiche antenne filiformi si ritrovano, ad esempio, in diversi Esopterigoti (es. Blattodei, Ortotteri Ensiferi, ecc.), in diversi Neurotteri, Lepidotteri, ecc.
+Flabellate o lamellari. Sono antenne clavate che ricordano, nell'aspetto, un flabello : la clava presenta delle espansioni lamellari, più o meno ampie, e divaricabili. Tipiche antenne flabellate sono quelle dei Coleotteri Scarabeidi.
+Genicolate. Mostrano un brusco ripiegamento ad angolo. Sono genicolate, ad esempio, le antenne tipiche degli Imenotteri Calcidoidi e Formicidae.
+Moniliformi. Più o meno allungate, ricordano nell'aspetto una collana, con articoli più o meno isodiametrici e ben evidenti. Tipiche antenne moniliformi sono quelle della maggior parte dei Coleotteri Crisomelidi.
+Pettinate. Ricordano nell'aspetto un fitto pettine a causa di un sottile processo portato da ogni antennomero. Tipiche antenne pettinate si riscontrano, ad esempio, nei maschi di alcune famiglie di Lepidotteri.
+Piumose o verticillate. Ricordano nell'aspetto una piuma per la presenza di più sottili processi in ogni antennomero. Tipiche antenne piumose si riscontrano, ad esempio, nei maschi di alcune famiglie di Ditteri Nematocera.
+Serrate o serrulate. Hanno un aspetto seghettato per la forma cuspidata degli antennomeri.
+
+
+== Anatomia ==
+Le antenne degli insetti sono organi mobili e sede di recettori sensoriali, che si localizzano principalmente nella clava. Sotto l'aspetto anatomico hanno pertanto relazioni con il capo, attraverso i toruli, per quanto riguarda alcuni apparati: il sistema nervoso periferico, le tracheole dell'apparato respiratorio, l'emocele dell'apparato circolatorio.
+Per quanto riguarda la muscolatura, le antenne degli Insetti sono di tipo anulato, ossia sono fornite di muscoli intrinseci solo nello scapo e nel pedicello. Queste antenne si differenziano da quelle segmentate, carattere primitivo proprio dei Dipluri e dei Collemboli (Hexapoda Entognatha).
+
+
+== Funzioni ==
+La funzione primaria delle antenne è quella della percezione di stimoli dall'ambiente. Tale percezione è complessa in quanto è sommativa di stimoli percepiti da differenti tipi di sensilli localizzati nelle antenne:
+meccanorecettori: percepiscono il tatto, le variazioni di pressione, il suono;
+igrorecettori: percepiscono l'umidità dell'aria;
+termorecettori: percepiscono la temperatura.
+Le antenne sono pertanto organi essenziali, usati dagli Insetti, per relazionarsi con l'ambiente circostante.
+Oltre alla funzione sensoriale, possono avere, in determinati gruppi sistematici, funzioni specifiche, ad esempio come organi da presa per l'accoppiamento o per la predazione. Una singolare funzione è svolta in alcuni insetti che vivono nell'acqua, in modo simile al boccaglio dei subacquei: le antenne in questo caso sono usate, dall'insetto immerso, per comunicare con il pelo libero; in questo modo si forma lungo la superficie delle antenne un sottile velo d'aria che garantisce una continuità tra l'aria esterna e quella che avvolge il corpo dell'insetto .
+
+
+== Note ==
+
+
+== Bibliografia ==
+Guido Grandi. Istituzioni di entomologia generale. Bologna, Calderini, 1966. ISBN 88-7019-084-6.
+Antonio Servadei; Sergio Zangheri; Luigi Masutti. Entomologia generale ed applicata. Padova, CEDAM, 1972.
+Ermenegildo Tremblay. Entomologia applicata. Volume I. 3a ed. Napoli, Liguori Editore, 1985. ISBN 88-207-0681-4.
+Aldo Pollini. Manuale di entomologia applicata. Bologna, Edagricole, 2002. ISBN 88-506-3954-6.
+
+
+== Voci correlate ==
+Insecta
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Antenna degli insetti

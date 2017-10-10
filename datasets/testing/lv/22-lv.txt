@@ -1,18 +1,18 @@
-Bromūdeņražskābe ir bromūdeņraža (HBr) šķīdums ūdenī. Tā ir stipra (stiprāka par sālsskābi), neorganiska, vienvērtīga skābe. Bromūdeņražskābe ir bezkrāsains (ilgāk glabājot — dzeltenīgs) šķidrums ar asu, skābu garšu; koncentrētiem šķīdumiem piemīt asa smaka. Bromūdeņražskābi jāglabā noslēgtos traukos tumšā vietā, jo gaismā tā sadalās.
+FIPRESCI ir saīsinājums no nosaukuma Fédération Internationale de la Presse Cinématographique (Starptautiskā kino kritiķu federācija). Tā ir asociācija, kas apvieno pasaules profesionālos kinokritiķus un par kino rakstošos žurnālistus, lai veicinātu un attīstītu filmu kultūru un aizsargātu kinematogrāfistu profesionālās intereses. Tā dibināta 1930. gada jūnijā Briselē, Beļģijā. Oficiālās valodas — angļu un franču. Organizācijas ģenerālā asambleja atrodas Itālijā. Patlaban FIPRESCI ir aptuveni 300 dalībnieku no vairāk kā 50 pasaules valstīm.
 
 
-== Iegūšana ==
-Laboratorijā bromūdeņražskābi var iegūt, destilējot nātrija bromīda vai kālija bromīda šķīdumu fosforskābē vai atšķaidītā sērskābē:
-KBr + H2SO4 → KHSO4 + HBr
-Ja sērskābe ir pārāk koncentrēta, tā var oksidēt izveidojušos bromūdeņradi līdz bromam (jeb bromūdeņradis reducē sērskābi līdz sēra dioksīdam):
-2HBr + H2SO4 → Br2 + SO2 + 2H2O
-Bromūdeņražskābi iegūst arī, reducējot bromu ar sēra dioksīdu:
-Br2 + SO2 + 2H2O → 2HBr + H2SO4
-Ūdens un sasmalcināta ledus maisījumam, kam pievienots broms, laiž cauri SO2, dzesējot reakcijas trauku. Dažas minūtes pēc tam, kad broma sarkanbrūnā krāsa izzudusi, SO2 ievadīšanu pārtrauc, šķidrumu pārnes dalāmajā piltuvē un atdala apakšējo slāni ar varbūtējiem piemaisījumiem. Pievieno nedaudz broma pārpalikušā SO2 saistīšanai, atšķaida ar ūdeni un destilē, paturot pēdējo frakciju, kas destilējas 122—126 °C temperatūrā. Tai pievieno BaCO3 vai Ba(OH)2 sulfātjonu saistīšanai un destilē vēlreiz, iegūstot ļoti tīru bromūdeņražskābi.
+== FIPRESCI balva ==
+FIPRESCI bieži piešķir balvas kinofestivālos (piemēram, Vīnes Starptautiskajā kinofestivālā, Toronto Starptautiskajā kinofestivālā, Kannu kinofestivālā, Venēcijas kinofestivālā un Varšavas kinofestivālā), novērtējot filmu veidošanā ieguldīto darbu un uzņēmību. Starp FIPRESCI balvas saņēmējiem ir Pedro Almodovars, Žans Liks Godārs, Alēns Renē, Signe Baumane, Juris Poškus, Vieturs Kairišs, Mihaels Hāneke, Rainers Verners Fasbinders, Sergejs Loznica, Deniss Tanovičs, Aki Kaurismeki, Manuels de Oliveira, Pols Tomass Andersons, Terenss Maliks, Romāns Polaņskis, Vudijs Alens, Andrejs Tarkovskis un citi populāri kinorežisori.
+No šīs balvas 1974. gada Kannu kinofestivālā atteicās Robērs Bresons.
 
 
-== Izmantošana ==
-Izmanto par reaģentu dažādu organisku un neorganisku broma savienojumu iegūšanai.
+== Žurnāls ==
+No 2005. gada FIPRESCI piedāvā tiešsaistes kino žurnālu Undercurrents, ko izdod kino kritiķis Kriss Fudzivara (Chris Fujiwara).
 
 
 == Atsauces ==
+
+
+== Ārējās saites ==
+Oficiālā mājaslapa
+Tiešsaistes žurnāls Undercurrents

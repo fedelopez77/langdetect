@@ -1,0 +1,11 @@
+O parâmetro de impacto é definido como a distância perpendicular entre o vetor velocidade de um projétil e o centro do objeto do qual está se aproximando (ver diagrama). É frequentemente citado em Física Nuclear (ver dispersão de Rutherford) e Mecânica Clássica quando referindo-se as órbitas dos corpos celestes.
+
+
+== Ver também ==
+Deflexão da luz
+
+
+== Referências ==
+Parâmetro de impacto e ângulo de dispersão - www.fisica.ufs.br
+History of Rutherford Experiment - hyperphysics.phy-astr.gsu.edu (em inglês)
+Incompatibility between Einstein's General Relativity and the Principle of Equivalence.; Paul Marmet; July 1999 - www.newtonphysics.on.ca (em inglês)

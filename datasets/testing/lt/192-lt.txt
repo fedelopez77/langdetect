@@ -1,0 +1,63 @@
+Cefeidė – kintamosios žvaigždės tipas, kuriam būdingas taisyklingas ir periodiškas ryškio (ir spektro) kitimas. Pavadinimas kilo iš pirmosios atrastos tokios žvaigždės – δ Cep (Cefėjo delta) – 1784 anglų astronomas Džonas Gudrikas. HR diagramoje cefeidės yra nestabilumo juostoje. Cefeidės paprastai būna B, A, F, G spektrinės klasės žvaigždės milžinės arba supermilžinės. Pavyzdžiui, Šiaurinė yra klasikinė cefeidė.
+
+
+== Cefeidžių klasifikacija ==
+Spindesio kitimo periodas gali būti nuo paros dalių iki 0,5 metų. Pagal periodą cefeidės skirstomos į:
+klasikines (ilgaperiodes); (I populiacijos);
+ilgaperiodes virginides (II populiacijos):
+Mergelės W tipo (1-8 parų)
+Heraklio IB tipo (12-35 parų);
+
+trumpaperiodes lyrides – (periodas – paros dalys). (Nors pastaruoju metu linkstama išskirti šias žvaigždes į atskirą kintamųjų žvaigždžių tipą).
+
+
+== Periodo ir šviesumo priklausomybė ==
+1912 buvo pastebėta, kad didesnio absoliutinio šviesumo žvaigždės pulsavimo periodas didesnis (absoliutus ryškis proporcingas šių periodo logaritmui). Todėl tiksliai įvertinus cefeidės periodą galima nustatyti absoliutinį ryškį:
+
+  
+    
+      
+        
+          M
+          
+            v
+          
+        
+        =
+        −
+        2.81
+        l
+        o
+        
+          g
+          
+            10
+          
+        
+        (
+        P
+        )
+        −
+        (
+        1.43
+        ±
+        0.1
+        )
+        
+      
+    
+    {\displaystyle M_{v}=-2.81log_{10}(P)-(1.43\pm 0.1)\,}
+  
+kur 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   išreiškiamas paromis. Po to, palyginus jį su regimuoju ryškiu, galima nustatyti ir atstumą. Tai yra vienas iš būdų nustatyti atstumus iki galaktikų ar spiečių.
+
+
+== Cefeidžių pulsacijų modelis (κ-mechanizmas) ==
+Ryškis kinta dėl žvaigždės radialinių pulsacijų. Padidėjus žvaigždės radiusui, išoriniai sluoksniai retėja ir vėsta (spinduliavimas mažėja), žvaigždė ima trauktis – tada ji tankėja ir kaista (spinduliavimas didėja).

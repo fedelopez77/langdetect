@@ -1,21 +1,20 @@
-Zahorčice falu és önkormányzat (obec) Csehország Dél-Csehországi kerületének Strakonicei járásában. Területe 3,63 km², lakosainak száma 63 (2008. 12. 31). A falu Strakonicétől mintegy 9 km-re délnyugatra, České Budějovicétől 55 km-re északnyugatra, és Prágától 107 km-re délnyugatra fekszik.
-A település első írásos említése 1227-ből származik.
+A legato egy zenei játékmód és annak kottai jele. Az olasz szó jelentése összekötve. A legato az egymást követő hangok időben folytonos, megszakításoktól mentes összekötését írja elő. Nem pusztán az előadói gyakorlatban alkalmazandó, hanem kottában is jelölt előírás, azaz a zenemű része.
 
 
-== Nevezetességek ==
-Aranyelőfordulások a Smolivecké-patak partján.
+== Alkalmazása ==
+A legato megvalósításakor az egymást követő hangok összekötve, szünet nélküli átmenettel szólalnak meg. A legato jelölésére hangkötést a alkalmazzák, melyet a kottában ívelt vonal mutat. A vonal felfelé álló szárú hangjegyek esetén jellemzően a hangjegyek alatt, míg lefelé álló szárúaknál azok felett jelenik meg.
+Vonós hangszereken a folytonos átkötést a úgy valósítják meg, hogy vonóval kitartják a hangot az előírt teljes időtartamig, majd a következő hang előtt minimális szünetet tartanak. Az átmenet vibratóval elfedhető. Ez a játékmód igen szoros kapcsolatban áll a portamentóval.
+Vokális darabokban legato előírás értelmében a magánhangzókat a jelölt hang időtartamáig ki kell tartani, a mássalhangzóknak pedig csak igen rövid szünetet kell hagyni. A hangok közötti átmenetet az énekes hajlítással, azaz egyazon énekhangzóval, elválasztás nélkül teszi meg. Ez a technika az egyik fő jellegzetessége a 18. századi operákban széles körben alkalmazott bel canto előadási módnak.
+Elektromos szintetizátorokon a legato hatás keltésére általában rendelkezésre áll egy monofonikus üzemmód. Hatására a hang elején és végén játszott tranziensek csak a kötött hangok előtt és után szólalnak meg, így folytonos lesz az átmenet az egyik hangról a másikra. A hangot leíró függvény burkolója így az első hangnál eléri a kitartott hangerőt, és csak az utolsó kötött hangnál csökken csak le ismét.
 
 
-== Népesség ==
-A település népessége az elmúlt években az alábbi módon változott:
+== Hasonló zenei játékmódok ==
+
+A legato által előírt hangkötés jelölésére alkalmazott ívelt vonal két másik zenei jelöléshez hasonlít, melyekkel nem összetévesztendő:
+Azonos hangmagasságot jelölő hangjegyek kötése azt írja elő, hogy a két hang helyett egy hangot kell folytonosan előadni a két kötött hang időtartamának megfelelő ideig. Ütőhangszereken ilyenkor csak az első hangjeggyel jelölt időben történik ütés.
+Kötött hangok ligatúrájával jelölhetők összetartozó dallamrészletek, melyek közös logikai egységet képviselnek. Az összekötött hangok kapcsolata lehet technikai jellegű (pl. vokális műben egy levegővétellel elénekelhető passzus), vagy a műformával kapcsolatos (pl. egy zenei frázis, motívum).
+A legatóval jelzett hangok olykor hangközöket hidalnak át, de a játékmód nem összetévesztendő a diszkrét glissandóval. Utóbbi ugyanis arra utaló előírás, hogy a határhangok között minden hangot meg kell szólaltatni, így frekvenciában az átmenet folytonos legyen (amennyire a hangszer diszkrét hangkészlete ezt megengedi), míg a legato pusztán azt írja elő, hogy a megszólaló hangok között nincs késleltetés, szünet.
+A legato ellentéte a staccato, mely utóbbi hatására az egymást követő hangok egymástól elválasztva adandók elő. A két ellentét között megkülönböztetnek egy köztes esetet is, melyet a szaknyelv mezzo staccatónak nevez.
 
 
 == Jegyzetek ==
-
-
-== Források ==
-A Cseh Statisztikai Hivatal adatlapja
-
-
-== További információk ==
-A település honlapja

@@ -1,0 +1,29 @@
+Alternatīvā degviela ir atjaunojams enerģijas resurss, kurš tiek izmantots kā transporta līdzekļa degviela. Degvielas būtība ir viegli uzglabājama enerģija, kura ērti transportējama uz izmantošanai nepieciešamo vietu. Pasaulē pastāv daudzi alternatīvo degvielu veidi. Daži no tiem ir biodegviela, biodīzelis, biogāze, elektrība, uz spirta bāzes balstīta degviela, kā arī ūdeņradis.
+
+
+== Biodegviela ==
+Biodegviela tiek ražota no atjaunojamiem resursiem, tādiem, kā biomasa, augu eļļas, kā arī ražošanā izmantoti sadzīves un rūpniecības atkritumi. Biodegviela tiek uzskatīta neitrāla attiecībā uz oglekļa dioksīda emisijām, kas rodas degvielu sadedzinot. To līdzsvaro augi, jo tie augot absorbē oglekļa dioksīdu. Biodegvielu biežāk izmanto kā piedevu uz naftas bāzes radītai degvielai, lai samazinātu kaitīgo gāzu emisijas. Biomasas krājumu apjoms uz Zemes tiek vērtēts ap 18×1011 t. Ar šādu biomasas enerģiju iespējams segt tikai nelielu daļu no enerģētikas pieprasījuma globālā griezumā. Augu biomasas izmantošana varētu palīdzēt risināt svarīgas problēmas kas saistītas ar apkārtējās vides saudzēšanu .
+
+
+=== Biodīzelis ===
+Biodīzelis tiek ražots apstrādājot augu eļļas un citus taukus. Tiek izmantots tīrā veidā, vai, biežāk kā piedeva uz naftas bāzes ražotai dīzeļdegvielai. Biodīzeli kā degvelu var izmantot gan tīrā veidā, gan masījumos ar fosilo dīzeļdegvelu. Teritorijās ar lielu ekonomiku (ASV, Kanāda, Eiropas Savienība u.c.) ir pieņemti sekojoši biodīzeļa apzīmējumi: B100 ir 100% biodīzelis, to pielieto kompānjas ar lielu autoparku - autobusu parki, pašvaldības, komerctransports, dabas rezervuāri u.c. Latvijā sākotnēji tika izmantota tieši šāds biodīzelis. B30 ir 30% biodīzelis un 70% dīzeļdegviela. Tas ir optimāls risnājums no ekonomiskā viedokļa, jo šāda sastāva biodīzelis saglabā sadalīšanās spējas. B20 ir 20% biodīzeis un 80% dīzeļdegviela. Šāda sastāva degviela ne ar ko neatšķiras no parastās dīzeļdegvielas. B5 ir 5% biodīzeis un 95% dīzeļdegviela 5% šajā gadījumā kalpo, kā piemaisījums, kas uzlabo dīzeļdegvielas eļļojošās īpašības . Biodīzeļa priekšrocības - nodrošina labāku eļļošanu, piemīt labākas degšanas īpašības (augstāks oktāna skaitlis), nesatur sēru, samazina kaitīgo izmešu daudzumu, ja tiek izmantots kā dīzeļdegvielas piemaisījums. Biodīzeli var lietot jabkurš transporta līdzeklis ar dīzeļmotoru.
+
+
+=== Biogāze ===
+Biogāze ir metāna un oglekļa dioksīda maisījums, kuru iegūst bezskābekļa vidē sadaloties organiskajām vielām, piemēram, notekūdeņiem un sadzīves atkritumiem.. Biogāze biežāk tiek izmantota karstā ūdens un apkures nodrošināšanai. Biogāzi iespējams iegūt dabiskā procesā purvos, kūdras purvos un izgāztuvēs, kā arī, izmantojot speciālus raudzētājus, no mēsliem, notekūdeņiem, zaļā biomasas un citiem atkritumiem, kas bioloģiski sadalās. Iegūtās biogāzes kurināmā vērtība parasti ir 5-7 kWh/m3 intervālā, atkarībā no metāna satura attiecīgajā biogāzē, kas savukārt ir atkarīgs no barības vielu satura raudzējamajā materiālā, mitruma un atkritumu tipa. Biogāzi var izmantot arī automašīnās ar atbilstoši pielāgotiem dzinējiem un degvielas tvertnēm.
+
+
+== Elektrība ==
+Elektrību  var izmantot, lai darbinātu elektriskos un elektrohibrīdu transportlīdzekļus tieši no elektrotīkla. Elektro transportlīdzekļiem nav izplūdes emisiju. Emisiju gan var attiecināt uz elektroenerģiju, ja tā iegūta izmantojot fosilos energoresursus. Ņemot vērā elektroenerģijas infrastruktūras attīstību valstī elektrība ir viegli pieejama. Šādiem transporta līdzekļiem ir vairāki trūkumi, piemēram, viena akumulatora uzlādēšanas reize prasa vismaz stundu, turklāt akumulators ar laiku zaudē uzkrāšanas spējas un nolietojas. Elektroautomašīnas vairāk piemērotas mazu distanču veikšanai.
+
+
+== Uz spirta bāzes balstīta degviela ==
+Etanols tiek iegūts fermentācijas procesā izmantojot biomasas materiālus, piemēram, kukurūzu vai lauksaimniecības atkritumus. Tiek saukts arī par bioetanolu. Etanolu izmanto iekšdedzes dzinējos tīrā veidā, vai, biežāk kā fosilās degvielas piedevu. Degvielu, kuras sastāvā ir vismaz 15% etanola var izmantot tikai šim nolūkam speciālos automobiļos ar pielāgojamiem degvielas motoriem (Flexible Fuel Vehicle). Tas ir jauna veida benzīna dzinējs vieglajām automašīnām. Automašīnās ar pielāgojamiem dzinējiem kā degvielu var izmantot viu veidu etanola degvelu un arī tradicionālo benzīnu 95E un bioetanolu jebkurā proporcijā. Motora degvielas sensors atpazīst benzīna un bioetanola maisījuma attiecības un automātiski piemēro degvielas oksidēšanās punktu. Motora detaļas izgatavotas no cietāka tērauda, degvelas tvertne un padeves sistēma no izturīgiem nerūsējošiem metāliem.
+
+
+== Ūdeņradis ==
+
+Ūdeņradis tiek izmantots gan kā uz naftas bāzes ražotas degvielas piedeva iekšdedzes dzinējiem, gan kā enerģijas nesējs lai to vajadzības gadījumā ar degvielas šūnu varētu pārvērst elektrībā (skatīt demonstrāciju), piemēram, elektromobīļiem. Attiecībā uz alternatīvajām degvielām ūdeņradi ražo izmantojot alternatīvo enerģiju iegūšanas resursus , piemēram saules enerģiju vai vēja enerģiju, kurus izmanto kā enerģijas avotus lai elektrolīzes procesā sadalītu ūdeni. Pašreiz vislielākā uzmanība pasaulē tiek pievērsta ūdeņraža izmantošanai transporta līdzekļos. Iekšdedzes dzinēju nomainīšanu pret degvielas šūnām un elektromotoriem kavē jaunās sistēmas dārdzība, kuras izmaksas nemitīgi samazinās aizvien progresējošu tehnoloģiju dēļ. Latvijā jau ir veikti vairāki zinātnski eksperimenti ar mērķi automašīnai ar iekšdedzes dzinēju uzstādīt tehnoloģiju, kas sadala ūdeni, ūdeņradi vadot degvelas sistēmā, tādā veidā uzlabojot bendzīnas sadegšanu, samazinot patēriņu un kaitīgo izmešu daudzumu, taču tehnoloģija vēl nav pieejama mazumtirdzniecībā.
+
+
+== Atsauces ==

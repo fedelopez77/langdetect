@@ -1,0 +1,23 @@
+Tetrode (grieķu: tetra... — četr... + (elektr)ods) — elektronu lampa ar četriem elektrodiem — anodu, karsējamu katodu un diviem tīkliņiem — vadīšanas (stūrēšanas) tīkliņu un ekrāntīkliņu. Tetrode ir triodes uzlabots variants, kam novērsts parazītiskās kapacitātes efekts starp anodu un tīkliņu.
+
+
+== Vēsture ==
+Pirmais triodei pievienot papildus elektrodu (ekrānu) ieteica Ērvings Lengmīrs, bet praktisku konstrukciju izgudroja vācu inženieris Valters Šotkijs (no Siemens) I pasaules kara laikā. Papildus tīkliņš bija nepieciešams, lai lampa varētu darboties augstākās frekvencēs, jo, sasniedzot noteiktu frekvenci, triode sāk pašierosināties — kļūst par ģeneratoru un zaudē pastiprināšanas īpašības. Tas notiek tādēļ, ka stūrējošais tīkliņš un anods veido it kā savdabīga kondensatora klājumus ar visai mazu kapacitāti (daži pikofaradi), kas tomēr ir pietiekama, lai augstfrekvences enerģija no anodķēdes nokļūtu tīkliņķēdē, radot atgriezenisko saiti, kas noved pie ģenerācijas. Ja starp anodu un triodes tīkliņu ievieto papildus elektrodu — ekrānu — viena parazītiskā kondensatora vietā rodas divi ar daudz mazākām kapacitātēm. Savukārt divu virknē slēgtu kondensatoru kopējā kapacitāte vienmēr ir mazāka par mazāko no tiem. Protams, ekrāns nedrīkst būt nepārtraukts, jo tad elektronu plūsma lampā tiks bloķēta. Tādēļ ekrānu izveidoja stieples spirāles formā.
+Tetrodes pēc to izgudrošanas ātri vien aizstāja triodes radiotraktos.
+
+
+== Uzbūve ==
+
+Tetrodes uzbūve līdzīga triodes uzbūvei, bet tai starp anodu un stūrējošo tīkliņu atrodas vēl viens elektrods — ekrāntīkliņš. Arī tam ir tievas stieplītes spirāles forma, tāpat kā stūrējošajam tīkliņam, tikai spirāles diametrs un vijumu solis ir lielāki (staru tetrodēm solis ir tāds pats). Tetrodēm bieži balona iekšpusi pārklāj ar metāla kārtiņu, vai ievieto tā iekšpusē ar katodu savienotu metāla sietiņu, lai novērstu ārējo traucējumu ietekmi. Tādēļ tetrodes sauc arī par ekranētajām lampām.
+
+
+== Darbības princips ==
+Tetrodes darbības princips ir līdzīgs triodes darbības principam, bet ekrāntīkliņam, tāpat kā stūrējošajam tīkliņam, tiek pievadīts pozitīvs potenciāls attiecībā pret katodu, tādēļ tetrodes spēj ne tikai darboties augstākās frekvencēs, bet tām ir arī labākas pastiprināšanas īpašības, jo ekrāntīkliņš piešķir elektronu plūsmai papildus ātrumu.
+
+
+== Tetrožu tipi ==
+Bez "klasiskajām" tetrodēm ir arī staru tetrodes ar nedaudz savādāku konstrukciju un elektrometriskās tetrodes, kam arī ir divi tīkliņi, bet to darbības princips ir atšķirīgs.
+
+
+== Izmantošana ==
+Tetrodes agrāk plaši lietoja radiotehnikā, bet mūsdienās izmanto galvenokārt kā jaudas pastiprinātājus radioraidītājos vai kā regulējošās lampas augstsprieguma stabilizatoros.

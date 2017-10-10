@@ -1,0 +1,2 @@
+Tux er den offisielle Linux-maskoten tegnet av Larry Ewing i 1996, som et resultat av en logo-konkurranse. Larry tegnet Tux på frihånd med tegneprogrammet GIMP.
+Tux er en forkortelse for Torvalds Unix. Det er altså ikke en forkortelse for tuxedo (smoking), selv om mange nok assosierer smoking med pingviner. Navnet Tux ble forøvrig første gang brukt av James Hughes.

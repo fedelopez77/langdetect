@@ -1,0 +1,16 @@
+
+== Informações ==
+Zona horária Standard: UTC+4
+Esquema para Guardar horas de luz natural: adianta 1 hora
+Fuso horário actual: UTC+5
+Abreviação da Zona Horária: SAMST
+Esquema para Guardar horas de luz natural inicia-se no último Domingo de Março (30 de Março, em 2008), às 02h00 e acaba no último Domingo de Outubro (26 de Outubro, em 2008), às 03h00
+
+
+== Coordenadas ==
+Latitude: 53° 1' Norte
+Longitude: 50° 15' Este
+
+
+== Referências ==
+Zonas horárias

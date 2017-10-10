@@ -1,0 +1,36 @@
+En Berøringsfølsom skærm, (også kaldet trykfølsom skærm, berøringsskærm, trykskærm eller touchskærm) er en skærm, hvor man ved hjælp af en finger eller et pegeredskab kan navigere på enheden.
+Berøringsfølsomme skærme er efterhånden meget udbredt og benyttes på f.eks. smartphones (iPhone, Samsung Galaxy S III...), tablet-computere (iPad...), kasseapparater og elektroniske informationstavler.
+
+
+== Finger gestik muligheder ==
+Mange berøringsfølsomme skærme er kun beregnet til at kunne håndtere en fingers eller pegepinds tapning/tryk - single-touch. Siden ca. 1982 har det været muligt at udstyre en skærm med multi-touch-funktionalitet.
+Apples første iPhone fra 2007 havde multi-touch og dermed blev multi-touch udbredt i stort omfang.
+Windows 8 er det første styresystem fra Microsoft, der er blevet udviklet til også at kunne betjenes med multi-touch. Windows Mobile havde understøttelse for single-touch berøringsfølsomme skærme og fik senere (ca. 2010) mulighed for multi-touch - og i dag har afløseren for Windows mobile; Windows CE også multi-touch (2008).
+
+
+== Teknologier ==
+Der er flere forskellige former for berøringsfølsomme skærmteknologier, som har forskellige metoder til at registrere berøring.
+
+
+=== Resistiv ===
+Et resistivt berøringsfølsomt skærmpanel består af adskillige filmlag, det vigtigste er to tynde gennemsigtige elektrisk resistive lag separeret af et tyndt luftlag. Disse lag er over for hinanden med en lille afstand mellem dem. Topfilmens (filmen som berøres) har en resistiv belægning på undersiden. Lige under denne belægning er en lignende resistiv belægning på overfladen af filmen under den øverste film. Det ene resistive lag har elektrisk ledende forbindelser langs venstre og højre skærmkant og det andet langs top- og bundkant. En spænding sættes mellem det siderne på det ene resistive lag – og aftastes på det andet resistive lag. Når et objekt, såsom en fingerspids eller en pegepind, trykker ned på det øverste filmlag, vil de to resistive lag berøre og blive forbundet i dette punkt. Nu kan f.eks. x-aksens spændingsværdi aftastes. Nu bytter de to resistive lag roller – og så kan den anden akses spændingsværdi aftastes. Denne rollebytning sker hurtigt så de to aflæste akseværdier aflæses indenfor nogle (hundreder?) millisekunder.
+Resistive berøringsfølsomme skærme anvendes i restauranter, fabrikker og hospitaler grundet deres store robusthed overfor væsker og evt. forureninger. En stor fordel ved resistive berøringsfølsomme skærme er dets lave pris. Ulemperne omfatter at man skal trykke ned og en risiko er evt. skarpe objekter. Teknologien giver også dårligere kontrast, fordi lagene skaber yderligere refleksioner.
+
+
+=== Overfladeakustisk bølge ===
+Overfladeakustisk bølge (SAW) teknologi anvender ultrasoniske bølger som udbreder sig over skærmpanelet. Når panelet berøres, vil en del af bølgen blive absorberet. Denne ændring registreres.
+
+
+=== Kapacitiv ===
+
+En kapacitiv berøringsfølsom skærmpanel består af en isolator såsom glas, belagt med en gennemsigtig leder såsom indiumtinoxid (ITO).   Da menneskets krop også er en elektrisk leder, vil en berøring af skærmens overflade skabe en forvrængning af skærmens elektrostatiske felt, hvilket kan aftastes som en kapacitetsændring. Forskellige teknologier kan anvendes til at bestemme berøringslokationen.
+I modsætning til et resistivt berøringsfølsomt skærmpanel, kan man ikke anvende et kapacitivt berøringsfølsomt skærmpanel gennem de fleste elektrisk isolerende materialer som f.eks. handsker. Man skal f.eks. anvende en speciel kapacitiv egnet pegepind eller handsker.
+
+
+=== Infrarød ===
+
+En infrarød berøringsfølsomt skærmpanel anvender en matrix af X-Y infrarøde lysdiode og fotodetektor par langs kanten af skærmen til at detektere en afbrydelse af strålemønsterparrene.
+Teknologien anvendes typisk udenfor, da der ikke er krav til glassets beskaffenhed. Men snavs og f.eks. fluelandinger vil blive opfattet.
+
+
+== Kilder/referencer ==

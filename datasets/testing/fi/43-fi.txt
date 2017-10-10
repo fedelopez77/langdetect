@@ -1,55 +1,11 @@
-Veinoplus on luokan IIa lääkinnällinen laite, jolla on CE-merkintä. Laite on tarkoitettu käytettäväksi laskimovajaatoiminnan hoidossa. Kyseessä on neuromuskulaari stimulaattori, jonka on kehittänyt amerikkalainen tiedemies, Jozef Cywinski.
+Kermit Cintron (s. 22. lokakuuta 1979 Carolina, Puerto Rico) on puertoricolainen nyrkkeilijä ja IBF-ammattilaisliiton välisarjan entinen maailmanmestari.
 
 
-== Historia ==
-2004: Veinoplus suunnittelu
-2005: Princeps study (ensin julkaistu kliininen tutkimus) 
-2011: Myynti 25 maassa
+== Elämä ja ura ==
+Cintronin lapsuus oli karu. Hänen äitinsä kuoli syöpään hänen ollessaan vain pieni poika. Cintronin isä ei kyennyt huolehtimaan pojastaan ja lähetti tämän Yhdysvaltoihin setänsä, entisen keskisarjalaisen nyrkkeilijän Benjamin Serranon kasvatettavaksi. Isä piti kuitenkin yhteyttä Crintoniin kunnes kuoli sydänkohtaukseen pojan ollessa 13 vuoden ikäinen. Nuorena poikana Cintron harrasti sekä nyrkkeilyä että painia. Opiskeluaikoinaan hänen painiuransa lähti lupaavaan nousuun, mutta katkesi polvivammoihin ja hän päätti keskittyä nyrkkeilyyn.
+Amatööriuransa nyrkkeilijänä Cintron aloitti 19-vuotiaana. Amatöörinä hänen saldokseen jäi 24 voittoa ja kolme tappiota. Ammattilaisuransa hän aloitti vuonna 2000 toisen erän tyrmäysvoitolla Jesse Williamsista. Seuraavan kahden ja puolen vuoden aikana hän otteli lukuisia kamppailuja, joista kahta lukuun ottamatta voitti kaikki ennen täyttä aikaa. 17. heinäkuuta 2004 Cintron pääsi ensimmäiseen titteliotteluunsa Teddy Reidiä vastaan, panoksena oli tilapäinen WBO- ja NABF-mestaruus. Ottelu päättyi hänen voittoonsa teknisellä tyrmäyksellä kahdeksannessa erässä. Seuraavassa ottelussaan WBO-mestaruudesta heinäkuussa Antonio Margaritoa vastaan hän kärsi tappion teknisellä tyrmäyksellä viidennessä erässä.
+Huhtikuussa 2006 Cintron voitti David Estradan kymmenennen erän teknisellä tyrmäyksellä, minkä myötä hänelle siunaantui paikka MM-otteluun. 28. lokakuuta samana vuonna hän kohtasi Floridan Palm Beachillä Mark Suarezin avoimena olleesta IBF-liiton maailmanmestaruudesta ja voitti kamppailun kuudennen erän teknisellä tyrmäyksellä. Hän puolusti titteliään voitokkaasti Walter Dario Matthyssea ja Jesse Felicianoa vastaan. Cintron hävisi viime ottelussaan Antonio Margaritolle tyrmäyksellä kuudennessa erässä.
 
 
-== Kuvaus ==
-Veinoplus on taskukokoinen laite varustettuna kahdella elektrodilla. Laitteessa on kolme painiketta: keskimmäinen on päälle/pois -painike ja kaksi muuta merkittyinä “+” ja “-” –merkein, ovat painikkeita, joilla säädetään stimuluksen voimakkuutta. Elektrodit tulee asettaa pohkeeseen: joko molemmat elektrodit yhteen pohkeeseen, jos laskimovajaatoiminta on vain toisessa jalassa tai yksi elektrodi kumpaankin pohkeeseen, mikäli molemmissa jaloissa on laskimovajaatoimintaa.
-
-
-== Veinoplus teknologia ==
-Veinoplus teknologia perustuu sähköstimulaatioon. 9V pariston johdosta laitteen antamat sähköimpulssit ovat alhaista taajuutta ja jännitettä. Input power on alle 0.3W ja output power on alle 0.05W. Veinoplus-laitteen ja muiden sähköisten lihasstimulaattoreiden ero on impulssien aaltomuodossa. Tällä ainutlaatuisella aaltomuodolla sähköinen kenttä pääsee syvälle läpi pohkeen ja siten stimuloi tärkeää kudosmäärää. Tämän seurauksena Veinoplus aiheuttaa syvien lihasten supistelun vaikka molemmat elektrodit ovat yli metrin etäisyydellä toisistaan, esimerkiksi yksi elektrodi kummassakin pohkeessa.
-Veinoplus tuottaa turvallisia ja kivuttomia sähköisiä impulsseja. Itse asiassa signaalin voimakkuus on alle rajojen, jotka ovat asettaneet Association for the Advancement of Medical Instrumentation ja American National Standards Institute (AAMI / ANSI ; NS-4; 1986/2002). Laite ei aiheuta kohtuuttomia sähkömagneettisia häiriöitä. Näin sitä voidaan käyttää lentokoneessa, paitsi nousun ja laskun aikana. Lopuksi, tutkimus raskaana olevilla naisilla on osoittanut, että Veinoplus –laitteella ei ole haittavaikutuksia sikiölle eikä raskaudelle.
-
-
-== Kliiniset tiedot ==
-
-
-=== Fysiologiset ominaisuudet ===
-Veinoplus aktivoi pohjelihaspumpun, mikä on vastuussa noin 80 %:sti laskimoveren paluusta. Pohjelihassupistukset puristavat syviä laskimoita ja pumppaavat laskimoverta sydäntä kohti painovoimaa vastaan.
-Voimme nostaa esiin kolme hemodynaamista vaikutusta:
-laskimostaasin poistaminen
-laskimoveren virtauksen määrän ja nopeuden lisääminen
-refluksin estäminen pinnallisissa ja syvissä laskimoissa
-
-
-=== Käyttöaiheet ===
-Veinoplus on tarkoitettu käytettäväksi kroonisten laskimovajaatoiminnan oireiden hoidossa:
-kivuliaat tai raskaat jalat
-yökouristukset
-levottomat jalat
-post-tromboottinen syndrooma.
-Veinoplus voi myös helpottaa kroonisen laskimoperäisen haavauman paranemista.
-Veinoplus –laitetta voivat käyttää joko potilaat, jotka kärsivät laskimotaudista tai joilla on riski laskimovajaatoiminnalle:
-pitkittynyt liikkumattomuus (pitkät lennot, ammatit joissa paljon istumista tai seisomista…)
-suonikohjut
-raskaus 
-ylipaino
-fyysisen aktiviteetin (kävely) puute
-kuumuus.
-
-
-=== Vasta-aiheet ===
-Ainoa vasta-aihe Veinoplus-laitteen käytölle on sydämentahdistin.
-
-
-== Lähteet ==
-
-
-== Linkit ==
-tuotteen kotisivu
-yhtiön kotisivu (ISO 9001 ja ISO 13485)
+== Aiheesta muualla ==
+Ammattilaisottelut BoxRec-tietokannassa

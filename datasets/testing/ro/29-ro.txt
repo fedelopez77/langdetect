@@ -1,165 +1,23 @@
-În geometria plană, mediatoarea este perpendiculara dusă prin mijlocul unui segment. Mediatoarea poate fi definită și ca fiind locul geometric al punctelor (dintr-un plan ce conține segmentul respectiv) egal depărtate de extremitățile segmentului.
+Isidor „Iszo, Isi“ Gansl (n. 1896, Budapesta, Austro-Ungaria - d. 1938, Viena) a fost un fotbalist austriac care a jucat pe poziția de atacant.
 
 
-== Proprietăți ==
-1. Cele trei mediatoare ale laturilor unui triunghi sunt concurente într-un punct care este centrul cercului circumscris triunghiului.
-Demonstrație. Fie O – punctul de intersecție al mediatoarelor segmentelor AB și BC. Din definiția mediatoarei, rezultă că 
-  
-    
-      
-        
-          |
-        
-        O
-        A
-        
-          |
-        
-        =
-        
-          |
-        
-        O
-        B
-        
-          |
-        
-        =
-        
-          |
-        
-        O
-        C
-        
-          |
-        
-      
-    
-    {\displaystyle |OA|=|OB|=|OC|}
-   ceea ce înseamnă că O aparține mediatoarei segmentului AC. 
-2.Proprietate: Un punct aparține mediatoarei unui segment dacă și numai dacă are distanțe egale față de extremitățile segmentului.
-
-2. Diametrul cercului circumscris este dat de formula:
-
-  
-    
-      
-        
-          
-            
-              
-                
-                  diametru
-                
-              
-              
-                
-                
-
-                
-                =
-                
-                  
-                    
-                      2
-                      a
-                      b
-                      c
-                    
-                    
-                      (
-                      a
-                      +
-                      b
-                      +
-                      c
-                      )
-                      (
-                      a
-                      −
-                      b
-                      +
-                      c
-                      )
-                      (
-                      b
-                      −
-                      c
-                      +
-                      a
-                      )
-                      (
-                      c
-                      −
-                      a
-                      +
-                      b
-                      )
-                    
-                  
-                
-              
-            
-            
-              
-              
-                
-                
-
-                
-                =
-                
-                  
-                    
-                      a
-                      b
-                      c
-                    
-                    
-                      2
-                      
-                        
-                          s
-                          (
-                          s
-                          −
-                          2
-                          ∗
-                          a
-                          )
-                          (
-                          s
-                          −
-                          2
-                          ∗
-                          b
-                          )
-                          (
-                          s
-                          −
-                          2
-                          ∗
-                          c
-                          )
-                        
-                      
-                    
-                  
-                
-              
-            
-          
-        
-      
-    
-    {\displaystyle {\begin{aligned}{\text{diametru}}&{}={\frac {2abc}{\sqrt {(a+b+c)(a-b+c)(b-c+a)(c-a+b)}}}\\&{}={\frac {abc}{2{\sqrt {s(s-2*a)(s-2*b)(s-2*c)}}}}\end{aligned}}}
-  
+== Carieră ==
+Iszo Gansl a fost unul dintre cei cinci frați, care au jucat pentru SC Hakoah Wien. În 1910, el s-a alăturat echipei școlare fondate în anul anterior, înainte de a înființa împreună cu fratele sau Max clubul Sportclub Unitas. În iunie 1914 s-a transferat la Wiener AF, unde a devenit curând rezervă pentru prima echipă. După începerea primului război mondial, a fost încorporat în armata austriacă, în a cărui echipă a jucat înainte de a fi încorporat în armata ungară (ca urmare a faptului că se născuse la Budapesta).
+După sfârșitul războiului, a rămas la Budapesta, unde s-a alăturat clubului Ferencvárosi Torna Club. În sezonul 1918/1919 a jucat în linia de atac a echipei, alături de Alexander Neufeld și Mihály Pataki, echipa clasându-se pe locul II după MTK Budapesta. În vara anului 1919, Ferencváros a participat la Turneul Prater din Viena, iar mai mulți jucători au profitat de ocazie pentru a se legitima la cluburi austriece. După ce Gansl a fost pus în legătură cu Wiener AF (WAF), s-a întors, în final, la clubul lui de bază (Hakoah Viena) la care se mutase și fratele lui mai mare, Jenő, și unde urma să-l urmeze și colegul său de club Neufeld.
+În sezonul următor, Hakoah a luptat pentru promovarea în prima divizie, cel mai puternic concurent fiind Germania Schwechat. Cruciale au fost cele două confruntări directe cu Germania, ambele câștigate cu scorul de 2:1 și care au permis astfel promovarea echipei în prima ligă. Hakoah a marcat 107 goluri în acest sezon, dintre care 52 goluri erau marcate de Iszo și alte 18 de Jenő Gansl. În februarie 1920 a fost selecționat în echipa Austriei Inferioare și a jucat în meciul contra Germaniei de Sud, încheiat cu scorul de 1:1. Cu toate acestea, meciul acesta a rămas singura sa participare într-o selecționată austriacă.
+Hakoah a promovat în prima divizie și în primul sezon s-a clasat pe locul IV, iar în al doilea sezon a luptat pentru titlul de campioană a Austriei, pe care l-a pierdut în final în confruntarea cu Wiener Sportclub. Gansl a fost în ambele sezoane golgheterul echipei Hakoah. Punctele sale forte au fost pătrunderile în defensiva adversă, controlul mingii și lovirea mingii cu capul.
+În 1923 a plecat de la Hakoah și s-a transferat în România, la echipa Maccabi Cernăuți. Echipa s-a clasat pe locul II în Campionatul Regional al Bucovinei și a ratat astfel calificarea la turneul final al Campionatului României, dar evoluțiile lui Gansl au dus la convocarea sa la echipa națională de fotbal a României. În calitate de jucător, el nu a fost selecționat pentru echipa națională nici în țara sa natală (Ungaria) și nici în Austria, singura sa prezență într-o echipă națională având loc în octombrie 1923, când a jucat în meciul România - Turcia 2:2, iar Gansl a marcat ambele goluri ale României.
+După sfârșitul sezonului, s-a întors în Austria și s-a alăturat echipei Hakoah Graz, unde și-a terminat cariera. Cu al treilea loc obținut în Liga regională din Stiria în primul an al lui Gansl aici, echipa a obținut cel mai bun rezultat din istoria clubului. Când Wiener Hakoah și-a pierdut toată linia de atacanți în 1926, după turneul din America, s-a vorbit o scurtă vreme de o posibilă întoarcre a lui Gansl la clubul lui de bază, dar fracturarea piciorului atacantului a împiedicat asta.
+După încheierea carierei sale de jucător, Gansl a lucrat ca antrenor. Între anii 1929-1934 a antrenat echipa US Tunisienne din Tunis, contractând acolo o boală gravă, cu simptome de paralizie, care a cauzat moartea sa câțiva ani mai târziu.
 
 
-== Note ==
+== Performanțe ==
+1 x campion al ligii a II-a a Austriei: 1920
+2 x semifinalist al Cupei Austriei: 1920, 1923
+3 x campion al Tunisiei: 1930, 1931, 1933 (ca antrenor)
+1 meci și 2 goluri pentru echipa națională de fotbal a României
 
 
-== Vezi și ==
-Bisectoare
-Mediană
-Înălțime (geometrie)
+== Legături externe ==
+Isidor Gansl la worldfootball.net
+Fotografie a lui Isidor Gansl

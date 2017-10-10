@@ -1,0 +1,140 @@
+Betz lag, uppkallad efter den tyska fysikern Albert Betz, redovisar bland annat hur mycket maximal relativ effekt som ett vindkraftverks rotor kan utvinna ur vinden.
+Om man kunde utnyttja all rörelseenergi hos den vind som passerar genom rotorn hos ett vindkraftverk skulle vindkraftverket få följande effekt:
+
+  
+    
+      
+        P
+        =
+        
+          
+            
+              ρ
+              π
+              
+                r
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        
+          v
+          
+            3
+          
+        
+      
+    
+    {\displaystyle P={\frac {\rho \pi r^{2}}{2}}v^{3}}
+  
+där ρ är luftens densitet, r rotorns radie och v vindens hastighet.
+Det är emellertid inte möjligt att uppnå denna effekt. Betz härledde 1919 följande samband för den teoretiskt utvinningsbara effekten:
+
+  
+    
+      
+        P
+        =
+        
+          
+            
+              ρ
+              π
+              
+                r
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        
+          
+            
+              (
+              
+                v
+                
+                  2
+                
+              
+              −
+              
+                v
+                
+                  2
+                
+                
+                  2
+                
+              
+              )
+              (
+              v
+              +
+              
+                v
+                
+                  2
+                
+              
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle P={\frac {\rho \pi r^{2}}{2}}{\frac {(v^{2}-v_{2}^{2})(v+v_{2})}{2}}}
+  
+där v2 är vindens hastighet strax efter att ha passerat rotorn. Sambandet gäller inte när v2 närmar sig noll, om den situationen vore möjlig, och luften därigenom tvingas strömma förbi rotorn (ej genom rotorns svepningsarea) till största delen. Sambandet har ett maximum vid v2 = v/3.
+Vid detta maximum blir effekten:
+
+  
+    
+      
+        P
+        =
+        
+          
+            
+              ρ
+              π
+              
+                r
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        
+          
+            16
+            27
+          
+        
+        
+          v
+          
+            3
+          
+        
+      
+    
+    {\displaystyle P={\frac {\rho \pi r^{2}}{2}}{\frac {16}{27}}v^{3}}
+  
+Att den teoretiskt maximala effekt som kan utvinnas med hjälp av en rotor i ett vindkraftverk är 16/27 eller approximativt 0,59 av effekten hos den fritt strömmande luften strax framför rotorn brukar betecknas som Betz lag.
+I själva verket kan maximalt endast ca 45% av effekten hos den genomströmmande luften utnyttjas beroende dels på rotorns verkningsgrad och dels på övriga komponenters verkningsgrader (vanligen växellåda och generator). I praktiken brukar endast ca 35% utnyttjas.
+
+
+== Externa länkar ==
+The Betz limit - and the maximum efficiency for horizontal axis wind turbines

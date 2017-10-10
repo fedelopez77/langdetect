@@ -1,18 +1,8 @@
-Toivo Kivistik on eesti kirjaniku Juhan Paju poolt väljamõeldud kriminaaljälituse töötaja, kes tegutseb 1990. aastatel Lääne maakonnas (endises Haapsalu rajoonis).
-Kivistik on 185 cm pikkune ja kaalub 98 kg. Uurija on abielus Lagle kõrtsi töötaja Varjega ja neil sündis kaks poega.
-Ligi 30 aastat on ta kogunud kunstiteemalisi postmarke.
-
-
-== Teenistus ==
-Nõukogude ajal töötas ta Haapsalu rajooni kriminaaljälituses miilitsamajori auastmes ("Haapsalu detektiiv" ja "Surm Hundikaril"). Eesti taasiseseisvumise järel jätkas ta Lääne Politseiprefektuuris komissari auastmes ("Lasud kodutänaval", "Kadunud viiuldaja" ja "Mudasegaja armuke").
-
-
-== Teosed ==
-"Haapsalu detektiiv", 1990
-"Surm Hundikaril", 1993. Tegevus toimub aasta pärast "Haapsalu detektiiv" sündmusi
-"Lasud kodutänaval", 1995. Hundikari sündmustest on möödunud kaheksa aastat
-"Kadunud viiuldaja", 2001
-"Mudasegaja armuke", 2003
+Digitaalallkiri võimaldab kasutajatel elektrooniliselt teha toiminguid, mida eelnevalt tuli allkirjastada paberil. Eesti digitaalallkirja süsteem on aluseks mõnedele riigi populaarsematele e-teenustele, sh ettevõtte registreerimine võrgus, e-pangad, e-hääletamine ja elektrooniline maksude esitamine – sisuliselt mistahes teenused, millel on kehtivuse tõestamiseks vaja allkirja.
+Esimene digitaalallkiri anti 2002. aastal. Lõppkasutajate ja süsteemiintegraatorite jaoks lasti välja mitmeid vabavaraprogramme. Kõik tarkvara komponendid töötlesid sama dokumendiformaati, milleks oli Digidoc.
+Oktoobris 2014 võttis Riigikogu vastu seaduseelnõu, mis annab inimesele tema kodakondsusest või elukohast olenemata võimaluse taotleda Eesti digitaalset identiteeti (E-residentsus), et anda digitaalseid allkirju ja kasutada Eesti internetiteenuseid. Seadus jõustus 1. detsembril 2014. 2013. aasta oktoobri seisuga oli Eestis antud üle 130 miljoni digitaalse allkirja.
+2014. aastal alustas tööd SignWise Portal, aadressil https://portal.signwise.org/, mis võimaldab anda digiallkirju Eesti, Šveitsi, Belgia, Soome, Läti, Leedu ja Portugali riigi poolt väljastatud eID omanikele.
+2015. aastal alustas tööd SignWise Services, aadressil https://signwiseservices.com/, mis võimaldab digiallkirjastada dokumente digitaalsete identiteetidega järgmistest riikidest: Austria, Eesti, Läti, Belgia, Leedu, Hispaania, Portugal, Island, Soome, Norra, Omaan, Armeenia, Georgia, Luksemburg, Rootsi ja Türgi.
 
 
 == Viited ==

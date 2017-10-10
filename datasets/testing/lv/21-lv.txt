@@ -1,86 +1,12 @@
-Dubultuzbrukums ir vienas figūras vai bandinieka vienlaicīgs uzbrukums diviem vai vairākiem pretinieka objektiem. Uzbrukuma objekti parasti ir neaizsargātas figūras, bandinieki un vāji punkti pretinieka nometnē. Sevišķi efektīvs dubultuzbrukums ir tad, kad viens no uzbrukuma objektiem ir pretinieka karalis. Dubultuzbrukumu var veikt visas figūras, tai skaitā karalis un tas sastopams visās partijas stadijās — atklātnē, vidusspēlē, galotnē. Zirdziņa un bandinieka dubultuzbrukumu šaha literatūrā sauc par dakšiņu.
-
-
-== Piemēri ==
-
-
-=== Bandinieka dakšiņa ===
-Bandinieka dakšiņa sastopama galvenokārt kā šaha kombināciju sastāvdaļa. Izolētā veidā tā ir diezgan acīmredzama un to viegli pamana pat šahisti-iesācēji.
-
-1. piemērs
-1. ... d3! Šī bandinieka dakšiņa ir ievilināšanas upuris. Pēc 2. Lxd3, seko otra bandinieka dakšiņa — 2. ... e4!, kas pēc 3. Le2 exf3, nodrošina melnajiem figūras ieguvumu.
-2. piemērs
-Savdabīgu bandinieka dakšiņu ilustrē šī Kasparjana etīde. 1. Ze8! (draud 2. Zg7+ un 3. Lf5 #) 1. ... Kg6 2. h5+! Txh5 3. f5+ Txf5 4. g4! Tf5 5. Lf5+ Txf5 6. Zg7! Īstajā brīdī bandinieka dakšiņu papildina arī zirdziņa dakšiņa! Šī zirdziņa un bandinieka sadarbība rada divkāršu mata draudu uz f5 un h5. Abus matus melnie nav spējīgi novērst.
-
-
-=== Zirdziņa dakšiņa ===
-Katram iesācējam šausmas sagādā pretinieka zirdziņš un dažreiz no tā viltīgajiem uzbrukumiem cieš pat lielmeistari. Tas izskaidrojams ar zirdziņa savdabīgo kaujas taktiku — uzbrukt, nenonākot tiešā kontaktā ar apdraudēto figūru (izņemot zirdziņu) vai bandinieku.
-
-3. piemērs
-Partijā sekoja — 1. ... Dg1+! 2. Kxg1 Zxf2+ 3. Kf2 Zxd1 un baltie padevās.
-4. piemērs
-Ja melnajiem izdotos atdot torni pret balto bandinieku, izveidotos teorētiski neizšķirta pozīcija. Kā rāda etīdes risinājums, melnie to nespēj.
-1. Zf6 Tf1 Ja 1. ... Txf6 vai 1. ... Txh4, tad pēc 2. g7 baltie uzvar. 2. Zf3 Txf3 3. g7 Tg3 4. Ze4+
-
-
-=== Laidņa dubultuzbrukums ===
-Laidņa dubultuzbrukums var notikt gan vidusspēlē, gan galotnē.
-
-5. piemērs
-Baltie domāja, ka pretinieks nav pamanījis bandinieka zaudējumu un pēc 1. dxe5 dxe5 realizēja dubultuzbrukumu bandiniekiem a5 un e5. 2. Dc3. Turpinājumā 2. ... Lb4 3. Dxe5? Dxe5 4. Zxe5 izrādījās, ka baltie iekrituši lamatās. Melnie realizēja laidņa dubultuzbrukumu tornim a1 un zirdziņam e5 4. ... Lc3 un viegli uzvarēja.
-6. piemērs
-Aļehina 10. gājienu kombinācija noslēdzas ar laidņa dubultuzbrukumu.
-"1. ... Le6 2. Tcc2 Zg4+ 3. Kh3 Ze5+ 4. Kh2 Txf3 5. Txe2 Zg4+ 6. Kh3 Ze3+ 7. Kh2 Zxc2 8. Lxf3 Zd4! 9. Tf2 Zxf3 10. Txf3 Ld5!" un melnie uzvar.
-
-
-=== Torņa dubultuzbrukums ===
-Torņa dubultuzbrukums notiek galvenokārt galotnē, jo torņi tiek aktivizēti vēlāk kā citas figūras un to darbībai vajadzīgs plašums.
-
-7. piemērs
-1. ... Tf2 Melno dubultuzbrukums balto dāmai un punktam h2. Baltie padevās, jo nevar 2. Dxe1 Txh2# dēļ.
-8. piemērs
-Kubbela etīdes galvenā ideja — torņa dubultuzbrukums melno figūrām.
-1. Tb3 Zc6 (1. ... Lc7 2. Tb7 Ka6 3. Ta7+- — dubultuzbrukums; 1. ... Za6 2. Tb7+ un 3. Ta7+-) 2. Tb5 (draud dubultuzbrukums 3. Tc5!) 2. ... Ld8 3. Td5! Le7 4. Td7 un 5. Tc7 (dubultuzbrukums) +-.
-
-
-=== Dāmas dubultuzbrukums ===
-Dāma, būdama spēcīgākā figūra, ir spējīga uzbrukt astoņos virzienos, tādēļ tās dubultuzbrukumi ir vieni no visbiežākajiem. Tie sastopami visās šaha partijas stadijās. Piemēram, 5. šaha olimpiādes partijā Kombe — Hāzenfuss tas deva Latvijas šahistam uzvaru jau ceturtā gājienā.
-
-9. piemērs
-Partijā sekoja — 1. ... Txf2 2. Kxf2 Txc4! un baltie padevās, jo pēc 3. Dxc4 sekos melno dāmas dubultuzbrukums balto karalim un tornim 3. ... Dd2+.
-10. piemērs
-Dāmas dubultuzbrukuma iespējas labi raksturo šī teorētiskā galotne. Gājiena spaida dēļ, melnie spiesti attālināt torni no karaļa.
-1. ... Tb4 2. Da5+
-1. ... Tb3 2. Dd4+ Kb8 3. Df4+ Ka7 4. Da4+
-1. ... Tb2 2. Dd4+
-1. ... Tb1 2. Dd4+ Kb8 3. Dh8+ Ka7 4. Dh7+
-1. ... Tf7 2. Dd4+ Kb8 3. Db2+ Ka8 4. Da2+
-1. ... Tg7 2. Dd4+
-1. ... Th7 2. Da5+ Kb8 3. De5+ Ka7 4. Da1+ Kb8 5. Db1+
-
-
-=== Karaļa dubultuzbrukums ===
-Karalim, tāpat kā laidnim, visbiežāk dubultdraudu izdodas realizēt tikai galotnē. Atklātnē un vidusspēlē viņš, kā likums, mata draudu dēļ spiest slēpties aiz "sava karaspēka". Tikai tad, kad pretinieka spējas nekavējoties matot izsīkušas, viņš var aktīvi iesaistīties cīņā.
-
-11. piemērs
-Partijā notika — 1. ... f5+ 2. Kd5 Kg3 (karaļa dubultuzbrukums abiem balto zirdziņiem) un baltie padevās.
-
-
-== Skatīt arī ==
-Lineārs trieciens
-
-
-== Piezīmes ==
+Tīrinta (sengrieķu: Τίρυνς, grieķu: Τίρυνθα) ir aizvēsturiska pilsēta Argolidā, Grieķijā.
+Izrakumi liecina, ka teritorija tikusi apdzīvota jau neolīta laikmetā. Ar laiku Tīrinta kļuva par Mikēnu kultūras centru. 1300. gadā p.m.ē. iedzīvotāju skaits 20—25 hektārus lielajā teritorijā sasniedza apmēram 10 tūkstošus, 1150. gadā p.m.ē. — 15 tūkstošus. Mikēnu perioda beigās sākās panīkums, līdz vieta tika pilnībā pamesta laikā, kad to apmeklēja Pausānijs mūsu ēras 2. gadsimtā.
+1884.—1885. gadā Heinrihs Šlīmanis te veica izrakumus, tika atsegts pilsētas mūris, pils pamatmūris. 1999. gadā kopā ar Mikēnām Tīrinta tika iekļauta UNESCO Pasaules mantojuma sarakstā.
 
 
 == Atsauces ==
 
 
-== Literatūra ==
-Н. И. Журавлев. Шаг за шагом (krievu). Москва : ФиС, 1986. 149.—161. lpp.
-
-
 == Ārējās saites ==
-«Double Attack - The Ultimate Tactical Concept» (angļu). chess.com. 2013-03-06. Skatīts: 2017-08-16.
-«Double Attack» (angļu). chessgames.com. Skatīts: 2017-08-16.
-«The double attack» (angļu). chessguru.net. Skatīts: 2017-08-16.
+
+ Vikikrātuvē par šo tēmu ir pieejami multivides faili. Skatīt: Tīrinta.
+Encyclopædia Britannica ieraksts (angliski)

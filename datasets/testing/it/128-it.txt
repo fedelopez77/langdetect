@@ -1,0 +1,180 @@
+In matematica, un 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  -torsore (anche detto spazio omogeneo principale), fissato un gruppo 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , è un G-insieme 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   su quale 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   agisce liberamente e transitivamente. In questa definizione concreta, sia 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   che 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   appartengono alla categoria degli insiemi e in quanto oggetti di questa sono dunque insiemi.
+In termini più astratti, e nel linguaggio delle categorie e dei funtori, un 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  -torsore è un oggetto 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   in una categoria 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   su cui agisce un oggetto gruppo 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , appartenente alla stessa categoria 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  , in modo semplicemente transitivo. Se ad esempio 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   è la categoria degli insiemi allora X è un qualunque insieme e G è un gruppo. Se invece 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   è la categoria degli schemi definiti sopra 
+  
+    
+      
+        
+          S
+          p
+          e
+          c
+        
+        K
+      
+    
+    {\displaystyle \mathrm {Spec} K}
+   (ove 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   è un campo) allora 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   è un 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  -schema e 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   un 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  -schema in gruppi. La definizione può essere generalizzata.
+
+
+== Bibliografia ==
+(EN) A. Skorobogatov, Torsors and rational points, Cambridge University Press, 2001, ISBN 0-521-80237-7.

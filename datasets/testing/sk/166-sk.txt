@@ -1,0 +1,81 @@
+PRINCE2 (skratka z anglického PRojects IN Controlled Environments – Projekty v riadených/ ovládaných prostrediach) je metodika projektového riadenia. Vznikla na podnet britskej vlády a dnes je používaná v súkromnej i verejnej sfére vo viac ako 110 krajinách.
+Metodiku stále využíva britská vláda, zároveň ju používajú aj vlády iných štátov Európskej únie (napr. Dánsko, Holandsko), ale aj NATO, OSN a veľké korporátne organizácie ako napríklad Deutsche Post, DHL, Fujitsu Siemens a Philips Electronics.
+
+
+== História PRINCE2 ==
+Metodika PRINCE2 a jej predchodcovia boli vytvorené z dôvodu, že projekty neboli dodávané v rámci rozpočtu a v dohodnutých termínoch. V roku 1975 preto vyvinula spoločnosť Sympact Systems metodiku PROMPTI, ktorá položila základy pre rozdelenie projektov na etapy.
+PROMPTI teda vytvorila základ pre vývoj metodiky PRINCE a v roku 1989 ju vyvinula agentúra (úrad) britskej vlády. Metodika bola zameraná na riadenie IT projektov. Obsahovala už veľmi dôležité základy pre nastavenie hierarchie v riadení projektov, zameranie na výstupy a produkty, systém pre plánovanie a resourcing (zaistenie zdrojov) v rámci projektu a zavedenie ovládacích postupov.
+Metodiku označovali za príliš prísnu a nepraktickú, použiteľnú len pri veľkých projektoch. Potreba zmien vyústila v roku 1996 v zrevidovanie a vznik metodiky PRINCE2. Revízia bola riadená 150 európskymi spoločnosťami zaoberajúcimi sa riadením projektov. Vznikla tak metodika, ktorá je aplikovateľná na projekty všetkých druhov. Aktuálna verzia PRINCE2 je z roku 2017.
+Dnes je PRINCE2 jedným z najznámejších a najpoužívanejších štandardov riadenia projektov (spolu so severoamerickým štandardom Project Management Institute – PMI).[chýba zdroj]
+
+
+== Hlavné výhody metodiky PRINCE2 ==
+flexibilná a prispôsobiteľná na akýkoľvek typ projektu
+procesne orientovaná, pokrýva celý životný cyklus projektu
+ucelená - stanovuje jasný rámec pre riadenie projektov
+jasne definuje roly a štruktúru v projektovom riadení, stanovuje adekvátne úrovne zodpovedností
+kladie dôraz na to, aby projekt mal počas celého životného cyklu zdôvodnenie
+sústreďuje sa na produkty, nie je to "ceremoniálna metóda"
+
+
+== Procesy PRINCE2 ==
+Na riadenie projektu podľa PRINCE2 slúži 7 procesov a ich aktivity (v predošlej verzii nazývané podprocesy), ktoré siahajú od predprojektovej prípravy až po schválenie ukončenia projektu:
+Predprojektová príprava (Starting up a Project)
+Predprojektová príprava sa začína obdržaním Mandátu projektu. Na začiatku predprojektovej prípravy je vymenovaný výkonný riaditeľ projektu (Executive) a projektový manažér, následne sa zozbierajú relevantné ponaučenia z minulosti, projektový manažér navrhne a executive vymenuje riadiaci tím projektu. Pre každý projekt je nutné zohľadniť, či je projekt realizovateľný a stojí za vynaložené úsilie, čas a financie - teda vytvoriť jeho rámcové zdôvodnenie (outline business case). Je nutné nadefinovať spôsob, akým sa ku projektu pristúpi (Project Approach), zostaviť Popis projektu (zadanie projektu - Project Brief) a naplánovať iniciačnú etapu.
+Iniciácia projektu (Initiating a Project)
+V rámci tohto procesu sa vytvárajú stratégie riadenia rizík, kvality, konfigurácie a komunikácie, ako aj registre rizík, otvorených bodov (issues) a kvality. Ďalej je nutné nastaviť ovládacie mechanizmy (ovládače) projektu, vytvoriť plán projektu, v jeho rámci dekomponovať produkt projektu na jednotlivé produkty a stanoviť etapy projektu. Následne projektový manažér spresní Zdôvodnenie projektu, zostaví Projektovú iniciačnú dokumentáciu (PID) a predloží ju na schválenie projektovému výboru, ktorý na jej základe autorizuje projekt.
+Strategické riadenie projektu (Directing a Project)
+Proces, ktorý siaha od začiatku až po koniec projektu. Projektový výbor strategicky riadi projekt a vydáva rozhodnutia, ktoré presahujú právomoci projektového manažéra. Schvaľuje iniciáciu i začiatok realizácie projektu, každý plán etapy či riešenia výnimky, podľa potreba (ad hoc) dáva usmernenia, komunikuje s vedením organizácie či programu (corporate/ programme management) a schvaľuje ukončenie projektu.
+Riadenie etapy (Controlling a Stage)
+Je proces, v ktorom projektový manažér zadáva pracovné balíky vedúcim tímov, zisťuje progres ich plnenia, zachytáva a vyhodnocuje otvorené body (issues) a následne ich sám rieši alebo, ak ohrozujú tolerancie (povolené odchýlky) etapy, ich eskaluje na projektový výbor. Ďalej projektový manažér z tohto procesu pravidelne podáva projektovému výboru správy o stave etapy/ projektu (highlight reports).
+Riadenie dodávky produktu (Managing Product Delivery)
+Vedúci tímu na začiatku procesu akceptuje, teda príjme na realizáciu pracovný balík (teda popis toho, čo má dodať a ako pri tom postupovať) od projektového manažéra. Pracovný balík zrealizuje (počas realizácie podáva projektovému manažérovi správy o kontrolných bodoch). Keď daný pracovný balík dokončí, dodá ho projektovému manažérovi, ktorý v procese Riadenie etapy príjme dokončený pracovný balík.
+Riadenie prechodu etáp (Managing a Stage Boundary)
+Tento proces zvyčajne začína blízko konca bežiacej etapy. Keď sa etapa končí, treba ju vyhodnotiť a naplánovať ďalšiu etapu. Druhý prípad je, že projektový výbor posúdi výnimku oznámenú projektovým manažérom ako natoľko závažnú, že mu uloží vypracovať Plán riešenia výnimky.
+V tomto procese projektový manažér vytvára Správu o ukončení etapy, plánuje ďalšiu etapu, aktualizuje Plán projektu aj Zdôvodnenie projektu a predkladá ich na schválenie projektovému výboru.
+Ukončenie projektu (Closing a Project)
+Je proces, ktorý projektový manažér vykoná na konci poslednej etapy. Projektový manažér pripraví ukončenie projektu, zabezpečí formálnu akceptáciu produktu projektu, vyhodnotí projekt a dá projektovému výboru návrh na ukončenie projektu. Projektový výbor musí následne tento návrh schváliť (v procese Strategické riadenie projektu), čím sa projekt končí.
+
+
+== Témy PRINCE2 ==
+V projektovom riadení sú témy rozhodujúcimi článkami. Každá téma podporuje niekoľko procesov a naopak každý proces je podporovaný niekoľkými témami. PRINCE2 má 7 tém:
+Zdôvodnenie projektu (Business Case): Je podľa metodiky PRINCE2 riadiacou silou projektu. Obsahuje hlavné dôvody pre uskutočnenie projektu a výhody, ktoré projekt prinesie.
+Organizácia: V organizácii projektu PRINCE2 sú zastúpené 3 kľúčové zložky: biznis, užívatelia a dodávatelia (interní i externí).
+Kvalita: Téma Kvalita odpovedá na otázky: Čo máme vyrobiť, aby to bolo vhodné pre daný účel (t.j. kvalitné)? Je to, čo vyrábame, vhodné pre daný účel?
+Plány: Téma Plány odpovedá na otázky: Ako? Kedy? Za koľko? Kým?
+Riziko: Riziko je definované ako neistota konečného výsledku. PRINCE2 kladie na riadenie rizík veľký dôraz, pričom téma riziko definuje napr. odporúčaný postup riadenia rizík a typy odpovedí na riziká.
+Zmena:Táto téma dáva návod na riadenie zmien a konfigurácie v projekte.
+Progres: Téma Progres odpovedá na otázky: Kde sme? Kam ideme? Máme pokračovať? Teda zisťuje, či stav projektu korešponduje s plánmi i zdôvodnením projektu a riadi odchýlky.
+
+
+== Techniky PRINCE2 ==
+PRINCE2 definuje dve techniky:
+Produktovo-orientované plánovanie (Product Based Planning - PBP)
+Túto techniku je možné použiť na úrovni plánovania projektu, etapy i práce tímu. Používa 4 nástroje:
+1. Popis Produktu projektu
+2. Hierarchická dekompozícia produktov (Product Breakdown Structure - PBS)
+3. Popisy každého z produktov identifikovaného v PBS
+4. Diagram toku produktov (Product Flow Diagram - PFD)
+Technika posudzovania kvality (Quality Review Technique)
+Táto technika je určená na posudzovanie hotových dokumentov. Overuje, či daný produkt - dokument spĺňa preň definované kritériá kvality.
+
+
+== Skúšky a certifikáty ==
+Veľkou výhodou metodiky PRINCE2 je, že je certifikovateľná a certifikát je medzinárodne uznávaný (celosvetovo viac ako 780 000 certifikovaných osôb). Certifikácia prebieha zložením skúšky u niektorého z 5 skúšobných inštitútov – Examination Institutes (EI): APM Group Limited, BCS Learning and Development Limited, CSME, Inc., EXIN Holding B.V, PEOPLECERT International Limited. Certifikácia je celosvetovo rovnaká a certifikáty vydané jednotlivými EI sú plne rovnocenné.Od 1.1.2018 bude jediným EI PEOPLECERT.
+Certifikácia má 3 úrovne – základná Foundation, vyššia Practitioner a najvyššia úroveň PRINCE2 Professional, z ktorých sa reálne používajú prvé dve: Foundation, platná doživotne a Practitioner, platná 5 rokov (certifikáty vydané po 10.7.2017 len 3 roky). Podmienkou pripustenia ku skúške vyššej úrovne je predošlé zloženie skúšky nižšej úrovne. Ďalej existuje certifikácia PRINCE2 Agile Practitioner, podmienkou pre pripustenie k nej je zloženie skúšky Foundation.
+Certifikovať sa je možné jedným z 2 spôsobov:
+Absolvovaním skúšky po samoštúdiu (t.j. bez kurzu). V tomto prípade si je možné skúšku objednať buď u niektorej zo schválených skúšobných organizácií (Approved Examination Organization - AEO) a absolvovať ju v ňou vypísaných termínoch, alebo priamo u niektorého z tých EI, ktoré ponúkajú absolvovanie skúšok na diaľku (online s dohľadom cez webkameru).
+V rámci certifikačného kurzu niektorým EI akreditovanej tréningovej organizácie (ATO), ktorých zoznam je dostupný na stránke vlastníka metodiky PRINCE2 – spoločnosti AXELOS.
+
+
+== Zdroje ==
+MURRAY, Andy a kol.: Managing Successful Projects With PRINCE2 2009 Edition. 5. vyd. Norwich: The Stationery Office, 2009. 328 s.
+
+
+== Iné projekty ==
+
+ Commons ponúka multimediálne súbory na tému PRINCE2
+
+
+== Externé odkazy ==
+oficiálna stránka PRINCE2

@@ -1,6 +1,66 @@
-Jindřich III. z Kuenringu (kolem 1185 – kolem 1233) byl rakouský šlechtic z rodu Kuenringů.
-Byl synem Hadmara II. z Kuenringu († 1217) a Eufemie z Mistelbachu. První písemná zmínka o něm a jeho starším bratru Hadmarovi pochází z roku 1204. Heinrich se oženil s Adelheid z Neuburgu a Falkensteinu, jejíž rod patřil k nejvýznamnějším v Rakousku. Jindřich byl spojencem štýrského a rakouského vévody Leopolda VI. Babenberského. Od roku 1228 byl Jindřich maršálkem a když v letech 1229–1230 Leopold VI. pobýval v Itálii byl pověřen zastupováním vévody. Po Leopoldově nečekané smrti v roce 1230 vystoupil Jindřich spolu se svým bratrem proti mladému nástupci Fridrichu II. Bojovnému. Kuenringové podpořili českého krále Václava I. při jeho vpádu na sever Rakouska. Kuenringové se zmocnili majetku Babenberků ve snaze donutit vévodu k uznání jejich práv ministeriálů. Fridrich II. nakonec odpor Kuenringů zlomil, ale v rámci usmíření Jindřicha v roce 1232 znovu jmenoval do funkce maršálka.
-Podle historika Vratislava Vaníčka měl Jindřich III. dceru Giselu z Kuenringu, která se provdala za Čéče z Budivojovic a dva syny: Albera V. – linie dürnsteinská (potomci Leutold, Albero VI., Jindřich VI.) a Jindřicha IV. "Suppanus" – linie vitorazská (byl maršálek, manželka Kunhuta z Dobry a děti Marie – manžel Eberhard z Walsee, Hadmar V., Jindřich V. z Kuenringu, capitaneus Rakouska, zeť Přemysla Otakara II.)
+Bezpečnostní token (případně autentizační token, šifrovací token, USB token, často označovaný pouze jako token) je převážně fyzické zařízení, které usnadňuje uživatelům zabezpečených služeb ověření pro přístup a užívání.
+Bezpečnostní tokeny se používají pro ověření identity uživatele elektronickou cestou (například přihlášení k bankovnímu účtu). Token se používá namísto hesla nebo jako doplněk k ověření, že uživatel je tím, za koho se vydává. Token je tedy elektronický klíč, který lze využít v mnoha aplikacích.
+Podle potřeb může token nést šifrovací klíč, elektronický podpis nebo například biometrické údaje. Takové tokeny jsou většinou vybaveny USB konektorem pro připojení. Speciální tokeny se připojují bezdrátově (například pomocí RFID nebo Bluetooth) a generované klíče jsou odesílány přímo do klientského systému. Některá provedení jsou odolná násilnému vniknutí, jsou vybaveny klávesnicí pro aktivaci kódem PIN, nebo pouhým tlačítkem pro vygenerování a vypsání číselného kódu na displej.
+
+
+== Typy hesel ==
+Každý typ tokenu nese skrytou informaci, jež se využívá k ověření identity. S touto informací může být nakládáno 4 následujícími způsoby:
+Statické heslo: Token obsahuje heslo, jež je fyzicky skryto, ale je přenášeno při každé autentizaci. Tento typ je málo odolný opakovaným útokům.
+Synchronní dynamické heslo: Za použití časovače jsou procházeny kombinace kódů vygenerované šifrovacím algoritmem. Časovač tokenu a autentizačního serveru musí být synchronizovány.
+Asynchronní heslo: Bez použití časovače je generováno jednorázové heslo podle šifrovacího algoritmu nebo podle Vernamovy šifry.
+Challenge-response (výzva-odpověď): Tento typ využívá veřejný klíč, podle kterého je možné prokázat vlastnictví privátního klíče bez jeho vyzrazení. Autentizační server zašifruje veřejným klíčem výzvu (obvykle náhodné číslo nebo data s náhodnými částmi). Token dokáže vlastníka tím, že privátním klíčem dešifruje výzvu.
+
+
+=== Časově synchronizovaná jednorázová hesla ===
+Časově synchronizovaná jednorázová hesla se mění konstantně v předem daném intervalu, například jednou za minutu. Pro správné fungování musí mezi klientovým tokenem a autentizačním serverem existovat synchronizace. Pro nepřipojitelná zařízení je časová synchronizace provedena při výrobě, tedy před tím, než jsou tokeny distribuovány klientům. Ostatní typy tokenů (připojitelné) provádí synchronizaci vždy při připojení k systému.
+Hlavním problémem časově synchronizovaných tokenů je, že mohou v průběhu doby přestat být synchronizovány. Některé systémy, jako například RSA SecurID, umožňují sesynchronizovat server s tokenem, například po zadání pár po sobě jdoucích kódů. Mnoho takovýchto zařízení nemá vyměnitelnou baterii a po nejvýše 5 letech je nutné zařízení vyměnit.
+
+
+=== Jednorázová hesla vypočtená matematickým algoritmem ===
+Další typ tokenu s jednorázovými hesly využívá komplexní matematický algoritmus ke generování sérií jednorázových hesel z tajného sdíleného klíče. Každé z hesel je unikátní a neuhádnutelné, i přesto, že jsou předchozí hesla známá. Open source algoritmus iniciativy OATH je standardizovaným, ostatní algoritmy jsou kryty Patentovým úřadem USA.[kdo?]
+
+
+== Druhy tokenů ==
+Tokeny mohou obsahovat čipy s různými funkcemi od velice jednoduchých po velmi komplexní, takové, že mohou zahrnovat mnohonásobné ověřovací metody.
+Ty nejjednodušší tokeny není potřeba připojovat k počítači. Tato zařízení jsou opatřena LCD displejem, ze kterého uživatel jednoduše opíše zobrazené číslo do přihlašovacího formuláře. Složitější tokeny se k počítači připojují například přes USB, nebo 3,5 mm jack nebo bezdrátově pomocí Bluetooth, RFID, nebo Wi-Fi. Připojitelné tokeny přenáší klíčové sekvence přímo ke klientovi, nebo přes nejbližší přístupový bod.
+Alternativní zařízení, často používané jako tokeny, jsou mnoho let rozšířená mobilní zařízení, jež komunikují mimo přenosový kanál (out-of-band) (např. hlas, SMS, nebo USSD). Mnohé z tokenů pro připojení k počítači mohou vyžadovat zadání PIN kódu. Podle typu počítače a operačního systému se buď přečte klíč z tokenu a provedou se potřebné šifrovací operace nebo se tyto operace provedou ještě ve firmwaru tokenu. Některý software je po zakoupení doplněn o hardwarový klíč (dongle), který nese uloženou zašifrovanou informaci o licenci. Při spuštění programu musí být tento dongle připojený, aby mohl zareagovat na dotaz programu a podle informací ověřit vlastníka licence.
+
+
+=== Nepřipojitelné tokeny ===
+
+Nepřipojitelné tokeny nelze připojit k počítači žádným způsobem. Není tedy potřeba žádné přídavné nebo speciální vstupní zařízení, jelikož na LCD displeji tokenu se zobrazí autentizační kód, který se pomocí klávesnice zadá do ověřovacího formuláře. Nepřipojitelné tokeny patří k nejpoužívanějším bezpečnostním tokenům (obvykle se používají v kombinaci s heslem) ve vícefaktorovém ověřovaní při online identifikaci.
+
+
+=== Kontaktní připojitelné tokeny ===
+Připojitelné tokeny je nutné připojit k počítači, na kterém uživatel potřebuje autentizovat. Tento typ tokenů automaticky po připojení přenáší data nutná k autorizaci na klientském počítači, takže není potřeba, aby uživatel ručně zadával tyto informace. Používání připojitelných tokenů vyžaduje odpovídající vstupní zařízení. Nejužívanějším druhem připojitelných tokenů jsou čipové karty a USB tokeny, jelikož je čtečku čipových karet taktéž možné připojit přes USB. Starší typy tokenů typu PC Card se primárně používaly v noteboocích díky odpovídajícím typům slotů.
+
+Výstup typu jack má vztah ve spojení mezi mobilními zařízeními, jako například iPhone, iPad, zařízení s operačním systémem Android a další podobná. Nejznámějším takovým zařízením je Square a čtečka kreditních karet pro iPhone a zařízení s OS Android.
+
+
+==== Čipové karty ====
+Související informace naleznete také v článku Čipová karta.
+Mnoho připojitelných tokenů využívá technologii čipových karet. Čipové karty mohou být velmi levné a mohou obsahovat prověřené bezpečnostní mechanismy (jako používají finanční instituce, např. platební karty). Nicméně výpočetní výkon čipových karet je často omezen z důvodu nízkých energetických nároků a požadavky na vysoce tenký rozměr.
+USB tokeny založené na technologii čipových karet obsahují čip a tak umožňují funkcionalitu obou typů. Pro takovýto typ lze najít širokou škálu bezpečnostních řešení a je tedy možné využít výhody čipových karet bez nutnosti instalace speciálního vstupního zařízení (čtečky čipových karet). Z pohledu operačního systému se token jeví jako USB čtečka s neodebratelnou čipovou kartou.
+
+
+=== Bezkontaktní připojitelné tokeny ===
+
+Na rozdíl od kontaktních tokenů umí bezkontaktní tokeny vytvořit spojení s klientovým počítačem, ale bez potřeby fyzického kontaktu. Absence fyzického kontaktu dělá připojení a odpojení tokenu pohodlnějším. Tím se toto připojení stává populárním v oblasti elektronických zámků a plateb.
+Například zařízení Speedpass společnosti Mobil využívá technologii RFID k přenosu identifikačních dat z tokenu (v podobě přívěsku na klíče). Nicméně kvůli obavám z bezpečnosti používání RFID tokenů se na Univerzitě Johnse Hopkinse a v RSA[kdo?] po výzkumech prokázalo, že tato technologie může být snadno prolomena a klonována. Další nevýhodou je krátká životnost baterií (obvykle 3-5 let), což je oproti USB tokenům krátká výdrž. U tohoto typu však bývá možné baterii vyměnit a tak prodloužit životnost zařízení (snížit náklady na výrobu).
+
+
+==== Bluetooth tokeny ====
+Bluetooth tokeny jsou často kombinovány s USB tokeny. Tak mohou pracovat jak v odpojeném, tak připojeném stavu. Bluetooth ověření může být provedeno až po přiblížení na maximálně 10 metrů. Pokud by připojení nebylo dostupné, token lze připojit přes USB.
+
+
+=== Mobilní zařízení jako token ===
+Mobilní výpočetní zařízení (jako například smartphone nebo tablet) mohou být využity jako ověřovací zařízení. To umožňuje vícefaktorové ověření a uživatel nepotřebuje vlastnit žádné další fyzické zařízení. Někteří prodejci nabízí toto řešení, které používá šifrovací klíč pro autentizaci. Ten poskytuje vysokou úroveň bezpečnostní ochrany, jež zahrnuje ochranu proti útokům typu Man in the middle i v případě připojení k Hotspotu.
+
+
+== Slabiny ==
+Nejjednodušším způsobem získání jedinečných kódů je odcizení nebo ztráta zařízení. Pravděpodobnost takové události může být snížena fyzickými způsoby, jako například uzamčením, uschováním apod. Ukradená zařízení často bývají bezcenná, jelikož k autentizaci bývá zapotřebí PIN či uživatelské jméno (často obojí). Obvykle se při autentizaci zadává PIN zároveň s kódem z tokenu. Každý systém, do kterého se uživatelé mohou přihlašovat z nezabezpečeného připojení je náchylný k útokům. Nejběžnějším typem útoku je Man in the middle, kdy útočník odposlechne data odesílaná klientem do systému a poté, dokud je kód aktuální, odešle požadavek do systému a je autentizován.
 
 
 == Reference ==
+Hlavní reference
+V tomto článku byl použit překlad textu z článku Security token na anglické Wikipedii.

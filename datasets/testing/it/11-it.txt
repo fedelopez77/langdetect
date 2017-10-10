@@ -1,31 +1,16 @@
-Il singolare dell'Erste Bank Open 2013 è stato un torneo di tennis facente parte dell'ATP World Tour 2013. Juan Martín del Potro era il detentore del titolo ma ha deciso di non partecipare a questa edizione del torneo.
-Tommy Haas ha sconfitto in finale Robin Haase per 6-3, 4-6, 6-4.
+Caché è un database management system proprietario, basato su M technology, prodotto da InterSystems.
+InterSystems usa il termine "postrelazionale" per descriverne le caratteristiche. Caché fornisce accesso tramite SQL, Object e in maniera multidimensionale agli stessi dati ed eliminando il Mapping tra Oggetti e relazioni.
+Esistono versioni di Caché sia per Windows, sia per diverse versioni di Unix e distribuzioni di Linux, sia per le piattaforme OpenVMS.
+La memorizzazione dei dati in Caché avviene utilizzando i b-tree basati su array multidimensionali (conosciuti anche con il nome di MUMPS globals, sebbene InterSystems preferisca non utilizzare questo termine). In molte applicazioni sono utilizzati per accedere ai dati metodi Object e/o SQL. Caché fornisce linguaggi di sviluppo Caché ObjectScript e Caché Basic per facilitare al programmatore la creazione e lo sviluppo di applicazioni che interagiscono con il DBMS stesso. Fornisce inoltre interfacce esterne che permettono il Native Object Binding con diversi linguaggi di programmazione quali C++, Java, EJB, ActiveX. Gli accessi relazionali mediante JDBC e ODBC sono implementati tramite Direct interface e risultano essere molto performanti. Inoltre sono supportati anche accessi mediante XML e Web Services. Sono supportate anche le Caché Server Pages, che permettono di sviluppare rapidamente applicazioni web-based garantendo un'eccezionale velocità di elaborazione transazionale, enormi livelli di scalabilità e query in tempo reale su dati transazionali - con minimi requisiti di manutenzione.
+I principali clienti e utilizzatori di Caché sono i grandi ospedali degli USA, ma anche strutture ospedaliere in Italia, che lo usano per la memorizzazione elettronica dei dati dei pazienti, e istituzioni finanziarie come Ameritrade.
+I principali concorrenti di Caché sono DB2 di IBM, MS-SQL di Microsoft e Oracle.
+Rispetto agli altri sistemi relazionali, per quanto riguarda applicazioni simili, Caché può fornire spesso un rendimento più elevato (o a parità di risorse hardware può sostenere un numero maggiore di utenti). Questa caratteristica è condivisa con gli altri sistemi basati su M technology. In molte situazioni la differenza di prestazioni, con i concorrenti, è abissale. Questo vantaggio in performance viene pagato, sempre nel confronto con altri sistemi relazionali, da una perdita di flessibilità; ne risulta la necessità di una formazione specifica per il personale con aggiornamenti diversi dallo standard attuale dei database e delle versioni chiuse del programma, associate a degli specifici strumenti di sviluppo, disponibili presso un solo venditore.
 
 
-== Teste di serie ==
-Le prime quattro teste di serie ricevono un bye per il secondo turno.
-
-
-== Wildcard ==
-
-
-== Qualificati ==
-
-
-== Tabellone ==
-
-
-=== Legenda ===
-
-
-=== Fase finale ===
-
-
-=== Parte alta ===
-
-
-=== Parte bassa ===
+== Integrazione di Sistemi ==
+Intersystems ha sviluppato sulla propria piattaforma Caché un software chiamato Ensemble, per il rapido sviluppo dell'integrazione tra sistemi diversi.
 
 
 == Collegamenti esterni ==
-Tabellone principale (PDF), atpworldtour.com.
+http://www.intersystems.com/
+http://www.intersystemsitalia.it/

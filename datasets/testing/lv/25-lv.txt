@@ -1,8 +1,10 @@
-Voltmetrs (elektriskajā ķēdē apzīmē ar riņķa līnijā ievilktu burtu V) ir mērierīce, ko izmanto elektriskās strāvas sprieguma mērīšanai. Analogie voltmetri pārvieto rādītāju pa skalu proporcionāli elektriskās ķēdes spriegumam. Digitālie voltmetri rāda skaitlisku sprieguma attēlojumu, izmantojot analogo uz digitālo strāvas pārveidotāju. Sprieguma mērīšanai var izmantot arī digitālo multimetru. Voltmetri tiek ražoti plašā klāstā un ir daudz dažādi to tipi. Voltmetra spailes vienmēr ir jāpieslēdz tiem diviem elektriskās ķēdes punktiem, starp kuriem spriegums ir jāizmēra.
+Ženēvas ezers (arī Lemāns; franču: Lac Léman, Lac de Genève; vācu: Genfersee) ir liels ezers Alpos uz Šveices un Francijas robežas. 60% ezera atrodas Šveicē, 40% — Francijā. Ezera krastā atrodas daudzu slavenību mājas.
+Ezers veidojies ledus laikmeta beigu posmā. Pusmēness formas ezers, ūdens apmaiņas periods - 11,4 gadi. Cauri ezeram tek Rona. Tuvāk ezera rietumu galam pāržmauga, kas ezeru sadala divās daļās — Granlaks (Grand Lac) austrumos un Ptīlaks (Petit Lac) rietumos. Krastu posmā starp Nionu un Lozannu sauc par Lakotu (La Côte), bet starp Lozannu un Vevē par Lavo (Lavaux).
+1960. gados piesārņojuma līmenis ezerā sasniedza tādu pakāpi, ka vairākās pludmalēs bija bīstami peldēties. 1980. gados piesārņojums (galvenokārt eitrofikācija) bija tik spēcīgs, ka ezerā praktiski vairs nebija zivju. Pēdējā laikā piesārņojuma līmenis krasi samazinājies un ezerā peldēties ir droši.
+Ezers ir kalpojis par atpūtas vietu populāriem cilvēkiem. Šeit spoku stāstus rakstījuši Bairons un Mērija Šellija (šeit tapis Frankenšteina sižets).
 
 
-== Vēsture ==
-Alesandro Volta bija itāļu fiziķis, kas kļuva slavens ar to, ka 1800. gadā izgudroja galvanisko jeb Voltas bateriju. Tā bija pirmā ierīce, ar ko varēja iegūt pastāvīgu elektrisko strāvu. Viņa vārdā arī nosaukti volti. 1954. gadā Endrjū Kijs izgudroja digitālo voltmetru, pēc tam, kad saprata, ka analogie voltmetri nav pietiekami precīzi.
-
-
-== Atsauces ==
+== Ārējās saites ==
+Starptautiskā Ženēvas ezera aizsardzības komisija
+Ženēvas ezera ostas (franciski)
+Ženēvas ezera attēli

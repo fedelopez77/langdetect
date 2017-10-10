@@ -1,0 +1,23 @@
+Zapaľovač je zariadenie slúžiace na založenie ohňa.Plyn v zapalovači je neznámi
+V súčasnosti má zapaľovač spravidla podobu zásobníka horľaviny a zariadenia na jej zapálenie mechanickým pohybom, bez potreby ďalšieho príslušenstva.
+Zapaľovač je jednoduché zariadenie. Základné delenie dnes bežných zapaľovačov je na benzínové a plynové, podľa typu použitej horľaviny. Iné delenie je na jednorazové – na jedno použitie, po spotrebovaní horľaviny sa likvidujú, alebo viacnásobne použiteľné – zásobník horľaviny je dopĺňateľný. Delia sa tiež podľa zariadenia na zapálenie horľaviny – kresadlové, piezoelektrické a elektrické.
+Zapaľovač sa skladá z niekoľkých častí, ktorými sú nádobka s horľavinou, zariadenie na vytvorenie usmerneného plameňa dýza alebo knôt a zariadenia na vytvorenie zapaľujúcej iskry – kresadlo, piezoelektrický menič alebo elektrický menič.
+
+
+== Benzínový zapaľovač ==
+Benzínové zapaľovače bývajú väčšinou kovové (benzín pôsobí na plasty agresívne). V ich spodnej časti sa nachádza nádobka s horľavinou (obvykle benzín). Nádobka je vyplnená poréznym materiálom (vata, papier, tkanina a pod.) v ktorej je horľavina nasiaknutá (slúži na zníženie vyparovania a rovnomernejšiu dodávku horľaviny vzlínaním do knôtu). Do tejto poréznej látky je zavedený knôt. Vzlínaním prechádza horľavina na koniec knôtu vyvedeného do horáku. Zdrojom zapaľujúcej iskry je obvykle kresadlo. Kresadlo je tvorené kresacím kamienkom a kolieskom s ryhami, ktoré trením o kamienok vytvorí iskru presne dopadajúcu na koniec knôtu. Horák je uzatváraný krytom, pre zníženie vyparovania a ochranu mechanizmu.
+
+
+== Plynový zapaľovač ==
+Plynový zapaľovač je založený na spaľovaní plynného butánu. Bután je umiestnený v kvapalnej forme (pod tlakom) v nádobke – plynovom zásobníku. Nádobka je alebo jednorazová (po spotrebovaní plynu sa znehodnocuje), alebo je doplnená plniacim ventilom, umožňujúcim opätovné naplnenie. Do nádržky je zasunutá trubička so separátorom. Jeho úlohou je prepustiť len menšie molekuly plynu a zabrániť prestupu kvapaliny do horáka. Za separátorom je regulovateľný ventil. Ventil je otváraný páčkou pre palec ruky. Prietok plynu je možné v určitom rozsahu regulovať, prietok plynu je priamo úmerný veľkosti plameňa. Horák je tvorený dýzou a krytým spaľovacím priestorom. Keďže plyn je vysoko horľavý na jeho zapálenie postačuje aj energeticky menej výdatná iskra. Na vytvorenie iskry sa používa alebo klasické kresadlo – pozri benzínový zapaľovač, alebo piezoelektrický menič (vyuźíva piezoelektrický jav, mechanický pohyb (tlak) je premenený ne energiu iskry). Iskriskom je priamo horák. Inou metódou je elektronické zapaľovanie, iskra je vytváraná elektronickým vysokonapäťovým meničom z externého zdroja – batérie.
+Drahšie plynové zapaľovače sý vybavené zariadením proti zhasnutiu plameňa, ktoré je tvorené drôtikmi (drôtenou sieťkou) umiestnenou v plameni (žeravenou plameňom) pri krátkodobom zhasnutí plameňa sa plyn opätovne zapáli od rozžeraveného drôtika.
+Lacné plynové zapaľovače sú nebezpečné tým, že ich obal nie je dostatoćne pevný, a pri prekročení určitej teploty v nich stúpne tlak natoľko, že dôjde k ich roztrhnutiu a samovoľnému zapáleniu. Za bezpečné teploty sú považovné teploty do 50 °C. Známe sú prípady zapálenia zapaľovača ponechaného na priamom slnku za sklom automobilu (teploty presahujú 100 °C), vo výklade obchodu a pod.
+
+
+== Pozri aj ==
+Zapaľovač (munícia)
+
+
+== Iné projekty ==
+
+ Commons ponúka multimediálne súbory na tému Zapaľovač (založenie ohňa)

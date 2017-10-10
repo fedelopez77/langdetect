@@ -1,0 +1,35 @@
+A metil-amin szerves vegyület, képlete CH3NH2. Színtelen gáz, az ammóniából vezethető le, ha annak egyik hidrogénatomját metilcsoporttal helyettesítjük. A legegyszerűbb primer amin. Kereskedelmi forgalomban metanolos, etanolos, THF-es vagy vizes oldata formájában vagy vízmentes állapotban fémtartályokba sűrített gáz formájában kapható. Iparilag a metil-amint vízmentes formában összesűrítve árulják (vasúti) tartálykocsikban. Nagyon erős, halra emlékeztető szaga van. A metil-amint számos más, kereskedelmi forgalomban kapható vegyület szintéziséhez felhasználják. Évente több mint 1 millió tonnát állítanak elő.
+
+
+== Előállítása ==
+A metil-amint iparilag ammónia és metanol alumínium-szilikát katalizátor jelenlétében történő reakciójával állítják elő. Melléktermékként dimetil-amin és trimetil-amin is keletkezik, a termékarányt a reakciókinetika és a kiindulási anyagok aránya határozza meg.
+CH3OH + NH3 → CH3NH2 + H2O
+Ezzel az eljárással több mint 400 millió kg-ot állítanak elő évente.
+Laboratóriumban metil-amin hidrokloridot könnyen elő lehet állítani, ha formaldehidet ammónium-kloriddal kezelünk.
+NH4Cl + H2CO → [CH2=NH2]Cl + H2O
+[CH2=NH2]Cl + H2CO + H2O → [CH3NH3]Cl + HCOOH
+A színtelen hidroklorid sót erős bázissal, például NaOH-dal lehet átalakítani a szabad aminná:
+[CH3NH3]Cl + NaOH → CH3NH2 + NaCl + H2O
+Metil-amint elsőként Wurtz állított elő a metil-izocianát és rokon vegyületek hidrolízisével.
+
+
+== Reakciói és felhasználása ==
+A metil-amin – mivel erősen bázisos és sztérikusan nem gátolt – jó nukleofil, habár, mint amin, csak gyenge bázisnak tekinthető. A szerves kémiában széles körben használják. Néhány egyszerű reagenst felhasználó reakciója: foszgénnel metil-izocianátot alkot, szén-diszulfiddal és nátrium-hidroxiddal nátrium-metilditiokarbamát keletkezik, kloroformmal bázis jelenlétében metil-izocianid, etilén-oxiddal metil-etanol-aminok keletkeznek.
+Jellemző, kereskedelmileg jelentős vegyületek, melyeket metil-aminból állítanak elő például az efedrin és a teofillin (gyógyszerek), karbofurán, karbail és metam-nátrium (peszticidek), valamint az N-metilformamid és N-metilpirrolidon (oldószerek). Egyes felületaktív anyagok és fényképészeti előhívószerek előállításához is szükséges a metil-amin.
+A folyékony metil-amin a cseppfolyós ammóniához hasonlóan oldószerként is használható. Néhány tulajdonságában a cseppfolyós ammóniához hasonlít, de a szerves anyagokat jobban oldja, hasonlóan, mint ahogy a metanol is jobb oldószer a víznél. A metil-amin a finomítási eljárásokban a kén-hidrogén megkötésére is használható.
+
+
+== Biokémiája ==
+A rothadás során metil-amin keletkezik, ami a metanogenezis szubsztrátuma.
+
+
+== Toxicitása ==
+LD50-értéke (egér, bőr alá juttatva) 2,5 g/kg.
+Az Amerikai Egyesült Államokban a metil-amin ellenőrzött anyag, kábítószer-prekurzornak minősül a Drug Enforcement Administration listája alapján, mint a metamfetamin előállításának egyik hozzávalója.
+
+
+== Fordítás ==
+Ez a szócikk részben vagy egészben a Methylamine című angol Wikipédia-szócikk ezen változatának fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.
+
+
+== Jegyzetek ==

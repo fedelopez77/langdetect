@@ -1,14 +1,31 @@
-This article represents all appearances that Emmylou Harris has contributed to, in collaboration with artists from A to F.
+Richard Rouse III is an American video game designer and writer best known as the designer of The Suffering games and the author of Game Design: Theory & Practice.
 
 
-== Other sections ==
-Solo contributions
-Collaborations G–K
-Collaborations L–Q
-Collaborations R–Z
-B Recorded live at 29th annual Grammy award ceremony.
-E No detailed track information is available for this album.
-F Harris plays guitar but does not sing on this track.
+== Life and career ==
+Rouse started out as a writer for Macintosh gaming magazines Inside Mac Games and Mac Games Digest while attending the University of Chicago. He produced two Macintosh games, the story-centric fantasy RPG Odyssey: The Legend of Nemesis and the military first-person shooter and strategy hybrid Damage Incorporated. Both were based on games by Bungie Software (Minotaur and Marathon 2, respectively), whose founders were university friends of his. Rouse went on to work at Leaping Lizard Software where he was lead designer on the 1998 3D remake of Centipede.
+From there he moved to Surreal Software where he was lead designer and writer on the action horror game The Suffering and creative director and writer on its sequel, The Suffering: Ties That Bind.
+In October 2005 he became the Director of Game Design at Midway. Rouse has written about game design, most notably in his book Game Design: Theory & Practice, first released in 2001 and revised in 2004, and also for magazines Game Developer, Develop, and Siggraph Computer Graphics, and has spoken at the Game Developer's Conference and E3.
+Rouse was one of four creative leads working on Tom Clancy's Rainbow 6: Patriots for Ubisoft Montreal that were removed from the project in March 2012.
+
+
+== Games ==
+Odyssey: The Legend of Nemesis (1996)
+Damage Incorporated (1997)
+Centipede (remake) (1998)
+The Suffering (2004)
+The Suffering: Ties That Bind (2005)
+Homefront (2011)
+The Church in the Darkness (forthcoming)
+
+
+== Books ==
+Game Design: Theory & Practice (2001, revised 2004)
 
 
 == References ==
+
+
+== External links ==
+Paranoid Productions (game site)
+2005 Interview on IGN
+Game Design: Theory & Practice Site

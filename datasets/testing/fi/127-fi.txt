@@ -1,0 +1,10 @@
+Logiikkasynteesi tarkoittaa elektroniikan suunnitteluautomaation (engl. Electronic Design Automation, EDA) osa-aluetta, jossa digitaalipiirin käyttäytymistä kuvaava abstrakti malli muunnetaan mahdollisimman automaattisesti esimerkiksi logiikkaporteista tai suuremmista logiikkalohkoista koostuvaksi fyysisesti toteuttamiskelposeksi toteutukseksi. Koska mikropiirien monimutkaisuus kasvaa Mooren lain mukaisesti, suunnittelukapasiteettia lisäävä logiikkasynteesi on nykyään tärkeä osa digitaalisuunnittelua. Logiikkasynteesin ansiosta voidaan automaattisesti suorittaa useat työläät suunnitteluvaiheet, jotka ennen jouduttiin tekemään käsin. Jotta suunnittelun tuottavuus pysyisi samana vaikka kompleksisuus kasvaa, on synteesin lähtökohtana olevaa abstraktiotasoa pyritty kasvattamaan. Tällöin suunnittelijat pystyvät keskittymään yhä suurempiin kokonaisuuksiin.
+
+
+== Synteesin kulku ==
+Yleensä laitteistosynteesin lähtökohtana on laitteistokuvauskielellä kirjoitettu malli. Synteesityökaluksi kutsuttua ohjelmistoa käyttämällä tätä mallia muokataan enemmän tai vähemmän automaattisesti kohti kuvausta, joka voidaan fyysisesti toteuttaa käytössä olevalla piiritekniikalla. Vaiheiden välillä voidaan muun muassa arvioida täyttyvätkö pinta-alalle, tehonkulutukselle, ajoituksille ja suorituskyvylle asetetut vaatimukset, ja verifioida piirin toiminta käytössä olevien tarkentuvien toteutukseen liittyvien tietojen valossa. Synteesityökalut ovat yleensä monimutkaisia, ja käyttäjä pystyy antamaan työkalulle ohjeita esimerkiksi siitä minkälaisia ominaisuuksia työkalun tulisi pyrkiä optimoimaan (esimerkiksi pinta-ala, nopeus) ja mitkä lohkot ovat kaikkein kriittisimpiä. Piiriteknologiaan liittyvä teknologiakirjasto kertoo työkalulle minkälaiset rakenteet ovat fyysisesti toteutettavissa. Mukaan voidaan liittää myös kolmannelta osapuolelta ostettuja IP-lohkoja(engl. Intellectual Property). Synteesityökalusta voidaan lopulta saada ulos esimerkiksi piirustukset ASIC-piirille, tai ohjelmointitiedosto ohjelmoitavalle logiikkapiirille (engl. Programmable Logic Device, PLD) kuten FPGA:lle.
+
+
+== Katso myös ==
+Laitteistokuvauskieli
+Digitaalipiirit

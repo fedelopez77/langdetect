@@ -1,0 +1,19 @@
+Final Cartridge III var en populär expansionsmodul skapad av Riska B.V. Home & Personal Computers för Commodore 64 och Commodore 128
+Modulen placerades i porten för expansionsmoduler och kom med reset- och freeze-knapp. Insticksmodulen hade också en funktion kallad "Final Kill" som deaktiverade modulens funktionalitet och startade om datorn med modulen i det läget, vilket betydde att man aldrig behövde plocka bort den.
+En av expansionsmodulen utstående funktioner var dess GUI, trots att dess användbarhet var ganska begränsad jämfört med andra GUI för Commodore 64. Om inte RUN/STOP hölls ner under uppstart eller omstart så startades ett grafisk WIMP - skrivbord. Det grafiska utseendet var lånat från AmigaOS 1.x. Det var möjligt att ladda nya verktyg från diskett eller band, dock var dessa sällsynta. I modulens ROM var de mest användbara en texteditor, ett diskverktyg, en miniräknare och en alarmklocka
+En av de starkare försäljningsargumenten var dess turbofunktion för diskett och band. Den var tillgänglig för de flesta kommandon och accelererade laddningen av data från diskett och band märkbart.
+Modulen tillhandahöll också en utökning av Commodore BASIC, som innehöll flertalet nya BASIC-programmeringshjälpmedel, såsom RENUMBER, och även flera andra kommandon. Ett av de mest betydande var DOS" som kan användas för att ge Commodore DOS-kommandon, (till exempel DOS"S0:UNDESIRED FILE för att ta bort en fil), för att läsa status på enheten (bara DOS") eller för att visa katalogstrukturen utan att skriva över BASIC-program i minnet (DOS"$). BASIC-kommandona gjorde det också möjligt att återgå till GUI-läge eller att starta maskinspråksmonitorn.
+Freeze-funktionen gjorde det möjligt att spara minnesinnehållet på disk för att kunna hämtas tillbaka vid ett senare tillfälle (detta var till exempel ett smidigt sätt att kopiera spel som lästes in en gång). Det tillät också enklare spelfusk (för att till exempel stänga av sprite-kollisioner), och gjorde det möjligt att skriva ut en kopia av skärminnehållet på skrivaren. Freeze-funktionen gav också tillgång till maskinspråksmonitorn.
+
+
+== Litteratur ==
+Andersson, Kalle, "Den slutgiltiga cartridgen", test i Datormagazin nr. 10 1987, s. 8.
+
+
+== Se även ==
+Action Replay
+
+
+== Externa länkar ==
+Project64 etext of The Final Cartridge III manual
+Svensk manual

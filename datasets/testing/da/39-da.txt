@@ -1,2 +1,51 @@
-The Perfect Event var et Amerikansk wrestling tag team hos WCW, i 2000.
-Holdet bestod af Shawn Stasiak og Chuck Palumbo, som begge var medlemmer af New Blood, og senere Natural Born Thrillers. Shawn og Chuck vandt WCW tag team titlerne d. 30. maj 2000 da de besejrede KroniK. De mistede titlerne til KroniK igen, 10 dage senere. Holdet blev splittet i forbindelse med at Natural Born Thrillers blev opløst. Chuck Palumbo blev medlem af et nyt hold, med Sean O'Haire, og Shawn Stasiak blev en top "bad guy" sammen med Stacy Keibler. Både Shawn og Chuck blev hyret af WWE, da WCW blev opkøbt, men ingen af dem er i firmaet i dag.
+En konstant er et begreb, der især benyttes i naturvidenskabelige sammenhænge. En konstant er et fastlåst tal; et tal der altså aldrig ændrer sig. Modsat konstanter findes variabler, hvilket ikke er fastsatte tal; her benyttes x og y tit, hvor de henholdsvis er den uafhængige og afhængige variabel.
+I fysikken bruges f.eks. en konstant som tyngdeaccelerationen, som betegnes "g", og har en værdi på 9,82 m/s² i Danmark.
+
+  
+    
+      
+        g
+        =
+        9.82
+        
+        
+          
+            m
+            
+              s
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g=9.82\;{\frac {m}{s^{2}}}}
+  
+I matematikken betegner den irrationale konstant pi forholdet mellem omkreds og diameter i en cirkel:
+
+  
+    
+      
+        π
+        =
+        3
+        ,
+        1415...
+        
+        
+          
+            
+            
+          
+        
+      
+    
+    {\displaystyle \pi =3,1415...\;{\frac {}{}}}
+  
+
+
+== Se også ==
+Matematisk konstant
+Fysiske konstanter

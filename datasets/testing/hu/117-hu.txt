@@ -1,0 +1,69 @@
+A valódilégy-alakúak (Muscomorpha) a kétszárnyúak rendjének (Diptera), azon belül a légyalkatúak alrendjének (Brachycera) egyik alrendága. A legyek legnagyobb fajszámú és legváltozatosabb csoportja. A leginkább közismert kétszárnyúak tartoznak ide, mint pl. a házilégy (Musca domestica), a muslicák, a különféle hús- és döglegyek.
+
+
+== A korábbi felosztás alapja ==
+A valódilégy-alakúak alrendága korábbi rendszerekben nem szerepelt – legalábbis ilyen név alatt nem. A légyalkatúak alrendjében korábban két fő fejlődési irányvonalat – osztagot – különítettek el, és ezeket monofiletikusnak is tekintettek. Az első osztagba az ősi, viszonylag nagyobb testű, zömökebb legyeket sorolták: ezek volt az egyenes bábrésű legyek (Orthorrapha; ide tartoztak pl. a katonalegyek, a rablólegyek, a pöszörlegyek és a bögölyök); a másik osztagba fiatalabbnak vélt, viszonylag kisebb testű legyek tartoztak: ezek volt a kerek- vagy kupacsos bábrésű legyek (Cyclorrapha), a ma a Muscomorpha alrendágban szereplő családokkal.
+A felosztás alapja – amint ezt az osztagok nevei is mutatják – a bábbőr felnyílásának módja volt: az egyenes bábrésűek bábja egyenes vonalban vagy T alakban reped fel, a kerek bábrésűek bábjának csúcsa pedig egy kis kör alakú kupacsként válik le, és ezen a nyíláson bújnak ki a fiatal imágók.
+
+
+== Korszerűbb rendszerek ==
+Az újabb, kladisztikus és molekuláris biológiai vizsgálatok bebizonyították, hogy a Cyclorrapha csoport valószínűleg tényleg monofiletikus, vagyis a bábbőr kupacsos felnyílása valóban bizonyítja a közös származást, hisz ez más légycsoportokra nem jellemző. Az egyenes bábrésű legyeket viszont több csoportra bontották szét, hisz a bábbőr egyenes vagy T-vonalú felrepedése pleziomorfia, vagyis több csoportra is jellemző, ősi sajátosság, ami nem jelent közeli rokonságot. A parafiletikusnak bizonyult Orthorrapha csoportot öt alrendágra bomlott szét. Ezek:
+rablólégyalakúak (Asilomorpha),
+katonalégy-alakúak (Stratiomymorpha),
+bögölyalakúak (Tabanomorpha),
+Vermileonomorpha,
+falégyalakúak – (Xylophanomorpha).
+Ennek alapján a Muscomorpha és a Cylorrapha taxonómiailag egyenrangú fogalommá vált; a név változtatását a többi rendszertani egység elrendezésének változása indokolta.
+
+
+== Közös sajátosságaik ==
+A valódilégy-alakúak lábfején mindig két tapadókorongot találunk. Csápjuk három ízből épül fel, és a végén hosszú serte (arista) nő. Az imágók fején ív alakú barázda, ún. ívvarrat található, amelyet a csápok töve felé hold alakú duzzanat, az úgynevezett homlokpárna (lunula) határol. Az ívvarrat eredetileg – vagyis a lárvakorban – rés (homlokrés) volt, amin át a fejből hártyás hólyag nyomult ki. Ennek nyomására a bábbőr kör alakban reped fel a csúcson. Miután az imágó kibújt, a homlokhólyag visszahúzódik, a rés bezárul.
+
+
+== Osztályzásuk ==
+A valódilégy-alakúakat két fő csoportja: a homlokrés nélküli (Aschiza) és a homlokréses legyek (Schizophora).
+Homlokrés nélküli legyek (Aschiza)
+Homlokpárnájuk rövid, olykor jelentéktelen. Az ívvarrat alig látható. Homlokhólyagjuk igen kezdetleges, így a bábbőr felrepedési vonala többféle lehet. Három öregcsaládjuk:
+
+púposlegyek (Phoroidea);
+talpaslegyek (Platypezoidea);
+zengőlegyek (Syrphoidea).
+
+Homlokréses legyek (Schizophora)
+Az ívvarrat megvan, homlokpárnájuk jól fejlett. A bábbőrt a homlokhólyag nyomása kör alakban repeszti fel. Ide tartozik a légyalkatúak legtöbb faja – több, mint a többi csoportba együtt. A csoportot két alcsoportra osztjuk 11, illetve 3 öregcsaláddal.
+
+Torpikkely nélküliek (Acalyptratae)
+
+Szipókájuk kitines ízületi tok (theca) nélkül csatlakozik a belső szájnyíláshoz. Torpikkelyük (calyptra) nincs. Öregcsaládjaik:
+
+tetűlegyek (Carnoidea);
+fejeslegyek (Conopoidea);
+harmatlegyek (Drosophiloidea);
+Ephydroidea;
+Heteromyzoidea;
+Lauxanioidea;
+Micropezoidea;
+Nothyboidea;
+földilegyek (Opomyzoidea);
+szarvaslegyek (Sciomyzoidea);
+fúrólegyek (Tephritoidea).
+
+Torpikkelyesek (Calyptratae)
+
+Szipókájuk kitines ízületi tokkal (theca) ízesül a belső szájnyíláshoz. Torukon, a szárny tövén torpikkelynek (calyptra) nevezett függelék van, amely olykor a billért is eltakarja. Három öregcsaládjuk:
+
+kullancslegyek (Hippoboscoidea);
+bagócsok (Oestroidea);
+igazi legyek (Muscoidea).
+
+
+== Források és ajánlott irodalom ==
+Dudich Endre–Loksa Imre: Állatrendszertan, Tankönyvkiadó, Bp., 1978
+Urania Állatvilág II. – Rovarok, Gondolat Kiadó, Bp., 1970
+
+
+== Jegyzetek ==
+
+
+== Fordítás ==
+Ez a szócikk részben vagy egészben a Muscomorpha című angol Wikipédia-szócikk fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.

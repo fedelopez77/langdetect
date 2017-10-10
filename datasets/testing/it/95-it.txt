@@ -1,0 +1,536 @@
+In economia il pareggio di bilancio è la condizione contabile di un ente economico che si verifica quando, nel corso di un anno, le uscite finanziarie sostenute eguagliano le entrate conseguite, evitando situazioni di deficit e conseguente ricorso all'indebitamento o alla monetizzazione.
+Si parla di pareggio di bilancio "strutturale" quando dalle spese si escludono quelle a titolo di una tantum.
+Nell'ambito della contabilità di Stato, il pareggio di bilancio comporta che l'ammontare delle spese pubbliche sostenute dallo Stato e dagli altri enti pubblici sia uguale alle entrate ovvero al gettito fiscale: lo Stato, in tal modo, evita di ricorrere all'indebitamento, ossia al deficit di bilancio pubblico. L'ammontare complessivo dei disavanzi pubblici accumulati ogni anno porta invece alla formazione del debito pubblico.
+La spesa sostenuta dallo Stato si distingue in tre distinte categorie:
+spesa corrente primaria, ossia le spese sostenute per finanziare i servizi pubblici erogati dallo Stato medesimo (previdenza, sanità, pubblica amministrazione);
+spesa per interessi, cioè le spese per finanziare il debito;
+spesa in conto capitale, ossia le spese relative agli investimenti.
+Spesa corrente primaria e spesa per interessi concorrono alla formazione della spesa primaria.
+Per ciò che riguarda le entrate, un ruolo pressoché esclusivo spetta ai tributi.
+Il pareggio di bilancio, oltre che effetti sulla finanza pubblica, ha anche implicazioni a livello macroeconomico sul sistema economico come espresso dal teorema del bilancio in pareggio.
+
+
+== Pareggio di bilancio e rapporto debito-PIL ==
+
+Un buon indicatore dello stato di cattiva salute dei conti pubblici di un paese è il suo rapporto tra debito pubblico e PIL. Alcuni paesi, per cercare di limitare tale valore, cercano di mantenere il bilancio in pareggio; in tal modo, il deficit pubblico è uguale a zero, ciò comporta che il debito pubblico nominale si mantenga costante; così il rapporto debito/PIL dipende esclusivamente dal PIL; esso dovrebbe dunque diminuire nell'ipotesi che, nel lungo termine, il PIL aumenti.
+Il problema del rapporto debito-PIL è trattato nel caso più generale da un modello matematico (vedi Trattazione matematica del rapporto debito/PIL): in esso si suppone che il PIL cresca ogni anno di una percentuale costante 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   (crescita esponenziale), che l'avanzo primario (ovvero la differenza tra entrate e spesa pubblica, esclusi gli interessi sul debito) diviso per il PIL sia costante (
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  ), e che gli interessi annuali 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   sul debito pubblico siano una percentuale costante. Allora l'equazione che descrive il rapporto debito-PIL nell'anno 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   è
+
+  
+    
+      
+        
+          b
+          
+            t
+          
+        
+        =
+        
+          b
+          
+            t
+            −
+            1
+          
+        
+        
+          
+            
+              1
+              +
+              i
+            
+            
+              1
+              +
+              n
+            
+          
+        
+        +
+        d
+      
+    
+    {\displaystyle b_{t}=b_{t-1}{\frac {1+i}{1+n}}+d}
+  
+
+ove 
+  
+    
+      
+        
+          b
+          
+            t
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle b_{t-1}}
+   è il rapporto debito-PIL nell'anno 
+  
+    
+      
+        t
+        −
+        1
+      
+    
+    {\displaystyle t-1}
+  .
+Il caso del pareggio di bilancio può essere ottenuto modificando questo modello, considerando il debito nell'anno 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , 
+  
+    
+      
+        
+          B
+          
+            t
+          
+        
+      
+    
+    {\displaystyle B_{t}}
+  , come fisso (
+  
+    
+      
+        
+          B
+          
+            t
+          
+        
+      
+    
+    {\displaystyle B_{t}}
+  =
+  
+    
+      
+        
+          B
+          
+            0
+          
+        
+      
+    
+    {\displaystyle B_{0}}
+   per ogni 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  ) e il PIL con crescita esponenziale (
+  
+    
+      
+        
+          Y
+          
+            t
+          
+        
+        =
+        
+          Y
+          
+            0
+          
+        
+        (
+        1
+        +
+        n
+        
+          )
+          
+            t
+          
+        
+      
+    
+    {\displaystyle Y_{t}=Y_{0}(1+n)^{t}}
+  , ove 
+  
+    
+      
+        
+          Y
+          
+            0
+          
+        
+      
+    
+    {\displaystyle Y_{0}}
+   è il PIl iniziale, nell'anno 0). In tali ipotesi il rapporto debito-pil tenderebbe a una decrescita esponenziale (nell'ipotesi che la crescita economica sia positiva):
+
+  
+    
+      
+        
+          b
+          
+            t
+          
+        
+        =
+        
+          
+            
+              B
+              
+                t
+              
+            
+            
+              Y
+              
+                t
+              
+            
+          
+        
+        =
+        
+          
+            
+              B
+              
+                0
+              
+            
+            
+              
+                Y
+                
+                  0
+                
+              
+              (
+              1
+              +
+              n
+              
+                )
+                
+                  t
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              b
+              
+                0
+              
+            
+            
+              (
+              1
+              +
+              n
+              
+                )
+                
+                  t
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle b_{t}={\frac {B_{t}}{Y_{t}}}={\frac {B_{0}}{Y_{0}(1+n)^{t}}}={\frac {b_{0}}{(1+n)^{t}}}}
+  
+ove 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+      
+    
+    {\displaystyle b_{0}}
+   è il rapporto debito-PIL all'inizio, nell'anno 0.
+
+
+== Pareggio di bilancio nel Mondo ==
+
+
+=== Unione europea ===
+Il vincolo del pareggio di bilancio è, assieme ad altri parametri di finanza pubblica, uno dei parametri fissati all'interno del Patto di bilancio europeo, un accordo approvato il 2 marzo 2012 e sottoscritto da 25 dei 27 stati membri dell'Unione europea.
+
+
+=== Spagna ===
+Nel settembre 2011 il Parlamento spagnolo ha modificato l'art.135 della Costituzione del 1978 prevedendo il pareggio di bilancio come principio costituzionale; il progetto di legge costituzionale è stato presentato e approvato congiuntamente dai gruppi socialista e popolare; la legge è stata promulgata dal Re di Spagna il 27 settembre 2011.
+
+
+=== Italia ===
+Nell'aprile del 2012 il parlamento italiano ha definitivamente introdotto, come principio costituzionale nell'ordinamento giuridico italiano, il pareggio di bilancio (modificando gli artt. 81-117-119.97 della Costituzione italiana) con la legge costituzionale 20 aprile 2012 n. 1.
+La norma è stata approvata sia dalla Camera dei Deputati e sia dal Senato della Repubblica a maggioranza dei due terzi nella seconda votazione precludendo così la possibilità di un referendum costituzionale dei cittadini. La riforma è stata approvata interamente da PD, PDL, Terzo Polo e Lega Nord. 
+
+
+== Critiche ==
+Non tutti gli economisti (soprattutto di scuola keynesiana) concordano sui vincoli imposti dal pareggio di bilancio.
+Nel 2011 i premi Nobel Kenneth Arrow, Peter Diamond, William Sharpe, Eric Maskin e Robert Solow, in un appello rivolto al presidente Obama, hanno affermato sia che
+sia che nell'attuale fase dell'economia
+sia che
+
+Critico anche l'economista e premio Nobel Paul Krugman, il quale ritiene che l'inserimento in Costituzione del vincolo di pareggio del bilancio possa portare alla dissoluzione del Welfare state.
+
+
+=== Trattazione matematica ===
+Nella voce Politica economica si è visto che una diminuzione della spesa pubblica fa decrescere il PIL e il numero di occupati mentre fa crescere il tasso di interesse, nell'ipotesi che la disequazione nel punto di equilibrio 
+  
+    
+      
+        (
+        
+          Y
+          
+            ∗
+          
+        
+        ,
+        
+          r
+          
+            ∗
+          
+        
+        ,
+        
+          P
+          
+            ∗
+          
+        
+        ,
+        
+          N
+          
+            ∗
+          
+        
+        )
+      
+    
+    {\displaystyle (Y_{*},r_{*},P_{*},N_{*})}
+  :
+
+  
+    
+      
+        
+          I
+          
+            
+              
+              ′
+            
+          
+        
+        (
+        r
+        )
+        (
+        
+          f
+          
+            
+              
+              ″
+            
+          
+        
+        (
+        N
+        )
+        −
+        
+          S
+          
+            N
+          
+        
+        )
+        <
+        s
+        
+          S
+          
+            r
+          
+        
+        
+          f
+          
+            
+              
+              ′
+            
+          
+        
+        (
+        N
+        )
+      
+    
+    {\displaystyle I^{'}(r)(f^{''}(N)-S_{N})<sS_{r}f^{'}(N)}
+  
+con :
+
+  
+    
+      
+        
+          I
+          
+            
+              
+              ′
+            
+          
+        
+        (
+        r
+        )
+      
+    
+    {\displaystyle I^{'}(r)}
+  : Derivata della funzione Investimento in funzione del tasso di interesse
+
+  
+    
+      
+        
+          f
+          
+            
+              
+              ″
+            
+          
+        
+        (
+        N
+        )
+      
+    
+    {\displaystyle f^{''}(N)}
+  : Derivata seconda della funzione di produzione
+
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  : Propensione marginale al risparmio
+
+  
+    
+      
+        
+          S
+          
+            r
+          
+        
+      
+    
+    {\displaystyle S_{r}}
+  : Derivata parziale dell'offerta di lavoro rispetto al tasso r
+
+  
+    
+      
+        
+          S
+          
+            N
+          
+        
+      
+    
+    {\displaystyle S_{N}}
+  : Derivata parziale dell'offerta di lavoro rispetto al numero di occupati
+sia soddisfatta.
+Ambo i membri della disequazione sono positivi per quanto visto nella voce Politica economica per cui affinché la disequazione sia soddisfatta occorre che il primo membro della disequazione sia una quantità positiva minore del secondo membro. La disequazione è soddisfatta quando vi sono pochi investimenti da parte delle imprese, la gente non è disposta a lavorare se il salario reale è basso, la propensione marginale al risparmio è elevata e vi sono molte persone interessate a investire in titoli piuttosto che a lavorare. In tal caso la diminuzione della spesa pubblica con l'obiettivo di raggiungere il pareggio di bilancio provoca decrescita del PIL, aumento della disoccupazione, aumento dei tassi di interesse. La diminuzione del PIL provoca altresì un incremento del rapporto Debito/PIL. L'approccio corretto di Politica economica nel caso in cui la disequazione sia soddisfatta sarebbe quello invece di aumentare la spesa pubblica e non diminuirla.
+
+
+== Note e riferimenti ==
+
+
+== Bibliografia ==
+Roger Farmer - Macroeconomia - McGraw Hill (pag. 272)
+Alessandro Vaglio - Matematica per economisti - Apogeo (pag. 372)
+
+
+== Voci correlate ==
+Teorema del bilancio in pareggio
+Contabilità di stato
+Deficit
+Deficit pubblico
+Debito pubblico
+Debito estero
+Stati per debito pubblico
+Politica economica
+Recessione

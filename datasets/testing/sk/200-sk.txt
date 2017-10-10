@@ -1,0 +1,177 @@
+Vírivé prúdenie alebo vírové prúdenie je prúdenie, ktorého vír rýchlosti v celej sledovanej oblasti nie je rovný nule. Zjednodušene povedané teda ide o prúdenie (pohyb skupiny častíc), pri ktorom jednotlivé častice zároveň rotujú.
+
+
+== Termíny opisujúce vírivé prúdenie ==
+Veličina vír rýchlosti (nazývaná aj vorticita či vírnatosť) má značku 
+  
+    
+      
+        
+          
+            
+              Ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\Omega }}}
+   a vzorec 
+  
+    
+      
+        
+          
+            
+              Ω
+              →
+            
+          
+        
+        =
+        ∇
+        ×
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        2
+        ⋅
+        
+          
+            
+              ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\Omega }}=\nabla \times {\vec {v}}=2\cdot {\vec {\omega }}}
+  , kde 
+  
+    
+      
+        ∇
+        ×
+        =
+        rot
+      
+    
+    {\displaystyle \nabla \times =\operatorname {rot} }
+   je operátor rotácie, 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   je rýchlosť a 
+  
+    
+      
+        
+          
+            
+              ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\omega }}}
+   uhlová rýchlosť. Definícia vírového prúdenia je 
+  
+    
+      
+        
+          
+            
+              Ω
+              →
+            
+          
+        
+        ≠
+        
+          
+            
+              0
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\Omega }}\neq {\vec {0}}}
+  .
+Analógiou k pojmu prúdová čiara (prúdnica) je pojem vírová čiara. Vírová čiara je krivka, ku ktorej je vír rýchlosti (
+  
+    
+      
+        
+          
+            
+              Ω
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\Omega }}}
+  ) vždy dotyčnicou.
+Analógiou k pojmu prúdová trubica je pojem vírová trubica. Vírová trubica je myslená trubica, ktorej površky tvoria vírové čiary.
+Analógiou k pojmu prúdové vlákno je pojem vírové vlákno. Vírové vlákno je vírová trubica, ktorej prierez je taký malý, že vír rýchlosti cez tento prierez možno považovať za konštantný (termín vírové vlákno má ale ešte inú, odlišnú definíciu).
+Krivkový integrál rýchlosti (
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+  ) pozdĺž uzavretej krivky v poli prúdenia sa nazýva cirkulácia pozdĺž tejto krivky (alebo cirkulácia rýchlosti) a značí sa 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+  .
+Tok víru rýchlosti prierezom vírovej trubice sa volá intenzita vírovej trubice alebo intenzita víru.
+
+
+== Vírivé prúdenie v tvare víru ==
+Príkladom vírivého prúdenia je (vy)nútený vír (angl. rotational vortex, forced vortex), teda vír (definovaný ako kruhovitý presun množstva hmotných častí v tekutine)), ktorý je zároveň vírivým prúdením.
+
+
+== Pozri aj ==
+vír
+
+
+== Zdroje ==
+zdroje uvedené v článku vír

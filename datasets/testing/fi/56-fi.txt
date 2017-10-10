@@ -1,11 +1,33 @@
-α-Pyrrolidinopentiotiofenoni tai α-PVT on synteettinen stimulantti joka kuuluu katinoneihin, ja sitä on myyty internetissä muuntohuumeena. Alfa-PVT on Alfa-PVP:n muunnos, jossa sen fenyylirengas on korvattu tiofeenilla.
-α-PVT:tä esiintyi ensimmäisen kerran Japanissa vuonna 2013.
+Runomitta eli metrumi kuvaa mitallisessa runoudessa käytettävän kielellisen muodon. Runomittoja käsittelevää oppia sanotaan metriikaksi. Runomitat voidaan jakaa muun muassa poljennollisiin ja poljennottomiin runomittoihin.
+Poljennollinen runomitta perustuu runojalan sisältämien nousujen ja laskujen suhteeseen sekä runojalkojen määrään yhdessä säkeessä. Kielestä riippuen nousuja ja laskuja edustavat painolliset ja painottomat tavut tai pitkät ja lyhyet tavut tai molemmat. Runojaloilla tarkoitetaan nousujen ja laskujen säännöllisiä yhdistelmiä, ja ne sisältävät tavallisesti yhden nousun ja yhden tai kaksi laskua.  Erilaisten tavujen vaihtelusta syntyy runomitan rytmi, poljento. Poljennollisissa runomitoissa on yleensä 4-8 runojalkaa säkeessä, jonka mukaan niitä kutsutaan kreikkalaisin lukusanoin tetra-, penta-, heksa-, hepta-, tai oktametreiksi.
+Poljennottomat runomitat voivat perustua esimerkiksi tavujen määrään säkeessä ja säkeiden määrään säkeistössä sekä loppusointuun.
+Runomitat ovat erityisen olennaisia musiikkilyriikassa, jossa poljento liittyy kiinteästi musiikin tahtiin.
 
 
-== Laillisuus ==
-Ruotsissa α-PVT on luokiteltu vaaralliseksi yhdisteeksi 10. marraskuuta 2014.
-Kiinassa se on luokiteltu kontrolloiduksi kemikaaliksi lokakuussa 2015.
-Sveitsissä α-PVT on luokiteltu laittomaksi huumausaineeksi marraskuussa 2015.
+== Poljennolliset runojalat ==
+Kaksi-, kolmi- ja nelitavuisille runojaloille on annettu nimiä. Alla on lueteltu keskeisimpiä runojalkoja nimineen.
+Trokee: Yhdessä runojalassa on yksi painollinen/pitkä tavu, jota seuraa yksi painoton/lyhyt.
+Daktyyli: Yhdessä runojalassa on yksi painollinen/pitkä tavu, jota seuraa kaksi painotonta/lyhyttä.
+Jambi: Yhdessä runojalassa on yksi painoton/lyhyt tavu, jota seuraa yksi painollinen/pitkä.
+Anapesti: Yhdessä runojalassa on kaksi painotonta/lyhyttä tavua, joita seuraa yksi painollinen/pitkä.
+Spondee: Yhdessä runojalassa on kaksi painollista/pitkää tavua.
+Pyrrhikus: Kaksi painotonta/lyhyttä tavua.
+
+
+== Yleisiä poljennollisia runomittoja ==
+Daktyylinen heksametri, mm. Homeroksen Ilias ja Odysseia, Vergiliuksen Aeneis, Ovidiuksen Muodonmuutoksia
+Jambinen pentametri, mm. Shakespearen runoudessa
+Nelipolvinen trokee (eli trokeinen tetrametri tai kalevalamitta), mm. Kalevala, Viron kansalliseepos Kalevipoeg, The Song of Hiawatha
+
+
+== Poljennottomia runomittoja ==
+Tertsiini: Yhdessä säkeistössä on kolme säettä, joista jokaisessa on yksitoista tavua. Jokaisen säkeistön ensimmäinen ja kolmas säe on loppusoinnullinen seuraavan säkeistön toisen säkeen kanssa. Mm. Jumalainen näytelmä.
+Haiku ja Senryu: Runossa on 17 tavua, jotka on jaettu kolmeen säkeeseen suhteessa 5-7-5.
+Tanka: Runojen 31 tavua jakautuvat 5-7-5-7-7.
 
 
 == Lähteet ==
+
+
+== Aiheesta muualla ==
+Trokeemankeli

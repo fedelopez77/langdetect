@@ -1,0 +1,10 @@
+Ing. Květoslav Šoustal je slovenský informatik a pedagóg českého pôvodu.
+
+
+== Pôsobenie ==
+Pôsobil ako pedagóg na Slovenskej vysokej škole technickej v Bratislave. Vo svojej publikácii Lokálne počítačové siete (Ich princípy a funkcie) uviedol, že pre prístup k vzdialenejším výpočtovým systémom je najviac ekonomicky dostupnou cestou využitie telekomunikačnej siete, ktorá ak je rozsiahla, umožňuje výbornú dostupnosť aj pomerne vzdialených miest. Zmienil sa tiež, že lokálny distribuovaný systém je kompromisom medzi technicko-ekonomickými možnosťami a potrebami a dodal, že vzdialenosť medzi jednotlivými výpočtovými elementami (alebo zdrojmi dát) dosiahne v najbližšom čase maximálne niekoľko kilometrov, ale neskôr sa môže i značne zväčšovať. Definoval lokálnu počítačovú sieť ako element lokálne distribuovaného systému, ktorý zabezpečuje prenos dát medzi jej jednotlivými elementami (procesormi) i ďalšími zdrojmi dát (napr. snímačmi, zdrojmi rečových signálov, videotextu a podobne). Koncom 80. rokov propagoval vtedy málo používaný operačný systém Unix. Žije v Bratislave, od roku 1993 sa venuje podnikaniu v oblasti predaja počítačov a softvéru.
+
+
+== Dielo ==
+1984 – Lokálne počítačové siete (Ich princípy a funkcie) - vydala SVŠT, Ústav výpočtovej techniky
+1988 – Kurz Operačný systém UNIX (spoluautor) - vydal Dom techniky, Bratislava

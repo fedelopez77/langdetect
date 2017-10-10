@@ -1,0 +1,32 @@
+Saturnas turi 60 žinomų gamtinių palydovų. Dar 3 yra nepatvirtinti dėl informacijos trūkumo.
+Tikslaus Saturno palydovų skaičiaus galbūt ir neturėsime, kadangi nėra objektyvios skiriamosios linijos tarp Saturno žiedus sudarančių objektų ir jau pavadintų (ar būsimų) palydovų.
+
+
+== Istorija ==
+Pirmieji 8 Saturno palydovai buvo atrasti dar tebenaudojant optinius teleskopus:
+1655 m. Christiaan Huygens atrado Titaną.
+1671–1684 m. Giovanni Domenico Cassini atrado Tetiją, Dionę, Rėją, Japetą. Visus keturis palydovus italų astronomas pavadino „Sidera Lodoicea“.
+1789 m. William Herschel atrado Mimą ir Enceladą.
+1848 m. George P. Bond ir William Lassell atrado Hiperioną.
+Vėliau, naudojant ilgo išlaikymo fotografines plokšteles buvo atrasti palydovai: Febė (1899), Janas ir Epimetėjas (1966). Pastarieji kurį laiką buvo nepatvirtinti.
+Likę palydovai buvo atrasti įvairių kosminių stočių – Voyager 2 ir Cassini – misijų metu.
+2005–2006 m. astronomai atrado dar 21 Saturno palydovą.
+
+
+== Palydovų sąrašas ==
+Lentelėje palydovai pateikti orbitinio periodo didėjimo kryptimi.
+Pastabos:
+Paryškinti dėl pakankamos gravitacijos sferinį pavidalą įgavę palydovai.
+Neigiami orbitiniai periodai rodo palydovų skriejimą priešinga Saturnui sukimuisi kryptimi.
+Posvyris nurodytas į Saturno ekvatorių.
+Klaustuku (?) pažymėti nepatvirtinti palydovai.
+Šaltiniai:
+C. C. Porco ir kiti, „Physical characteristics and possible accretionary origins for Saturn's small satellites“, 2006. Amerikos astronomijos draugijos ataskaita, Nr. 37.
+C. C. Porco ir kiti, „Cassini Imaging Science: Initial Results on Saturn's Rings and Small Satellites“, 2005.
+J. N. Spitale ir kiti, „The orbits of Saturn's small satellites derived from combined historic and Cassini imaging observations“, 2006. „The Astronomical Journal“, Nr. 132.
+P. C. Thomas ir kiti, „Shapes of the Saturnian icy satellites“, 2006. 37-oji Palydovų ir planetų mokslinė konferencija, reziumė Nr. 1639.
+Dauguma orbitinių periodų, didžiųjų pusašių ir kt. apskaičiuoti naudojant IAU-MPC Satellites Ephemeris Service sistemą.
+
+
+== Pastabos apie pavadinimus ==
+Kai kurie asteroidai turi tokius pačius pavadinimus, kaip ir Saturno palydovai: 55 Pandora, 106 Dionė, 577 Rėja, 1809 Prometėjas, 1810 Epimetėjas, 4450 Panas. Vikiteka

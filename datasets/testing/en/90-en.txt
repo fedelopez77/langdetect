@@ -1,0 +1,15 @@
+Inspection time refers to the exposure duration required for a human subject to reliably identify a simple stimulus. Typically a stimulus made up of two parallel lines differing in length and joined at the tops by a cross bar is presented (similar to the Greek letter Pi). The ability to quickly detect the identity of a stimulus is moderately heritable and correlates with the subject's IQ.
+
+
+== Overview ==
+If asked which of the two lines in the figure below is longer; the left or the right, almost all non-visually impaired subjects can answer correctly 100% of the time. If, however, the stimulus is backward masked after a short period of time, the proportion of correct responses declines as the exposure duration reduces, and reliable individual differences emerge in the percent identified correctly at different intervals.
+The task itself was proposed by Doug Vickers as a measure of the rate of accumulation of information. Ted Nettelbeck, Chris Brand and others demonstrated it related quite strongly to psychometric intelligence, especially across the lower part of the IQ range   suggesting that differences in intelligence may reflect, in part, differences in the rate of information processing - a theory proposed by Arthur Jensen.
+
+One version of the inspection time stimuli is shown below (1) with the stimulus (short left given as an example), which is replaced by a mask (2). (3) indicates the opportunity for the subject to report which stimulus they saw at their leisure.
+
+
+== Genetics ==
+Inspection time is moderately heritable. This work on the heritability of IT from Nick Martin's group also demonstrated, however, that perceptual speed does not have a causal role in intelligence, but rather that IQ and IT are distinct reflections of some shared biological processes.
+
+
+== References ==

@@ -1,4 +1,19 @@
-Acroceras fluminense är en gräsart som först beskrevs av Eduard Hackel, och fick sitt nu gällande namn av Fernando Omar Zuloaga och Osvaldo Morrone. Acroceras fluminense ingår i släktet Acroceras och familjen gräs. Inga underarter finns listade i Catalogue of Life.
+Vähä-Aareajärvi är en sjö i Pajala kommun i Norrbotten och ingår i Torneälvens huvudavrinningsområde. Sjön har en area på 0,194 kvadratkilometer och ligger 162,5 meter över havet.
+
+
+== Delavrinningsområde ==
+Vähä-Aareajärvi ingår i det delavrinningsområde (750186-183229) som SMHI kallar för Namn saknas. Medelhöjden är 164 meter över havet och ytan är 39,21 kvadratkilometer. Det finns inga avrinningsområden uppströms utan avrinningsområdet är högsta punkten. Airijoki som avvattnar avrinningsområdet har biflödesordning 3, vilket innebär att vattnet flödar genom totalt 3 vattendrag innan det når havet efter 239 kilometer. Avrinningsområdet består mestadels av skog (40 %) och sankmarker (53 %). Avrinningsområdet har 1,19 kvadratkilometer vattenytor vilket ger det en sjöprocent på 3 %.
+
+
+== Se även ==
+Lista över insjöar i Pajala kommun
 
 
 == Källor ==
+SMHI: Sjöar, vattendrag och avrinningsområden
+
+
+== Externa länkar ==
+Delavrinningsområden på SMHI Vattenwebb (S-HYPE)
+Ladda ner data från Svenskt Vattenarkiv
+Vähä-Aareajärvi på VISS
