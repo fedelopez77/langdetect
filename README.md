@@ -1,5 +1,5 @@
 # langdetect
-Language detection library in Python. Implementation based on n-gram text categorization, according to the article [N-Gram-Based Text Categorization](http://odur.let.rug.nl/~vannoord/TextCat/textcat.pdf)
+Language detection library in Python. Implementation based on n-gram text categorization, according to the article [N-Gram-Based Text Categorization](http://odur.let.rug.nl/~vannoord/TextCat/textcat.pdf).
 
 ## Usage
 
@@ -37,6 +37,15 @@ python langdetect.py -f FILE
 
 ## Datasets
 The datasets to train, validate and test the software were collected with [this scrapper](https://github.com/fedelopez77/langdetect/tree/master/datasets/wikiscrapper.py) from Wikipedia articles.
+
+## Tests
+Just by cloning the test can be run by:
+
+```python
+python test_langdetect.py
+```
+
+This will print out the resulting detection precision for the train and test dataset, for every language. It could be useful to see the results in case of changing the train dataset or at adjusting parameters of the algorithm.
 
 ## Available Languages
 | Language      | Code          |
