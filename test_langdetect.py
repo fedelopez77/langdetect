@@ -52,8 +52,8 @@ def test_accuracy():
     profiles = ld.create_languages_profiles()
     path_cwd = os.getcwd()
 
-    # test_data(profiles, path_cwd + ld.PATH_TRAIN)
-    # test_data(profiles, path_cwd + ld.PATH_DATASETS + "validation/")
+    test_data(profiles, path_cwd + ld.PATH_TRAIN)
+    test_data(profiles, path_cwd + ld.PATH_DATASETS + "validation/")
     test_data(profiles, path_cwd + ld.PATH_DATASETS + "test/")
 
 

@@ -45,7 +45,7 @@ Just by cloning the test can be run by:
 python test_langdetect.py
 ```
 
-This will print out the resulting detection precision for the train and test dataset, for every language. It could be useful to see the results in case of changing the train dataset or at adjusting parameters of the algorithm.
+This will print out the resulting detection precision for the train, validation and test datasets, for every language. It could be useful to see the results in case of changing the train dataset or at adjusting parameters of the algorithm.
 
 ## Available Languages
 | Language      | Code          |
@@ -76,6 +76,6 @@ This will print out the resulting detection precision for the train and test dat
 
 
 ## Adding a new language
-1. Add the dataset of the new language inside the `datasets` directory. The dataset should be text files of the given language inside a directory with the language code as name. According to the article, with 100 Kilobytes is enough.
+1. Add the dataset of the new language inside the `datasets/train` directory. The dataset should be text files of the given language inside a directory with the language code as name. According to the article, with 100 Kilobytes is enough.
 2. Add the language code and name to the `LANGUAGES` dictionary in the `langdetect.py` file.
-3. OPTIONAL: if you want to test the new language, add a test dataset under the `datasets/testing` directory. Then, add the language code to the `TESTING_LANGUAGES` dictionary in the `test_langdetect.py` file.
+3. OPTIONAL: if you want to test the new language, add a test dataset under the `datasets/test` directory. Then, add the language code to the `TESTING_LANGUAGES` dictionary in the `test_langdetect.py` file.
