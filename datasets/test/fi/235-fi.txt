@@ -1,0 +1,27 @@
+Qualcomm Inc. on yhdysvaltalainen elektroniikka-alan yritys, jonka päätuotteita ovat matkapuhelinten komponentit, tiedonsiirtostandardien kehittäminen ja satelliittipaikannusjärjestelmät. Yritys on listattu NASDAQ-pörssissä ja sen kotipaikka on San Diego Kaliforniassa. Yrityksen perustivat Irwin Jacobs ja Andrew Viterbi vuonna 1985. Vuoden 2008 aikana yrityksen liikevaihto oli 11,1 miljardia Yhdysvaltain dollaria ja se työllisti vuoden viimeisellä neljänneksellä 15 400 henkilöä.
+Oman matkapuhelinten valmistuksen Qualcomm myi japanilaisyhtiö Kyoceralle helmikuussa 2000. Teletekniikkaan liittyvät tukiasemaliiketoiminta on myyty ruotsalaisyhtiö Ericssonille. Qualcomm myy Eudora-sähköpostijärjestelmää. Yritys kehittää Loral Space & Communicationsin kanssa Globalstar-satelliittijärjestelmää ja tekee yhteistyötä digitaalisen elokuvajärjestelmän kehittämisessä.
+Qualcomm osti tammikuussa 2009 suoritinvalmistaja AMD:n mobiililiiketoiminnan. Kaupan myötä yritys aloittaa toiminnan myös Suomessa: AMD:n mobiililaitteiden grafiikkasuorittimia kehittänyt yksikkö, joka toimii pääosin Suomessa, siirtyy työntekijöineen Qualcommin palvelukseen.
+27. lokakuuta 2016 julkaistiin tieto, että Qualcomm ostaa elektroniikkayhtiö NXP Semiconductorsin. NXP Semiconductors on Freescale Semiconductorin omistaja (ent. Motorola).
+
+
+== Snapdragon ==
+
+Qualcomm valmistaa matkapuhelimissa ja taulutietokoneissa paljon käytettyjä Snapdragon-järjestelmäpiirejä. Piirien suoritinytimet perustuvat ARM:n arkkitehtuuriin. Niissä käytetään Qualcommin omia Adreno-grafiikkasuorittimia.
+
+
+== Adreno ==
+
+Adreno on Qualcommin kehittämä grafiikkasuoritinsarja, joka on usein integroituna Snapdragon järjestelmäpiirillä.
+
+
+== Hexagon ==
+Hexagon on Qualcommin DSP-sarja, joka on usein integroituna Snapdragon järjestelmäpiirillä.
+Hexagon tukee Hexagon Vector eXtensions (HVX) SIMD vektorisuoritinlaajennuksia käskykantaan.
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+Kotisivu (englanniksi)
+Qualcomm Google Finance -taloussivustolla (englanniksi)

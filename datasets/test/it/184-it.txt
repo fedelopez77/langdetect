@@ -1,0 +1,49 @@
+La lampada allo xeno è una particolare lampada ad arco che utilizza gas xeno per produrre una luce molto intensa e bianca simile alla luce solare.
+
+
+== Tipi ==
+Esistono tre tipi di lampade allo xeno, tutte costituite da un tubo in vetro o quarzo con due elettrodi di tungsteno alle estremità e riempito di gas xeno dopo avervi praticato il vuoto.
+
+
+=== Ad arco corto ===
+
+Questo tipo è divenuto comune solo di recente con l'uso nei fari delle automobili (introdotte nel 1991 sulla BMW E38), per i proiettori cinematografici, come fonte di illuminazione per strumentazione di laboratorio ed altro. Il bulbo di vetro è piccolo e l'arco lungo da (circa) un terzo di millimetro a più di un centimetro: in questo modo è possibile focalizzare con precisione la luce.
+La potenza di queste lampade spazia da poche decine di watt ad alcune decine di chilowatt.
+L'alimentazione elettrica di queste lampade avviene normalmente a bassa tensione (poche decine di volt) mentre è necessario un circuito elevatore di tensione per la fase di accensione, in cui sono necessarie tensioni fino a oltre 60 kV per le lampade più potenti. Per evitare cha l'arco si autoestingua immediatamente dopo essere stato attivato dall'alta tensione, è normalmente prevista una sovracorrente iniziale, o "boost current", di intensità pari a due od al massimo tre volte quella nominale di esercizio e della durata di meno di un quarto di secondo.
+In alcune particolari applicazioni (cinematografia, strumentazione di laboratorio, ...) può essere richiesta una particolare stabilità dell'arco: in questi casi vengono presi particolari accorgimenti strutturali e di installazione in modo da minimizzare fenomeni come il "wandering" (spostamento ciclico del punto in cui l'arco incontra il catodo), "flaring" (improvvisi sbalzi di luminosità dovuti al contatto dell'arco con punti del catodo con proprietà emissive leggermente diverse)) e "fluttering" (rapido spostamento dell'arco tra gli estremi del catodo dovuto alle correnti convettive nello xeno, riscaldato dall'arco e raffreddato dalle pareti dell'ampolla),.
+La durata operativa di queste lampade arriva ad alcune migliaia di ore ed è generalmente limitata da fenomeni di corrosione degli elettrodi e dalla riduzione di luminosità dovuta al materiale degli elettrodi che, evaporando da essi a causa delle alte temperature e dell'erosione prodotta dall'arco, si condensano poi sulla superficie interna dell'ampolla. La corrosione degli elettrodi può essere accelerata da un'errata polarità della tensione di alimentazione o da una eccessiva ondulazione ("ripple") della corrente. Un'ulteriore causa di corrosione è la sovracorrente di accensione che, secondo un imprecisato studio delle forze armate americane citato in  (risalente peraltro agli anni '60 del '900), sottrae alla lampada circa mezz'ora di vita utile ad ogni accensione.
+
+
+=== Ad arco lungo ===
+È strutturalmente simile alla lampada ad arco corto tranne per il fatto che la porzione contenente l'arco è più lunga. Montata in riflettori ellittici, questa lampada è usata per simulare l'illuminazione solare.
+
+
+=== Lampada per flash ===
+
+Queste lampade, usate nei flash per fotografia, sono piuttosto differenti dalle precedenti nella costruzione e nel funzionamento. Sono studiate per produrre un lampo estremamente intenso per un periodo di tempo brevissimo. Il gas contenuto è una miscela di xeno ed altri gas in quantità minori. La pressione del gas può andare da pochi kilopascal a decine di kilopascal (0,01-0,1 atm). A causa della bassa temperatura del gas, lo spettro luminoso presenta molte linee spettrali che danno il caratteristico colore bianco alla luce del flash. La forma del vetro può essere a tubo lineare, a elica, a U o circolare.
+Oltre ai due elettrodi di alimentazione è presente un terzo elettrodo di innesco (che può essere interno al tubo o sotto forma di anello all'esterno del vetro) a cui viene applicato un impulso di alta tensione per innescare l'arco. L'impulso elettrico provoca la ionizzazione del gas, il quale improvvisamente abbassa la sua resistenza elettrica e si lascia attraversare da una corrente molto intensa, di centinaia di ampere. L'energia necessaria è accumulata in un condensatore caricato con tensioni di centinaia o migliaia di volt a seconda del tubo.
+La durata di ogni scarica spazia dai microsecondi ai millisecondi, e la frequenza di ripetizione dei lampi può arrivare a centinaia di hertz.
+
+
+== Uso ==
+L'uso comune è in fotografia, per illuminare intensamente la scena nel preciso momento dello scatto o per effettuare riprese stroboscopiche, ma è diffuso anche in campo automobilistico, dove molte autovetture vengono dotate di proiettori con luci allo xenon.
+Nelle applicazioni dei mezzi stradali l'uso di tale lampada obbliga l'uso di determinati sistemi, quali lava o tergifaro, e un sistema di livellamento del fascio luminoso per evitare l'abbagliamento
+A causa dell'intensità della luce emessa, questa lampada viene anche usata per la depilazione e la rimozione di tatuaggi. Un altro uso importante è nel pompaggio dei laser.
+Viene utilizzata anche nella pistola stroboscopica, che nelle officine di riparazione degli autoveicoli serve per la regolazione o verifica dell'anticipo d'accensione sui motori ad accensione comandata.
+Infine, per la possibilità di generare una luce a flash intensa e ben visibile, la lampada viene utilizzata nella segnalazione ostacoli, nelle barre luminose, negli impianti di allarme incendio, nelle luci di navigazione.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Lampadina
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Lampada allo xeno
+
+
+== Collegamenti esterni ==
+Xenon Short Arc Lamps Specification Guide - SQP Inc. (PDF), sqpuv.com.

@@ -1,0 +1,33 @@
+A modern fizika a fizika „Newton utáni” felfogása. Arra utal, hogy jelenségek klasszikus leírása hiányos, és a természet egy pontosabb, "modern" leírásához szükség van olyan elméletekre, amelyek magukba foglalják a kvantummechanika vagy Einstein relativitáselméletének, vagy mindkettőnek az elemeit. A kifejezést általában a 20. század elején vagy azt követően kifejlődött bármely fizikai tudományágra, vagy a 20. század eleji fizika által nagyban befolyásolt altudományra való hivatkozásként használjuk.
+A kis sebességek és a nagy távolságok általában a klasszikus fizika területe. A modern fizika azonban gyakran szélsőséges körülményekről szól: a kvantumhatások jellemzően az atomokhoz mérhető távolságokhoz kapcsolódnak (durván 10−9 m), míg a relativisztikus hatások jellemzően a fénysebességgel összemérhető sebességekkel vannak összefüggésben (durván 108 m/s). A kvantum- és relativisztikus hatások általában minden léptékben léteznek, bár hatásuk a mindennapi életben elenyésző lehet.
+
+
+== Áttekintés ==
+A szó szoros értelmében a modern fizika naprakész fizikát jelent. Ebben az értelemben az ún. klasszikus fizika jelentős része modern. Azonban körülbelül 1890 óta az új felfedezések jelentős paradigmaváltást okoztak: a kvantummechanika (QM) és Einstein relativitáselméletének (ER) eljövetelét. A fizikát, amely vagy a QM, vagy az ER (vagy mindkettő) elemeit magába foglalja, modern fizikának mondjuk. Ez utóbbi értelem az, ami alapján a kifejezés általában használatos.
+A modern fizikával gyakran találkozunk, ha szélsőséges körülményekkel van dolgunk. A kvantummechanikai hatások úgy tűnik akkor lépnek fel, ha "mélységekkel" (alacsony hőmérséklet, kis távolság) van dolgunk, míg a relativisztikus hatások akkor, ha "magasságokkal" (nagy sebességek, nagy távolságok), így a "közép" a klasszikus viselkedés. Például, ha egy gáz viselkedését vizsgáljuk szobahőmérsékleten, a legtöbb jelenség a (klasszikus) Maxwell–Boltzmann-eloszlást fogja magába foglalni. Azonban az abszolút nulla fok közelében a Maxwell–Boltzmann eloszlás nem felel meg a gáz megfigyelt viselkedésének, és helyette a (modern) Fermi–Dirac vagy Bose–Einstein eloszlásokat kell használni.
+
+Gyakran lehetséges megtalálni - vagy visszanyerni - a klasszikus viselkedést a modern leírásból a modern leírás elemzésével alacsony sebességek és nagy távolságok esetén (határérték figyelembe vételével, vagy közelítés alkalmazásával). Ha így teszünk, az eredmény a klasszikus határérték.
+
+
+== Vívmányok ==
+A következő témákat tekintjük a modern fizika alapvető "magjának":
+
+
+== Kapcsolódó szócikkek ==
+A fizika története
+Klasszikus fizika
+Kvantummechanika
+Relativitáselmélet
+Kvantum mezőelmélet
+
+
+== Hivatkozások ==
+
+
+== Irodalom ==
+A. Beiser. Concepts of Modern Physics, 6th, McGraw-Hill (2003). ISBN 0-07-123460-8 
+P. Tipler, R. Llewellyn. Modern Physics, 4th, W. H. Freeman (2002). ISBN 0-7167-4345-0 
+
+
+== Fordítás ==
+Ez a szócikk részben vagy egészben a Modern physics című angol Wikipédia-szócikk ezen változatának fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.

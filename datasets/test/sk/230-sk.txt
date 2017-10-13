@@ -1,0 +1,25 @@
+Reproduktorová výhybka je elektrické (elektronické) zariadenie pre rozdelenie frekvenčného spektra audiosignálu zo zosilňovača na jednotlivé frekvenčné pásma zvukového spektra tak, aby každý z reproduktorov v reproduktorovej sústave spracúval len tú časť spektra, pre ktorú je určený (z hľadiska účinnosti a skreslenia).
+
+
+== Delenie výhybiek ==
+Pasivne výhybky
+Základnymi súčiastkami pre konštrukciu pasívnej výhybky sú kondenzátory a tlmivky (cievky). Pomocou týchto komponentov je vytvorené elektrické zapojenie prepúšťajúce, alebo zadržujúce určité frekvencie. Kondenzátor prepúšťa vysoké frekvencie a zadržiava nízke. Naopak, tlmivka zadržiava vysoké frekvencie a nízke prepúšťa. Sérioparalelným zapojením tlmiviek a kondenzátorom získame filter pre stredné frekvencie.
+Aktívne (elektronické) výhybky
+Výhybky je možné skonštruovať aj ako aktívne. Filter je vytvorený pomocou nízkošumových integrovaných obvodov. Nevýhodou je potreba napájania takéhoto obvodu elektrickou energiou.
+
+
+== Strmosť výhybiek ==
+Každá elektrická výhybka má svoju strmosť. Strmosť je útlmová vlastnosť výhybky, určujúca ako rýchlo klesá / stúpa príkon do reproduktoru v závislosti od deliacej frekvencie. Strmosť výhybky vyjadrujeme počtom decibelov (dB), o ktoré sa zníži (zvýši) napätie na reproduktore v jednej oktáve od deliacej frekvencie. Strmosť výhybky je daná počtom a druhom LC súčiastok v obvode reproduktorovej sústavy. Najčastejšie sa používajú výhybky so strmosťou (útlmom) 6, 12 a 18 dB na oktávu. Existujú aj iné hodnoty, ale tieto sú najpoužívanejšie. Najpoužívanejšia strmosť výhybky je 12dB/oct. Čím menšia strmosť, tým menej (a lacnejších) súčiastok. Pre basový reproduktor sa niekedy používa strmosť 6dB/oct, pre vysokotónové reproduktory sa používajú vyššie strmosti. Čím je väčšia strmosť výhybky, tým je lepšia nadväznosť reproduktorov pre jednotlivé frekvenčné pásma na seba. Na druhú stranu čím vyššia strmosť, tím väčší je problém z fázovým posunom a skreslením.
+
+
+== Deliaca frekvencia ==
+Problém výhybiek je deliaca frekvencia, čiže frekvencia pri ktorej jeden reproduktor prestáva a susedný začína hrať (nadväznosť frekvenčných pásiem). Signál oboch reproduktorov sa tam môže buď viacej prekrývať alebo naopak môže tam chýbať. Navyše LC prvky ktoré obsahuje frekvenčná výhybka spôsobia fázový posun a zvlnenie prehrávaného signálu.
+
+
+== Indukčnosť ==
+Cievka každého elektrodynamického reproduktora má určitú indukčnosť (daná výrobou). Vyššia indukčnosť oslabí výsledný zvuk, menšia indukčnosť spôsobí priveľké prúdy v cievke (možné poškodenie cievky, alebo koncového stupňa zosilňovača). Elektronická výhybka (keďže vkladáme indukčnosti) mení výslednú indukčnosť v mieste pripojenia reproduktora i celej reproduktorovej sústavy. Preto je nutné túto indukčnosť buď vykompenzovať RC členom, alebo aspoň rátať s tým že existuje a že reproduktor nemusí mať na Vami zvolenej deliacej frekvencii svoju nominálnu impedanciu. Potrebné súčiastky na vykompenzovanie indukčnosti alebo impedančnú závislosť reproduktora od frekvencie uverejňuje výrobca reproduktora. Zlepšiť parametre reprosústavy s pasívnou výhybkou je možné zmeraním výslednej frekvenčnej charakteristiky a dodatočným doladením jednotlivých súčiastok. Na internete je viacero programov na výpočet výhybiek.
+
+
+== Súčiastky výhybiek ==
+Kondenzátor sa používa bezindukčný (napr. krabicový kondenzátor) dimenzovaný na vyššie napätie, aké produkuje zosilňovač pri maximálnom vybudení. Ak je kapacita väčšia, je možné použiť aj bipolárne kondenzátory. Nie je vhodné používať polarizované (obyčajné elektrolytické kondenzátory).
+Tlmivka je vzduchová cievka (bez kovového jadra) vinutá na veľkom priemere (6-10 cm). Zohľadňuje sa aj odpor drôtu, preto sa používa čo najhrubší (radšej predimenzovaný) aby neuberal z výkonu zosilovača svojim odporom. Na internete sú aj programy pre výpočet tlmivky podľa priemeru cievky a drôtu.

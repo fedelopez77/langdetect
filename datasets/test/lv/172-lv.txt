@@ -1,0 +1,20 @@
+PL/SQL (angļu: Procedural Language / Structured Query Language) ir Oracle Corporation radīta programmēšanas valoda — SQL valodas procedurāls paplašinājums Oracle datubāzu pārvaldības sistēmai. PL/SQL sintakse ir līdzīga Ada un Pascal programmēšanas valodām.
+Tā ir viena no trim Oracle Database iebūvētajām valodām (vēl SQL un Java). Neskaitot Oracle, PL/SQL atbalsta arī TimesTen un IBM DB2 (sākot ar 9.7 versiju) datubāzu pārvaldības sistēmas.
+PL/SQL tiek pastāvīgi atjaunota. Sākot ar Oracle 8, tās versiju numerācija sakrīt ar Oracle Database versijām.
+
+
+== Funkcionalitāte ==
+PL/SQL ļauj izmantot mainīgos, nosacījumus, ciklus, izņēmumu apstrādi, kā arī masīvus. Sākot ar astoto versiju, PL/SQL ir iekļautas objektorientētās programmēšanas iespējas.
+
+
+== Programmas uzbūve ==
+PL/SQL programma sastāv no blokiem, kas var gan sekot viens otram, gan būt iekļauti citos blokos. Bloku struktūra, tāpat kā daļa valodas sintakses, PL/SQL ir aizgūta no Ada programmēšanas valodas.
+
+
+== PL/SQL koda piemērs ==
+
+
+== Ārējās saites ==
+PL/SQL uzziņas (angliski)
+Oracle BUJ: PL/SQL (angliski)
+Oracle tehnoloģiju centrs (angliski)

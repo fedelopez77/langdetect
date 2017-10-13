@@ -1,0 +1,84 @@
+Vanadium(V)-fluorid ist eine chemische Verbindung aus der Stoffgruppe der Fluoride. Es ist das einzige bekannte Halogenid, in dem Vanadium in der Oxidationsstufe +V vorkommt. Die Verbindung ist bei Raumtemperatur eine farblose, viskose Flüssigkeit, unterhalb von 19,5 °C ein weißer Feststoff.
+
+
+== Gewinnung und Darstellung ==
+Vanadium(V)-fluorid lässt sich bei 300 °C aus den Elementen Vanadium und Fluor oder durch Disproportionierung aus Vanadium(IV)-fluorid synthetisieren.
+
+  
+    
+      
+        
+          2
+           
+          V
+          +
+          5
+           
+          
+            F
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          V
+          
+            F
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ V+5\ F_{2}\longrightarrow 2\ VF_{5}} }
+  
+
+  
+    
+      
+        
+          2
+           
+          V
+          
+            F
+            
+              4
+            
+          
+          ⟶
+          V
+          
+            F
+            
+              3
+            
+          
+          +
+          V
+          
+            F
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ VF_{4}\longrightarrow VF_{3}+VF_{5}} }
+  
+
+
+== Eigenschaften ==
+Vanadium(V)-fluorid kristallisiert in einer Kettenstruktur. Dabei sind VF6-Oktaeder über benachbarte Ecken cis-verknüpft. In der Gasphase liegen trigonal-bipyramidale Moleküle vor.
+Die Verbindung ist in Wasser mit rotgelber Farbe löslich.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1, S. 1545.

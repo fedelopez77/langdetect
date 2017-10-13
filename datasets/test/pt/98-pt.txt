@@ -1,0 +1,66 @@
+UTF-1 é um formato de transformação de ISO 10646/Unicode em fluxos de bytes, a fim de serialização. Devido ao seu formato não é possível resincronizar se a decodificação começa no meio dum caractere (o que dificulta o truncamento) e rotinas de busca de caractere não podem ser usadas de forma confiável. Dados tais problemas, esse padrão nunca ganhou grande adoção, sendo quase que completamente substituído pelo UTF-8.
+
+
+== Padrão ==
+UTF-1 é uma codificação multi-byte tal qual UTF-8, o que significa que um código Unicode pode estar codificado em um, dois, três ou cinco octetos. Enquanto a faixa do ASCII é codificada como um octeto assim como no UTF-8, os octetos 0x21 - 0x7E também são usados em codificações multi-byte, inviabilizando o UTF-1 para diversos protocolos Internet tais como MIME.
+O UTF-1 não usa caracteres de controle SOH: qualquer octeto 0x00 - 0x20 ou 0x7F - x9F corresponde ao código correspondente em ISO-8859-1 (U+0000 - 0020 e U+007F-009F, respectivamente). Esse formato que estipula 66 octetos "protegidos" tenta ser compatível com o ISO 2022.
+O esquema de codificação do UTF-1 usa uma aritmética de "módulo 190" (
+  
+    
+      
+        256
+        −
+        66
+        =
+        190
+      
+    
+    {\displaystyle 256-66=190}
+  ), desenvolvida para codificar todos os 31 bits do Conjunto Universal de Caracteres original (UCS-4). em comparação, o UTF-8 "protege" todos os 128 octetos ASCII, e necessita dos dois bits finais de códificações multi-byte para tal, resultando numa aritmética de "módulo 64" (
+  
+    
+      
+        8
+        −
+        2
+        =
+        6
+      
+    
+    {\displaystyle 8-2=6}
+  , 
+  
+    
+      
+        
+          2
+          
+            6
+          
+        
+        =
+        64
+      
+    
+    {\displaystyle 2^{6}=64}
+  ). Já BOCU-1 "protege" somente o conjunto mínimo necessário para manter a compatibilidade com MIME (0x00, 0x07–0x0F, 0x1A–0x1B e 0x20), resultando numa aritmética de "módulo 243" (
+  
+    
+      
+        256
+        −
+        13
+        =
+        243
+      
+    
+    {\displaystyle 256-13=243}
+  ).
+
+
+== Referências ==
+«ISO IR 178» (PDF) (em inglês)  Especificação do UTF-1
+
+
+== Ver também ==
+Conjunto Universal de Caracteres

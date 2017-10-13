@@ -1,0 +1,34 @@
+Un indicateur d'emplacement (anglais : location identifier (LID)) est une représentation symbolique pour le nom et l'emplacement d'un aéroport, d'aide à la navigation, ou d'une station météo, et est utilisé pour le contrôle de la circulation aérienne, des installations de contrôle de la circulation aérienne, des télécommunications, de l'informatique, des bulletins météorologiques et de services connexes.
+
+
+== Indicateur OACI ==
+Voir Code OACI des aéroports
+L'Organisation de l'aviation civile internationale établit des séries de quatre lettres qui sont publiées dans l'OACI Publication 7910. Ceux-ci sont utilisés par les organismes de contrôle de la circulation aérienne afin d'identifier les aéroports et également par les agences météorologiques pour produire les rapports METAR. La première lettre indique la région; par exemple, K pour les États-unis, C pour le Canada, L pour l'Europe du sud, la R pour l'Extrême-Orient, et Y pour l'Australie. Un exemple d'indicateur d'emplacement OACI pour l'aéroport international Pierre-Elliott-Trudeau de Montréal est CYUL et celui de l'aéroport de Paris-Charles-de-Gaulle est LFPG.
+
+
+== Indicateur IATA ==
+Voir Code AITA des aéroports
+L'Association internationale du transport aérien utilise des ensembles de trois lettre nommés indicateur d'emplacement IATA et qui sont utilisés pour l'exploitation des compagnies aériennes, le routage des bagages et de la billetterie. L'attribution de ces codes est régie par la résolution IATA 763, et elle est administrée par le siège de l'IATA à Montréal. Il n'y a pas de schéma spécifique pour créer un identifiant IATA mais en général, ils prennent l'abréviation de l'aéroport ou de la ville tels que YUL pour l'aéroport international Pierre-Elliott-Trudeau de Montréal et CDG pour l'aéroport de Paris-Charles-de-Gaulle.
+
+
+== Indicateur FAA ==
+L'indicateur d'emplacement FAA de l'Administration fédérale de l'aviation au États-Unis est formé de trois à cinq caractères alphanumérique. Pour la plupart des aéroports majeurs, les indicateur assignés sont alphabétiques à trois lettres, comme OFS pour l'aéroport international de San Francisco. Les indicateurs des aérodromes mineurs sont généralement affectés d'un mélange de caractères alphanumériques, par exemple 8N2 pour l'Aéroport de Chicago ([[Ottawa (Illinois)]]). Les aérodromes et héliports privés sont indiqués par des codes de quatre caractères, comme CTJ2 pour l'héliport de la citadelle de Québec (Coast Guard) ou CCH5 pour centre hospitalier pierre-boucher. Les indicateurs d'emplacement sont concertés avec Transports Canada.
+
+
+== Indicateur de Transports Canada ==
+Transports Canada attribue entre deux et quatre caractère aux indicateurs d'emplacement (TC LID), y compris les trois lettre identificateurs commençant par les lettres Y et Z, pour sa juridiction. Ces identifiants sont conçus pour cadrer avec la FAA même si quelques conflits existent, par exemple WMC est attribué à la fois à Winnemucca (Nevada) et à Maple Creek (Saskatchewan), ou encore WAL pour identifier l'Île de Wallops (Virginie) et Cooking Lake (Alberta).
+
+
+== Références ==
+
+
+== Voir aussi ==
+UN/LOCODE: les lieux utilisés dans le commerce et les transports, avec des fonctions telles que les ports maritimes, routiers et ferroviaires, les aéroports, de la poste, Bureau de Change et des points de passage frontaliers
+
+
+== Liens externes ==
+NCDC Station de Localisateur - Historique moteur de recherche pour les états-UNIS de la station météo emplacements
+Station météo Identificateurs de Références pour le monde entier identifiants
+La DGAC Code
+ Portail de l’aéronautique
+ Portail de la météorologie

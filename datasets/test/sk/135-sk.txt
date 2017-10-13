@@ -1,0 +1,36 @@
+GeForce 4 je grafický čip spoločnosti nVidia. Je to v poradí štvrtá generácia GeForce. GeForce 4 sa delí predovšetkým na radu Ti, výkonnejšia, a MX, pre široké masy. MX séria je takmer identické s GeForce 4Go (NV17M) pre trh s laptopmi. Obe línie boli vypustené na jar roku 2002. GeForce 4Go mala krátky život, ešte koncom toho istého roka ju nahradil variant GeForce 4200Go z Ti odnože.
+
+
+== GeForce 4 jadrá ==
+NV17 - GeForce4 MX (AGP4X)
+NV18 - GeForce4 MX (NV17 s AGP8X)
+NV19 - GeForce4 MX (NV18 s PCI Express cez AGP-PCIe bridge)
+NV25 - GeForce4 Ti (AGP4X)
+NV28 - GeForce4 Ti (NV25 s AGP8X)
+
+
+== GeForce 4Ti ==
+
+Vyšla v apríli roku 2002. Predchodca je už spomenutá GeForce 3 a nástupca GeForce 5. Jadro NV25. Podobá sa najviac na GeForce 3, hlavný medzník tvorí zvýšená rýchlosť jadra a pamäte, riešenie pamäte (upgraded memory controler), vylepšený pixel a vertex shader, hardvérový antialiasing a vylepšené DVD prehrávanie. Pridaná podpora dual monitor. GeForce 4 prekonala svojho niekdajšieho konkurenta ATI Radeon 8500XT (R250), ktorý bol predsa len pomalší, avšak Ticko porazil až ATI Radeon 9700 (R300). Vlajkovými a vstupnými loďami boli GeForce 4Ti 4400 a najvyspelejšia 4600. Vyššie v strednej triede bola ATI s Radeonom 8500LE. Výkonom sa nerovnal GeForce 4Ti 4400. GeForce 3Ti 500 bola medzi 4200 a 4400Ti, cenou však prevyšovala spomínaný Radeon.
+nVIDIA stiahla GeForce 4Ti 4200 veľmi skoro z trhu. Jej príchod bol oneskorený a nezapadala na trh nešťastne. GeForce 4Ti 4200 mala takt jadra 222 MHz, čo bolo o 53 MHz menej ako pri GFTi4400. Týkalo sa to všetkých modelov s pomalšou 128 MB verziou. 64 MB modely mali už výrobných 250 MHz, táto taktika nVidie sa však ktovie ako neujala. Lenže o chvíľu nato sa zistila ľahká možnosť taktovania týchto modelov (128 MB) na plnohodnotných 250 MHz. nVidia to pochopiteľne kritizovala a vyjadrovala svoj nesúhlas. Taktovanie 4200 vyvolalo popularitu. Preto to stiahnutie, nVidia sa chcela vyhnúť škodám na predaji svojich vyšších modelov. Karta GeForce 4Ti 4400 nebola ani tak vyhľadávaná pre výkon, tou bola 4600 s vysokou cenou. GeForce 4Ti 4200 mala pomerne nízku cenu a ponúkala stále solídny výkon, navyše nikto nepočúval pokyny ohľadom (ne)taktovania.
+Séria GeForce 4Ti 4200 prišla oneskorene a nVidia stratila šancu dlhodobejšie dominovať vo vyššej triede. Nestihla včas ani ich stiahnutie z trhu (pomalých 128 MB modelov). Na druhej strane tento typ bol stále rýchlejší nez GeForce 3Ti 500 či konkurenčný Radeon 8500.
+Koncom roka 2002 bolo jadro NV25 nahradené NV28, rozdiel v rozhraní z AGP na PCI Express. Všetky NV28 GeForce 4Ti 4200 mali už všetky od výroby po 250 MHz bez ohľadu na veľkosť pamäte. nVidia prišla prekvapivo s GeForce 4Ti 4800SE, ekvivalent 4600 a 4400. Top bola GeForce 4Ti 4800 s rovnakou rýchlosťou jadier ako 4600.
+Celkovo séria GeForce 4Ti bola rýchlejšia ako GeForce 3Ti séria a Radeon 8500. Typ GeForce 4Ti 4200 zostala do príchodu Radeona 9500 PRO (koniec roka) najlepšou voľbou cena/výkon. 4200 si dobre držala pozíciu až do príchodu ďalšej, piatej generácie čipov v roku 2003.
+Jediná mobilná verzia Ti série niesla názov GeForce 4 4200go (NV28M) uvedená koncom roka 2002. Takmer identický čip s NV28, rýchlosť bola ale znížená. Prekonanie Radeona 9000 mobility si vybralo veľkú daň, často sa vedela prehriať. Bolo to preto, že GeForce 4 nebola pôvodne navrhovaná na mobilnú verziu. GeForce 4TiGO mala krátku výrobnú existenciu.
+
+
+== GeForce 4Ti čipy ==
+
+Poznámka: Toto sú oficiálne špecifikácie vypustené nVidiou, v skutočnosti sa môžu líšiť rýchlosti a parametre. Všetky majú 128-bitovú pamäť a sú Ti.
+
+
+== GeForce 4 MX línia ==
+
+Schopnosti kariet GeForce 4 sú zadefinované Ti líniou, GeForce 4MX je len názov. Mnohí to odsuzdovali ako marketingový trik nVidie. Vydanie GeForce 4MX sklamalo aj jej skalných nadšencov. Tí ju pomenovavali GeForce 2MX so stereoidmi. GeForce 4 MX chýbal programovateľný pixel a vertex shader. To nemalo pre neúspech ten najväčší dopad. Karta tiež nerenderovala efekty poskytujúce DirectX 8.1. GeForce 4 MX bola predsa rýchlejšia ako GeForce 2ultra, bola teda aj vcelku dobrá cena/výkon. Vyrábala sa počas celého roka od jej uvedenia. ID software, teda hlavný šéf John Carmack si robil starosti okolo potenciálneho ujatia na trhu GeForce 4 MX. Carmack sa bál adaptácie karty na trh, to by znamenalo už v tej dobe krok späť, teda k nepodpore DirectX 8.1. Varoval hráčov k nekupovaniu tohto čipu. Nezávisle od toho, Carmack vypustil veľmi očakávanú hru Doom 3 v lete 2002. Ako jedinú kartu bez podpory DirectX 8.1 podporoval GeForce 4 MX. Napriek veľkej kritike bola GeForce 4 MX veľmi úspešným modelom na trhu. Bola o 30% drahšia ako GeForce 2MX a celkom prijateľný výkon. Väčšina hier na nej fungovala. Žala veľké úspechy aj na OEM trhu a nahradila tak najlepšie predávané GPU GeForce 2MX.
+Boli tu tri modely: GeForce 4MX 420, 440, 460. GeForce 4MX 420 bola určená najmä pre kancelárske a najlacnejšie počítače, GeForce 4MX 440 zasa najmä pre masový OEM trh. GeForce 4MX 460 zohrávala úlohu karty strednej triedy. Zdolala konkurenciu ATI Radeon 8500LE/9100 (8500), ako aj GeForce 3Ti 200.
+Výkonom GeForce 4MX 420 len o niečo málo prekonala GeForce 2MX 400 (i Radeon 7000), čo nebol problém vzhľadom na cieľový výber skupiny. Z praktického hľadiska to bola integrovaná grafická karta spoločnosti Intel, 845G a výrobok z vlastnej produkcie, integrovaná nForce 2.
+nVIDIA GeForce 4MX 440 si počínala vcelku dobre. Prekonala súpera Radeon 7500. Dokonca príchod Radeona 9000 PRO (lepší singletexturing, lepšiu podporu vertex a pixel shader) neotriasol už tak silnou OEM pozíciou. Odpoveď nVIDIE na Radeon 9000PRO bola GeForce 5FX 5200 (podpora DirectX 9). Paradoxne a s trochou irónie práve GeForce 4MX 440 ukončila produkciu GeForce 5FX 5200, svojmu nástupcovi. T. j., GF 4MX 420 sa vyrábala dlhšie.
+Séria MX priniesla v prehrávani videa viacero noviniek (nie Ti séria). Ako vôbec prvá GeForce prináša technológiu VPE (video processing engine). Tiež hardvérové iDCT a VLC (variable length code decoding). Pridanie VPE znamenalo najväčší krok oproti predchádzajúcemu HDVP v MPEG prehrávaní. VPE mohlo bojovať s funkciami ATI kariet.
+GeForce 4MX 460 prišla zarovno celej MX línie, teda skoro roku 2002. Ako aj séria Ti, tak i MX boli časom vylepšené o rozhranie AGP 8x a PCI Express (GeForce 4 PCX4300). MX 460 sa však neadaptovala nikdy. Začiatkom roka 2003 prišli na trh ďalšie modely: GeForce 4MX4000 (to isté ako GF 4MX 440SE, len s trochu rýchlejšou pamäťou). Prekvapili ďalšie adaptácie v roku 2004, PCX 4300, MX 4000 s podporou PCI Express (čiže NV19). NV19 je jednoducho NV18 so zmeneným rozhraním.
+Toto sú oficiálne špecifikácie spoločnosti nVidia. V skutočnosti sa výsledky rýchlosti a parametrov môžu líšiť.
+Mobilná verzia GeForce 4go vychádzala z línie MX. Mala veľké problémy s ovládačmi. Vznik alternatívnych ovládačov Omega sa stretol s nevôľov materskej firmy. Inštaláciou driveru Omega strácali karty svoju záruku. Pri problémoch nVidia odporúčala pozrieť ventilátor, a ak sa nekrútil bolo ho treba manuálne roztočiť. Ak ani to nepomohlo, manuálne vybrať kartu a premazať ventilátor. Paradoxne niektoré hry so staršími ovládačmi nVidie fungovali a niektoré zasa len s novými.

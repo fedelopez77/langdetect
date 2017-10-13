@@ -1,0 +1,5 @@
+Begrebet standardista er blevet generel nomenklatur, der beskriver en webudvikler, som er aktivt involveret i skabelsen og/eller promotionen af webstandarder. Det blev først brugt af Joe Clark i bogen om tilgængelighed, Building Accessible Websites (Opbygning af Tilgængelige Websites).
+
+
+== Ekstern henvisning ==
+joeclark.org

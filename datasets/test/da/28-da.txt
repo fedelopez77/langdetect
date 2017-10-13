@@ -1,0 +1,17 @@
+A priori kommer af latin, og betyder “fra det tidligere”. A priori er den erkendelse, der er opnået via fornuften alene. A priori kommer altså før erfaringen.
+
+
+== Betydning ==
+Filosoffen Immanuel Kant beskriver de transcendentale forudsætninger for al empirisk erkendelse som a priori. A priori er beskrevet som de fornuftserkendelser, der overhovedet gør empiri muligt. Begreber som tid og rum er a priori, fordi det ikke er muligt at erfare, uden anerkendelsen af disse. Det giver ikke mening at tale om en begivenhed, hvis den ikke har fundet sted i et rum, til en given tid. A priori er altså forudsætningen for al erkendelse.
+I modsætning til a priori står a posteriori (lat.:“fra det senere”), som er empirisk erkendelse. Hvor a priori er noget eviggyldigt, der nødvendigvis altid er sandt, kan a posteriori ændre sig med tiden, fordi forudsætningerne for erfaringen ændrer sig. Matematiske love er også a priori, fordi de er evigtgyldige, og kommer før erfaringen. At 2 + 2 = 4 ved vi er sandt, det er ikke en erkendelse vi først skal erfare os til. Det samme gælder i euklidisk geometris læresætninger, da det ikke ville give mening at undersøge, om en trekants vinkelsum er 180 grader, da vi ved, at den nødvendigvis må være det. Hvis vi måler en trekant, og opdager, at den ikke er 180 grader, så tager vi det ikke som et tegn på, at en trekant har en anden vinkelsum end det vi tidligere antog, men at vi har målt forkert. Ligeledes, hvis vi har tre æbler i en kurv og lægger to æbler til, hvorefter vi tæller dem og kommer til tallet seks, så tager vi det ikke som et tegn på, at tre plus to er seks, men derimod som et tegn på, at vi har talt forkert. Disse antagelser er altså a priori i den forstand, at ligegyldigt hvad vi erfarer, og hvad vi opnår gennem erfaringen, vil det ikke ændre på antagelsen, da disse er nødvendigt sande.
+
+
+== Filosofisk debat ==
+Begrebet a priori er tæt forbundet med den erkendelsesteoretiske debat. Det blev hævdet, at al erkendelse er a priori indenfor rationalismen, da den menneskelige fornuft var i besiddelse af de principper der gælder for virkeligheden. Derimod blev det hævdet af empirismen at al erkendelse af virkeligheden er a posteriori (og altså må bygge på erfaringen). Immanuel Kant var meget optaget af denne konflikt, og forsøgte at nå til en syntese af disse tankegange, ved at hævde, at der findes domme, der både er a priori gyldige, men samtidig besad empirisk værdi. Med dette forsøger han altså at forene disse tankegange ved at hævde eksistensen af syntetiske a priori domme.
+
+
+== Se også ==
+A posteriori
+Immanuel Kant
+Tautologi
+Teleologi

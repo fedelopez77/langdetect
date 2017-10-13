@@ -1,0 +1,89 @@
+Puupolttoaine on polttoaineena käytettävää biomassaa eli biopolttoainetta, joka on peräisin puun rungosta, oksista tai juurista. Se on tavallisesti kiinteää, mutta voidaan myös kaasuttaa puukaasuksi. Puuhun sitoutunut energia hyödynnetään polttamalla. Puuta käytetään yleisesti lämmitykseen mutta myös lämpövoimalaitoksissa, joista saadaan myös sähköä. Voimalaitoksissa puupolttoaine poltetaan tyypillisesti seospolttona esimerkiksi turpeen kanssa.
+Puu on niin kutsuttu uusiutuva energianlähde. Sen käytön polttoaineena ei katsota lisäävän hiilidioksidipäästöjä, koska puuhun sitoutuneen ja sitoutuvan hiilen katsotaan olevan luonnonkierrossa toisin kuin fossiilisten polttoaineiden kohdalla. Mikäli poltettujen puiden tilalle kasvaa jossain samaan aikaan vastaava määrä uutta puuta ei synny nettopäästöjä. Lisäksi hiilidioksidia vapautuisi puun lahotessakin. Poltossa syntyvä tuhka ja sen ravinteet voidaan hyödyntää lannoitteena.
+Polton typpipäästöt riippuvat palotapahtuman hallinnasta. Puun polton negatiivisiin vaikutuksiin kuuluu pienhiukkaset, jotka aiheuttavat sydän- ja verisuonitauteja sekä aiheuttavat hengitysvaikeuksia astmaatikoille. Esimerkiksi Ruotsissa nämä hiukkaset tappavat arviolta 5 000 henkilöä vuosittain. Suhteessa tehoon erityisen ongelmallista on puun pienpoltto, jossa palotapahtuman hallinta ja savukaasujen puhdistus on olematonta verrattuna suurempiin laitoksiin.
+Puupolttoaineen kuljettaminen kauaksi ei useinkaan ole taloudellisesti kannattavaa. Puupolttoaineissa on usein runsaasti vettä, joten ne on kuivattava ulkoilmassa tai koneellisesti. Polttopuuta säilötään usein vuosiakin ennen polttamista. Kuivan puun lämpöarvo on noin 19 MJ/kg; vertailuna kuivan turpeen noin 20 MJ/kg ja kevyen polttoöljyn 42,7 MJ/kg.
+
+
+== Tuorepoltto ==
+Perinteisesti polttopuu kuivataan ennen polttamista, toisaalta palamisprosessin parantamiseksi toisaalta veden mukana menevän hukkalämmön vähentämiseksi. On havaittu, että mikäli veden höyrystymislämpö voidaan ottaa hyötykäyttöön savukaasuista muuttuu tilanne kuivatuksen suhteen, puu kannattaakin polttaa soveliaassa laitoksessa kaatotuoreena. Tällöin puun palavat yhdisteet ovat mukana mahdollisimman täydellisesti. Kaadon jälkeen puusta alkaa haihtua veden mukana hyvin energiapitoisia aineita ja varsinkin kesällä puun lahoaminen alkaa nopeasti heikentämään lämpöarvoa. Tällainen poltto onnistuu vain isommissa yli kolmen mega­watin kattiloissa ja vaatii helposti prosessiin yhdistettyä lämpöpumppua, jotta matalan lämpötilan höyrystymislämpö saadaan hyödyksi. Tuorepoltto laitoksissa on tuore tapa ja pääosin vasta tutkimuksen alla (2016).
+
+
+== Polttopuun mittayksiköt ==
+
+Polttopuun, kuten muunkin puutavaran kaupassa puun määrä ilmoitetaan erityisinä tilavuusyksiköinä, joita ovat pinokuutiometri (lyhenne p-m3 ja irtokuutiometri (i-m3), lyhyesti pinokuutio ja irtokuutio. Irtokuutiosta käytetään myös nimitystä heittokuutio. Pinokuutio vastaa tilavuudeltaan yhden kuutiometrin kokoista pinoa, kun taas irtokuutiometri vastaa puumäärää, joka heiteltynä täyttäisi kuutiometrin kokoisen laatikon. Näiden keskinäisen vertailun helpottamiseksi käytetään myös yksikköä kiintokuutiometri (kiintokuutio, k-m3), joka periaatteessa tarkoittaa kuutiometrin kokoista täyttä puuta ilman pino- tai irtokuutioon jääviä rakoja.
+Vanhoja polttopuun mittayksikköjä ovat motti, joka vastaa yhtä pino­kuutio­metriä, ja syli, joka vastaa neljää pino­kuutio­metriä.
+
+
+== Puupolttoainelajikkeet ==
+
+
+=== Polttopuu ===
+
+Polttopuuksi nimitetään perinteisissä tulisijoissa käytettävää puupolttoainetta, joka on yleensä halkoja tai klapeja. Polttopuu on kaadetusta tai kaatuneesta puunrungosta tiettyyn mittaan katkottuja ja halkaistuja kappaleita, jotka kuivuttuaan noin 20 % kosteuteen ovat soveliaita tuottamaan lämpöenergiaa tulipesissä. Kuivatus voidaan tehdä joko koneellisesti tai perinteisesti ulkokuivauksena.
+
+
+=== Pölkky ===
+Pölkkyjä saadaan katkomalla puun runkoa, joka on karsittu eli siitä on poistettu oksat. Pölkkyjä käytetään harvoin sellaisenaan; yleensä ne pilkotaan pienemmiksi kappaleiksi.
+
+
+=== Halko ===
+Halkoja saadaan halkaisemalla puun rungosta katkottuja pölkkyjä, joiden pituus on yleensä noin yksi metri ja pienin halkaisija 5 cm. Halkaisijaltaan 10–15 cm olevat pölkyt halkaistaan kahtia ja paksummat halkaistaan useampaan osaan. Halkojen suosituspaksuus on 4–10 cm. Pölkyn halkaisu edistää puun kuivumista. Alle 10 cm:n paksuiset pölkyt voidaan puun kuivumisen nopeuttamiseksi aisata, eli vuolla kuorta pois pölkyn kyljestä koko pituudelta. Halkoja voidaan säilyttää halkopinossa useampia vuosia. Halot ladotaan pinoon yleensä puun ulkopinta ylöspäin, jolloin sade ei niinkään imeydy halkoon. Halkopinot voidaan myös peittää.
+Halkoja nimitetään raaka-aineen mukaan koivuhaloiksi ja sekahaloiksi. Sekahaloissa on muitakin puulajeja kuin koivua.
+Puhekielessä ja joissakin murteissa myös pieniksi pilkottuja polttopuita nimitetään haloiksi.
+
+
+=== Kalikka eli klapi ===
+
+Kalikka eli klapi saadaan kun halko katkotaan kahteen, kolmeen tai neljään osaan ja saadut pätkät vielä halkaistaan pienemmiksi paloiksi. Polttopuuksi tarkoitettujen klapien pituus on siis 25–50 cm. Niitä voidaan tehdä myös rankoja katkomalla ja saatuja pölkkyjä pilkkomalla. Klapipölkkyjen pilkkominen voidaan suorittaa perinteisillä käsityökaluilla tai klapikoneella.
+Pilkottu polttopuu on Länsi-Suomessa useimmiten nimeltään klapi, klappi, lapi, klapu tai lapu. Nämä nimitykset perustuvat ruotsin sanaan klabb. Joskus myös klapeiksi pilkottuja polttopuita nimitetään haloiksi.
+
+
+=== Pilke ===
+Pilkottuja polttopuita sanotaan pilkkeiksi. Pilke on alkuaan itämurteiden sana, joka on omaksuttu yleiskieleen. Se perustuu pienimistä tarkoittavaan teonsanaan pilkkoa. Kaikkien kielitajussa pilke ei tarkoita aivan samaa kuin klapi, vaan näitä pienemmäksi, ohuemmaksi pilkottua puuta. Esimerkiksi tervanpolttoa varten tervaskannot on hakattu pieniksi pilkkeiksi. Noin 15 cm pitkää, usein koneella pilkottua pilkettä käytetään polttoaineena esimerkiksi puukaasuttimessa.
+
+
+=== Hake ===
+
+Hake leikataan koneellisesti puusta pieniksi tasakokoisiksi kappaleiksi, hakelastuiksi. Palakoko on yleensä 0,5–3 cm, palahakkeella 5–10 cm. Hake voi olla
+kokopuuhaketta, jota saadaan puun rungosta ja oksista
+osapuuhaketta, esimerkiksi rankahaketta tehdään rangasta eli karsitusta puun rungosta, joka ei kelpaa muuhun käyttöön
+viherhakkeessa on myös neulasia tai lehtiä, sellaista on esimerkiksi hakkuutähdehake
+polttohakkeeksi kutsutaan polttoaineena käytettävää haketta, silloin kun halutaan erottaa se massateollisuuden hyödyntämästä puuhakkeesta.
+
+
+=== Puumurske ===
+Puumurske on muutoin kuin leikkaamalla hienonnettua puuta.
+
+
+=== Puubriketti ===
+Puubriketit valmistetaan kuivista puun lastuista puristamalla. Noin klapinkokoisia puristeita käytetään esimerkiksi takkapuina. Koivunlastuista tehty briketti sisältää energiaa kolminkertaisesti vastaavan kokoiseen puuklapiin verrattuna. Aivan yleisesti puuhun sitoutunut energia on riippuvainen kolmesta perustekijästä: puun laadusta, kuivuusasteesta ja massasta (painosta).
+
+
+=== Puupelletti ===
+
+Puupelletti on kuivasta sahanpurusta ja/tai höylänlastuista (kutterinlastuista) puristettua polttoainetta. Sitä voidaan valmistaa kosteastakin raaka-aineesta mikäli pellettitehtaan yhteydessä on kuivaamo. Halkaisijaltaan 6–12 mm olevien lieriönmuotoisten puristeiden pituus on noin 1–3 cm. Niiden kiinteä muoto pysyy koossa, koska puristuksen lämmittämästä puusta vapautuu ligniiniä, joka sitoo osaset yhteen. Mitään vierasta sideainetta ei tarvita, mutta joskus sideaineeksi saatetaan kuitenkin lisätä perunajauhoa.
+Pellettien poltto on helppo automatisoida: pellettipoltin syttyy ja sammuu itsenäisesti termostaatin ohjaamana ja syöttöruuvi siirtää pelletit varastosta kattilaan. Pellettilämmitystä käytetään usein vesikiertoisen lämmityksen yhteydessä, mutta Suomessa on yleistymässä myös erilaiset pellettitakat. Pellettien kuljetus tehtaalta käyttäjän varastosiiloon tapahtuu yleensä irtotavarana kuorma-autoilla, joista ne voidaan puhaltaa paineilman mukana letkua pitkin 15 metrin päähän siiloon. Satunnaiseen käyttöön ja pellettitakkoja varten pellettiä on saatavana myös 500–1000 kilon suursäkeissä, sekä 10–25 kilon piensäkeissä.
+Metsätähteeksi nimitetään metsään jääviä runkohukkapuita, oksia ja juuria, joita voidaan myös hyödyntää puuraaka-aineena.
+
+
+== Puupolttoaine Suomessa ==
+
+Suomessa puu on kotimainen uusiutuva luonnontuote. Vuonna 2004 Suomessa saatiin puusta energiaa 27 terawattituntia, mikä on 7 % energian kokonaiskulutuksesta. Sähköenergian osuus siitä oli 8 TWh. Energiantuotantoon pyritään käyttämään pääasiassa muuhun käyttöön kelpaamatonta aiemmin lähinnä tähteenä tai jätteenä pidettävää osaa puusta, kuten metsäteollisuuden sivutuotteet, hakkuutähteet ja metsänhoidossa syntyvä pienpuu. Viime aikoina on ruvettu ottamaan energiapuuksi myös hakkuualueille jäävät järeät kannot.
+
+
+== Lähteet ==
+Puulämmitys pientalossa RICA. Viitattu 22.1.2008. 
+
+
+=== Viitteet ===
+
+
+== Kirjallisuutta ==
+Rinne, Hannu: Perinnemestarin klapikirja. Helsinki: WSOY, 2013. ISBN 978-951-0-39950-7.
+
+
+== Aiheesta muualla ==
+Metsäkeskuksen pellettisivut: puupelletti energianlähteenä
+Pellettikeskustelu: pellettilämmittäjien keskustelufoorumi
+Pellettienergiayhdistys: suomalaisten alan toimijoiden yhteenliittymän sivusto
+Luonnonvarakeskus (Luke) ja VTT: ForestEnergy2020 -tutkimus- ja kehittämisohjelma

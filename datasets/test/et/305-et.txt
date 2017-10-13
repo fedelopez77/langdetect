@@ -1,0 +1,309 @@
+Mayenne'i departemangu haldusüksuste loend toob ära kõik departemangu haldusüksused (alldepartemangud, kantonid ja vallad). Lisaks on toodud ka INSEE kood.
+
+
+=== Château-Gontier' alldepartemang ===
+Bierné kanton
+Argenton-Notre-Dame 53 006
+Bierné 53 029
+Châtelain 53 063
+Coudray 53 078
+Daon 53 089
+Gennes-sur-Glaize 53 104
+Longuefuye 53 138
+Saint-Denis-d'Anjou 53 210
+Saint-Laurent-des-Mortiers 53 231
+Saint-Michel-de-Feins 53 241
+Château-Gontier-Ida kanton
+Azé 53 014
+Château-Gontier 53 062
+Fromentières 53 101
+Ménil 53 150
+Saint-Fort 53 215
+Château-Gontier-Lääne kanton
+Ampoigné 53 004
+Château-Gontier 53 062
+Chemazé 53 066
+Houssay 53 117
+Laigné 53 124
+Loigné-sur-Mayenne 53 136
+Marigné-Peuton 53 145
+Origné 53 172
+Saint-Sulpice 53 254
+Cossé-le-Vivieni kanton
+La Chapelle-Craonnaise 53 058
+Cosmes 53 075
+Cossé-le-Vivien 53 077
+Cuillé 53 088
+Gastines 53 102
+Laubrières 53 128
+Méral 53 151
+Peuton 53 178
+Quelaines-Saint-Gault 53 186
+Saint-Poix 53 250
+Simplé 53 260
+Craoni kanton
+Athée 53 012
+La Boissière 53 033
+Bouchamps-lès-Craon 53 035
+Chérancé 53 068
+Craon 53 084
+Denazé 53 090
+Livré-la-Touche 53 135
+Mée 53 148
+Niafles 53 165
+Pommerieux 53 180
+Saint-Martin-du-Limet 53 240
+Saint-Quentin-les-Anges 53 251
+La Selle-Craonnaise 53 258
+Grez-en-Bouère'i kanton
+Ballée 53 017
+Beaumont-Pied-de-Bœuf 53 027
+Bouère 53 036
+Bouessay 53 037
+Le Buret 53 046
+Grez-en-Bouère 53 110
+Préaux 53 184
+Ruillé-Froid-Fonds 53 193
+Saint-Brice 53 203
+Saint-Charles-la-Forêt 53 206
+Saint-Loup-du-Dorat 53 233
+Villiers-Charlemagne 53 273
+Saint-Aignan-sur-Roë kanton
+Ballots 53 018
+Brains-sur-les-Marches 53 041
+Congrier 53 073
+Fontaine-Couverte 53 098
+Renazé 53 188
+La Roë 53 191
+La Rouaudière 53 192
+Saint-Aignan-sur-Roë 53 197
+Saint-Erblon 53 214
+Saint-Michel-de-la-Roë 53 242
+Saint-Saturnin-du-Limet 53 253
+Senonnes 53 259
+
+
+=== Lavali alldepartemang ===
+Argentré kanton
+Argentré 53 007
+Bonchamp-lès-Laval 53 034
+Châlons-du-Maine 53 049
+La Chapelle-Anthenaise 53 056
+Forcé 53 099
+Louverné 53 140
+Louvigné 53 141
+Montflours 53 156
+Parné-sur-Roc 53 175
+Chailland'i kanton
+Andouillé 53 005
+La Baconnière 53 015
+La Bigottière 53 031
+Chailland 53 048
+La Croixille 53 086
+Juvigné 53 123
+Saint-Germain-le-Guillaume 53 225
+Saint-Hilaire-du-Maine 53 226
+Saint-Pierre-des-Landes 53 245
+Évroni kanton
+Assé-le-Bérenger 53 010
+Châtres-la-Forêt 53 065
+Évron 53 097
+Livet 53 134
+Mézangers 53 153
+Neau 53 163
+Saint-Christophe-du-Luat 53 207
+Sainte-Gemmes-le-Robert 53 218
+Saint-Georges-sur-Erve 53 221
+Vimarcé 53 274
+Voutré 53 276
+Laval-Edela kanton
+Laval 53 130
+Laval-Ida kanton
+Entrammes 53 094
+Laval 53 130
+Laval-Kirde kanton
+Changé 53 054
+Laval 53 130
+Saint-Germain-le-Fouilloux 53 224
+Saint-Jean-sur-Mayenne 53 229
+Laval-Loode kanton
+Laval 53 130
+Laval-Saint-Nicolas' kanton
+Laval 53 130
+Loironi kanton
+Beaulieu-sur-Oudon 53 026
+Le Bourgneuf-la-Forêt 53 039
+Bourgon 53 040
+La Brûlatte 53 045
+Le Genest-Saint-Isle 53 103
+La Gravelle 53 108
+Launay-Villiers 53 129
+Loiron 53 137
+Montjean 53 158
+Olivet 53 169
+Port-Brillet 53 182
+Ruillé-le-Gravelais 53 194
+Saint-Cyr-le-Gravelais 53 209
+Saint-Ouën-des-Toits 53 243
+Saint-Pierre-la-Cour 53 247
+Meslay-du-Maine'i kanton
+Arquenay 53 009
+Bannes 53 019
+La Bazouge-de-Chemeré 53 022
+Bazougers 53 025
+Le Bignon-du-Maine 53 030
+Chémeré-le-Roi 53 067
+Cossé-en-Champagne 53 076
+La Cropte 53 087
+Épineux-le-Seguin 53 095
+Maisoncelles-du-Maine 53 143
+Meslay-du-Maine 53 152
+Saint-Denis-du-Maine 53 212
+Saint-Georges-le-Fléchard 53 220
+Saulges 53 257
+Montsûrs'i kanton
+Brée 53 043
+La Chapelle-Rainsouin 53 059
+Deux-Évailles 53 092
+Gesnes 53 105
+Montourtier 53 159
+Montsûrs 53 161
+Saint-Céneré 53 205
+Saint-Ouën-des-Vallons 53 244
+Soulgé-sur-Ouette 53 262
+Saint-Berthevini kanton
+Ahuillé 53 001
+Astillé 53 011
+Courbeveille 53 082
+L'Huisserie 53 119
+Montigné-le-Brillant 53 157
+Nuillé-sur-Vicoin 53 168
+Saint-Berthevin 53 201
+Sainte-Suzanne'i kanton
+Blandouet 53 032
+Chammes 53 050
+Sainte-Suzanne 53 255
+Saint-Jean-sur-Erve 53 228
+Saint-Léger 53 232
+Saint-Pierre-sur-Erve 53 248
+Thorigné-en-Charnie 53 264
+Torcé-Viviers-en-Charnie 53 265
+Vaiges 53 267
+
+
+=== Mayenne'i alldepartemang ===
+Ambrières-les-Vallées' kanton
+Ambrières-les-Vallées 53 003
+Chantrigné 53 055
+Couesmes-Vaucé 53 079
+La Haie-Traversaine 53 111
+Le Pas 53 176
+Saint-Loup-du-Gast 53 234
+Soucé 53 261
+Bais' kanton
+Bais 53 016
+Champgenéteux 53 053
+Hambers 53 113
+Izé 53 120
+Jublains 53 122
+Saint-Martin-de-Connée 53 239
+Saint-Pierre-sur-Orthe 53 249
+Saint-Thomas-de-Courceriers 53 256
+Trans 53 266
+Couptraini kanton
+Chevaigné-du-Maine 53 069
+Couptrain 53 080
+Javron-les-Chapelles 53 121
+Lignières-Orgères 53 133
+Madré 53 142
+Neuilly-le-Vendin 53 164
+La Pallu 53 173
+Saint-Aignan-de-Couptrain 53 196
+Saint-Calais-du-Désert 53 204
+Ernée kanton
+Ernée 53 096
+Larchamp 53 126
+Montenay 53 155
+La Pellerine 53 177
+Saint-Denis-de-Gastines 53 211
+Vautorte 53 269
+Gorroni kanton
+Brecé 53 042
+Carelles 53 047
+Châtillon-sur-Colmont 53 064
+Colombiers-du-Plessis 53 071
+Gorron 53 107
+Hercé 53 115
+Lesbois 53 131
+Levaré 53 132
+Saint-Aubin-Fosse-Louvain 53 199
+Saint-Mars-sur-Colmont 53 237
+Vieuvy 53 270
+Le Horps'i kanton
+Champéon 53 051
+La Chapelle-au-Riboul 53 057
+Charchigné 53 061
+Le Ham 53 112
+Hardanges 53 114
+Le Horps 53 116
+Montreuil-Poulay 53 160
+Le Ribay 53 190
+Landivy kanton
+Désertines 53 091
+La Dorée 53 093
+Fougerolles-du-Plessis 53 100
+Landivy 53 125
+Montaudin 53 154
+Pontmain 53 181
+Saint-Berthevin-la-Tannière 53 202
+Saint-Ellier-du-Maine 53 213
+Saint-Mars-sur-la-Futaie 53 238
+Lassay-les-Châteaux' kanton
+Le Housseau-Brétignolles 53 118
+Lassay-les-Châteaux 53 127
+Rennes-en-Grenouilles 53 189
+Sainte-Marie-du-Bois 53 235
+Saint-Julien-du-Terroux 53 230
+Thuboeuf 53 263
+Mayenne-Ida kanton
+Aron 53 008
+La Bazoge-Montpinçon 53 021
+La Bazouge-des-Alleux 53 023
+Belgeard 53 028
+Commer 53 072
+Grazay 53 109
+Marcillé-la-Ville 53 144
+Martigné-sur-Mayenne 53 146
+Mayenne 53 147
+Moulay 53 162
+Sacé 53 195
+Saint-Fraimbault-de-Prières 53 216
+Mayenne-Lääne kanton
+Alexain 53 002
+Contest 53 074
+Mayenne 53 147
+Oisseau 53 170
+Parigné-sur-Braye 53 174
+Placé 53 179
+Saint-Baudelle 53 200
+Saint-Georges-Buttavent 53 219
+Saint-Germain-d'Anxure 53 222
+Pré-en-Paili kanton
+Boulay-les-Ifs 53 038
+Champfrémont 53 052
+Pré-en-Pail 53 185
+Ravigny 53 187
+Saint-Cyr-en-Pail 53 208
+Saint-Pierre-des-Nids 53 246
+Saint-Samson 53 252
+Villaines-la-Juheli kanton
+Averton 53 013
+Courcité 53 083
+Crennes-sur-Fraubée 53 085
+Gesvres 53 106
+Loupfougères 53 139
+Saint-Aubin-du-Désert 53 198
+Saint-Germain-de-Coulamer 53 223
+Saint-Mars-du-Désert 53 236
+Villaines-la-Juhel 53 271
+Villepail 53 272

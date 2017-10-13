@@ -1,0 +1,12 @@
+Bruno Buchberger, född 22 oktober 1942 i Innsbruck, är professor i datormatematik vid universitetet i Linz i Österrike. Han är mest känd för att ha skapat teorin om Gröbnerbaser i sin doktorsavhandling Ein Algorithmus zum Auffinden der Basiselemente des Restklassenrings nach einem nulldimensionalen Polynomideal (tyska, En algoritm för att hitta baselementen i kvotringen av ett nolldimensionellt ideal) 1965. Han gav dessa objekt namnet Gröbnerbaser efter sin handledare, Wolfgang Gröbner.
+Buchberger grundade Journal of Symbolic Computing 1985 och Research Institute for Symbolic Computation 1987.
+För sin teori om Gröbnerbaser fick Buchberger Association for Computing Machinerys Paris Kanellakis Award 2007. Han är även hedersdoktor vid universitetet i Nijmegen i Nederländerna och vid västra universitetet i Timișoara i Rumänien.
+
+
+== Referenser ==
+Den här artikeln är helt eller delvis baserad på material från engelskspråkiga Wikipedia, Bruno Buchberger, 22 december 2009.
+
+
+== Externa länkar ==
+Bruno Buchberger på Mathematics Geneaology Project.
+Buchbergs hemsida.

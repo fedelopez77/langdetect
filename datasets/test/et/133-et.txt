@@ -1,0 +1,65 @@
+Tüvipüramiid on hulktahukas, mis tekib püramiidi lõikamisel põhjaga paralleelse tasandiga.
+Tüvipüramiidil on kaks põhja. Põhjadevahelist kaugust nimetatakse tüvipüramiidi kõrguseks. Tüvipüramiidi külgtahkudeks on trapetsid. Tüvipüramiidi, mis on saadud korrapärase püramiidi lõikamisel, nimetatakse korrapäraseks tüvipüramiidiks.
+
+
+== Ruumala ==
+Tüvipüramiidi ruumala on
+
+  
+    
+      
+        
+        V
+        =
+        
+          
+            h
+            3
+          
+        
+        (
+        
+          S
+          
+            1
+          
+        
+        +
+        
+          
+            
+              S
+              
+                1
+              
+            
+            ⋅
+            
+              S
+              
+                2
+              
+            
+          
+        
+        +
+        
+          S
+          
+            2
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle \!V={\frac {h}{3}}(S_{1}+{\sqrt {S_{1}\cdot S_{2}}}+S_{2}),}
+  
+kus h on kõrgus ja S1 ning S2 on põhjade pindalad.
+
+
+== Vaata ka ==
+Tüvikoonus
+
+
+== Viited ==

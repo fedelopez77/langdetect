@@ -1,0 +1,74 @@
+Onkokés vagy intelligens sebészkés (angolul: Jedi-knife, onkoknife, iKnife) olyan sebészi kés, amely az operáció közben azon nyomban információt nyújt a vizsgált szövet kémiai jellegzetességéről és arról, hogy tartalmaz-e rákos sejteket. A műtét közben folyamatosan adott információ az operációt végző orvos felé az érintett szövet rákos vagy egészséges voltáról jelentősen felgyorsítja a biológiai szövetanalízist, és segítséget nyújt a műtétet végző orvosnak abban, hogy maradéktalanul eltávolíthasson minden rákos sejtet. Az intelligens kést nemcsak a daganatos betegségekkel kapcsolatos műtéteknél lehet majd felhasználni. Az iKnife ugyanis a vérrel nem megfelelően ellátott szöveteket is felismeri, valamint a szövetben fellelhető baktériumfajtákat is azonosítja.
+
+
+== Kutatás és fejlesztése ==
+Takáts Zoltán magyar kutatóvegyész, PhD találta fel az intelligens sebészkést. A budapesti Semmelweis Egyetem volt kutatója jelenleg az Imperial College munkatársa. Az iKnife működését 2010 és 2012 között három kórházban tesztelték. 302 betegtől vett szövetminták laboratóriumi elemzése nyomán állítottak fel egy adatbázist, amelyben 1624 daganatos és 1309 nem rákos minta szerepel. Az iKnife jelenlegi kísérleti változatát mintegy 200 ezer fontból (68 millió forintból) hozta létre a magyar tudós vállalkozása a MediMass Ltd. (óbudai székhelyű cég) és az Imperial College-beli kollégáival, valamint a magyar kormány segítségével. Takáts szerint azonban a ráfordítás megtérül, amint az eszköz kereskedelmi forgalomba kerül.
+A massachusetts-i Waters Corporation felvásárolta a MediMass Kft. fejlesztése alatt álló "Intelligens Késének" REIMS nevezetű, lényegi innovatív technológiáját - jelentette be az onkokést fejlesztő MediMass Kft 2014. július 23-án. Az üzletág értékesítése szerint magában foglalja a MediMass összes innovációt, többek között a szabadalmakat, szoftvereket, adatbázisokat és a technológiához fűződő humánerőforrást.
+
+
+== Működési elv ==
+A korszerű orvosi terápiákban a sugár-, gyógyszeres és immunterápiák mellett még mindig a sebészeti kezelés tekinthető az egyetlen, a teljes gyógyulás eléréséhez szükséges megoldásnak. Így nem meglepő, hogy a sebészeti gyakorlatban is egyre újabb technikák és technológiák kerülnek bevezetésre, melyeknek köszönhetően a daganateltávolító műtétek hatásfoka mind jobban növelhető. A daganatsebészet legfontosabb alapelveinek egyike a tumor ép szélben történő eltávolítására való törekvés. Ennek lényege, hogy az eltávolított szövetrészletet határoló metszeti szélek daganatmentesek legyenek, minimálisra csökkentve a tumor kiújulásának esélyét a hátramaradó sejtekből.
+Az intelligens kést a hozzá kapcsolódó analizáló és diagnosztikus egységgel egy hűtőszekrény méretű, kerekeken guruló tömegspektrométerrel kötik össze, amely a kiégetett, elpárolgatott szövetek füstjét analizálja (REIMS technológia). Az adatbázis felállítása óta 91 műtétnél alkalmazták, és az operációk során az iKnife minden esetben tökéletesen eltávolította a rákos szöveteket.
+
+
+=== Biológiai szövetek közvetlen tömegspektrometriás (MS) vizsgálatának története ===
+Biológiai szövetek közvetlen tömegspektrometriás (MS) vizsgálata már az 1970-es években felmerült, azonban az akkor rendelkezésre álló technikai feltételek mellett a módszer nem szolgáltatott elegendő hasznos információt a vizsgált minták kémiai összetételéről. Az első áttörést a deszorpciós ionizációs módszerek (másodlagos ionizációs tömegspektrometria, SIMS; mátrix-segített lézer deszorpciós ionizáció, MALDI) megjelenése jelentette. Ezekkel a módszerekkel, a megfelelő mintaelőkészítést követően, biológiai szövetminták kémiai képalkotó (imaging) elemzése valósítható meg. Már az 1990-es évek végétől nyilvánvalóvá vált, hogy a képalkotó vizsgálatok során nyert tömegspektrometriás adatok nagymértékű szövettani specificitást mutatnak, azaz a szöveti hisztológia meghatározza a tömegspektrometriás információt és vice versa.
+Ez a megfigyelés a detektált fehérje és peptid típusú komponensek esetében nem meglepő, a fehérjék szövetspecifikus expressziója ugyanis közismert, az immunhisztokémiai eljárások éppen ezen a jelenségen alapulnak. A tömegspektrométerrel detektált, jórészt sejtmembránokból származó, összetett lipidek hasonló szöveti specificitása azonban meglepő eredménynek számított. Mivel a fehérjék eloszlása jó egyezést mutatott az immunhisztokémiai módszerekkel nyert eloszlási mintázatokkal, a lipid komponensek eloszlása korábban viszonylag A közvetlen ionizációs tömegspektrometriás módszerek megjelenésével egy új korszak kezdődött a biológiai minták vizsgálatában. A deszorpciós elektrospray ionizáció (DESI) volt az első olyan MS-technika, amely lehetővé tette tetszőleges tárgyak (vagy akár élőlények) mintaelőkészítés nélküli, nem invazív vizsgálatát, függetlenül azok mechanikai tulajdonságaitól vagy alakjától.
+A technika egyik potenciális alkalmazásaként már igen korán felmerült a biológiai szövetek közvetlen vizsgálatának lehetősége. A DESI, a fentebb említett módszerekhez hasonlóan, alkalmas biológiai szövetek metszeteinek képalkotó elemzésére, a minta bármiféle módosítása nélkül, azonban a szövetek DESI-spektruma szinte kizárólag lipid komponensek ionjait mutatja. A DESI-módszert követően számos új, direkt ionizációsmódszer került kifejlesztésre), viszont szövetminták esetében szinte mindig csak lipid komponensek detektálhatók, ami a figyelem középpontjába helyezte ezeket a molekulákat. A metszeteket követően logikus lépésként következett az intakt, illetve élő szövetek vizsgálata, ezen a területen azonban az első generációs módszerek kudarcot vallottak. Az első, élő szövetek közvetlen tömegspektrometriás vizsgálatára alkalmas módszert, a gyors elpárologtatásos ionizációs tömegspektrometriát (REIMS), 2009 nyarán írták le.
+
+
+=== REIMS-(Rapid Evaporative Ionization Mass Spectrometry) technika ===
+A gyors elpárologtatásos ionizációs tömegspektrometriát (REIMS), 2009 nyarán írták le. Ez a második generációs módszer is elsősorban a szövetek lipid jellegű komponenseiről ad információt, de különböző metabolit molekulák és bizonyos fehérjék kimutatását is lehetővé teszi. Legfontosabb előnye, hogy a tömegspektrometriás adatok hisztológiai szintű specificitásának köszönhetően, lehetőséget teremt a biológiai szövetek kémiai összetétel alapján történő azonosítására. A REIMSmódszer különlegessége abban rejlik, hogy míg az előzőekben ismertetett tömegspektrometriás technikákhoz speciális, az adott módszerhez kifejlesztett ionforrásokat kell használni, addig ebben az esetben ionforrásként a sebészeti gyakorlatban használt eszközök szolgálnak. A különböző szövetroncsoló és vágó eszközök, mint a diatermiás kés, a sebészeti lézer, illetve az ultrahangos szövetporlasztó működésekor olyan, a vágott szövetre jellemző összetételű aeroszol keletkezik, mely ionizált sejtalkotókat is tartalmaz.
+Ezek közül, a REIMS-módszer szempontjából, az intakt membránalkotó foszfolipidek fontosak, melyek egyrészt tömegspektrometriásan jól detektálhatók, másrészt az összetételük jellemző az adott szövettípusra. A tömegspektrometriás analízis megvalósításához mindössze egy hatékony elszívó rendszer kifejlesztésére volt szükség, amely a műtéti területről a vágás pillanatában keletkező aeroszolt a tömegspektrométerbe vezeti. Erre a célra egy úgynevezett Venturi-cső szolgál, valamint a fent említett sebészeti eszközök kézidarabjait úgy kellett módosítani, hogy az aeroszol elszívható legyen rajtuk keresztül. A füstgázok elemzése a tömegspektrométerben pillanatszerűen, néhány tized másodperc alatt valósul meg, melynek eredményeként egy szövetspecifikus foszfolipid tömegspektrumot kapunk. Az összegyűjtött spektrumok elemzése egy speciális kiértékelő szoftverrel történik, mely erre a célra lett kifejlesztve. A szoftver a műtét során folyamatosan összehasonlítja a beérkező adatokat egy adatbázisban tárolt, validált spektrumtömeggel, besorolja a megfelelő osztályba, majd az eredményt vizuálisan megjeleníti a sebésznek.
+A módszer tehát alkalmas műtéti környezetben történő mérések kivitelezésére is, illetve egy komplex szövetazonosító rendszer részeként, daganateltávolító műtétek során, segítséget nyújthat az operáló sebésznek a műtéti terület pontosabb hisztológiai feltérképezésében. A rapid evaporatív ionizációs tömegspektrometria (REIMS) újszerű technika, amely lehetővé teszi elektrosebészeti vágások során az emberi szövetek közel valós idejű karakterizációját, in vivo elemzéssel, az eljárás közben felszabaduló szöveti gőzök/ aeroszolok analízise révén. A REIMS technológia és az elektrosebészeti eljárás társítása a szöveti diagnosztikában az intelligens kés, iKnife működési elve.
+
+
+== Előnyei ==
+
+
+=== Az alábbi problémákat képes az onkokés kiküszöbölni ===
+Jelenlegi műtéti gyakorlat a legjobban felszerelt kórházakban is legalább 10-30 percet vesz igénybe egy daganatos szövet, szerv eltávolításával kapcsolatos beavatkozás esetén.
+Az orvosok még az eredmény birtokában sem lehetnek biztosak abban, hogy minden rákos sejtet, szövetet eltávolítottak-e, ezért gyakran inkább több szövetet távolítanak el a biztonság kedvéért.
+Amennyiben a műtét után is maradnak daganatos sejtek, a daganatos szövetre esetleg újabb műtét, kemoterápia vagy sugárkezelés vár.
+
+
+=== Az alábbi előnyei vannak az onkokés alkalmazásának ===
+A bakterológiai eredmények ismeretében az antimikróbás terápia pontosan indítható.
+Nagymértékben szelektív, képes a teljes műtéti területről releváns és objektív információt szolgáltatni, illetve az általános műtéti protokollt nem befolyásolja nagymértékben.
+Biztonságos
+Szervbarát
+Gyors
+Több információt nyújt
+Fejleszthető
+Viszonylag olcsó
+
+
+== Jegyzetek ==
+
+
+== Források ==
+"Intelligent knife" tells surgeon if tissue is cancerous by Sam Wong
+Surgical Knife May Sniff Out Cancer By Tanya Lewis, Staff Writer | October 10, 2013
+Orvosi hungarikum a ráksebészetben
+Intelligens sebészi vágóeszköz – onkokés
+http://hetivalasz.hu/itthon/az-onkokes-feltalaloja-arrol-miert-hagyta-el-az-orszagot-66577/
+http://www.medicalonline.hu/videoplayer/2719/541/355?autoPlay=1
+http://www.nih.gov.hu/sajtoszoba/2013/startra-kesz-nemzetek
+
+
+== További informáciök ==
+Sebészeti Műtéttan Egyetemi tankönyv Szerkesztette: Dr. Boros Mihály Szegedi Tudományegyetem Általános Orvostudományi Kar Sebészeti Műtéttani Intézet Szeged 2006
+Clinical Surgery in General RCS Course Manual CHURCHILL LIVINGSTONE An imprint of Elsevier Science Limited R. M. Kirk, W. J. Ribbans 2004 All rights reserved.
+Zollinger's Atlas of Surgical Operations, 8th Edition
+Longmore, Murray; Wilkinson, Ian B; Rajagopalan, Supraj R Title: Oxford Handbook of Clinical Medicine, 6th Edition Copyright Â©2004 Oxford University Press
+HANDBOOK OF PLASTIC SURGERY Edited by Steven E.Greer, M.D. New York, New York, U.S.A. Copyright © 2004 by Marcel Dekker.
+http://stm.sciencemag.org/content/5/194/194ra93
+http://www.healthline.com/health-news/tech-intelligent-knife-detects-cancer-cells-in-seconds-071813
+http://www.bmj.com/content/345/bmj.e4505
+http://www.doublexscience.org/iknife-excises-uncertainty-in-tumor-resection/
+
+
+== Kapcsolódó szócikkek ==
+Sebészi tűk és varróanyagok
+Sebészet
+Orvostudomány

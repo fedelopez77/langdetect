@@ -1,0 +1,85 @@
+Half-Life je akční počítačová hra ve stylu sci-fi FPS, vyvinutá firmou Valve Corporation. První vydání hry společností Sierra Studios v roce 1998 bylo určené pro PC s operačním systémem Microsoft Windows. Hra byla později vydána také pro herní konzole Playstation 2 a v lednu 2013 pro operační systémy Linux a Mac OS X. Herní engine hry pro Windows se nazývá GoldSource a je založen na engine hry Quake od společnosti id Software, jenž byl ale pro hru Half-Life velmi upravený a navíc používal i části kódu v tu dobu novějšího engine id Tech 2 pro hru Quake 2.
+Hře byly kritiky vytýkány především mnohé skriptované části a celková prezentace. Hra ale získala mnohá ocenění od herních kritiků i samotných hráčů a byla mnohými herními časopisy po celém světě vyhlášena jako akční hra roku či dokonce nejlepší hra všech dob. Ke dni 16. listopadu 2004 bylo prodáno osm milionů kopií a v prosinci 2008 to bylo už 9,3 milionu kopií.
+V roce 2004 byl vydán druhý díl Half-Life 2, který navazoval na příběh první části hry. Celá herní série se stala velmi populární a vznikly stovky modifikací. Mezi ty oficiálně vydané patří Half-Life: Opposing Force, Half-Life: Blue Shift, Counter-Strike, Team Fortress Classic.
+Děj se odehrává někdy mezi lety 2000 až 2009 v pouštích Nového Mexika ve výzkumném komplexu Black Mesa, který se v mnoha ohledech velmi podobá skutečnému výzkumnému centru Los Alamos a oblasti 51. Hlavní postavou hry je Gordon Freeman, sedmadvacetiletý teoretický fyzik, absolvent MIT. Freeman je povolán jako experimentátor k pokusu pro vytvoření teleportu pomocí nalezeného mimozemského krystalu. Tento pokus se ale vymkne kontrole, zničí velkou část Black Mesa a zabije mnoho lidí. Výsledkem nepovedeného pokusu je tzv. resonanční kaskáda (fiktivní jev) a po celé Zemi jsou vytvořeny teleporty, kterými se ale nekontrolovatelně přemisťují mimozemské bytosti z dimenze Xen. Freeman, jako jeden z přeživších, se musí pomocí palných zbraní, energetických zbraní nebo páčidla dostat přes radiací zamořené komplexy Black Mesa a otevřené vojenské prostory do dimenze Xen a zničit Nihilantha - mozek mimozemské armády nepřátelských organismů. Ve hře čas od času uvidí tajemného muže v obleku - G-Mana. Ten udělá v závěru hry Gordonovi zajímavou nabídku...
+
+
+== Postavy ==
+Gordon Freeman
+G-Man
+Nihilanth
+Eli Vance
+Gina Cross
+Barney Calhoun
+Wallace Breen (pouze se o něm zminují vědci před nehodou, jako o administrátovi )
+Arne Magnuson
+Vědci
+Bezpečnostní Stráže
+Nepřátelé:
+Alien Controller
+Alien Grunt
+Alien Slave( později známý jako Vortigaunt)
+Barnacle
+Bullsquid
+Gargantua
+Gonarch
+Headcrab
+Houndeye
+Jdná se o psu podobné stvoření se třema nohama a jedním obřím hmzým okem ve přední části. Na spodní části se nachází usta sloužící k přímu potrvy. Utok tohoto stvoření tvoří sonická vlna znazorněna jako barevny kruh. Pokud na vas utočí osamocený Houndeye není zas tak nebespečný, jelikož nabíjení sonického utoku trvá delší dobu, ale více členů muže vyvolat sylnější utok, jehož kruch je také odlišen jinou barvou.
+Během vývoje hry se měly Houdeyeměli stát přatelskými stvořenímy,od toho však bylo upuštěno, když betatesteři je začali zabýjet na potkání
+Ichthyosaur
+Leech
+Nihilanth
+Tentacle
+Zombie
+Hazardous Environment Combat Unit(HECU):
+HECU soldiers
+HECU vehicles
+Sentry Guns
+Black Ops:
+Female Black Ops
+
+
+== Zbraně ==
+K dispozici je 14 zbraní:
+Páčidlo
+Glock 17
+0,357 Magnum
+MP5
+Spas 12
+Crossbow
+Hivehand
+RPG
+Tau Cannon
+Gluon Gun
+MK 2 Grenade
+Laser Tripmine
+Satchel Sarge
+Snarks
+
+
+== Příjem ==
+Hra získala přes 50 ocenění. Je považována za jednu z největších her všech dob.
+Listopad 2008 se prodalo 9,3 milionu kopií.
+
+
+== Porty ==
+Hra byla portována na playstation 2.
+Verze pro Sega Dreamcast a Apple Macintosh byla dokončena, ale ne propuštěna.
+
+
+== Datadisky ==
+Ke hře vyšly dva datadisky:
+Half Life Opposing Force
+Half Life Blue Shift
+
+
+== Drobnosti ==
+V německé verzi Half Life se objevují místo HECU roboti, místo krve jim teče ropa.
+Half-Life série čerpá inspiraci z různých adaptací HG Wellse Válka Světů.
+Half-Life drží rekord nejprodávanější střílečka všech dob.
+
+
+== Související články ==
+Half-Life 2 – pokračování (2004)
+Half-Life (série)

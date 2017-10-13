@@ -1,0 +1,31 @@
+České sdružení pro svobodnou informační infrastrukturu (FFII.cz) je česká pobočka mezinárodní organizace Foundation for a Free Information Infrastructure (FFII). Jedná se o občanské sdružení autorů, vývojářů, producentů a uživatelů informačních a komunikačních technologií, jehož cílem je šíření osvěty v oblasti zpracování dat a podpora rozvoje veřejných informačních statků založených na autorském právu, svobodné soutěži a otevřených standardech.
+
+
+== Cíle sdružení ==
+Sdružení podle svých stanov chce
+umožnit svobodné použití základních informačních zdrojů,
+ochránit tvůrce před plagiátory a veřejnost před monopoly,
+dát politickou váhu programátorům, podnikatelům na poli informatiky a informaticky vzdělaným občanům.
+Sdružení proto např. podporuje otevřené formáty (např. XML) a požaduje rovný přístup k informacím.
+
+
+=== Softwarové patenty ===
+Patrně nejznámější částí problematiky, kterou se sdružení zabývá, je boj proti tzv. softwarovým patentům. FFII.cz zahájilo svoji činnost s jeden hlavní cílů změnit Směrnici o počítačem implementovaných vynálezech tak, aby zcela jasně vyloučila patentování softwarových principů. Účastnilo se kampaně, i díky které se podařilo přesvědčit poslance Evropského parlamentu, aby v hlasování 6. července 2005 navrhovanou Směrnici ve znění prosazovaném Evropskou komisí odmítli.
+Sdružení prosazuje názor, že dostatečnou ochranou softwaru je autorské právo, které poskytuje ochranu proti nelegálnímu kopírování i proti plagiátorství, avšak chrání pouze konkrétní provedení díla, nikoli samotnou myšlenku, takže nikomu nebrání v nezávislé tvorbě podobně fungujících programů či využívání stejných algoritmů. Navíc je ochrana autorským právem oproti ochraně patentové automatická a bezplatná.
+Podle sdružení je nové legislativní řešení počítačových patentů potřeba, ale nová směrnice by měla patentování čistě softwarových řešení výslovně znemožnit, aby nebylo možno patentovat algoritmy či datové formáty. Patentovatelnost algoritmů totiž podle sdružení neodpovídá způsobu tvorby software, neboť dnešní patentové právo je navrženo podle postupů výroby fyzických zařízení. Patenty na datové formáty pak sdružení považuje za vážnou překážku kompatibility a interoperability aplikací a ohrožuje tržní prostředí vznikem monopolů.
+Sdružení kritizuje patentovatelnost software používanou v USA, protože se domnívá, že zvýhodňuje velké firmy na úkor malých a vede k patentovému parazitismu a vydírání.
+Naopak patentování programovatelných obvodů (např. patent na zařízení ABS v automobilech) sdružení nevadí, neboť takové patenty spadají do kategorie technologií, nikoli samotných algoritmů.
+
+
+== Související články ==
+Foundation for a Free Information Infrastructure
+Softwarové patenty
+Free Software Foundation
+Free Software Foundation Europe
+
+
+== Reference ==
+
+
+== Externí odkazy ==
+ffii.cz

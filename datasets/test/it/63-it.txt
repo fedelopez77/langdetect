@@ -1,0 +1,56 @@
+Il paradosso della conoscibilità di Fitch, anche conosciuto come paradosso della conoscibilità di Church-Fitch, dai nomi del logico Alonzo Church che lo dimostrò per primo, e di Frederic Fitch che lo riscoprì rendendolo noto, è uno dei principali rompicapi della logica epistemica. Consiste, in sostanza, nello sfidare l'accettabilità della tesi di conoscibilità (è possibile, in principio, conoscere un fatto vero), comune a diversi indirizzi di pensiero, mostrando che implicherebbe l'onniscienza (tutti i fatti sono conosciuti, attualmente).
+Il paradosso è problematico specialmente per i verificazionisti e anti-realisti, poiché tendono ad accettare la tesi di conoscibilità ma a rifiutare fortemente l'onniscienza.
+
+
+== Storia ==
+Il paradosso è diventato noto con l'articolo A Logical Analysis of Some Value Concepts di Frederic B. Fitch (1908-1987), che citava una sconosciuta fonte in un articolo del 1945. Recentemente l'articolo è stato individuato e lo si deve ad Alonzo Church.
+
+
+== Esposizione ==
+La tesi del paradosso è "il principio di conoscibilità implica l'onniscienza", o equivalentemente dal punto di vista logico, "il principio di conoscibilità è incompatibile con la non onniscienza" e anche "la non onniscienza implica la falsità del principio di conoscibilità".
+La dimostrazione usa pochissime regole:
+(A) Sapere "p & q" implica "Sapere p & Sapere q" (K(p&q)|-Kp&Kq, distributività di K su &)
+(B) Sapere qualcosa implica che essa sia vera (o "non si sa una cosa se essa è falsa") Kp|-p
+(C) Se qualcosa è logicamente vero, allora è necessario (|-p->|-[]p) regola di necessitazione
+(D) Se è necessario non p allora è impossibile p ([]~p|-~<>p) Questa non è una vera regola, è solo una definizione che serve per scrivere la prova in meno spazio.
+Ovviamente le assunzioni sono il principio di conoscibilità (KP) e la non onniscienza (NonO).
+Assunzione 1:∀p(p→♢Kp) (KP)
+Assunzione 2 ∃p:(p∧¬Kp) (NonO)
+Dimostrazione:
+(1) 
+"p & non si sa che p"
+p∧¬Kp (istanza di NonO)
+(2) 
+"p & non si sa che p" implica che "è possibile sapere che (p & non si sa che p)
+(p∧¬Kp)→♢K(p∧¬Kp) (da assunzione 2, eliminazione di ∀)
+(3) 
+"è possibile sapere che: p & non si sa che p"
+♢K(p∧¬Kp) (da 1, 2 via Modus Ponens)
+(4) 
+"si sa che: p & non si sa che pK"
+K(p∧¬Kp) (ipotesi ad absurdum, istanza di 3)
+(5) 
+"si sa p e si sa che non si sa p"
+Kp∧K¬Kp (da 4 via A)
+(6) 
+"si sa p e non si sa p"
+Kp∧¬Kp (da 5 via B)
+(7) 
+"non si sa che: p e non si sa che p"
+¬K(p∧¬Kp) (reductio ad absurdum da 4→6 - 6 è una contraddizione)
+(8) 
+"è necessario non sapere che p & non si sa che p"
+[]¬K(p∧¬Kp) (da 7 via C)
+(9) 
+"è impossibile sapere che: p & non si sa che p"
+¬♢K(p∧¬Kp) (da 8 via D)
+(10) 
+(KP) implica l'Onniscienza, e la non Onniscienza implica che non è possibile conoscere qualsiasi proposizione
+(KP)|-¬(NonO) ovvero (NonO)|-¬(KP) (per reductio ad absurdum su 1,2→3 tramite 9, ¬((1)∧(2)))
+
+
+== Note ==
+
+
+== Collegamenti esterni ==
+(EN) Edward N. Zalta (a cura di), Paradosso della conoscibilità di Fitch, in Stanford Encyclopedia of Philosophy, Center for the Study of Language and Information (CSLI), Università di Stanford.

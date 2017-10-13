@@ -1,0 +1,12 @@
+LG G3 je androidový smartfón, ktorý vyvinula a vyrába spoločnosť LG Electronics. Je to nástupca modelu LG G2 z roku 2013. Uvedený bol 27. mája 2014 a uvoľnený v Južnej Kórei deň na to.
+Dizajnové prvky zdedil po G2, ako tenké okraje obrazovky a tlačidlá na zapínanie a ovládanie hlasitosti na zadnej strane. Je to prvý smartfón od veľkej firmy, ktorý uvádza quad HD (1440p) displej a infračervený automatický zaostrovací systém svojho fotoaparátu.
+
+
+== Hardvér ==
+Telo je zložené z materiálu odolného voči škrabancom, skladajúceho sa z polykarbonátu so vzhľadom kovu. Je dostupný v čiernej, bielej, zlatej, burgundskej a fialovej farbe. Tlačidlá na zadnej strane majú plochejší dizajn ako pri G2 s novým okrúhlym tvarom. G3 má 5,5" (140 mm), 1440p quad HD IPS LCD displej, je to prvý smartfón známej značky s takýmto displejom.
+G3 obsahuje 2,5 GHz quad-core Qualcomm Snapdragon 801 systém na čipe, variant so 16 GB vnútorného úložiska má 2 GB RAM, variant s 32 GB má 3 GB RAM. Napája ho 3000 mAh batéria. Zadný kryt je odnímateľný, batéria je vymeniteľná a úložisko je možné rozšíriť microSD kartou s kapacitou do 128 GB. Fotoaparát má 13 megapixelov a obsahuje optickú stabilizáciu obrazu a dvojtónový blesk a hybridný automatický zaostrovací systém. Laserové zaostrovanie používa tenký infračervený lúč na výpočet vzdialenosti medzi fotoaparátom a predmetom. Ak údaje z tohto senzora nie sú dostatočné, použije sa klasické kontrastné zaostrenie. Podľa LG tento hybridný systém zabezpečuje najrýchlejšie zaostrenie zo všetkých smartfónov a infračervené zaostrenie je vhodné v slabo osvetlených scénach.
+LG G3 natívne podporuje bezdrôtové nabíjanie Qi, okrem modelov predávaných v Kórei a USA kvôli obmedzeniam operátorov. V týchto regiónoch je bezdrôtové nabíjanie dostupné len v prípade, že sa používa QuickCircle.
+
+
+== Zdroj ==
+Tento článok je čiastočný alebo úplný preklad článku LG G3 na anglickej Wikipédii.

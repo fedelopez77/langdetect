@@ -1,0 +1,103 @@
+Et helikopter (av gresk helix, heliks, og pteron, vinge) er et motordrevet luftfartøy som er tyngre enn luft, og defineres som luftfartøy med roterende vinger benevnt rotor. I tillegg til hovedrotoren brukes en halerotor for å motvirke helikopterets rotasjon i motsatt retning av hovedrotoren, på grunn av motorens vridende kraft på rotoren, i henhold til Newtons tredje lov.
+Det første vellykkede helikopteret var tyske Focke-Wulf Fw 61, som fløy for første gang 26. juni 1936.
+
+
+== Historikk ==
+
+
+=== Bakgrunn ===
+
+Treslaget lønn kan hevdes å produsere en form for rotorblad som transporterer en kropp med en nyttelast (frøet) Kroppen og nyttelasten virker som motvekt og balanserer ut effekten av at det er bare ett blad ved at det roterer sammen med bladet. Dette designet er det ikke praktisk dersom en skal skalere det opp slik at mennesker kan være om bord. Helikoptre er laget slik at denne ubalansen unngås og slik at helikopterkroppen ikke roterer. Et lønnefrø har ingen motor og må synke i forhold til luften omkring for å opprettholde rotasjonen og en kontrollert nedstigning. Dette samme prinsippet benyttes av gyroplan og også av helikoptre dersom alle motorene skulle stoppe. Andre planter benytter også lignende mekanismer for å spre frøene sine med vinden.
+Bambusleketøy med noe som kan ligne rotorblad er kjent fra Kina fra 400 år før vår tidsregning.
+
+Leonardo da Vinci designet en luftskrue i 1480-årene. Konstruksjonen var ikke praktisk i bruk, det var ingen mekanisme for å hindre at kroppen roterte og det fantes uansett ingen kraftkilde på den tiden som kunne drive luftskruen.
+
+I århundrene etter ble ideen videreutviklet. Hovedutfordringene, tillegg til å holde kontroll over farkosten, viste seg å være:
+
+
+==== Kraftkilde ====
+Små, lette modeller kunne drives med strikkmotor. da Vinci så trolig for seg drift med en fjærmekanisme for sin luftskrue. Det var først da dampmaskinen ble utviklet at det ble mulig å få helikopterets forløpere til å starte fra bakken ved egen kraft og holde seg i luften en kort stund. I 1860-70-årene ble det i Frankrike og Italia gjort forsøk med ubemannede, dampdrevne farkoster som steg til 10-15 meter og holdt seg flygende i opp til 20 sekunder. Dampmaskiner viste seg ikke praktiske for bruk i helikoptre, særlig fordi de har for dårlig ytelse i forhold til egen vekt.
+Da forbrenningsmotoren ble forsøkt som kraftkilde i helikoptre på begynnelsen av 1900-tallet ga det helt andre muligheter. I Slovakia ble det laget modeller med slik motor og en klarte å tilbakelegge en strekning på 1500 meter i 1905.
+
+
+==== Forhindre at kroppen roterte ====
+Etter Leonardo da Vincis luftskrue som ikke tok hensyn til dette, ble det forsøkt med ulike utgaver av kontraroterende rotorer, enten på samme aksling (koaksial) eller på forskjellige akslinger. I en slik konstruksjon virker rotasjonskreftene hver sin vei på kroppen, slik at det nøytraliserer rotasjonstendensen.
+
+
+=== De første flygingene ===
+Brødrene Breguets Gyroplane No.1 regnes som det første helikopteret som løftet fra bakken med en person om bord. I 1907 steg det til en høyde på ca. 60 cm og holdt seg der i 1 minutt. Farkosten kunne ikke styres og ble holdt stabilt av personer på bakken.
+
+Senere samme år gjorde Paul Cornu forsøk med sitt helikopter. Dette regnes som den første egentlige flygingen med helikopter i og med at føreren hadde kontrollen og var fri fra all kontakt med bakken. Cornu regnes som helikopterets oppfinner på samme måte som brødrene Wright gjør for fly etter sin første flyging fire år tidligere, i 1903.
+
+
+=== Tidlig utvikling ===
+Argentineren Pescara eksperimenterte med helikopter i 1920-årene. Han introduserte syklisk kontroll av rotoren, noe som gjorde det mulig å tippe den i ulike retninger og slik få helikopteret til å bevege seg i den retningen. Han demonstrerte også at et helikopter kan autorotere og slik glidefly kontrollert etter en motorstopp.
+I Spania utviklet Juan de Cierva løsninger som skulle vise seg fundamentale for praktisk bruk av helikopter. Han eksperimenterte fram et gyroplan som tok hensyn til mange av de spesielle aerodynamiske og strukturelle utfordringene med rotorfartøy, ved at han introduserte lager i rotorens innfesting som tillot bladene å bevege seg opp og ned og fram og tilbake uavhengig av hverandre.
+Nederlenderen Albert Grillis von Baumhauer oppfant de kontrollene som benyttes i dagens helikoptre. Styrespak, som sørger for syklisk kontroll av rotoren og stigespaken som sørger for kollektiv kontroll. Dette fløy første gang i 1925 .
+I Sovjetunionen konstruerte Yuriev og Cheremukihin et helikopter med bare en horisontal rotor, men med vertikale rotorer som produserte skyvekraft som motvirket tendensen til å rotere. Dette prinsippet er det som benyttes i de fleste av dagens helikoptre med en hovedrotor som sørger for løftekraft og kontroll, og en halerotor som forhindrer rotasjonstendensen og gitr retningskontroll.
+
+
+=== Senere utvikling ===
+Det tyske Focke-Wulf Fw 61 som fløy første gang i 1936 regnes av mange som det første fullt kontrollerbare helikopteret. Prøveflygeren Hanna Reitsch gjennomførte daglige demonstrasjoner av en prototypene innendørs under Berlin Motor Show i Deutschlandhalle i februar 1938. Reitch ble slik også den første kvinnelige helikopterflygeren. Fw 61 hadde to kontraroterende rotorer montert side ved side. Helikopteret ble aldri satt i produksjon.
+Tyskland hadde 2 typer helikoptre i operativ bruk under andre verdenskrig.
+Flettner Fl 282 Kollibri hadde to tobladete rotorer som roterte hver sin vei på hver sin aksling, men som var montert tett sammen slik at rotorene gikk inne i hverandre. Helikopteret ble benyttet på skip og til observasjon for artilleri. Fl 282 regnes som det første helikopteret som kom i vanlig produksjon.
+Focke-Achgelis Fa 223 Drache hadde en lignende konstruksjon som FW 61 og kunne løfte ca. 1000 kg last. Helikopteret ble blant annet bruk til transport av underhengende last i fjellterreng.
+
+I USA utviklet Igor Sikorsky VS-300 som fløy fritt første gang 13. mai 1940 og var et helikopter med en hovedrotor og en halerotor.
+VS-300 ble videreutviklet til R-4 som ble verdens første serieproduserte helikopter. R-4 ble operativt under andre verdenskrig og ble benyttet av US Army Air Forces, US Navy, US Coast Guard Royal Air Force og Royal Navy. R-4 i ulike versjoner utførte oppdrag som observasjon og kommunikasjonstjeneste, skipsoperasjoner, rekognosering, og søk og redning. En versjon var utstyrt med flottører og kunne lande på vann.
+22.-23. april i 1944 gjennomførte en YR-4 fra US Army Air Force det som regnes som den første redningsaksjonen med helikopter da den hentet ut 4 besetningsmedlemmer og passasjerer fra et havarert kommunikasjonsfly i jungelen i Burma.
+Bell Aircraft startet utvikling av helikoptre 1. november 1941. Med konstruktøren Arthur Young i spissen utviklet Bell modell 30 som også hadde en hovedrotor, men med den karakteristiske stabilisatorstangen, og en halerotor. Modell 30 fløy første gang 29. juli 1943 og ble forløperen til verdens første sivilt sertifiserte helikopter, Bell Modell 47B som fikk typesertifikatet 8. mai 1946.
+
+
+=== Norske helikoptre ===
+Kjeller Flyfabrikk utviklet prototypene til to ulike helikoptermodeller. Kjeller PK X-1 med stempelmotor som fløy første gang i 1955 og Kjeller PK X-2 med turbinmotor som fløy første gang i 1962, men havarerte i 1965. Ingen av disse modellene ble satt i produksjon. Kjeller PK X-1 prototypen er utstilt i Forsvarets flysamling Gardermoen.
+I perioden 1986 til 1990 bygde Helikopter Service 18 stk Bell 412SP på lisens fra Bell Helicopter Textron for Luftforsvaret. Det siste helikoptret ble overlevert til Luftforsvarets Forsyningskommando (LFK) den 29. oktober 1990. Den som mottok helikopteret var sjefen for LFK Generalmajor Odd Svang-Rasmussen, som var flyger i Kjeller PK X-2 prototypen da den havarerte av tekniske årsaker i 1965.
+
+
+== Design ==
+Det klassiske designet med den store vannrette hovedrotoren og den lille loddrette halerotoren ble patentert av Igor Sikorsky i 1931. (Se Sikorsky Aircraft Corporation)
+Andre design: to motsatt dreiende hovedrotorer, på enten hver sin akse eller på en felles akse. Det russiske kamphelikopteret Kamov Ka-50 er et eksempel på sistnevnte.
+Designet med halerotor kan unngås på tre måter:
+Ved å plassere to store hovedrotorer i hver sin ende av helikopteret. Eks: Chinook
+Ved å plassere to hovedrotorer og montere dem på samme hovedaksel, men la dem rotere i hver sin retning (som en del større russiske helikoptre og forøvrig også den modellen Leonardo da Vinci konstruerte). Dette krever noe større stabilisatorer.
+Ved å beholde halebommen og konstruere denne som et rør som det blåses luft ut av. Røret har et spjeld til siden, hvor man blåser ut luft som gir en kraft som tilsvarer en halerotor. Dette prinsippet kalles NOTAR, og er en forkortelse for NO TAil Rotor.
+
+
+== Manøvrering ==
+Bladene på en hovedrotor sitter fast på et rotorhode, som består av avansert mekanikk. I tillegg til å overføre motorens kraft til rotoren sørger rotorhodet for at pilotens to styrepinner, «stikka» og «collective pitch» får rotorbladene til å endre løfteevne. Når bladet dreies litt rundt sin lengdeakse endres bladprofilens vinkel og dermed også bladets løfteevne. Hvis alle bladenes løfteevne økes like mye ved å heve «collective pitch» vil helikopteret stige. Det er også mulig å få bladene til å bære forskjellig etter om de peker framover, bakover eller til siden. Hvis bladene bærer mer når de peker bakover, vil det planet rotoren roterer i ikke være vannrett men helle svakt til siden og dermed trekke helikopteret både til siden og opp. På lignende måte kan et helikopter rygge og fly fremover. Når rotorbladene har størst angrepsvinkel rett bakover vil bladets ende settes i fart oppover slik at rotoren vil stille seg på skrå mot den ene siden. Dersom rotasjonsretningen på rotoren sett ovenfra er med klokka, løftes rotoren på venstre side.
+
+Dette styres fra cockpiten ved hjelp av:
+To pedaler, som endrer pitch, angrepsvinkelen, på bladene på halerotoren, som dermed påvirker helikopterets vridning rundt vertikalaksen.
+En styrepinne, (tilsvarende som på et fly) kalt cyclic bestemmer i hvilken retning helikopteret skal fly. Ved at pitchen på de ulike rotorbladene varieres ulikt kan helikopteret tippes i en bestemt retning.
+En styrestang, kalt collective eller stigespak som styrer den samlede pitchen på hovedrotoren og dermed løftekraften.
+Kombinasjonen av de to ulike spakene bestemmer derved retning og hastighet. Det vil, som beskrevet ovenfor, si at løftekraften ved tipping gir fremdriftshastighet, retningsendring eller hastighetsreduksjon.
+Ved bortfall av motorkraft kan helikopteret gjøre en nødlanding som kan sammenlignes med glidelanding for seilfly eller motorfly. Collective håndtaket må føres fort nedover før rotasjonen reduseres etter motorsvikten. Luften som passerer opp gjennom rotoren når helikopterer seiler mot bakken er med på å opprettholde rotorens turtall. Bevegelsesenergien i rotoren kan så benyttes til oppbremsing når helikopteret nærmer seg bakken for å gi en rimelig myk landing. Dette kalles autorotasjon.
+
+
+== Bruk av helikopter ==
+
+Oppfinnelsen av helikopteret har betydd veldig mye for spesielt redningstjenestene, politiet og brannvesenet. Militæret bruker også helikoptre i stor grad.
+For redningstjenesten har helikopteret betydd mulighet til å komme til unnsetning lettere og fortere, og det er svært viktig i medisinske nødtilfeller hvor minutter ofte kan bety forskjellen på liv og død. Også i tilfeller hvor man ikke vet helt hvor den skadede er, som for eksempel ved havari til sjøs, skader og sykdom til fjells som fjellklatringsulykker, syketransport fra vanskelig tilgjengelige steder og for å finne savnede personer, har helikopteret ofte vist seg å være verdifullt.
+Norge bruker helikopter til transport av personell til norsk sokkel. Helikopter benyttes også innen bygg og anlegg. På plasser der hvor fremkommelighet hindrer transport av personell og utstyr, er helikopter et billig alternativ både for miljø og utbygger. Eksempler på denne typen anleggsvirksomhet er mobiltelefonantenner, kraftlinjer og hyttebygging.
+Brannvesenet benytter helikoptre til å slukke skogbranner. Det brukes helikoptre med store vanntanker på siden, som kan åpnes over brannen. Tankene fylles ved at helikopteret senker seg ned mot et vann og fyller tankene. Nyere teknologi i Japan har bidratt til utvikling av en helikoptertype for bekjemping av branner høyt oppe i skyskrapere. Helikopteret (Sea King) er utstyrt med en stor vanntank og to vannkanoner som kan styres fra cockpiten. På den måten kan mannskapet drive effektivt brannslukkingsarbeide også i flere hundre meters høyde.
+
+
+== Produsenter ==
+Fem store selskaper dominerer markedet for sivile og militære helikoptre:
+ Airbus Helicopters (inntil 2014 kjent som Eurocopter.)
+ Leonardo (selskap) (inntil 2016 kjent som AgustaWestland.)
+ Bell Helicopter
+ Boeing Defense, Space & Security (kun militære helikoptre.)
+ Sikorsky Aircraft Corporation (f.o.m 2015 kontrollert av Lockheed Martin.)
+
+
+== Referanser ==
+
+
+== Se også ==
+Wikibooks om radiostyrte helikoptere (hobby).
+
+
+== Eksterne lenker ==
+(en) Kategori:Helicopters – bilder, video eller lyd på Wikimedia Commons
+(en) Helicopter – galleri av bilder, video eller lyd på Wikimedia Commons

@@ -1,0 +1,49 @@
+Silisiumkarbid, også kalt karborundum, carborundum og sika og med SiC som kjemisk forkortelse, er et industrielt fremstilt materiale som anvendes til slipeprodukter og som tilsetningsstoff. Stoffet er noe av det hardeste som finnes med verdi 9 på Mohs hardhetsskala, bare diamanter er hardere med en Mohs verdi på 10. Silisiumkarbid er ellers i rein form fargeløst, isolerende, ildfast og har halvlederegenskaper. Stoffet finnes ikke i naturen. Det har en rekke bruksområder som slipemiddel, innen keramikk og støperivirksomhet.
+Fra slutten av 1980-årene har det også pågått en viss forskningsaktivitet for å lage elektroniske komponenter av silisiumkarbid, et marked som silisium hittil har dominert fullstendig.
+
+
+== Til mekaniske formål ==
+
+
+=== Produksjon ===
+
+
+=== Videreforedling ===
+Silisiumkarbid for mekaniske formål må etter brenning knuses og siktes til forskjellige kornstørrelser, fineste kornstørrelse er i området 1 mikron (1/1000-dels millimeter). Det har vært en sterk dreining mot mikrokornprodukter de siste årene. Bedriftene i Norge produserer nå i all hovedsak mikrokorn, da dette gir størst fortjeneste.
+
+
+=== Bruksområde ===
+Silisiumkarbid produsert på denne måten brukes hovedsakelig til finkeramikk, skjæring, sliping og polering. De finnes stadig nye bruksområder for silisiumkarbid, og det siste er skjæring av solcelleskiver og til bruk i produksjon av dieselpartikkelfiltre til å rense avgassen fra dieselbiler. 
+
+
+=== Bedrifter i Norge ===
+I Norge produseres silisiumkarbid av bedrifter i Lillesand og Orkanger. Bedriften i Lillesand eies av et fransk konsern, Saint-Gobain, og bedriften i Orkanger, Orkla Exolon har amerikanske eiere (Washington Mills). 
+Foredling av silisiumkarbid foregår på Saint-Gobain bedriftene i Eydehavn, Lillesand og Washington Mills fabrikk i Orkanger. Tidligere Arendal Smelteverk på Eydehavner i dag en ren videreforedlingsbedrift innen Saint-Gobain CM. I Norge videreforedles også silisiumkarbid som er produsert i andre verdensdeler. 
+Mesteparten av produksjonen i Norge eksporteres.
+
+
+== Til elektroniske formål ==
+
+
+=== Produksjon ===
+Silisiumkarbid for elektroniske anvendelser skjer ved den såkalte modifiserte Lely-prosessen, der silisiumkarbid-damp kondenserer på en såkorn-krystall med en viss krystallretning. Krystallretningen til såkorn-krystallen arves av resten av krystallen etter hvert som den vokser.
+Svært rent krystallinsk silisiumkarbid laget ved hjelp av den modifiserte Lely-prosessen produseres hovedsakelig av det amerikanske firmaet Cree Inc. som har vært dominerende på dette markedet siden starten i 1987.
+
+
+=== Struktur ===
+Krystallinsk silisiumkarbid kan eksistere i svært mange forskjellige krystallstrukturer, såkalte polytyper. De fleste er imidlertid varianter av heksagonale lag av silisium og karbon i forskjellig rekkefølge etter hverandre, mens der finnes èn eneste kubisk polytype. De vanligste heksagonale polytypene kalles 4H og 6H, mens den kubiske polytypen betegnes 3C.
+Silisiumkarbid er en halvleder med relativt stort, indirekte bandgap, der størrelsen varierer litt mellom polytypene. Som eksempel kan nevnes 3C med et bandgap på 2.4 eV, mens 4H og 6H har hhv. 3.0 og 3.3 eV.
+
+
+=== Bruksområde ===
+Silisiumkarbid er tenkt brukt i elektroniske komponenter som skal brukes ved høy strøm, høy temperatur, høye frekvenser eller i tøffe, kjemiske miljøer.
+Silisiumkarbid egner seg spesielt godt for slik formål på grunn av det store bandgapet og en naturlig kjemisk inerthet mot andre stoffer. Silisium har derimot relativt lite bandgap og reagerer lettere med andre stoffer, som f.eks. syrer og baser.
+En stor fordel for silisiumkarbid i forhold til andre halvledere med stort bandgap er at man kan gro et naturlig lag av silisiumdioksid (SiO2 eller glass), akkurat som hos silisium. Dette er en av hovedgrunnene til at silisium har blitt så utbredt som det er i dag. Dessverre har man hatt problemer med en stor konsentrasjon av elektrisk aktive defekter i grenseflaten mellom silisiumkarbid og SiO2 som gjør produksjonen av velfungerende MOSFET-transistorer vanskelig.
+Et annet stort problem med silisiumkarbid var at stoffet bryter sammen ved høy elektrisk feltstyrke (spenning), noe som er direkte motstridende med ønsket om å lage komponenter for høy strømstyrke. Årsaken var en høy tetthet av dislokasjoner. Dette problemet har antagelig blitt løst ved hjelp av en ny teknikk for vekst av silisiumkarbid.
+
+
+== Referanser ==
+
+
+== Eksterne lenker ==
+ SiC-produkt hos Cree Inc.

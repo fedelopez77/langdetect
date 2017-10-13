@@ -1,0 +1,64 @@
+El ancestro común más reciente o ACMR (en inglés MRCA: Most Recent Common Ancestor) de cualquier grupo de organismos es el individuo más reciente del cual todos los organismos del grupo son descendientes directos. Este término se ha desarrollado más en lo referente a la genealogía de la especie humana.
+El término concestor fue acuñado para referirse al mismo concepto. El ancestro común más reciente de una colectividad de individuos puede en ocasiones verse determinado al referirse a un diagrama de pedigrí específico.
+Sin embargo, hay que aclarar que desde una perspectiva global, no resulta factible identificar el ancestro común más reciente de un grupo de individuos, no obstante lo que sí es posible es brindar un estimación de tiempo en el cual el ACMR habría vivido. Dicha estimación suele basarse en exámenes de ADN, pruebas de tasas de mutación, o por referencia de un modelo genealógico no genético. Algunas de las otras pruebas de la filogenia y su relación con el concepto de ACMR, es la teoría de la evolución observada a través de los fósiles; los que datan cómo fueron evolucionando los seres vivos. Los fósiles dan datos de que la vida lleva entre 3600 y 4500 millones de años.
+
+
+== Ancestro común más reciente de dos individuos ==
+El ancestro común más reciente por línea paterna de cualesquiera seres humanos de sexo masculino y el ancestro común más reciente por línea materna de cualesquiera individuos pueden ser determinados por exámenes genealógicos de ADN. Los exámenes utilizan ADN mitocondrial para la herencia maternal y ADN del cromosoma Y para la herencia paterna.
+
+
+== Ancestro común más reciente de todos los humanos vivos ==
+La existencia de un ancestro común más reciente no implica necesariamente un concepto como el de cuello de botella demográfico o la idea de una primera pareja. El ancestro común más reciente de cualquier persona viva pudo haber coexistido con una determinada cantidad de población humana, la mayoría de los cuales no dejaron descendientes vivos actualmente, o en todo caso son ancestros de todos los seres humanos vivos del presente.
+
+
+=== Ancestros por vía paterna y por vía materna ===
+En los seres humanos, el ancestro común más reciente está dado por una "Eva mitocondrial" y un "Adán cromosomal-Y", los que implican que éstos tuvieron ancestros comunes que son más antiguos que para todos los humanos. La Eva mitocondrial se estima que vivió hace 200.000 años. En cambio, El Adán cromosomal-Y, se estima que vivió hace unos 140.000 años.
+
+
+=== Estimaciones de tiempo ===
+Dependiendo de la supervivencia de linajes aislados sin mezcla de las migraciones humanas modernas, y tomando en cuenta a pueblos largamente aislados, como las tribus históricas del centro de África, Australia y otras islas remotas del océano Pacífico, el ancestro común más reciente de los seres humanos se asume generalmente como un individuo del periodo paleolítico.
+No obstante, otras estimaciones realizadas por Rohde, Olson y Chang (en 2004), usando un modelo no genético (un modelo matemático) establecen que el ancestro común más reciente de todos los seres humanos del presente habría vivido en tiempos históricos (esto es, cuando la escritura ya había sido inventada), entre los años 2000 y 4000 a. C..
+Rohde redefinió la simulación con parámetros de migraciones históricas estimadas y densidades poblacionales. Por parámetros conservadores, Rohde estableció la fecha de la existencia del ancestro común más reciente alrededor del 6000 a. C., pero aún concluye con una estimación “sorprendentemente reciente” que mueve la fecha hacia los milenios primero y segundo antes de Cristo.
+Una explicación de este resultado es que, mientras que el ancestro común más reciente de la humanidad pertenecía al Paleolítico hasta la Edad Moderna (siglos XV y XVI), los exploradores europeos de los siglos XVI y XVII habrían engendrado descendientes suficientes de tal modo que el linaje europeo haya prevalecido (y desplazado al linaje de ancestros locales) incluso en comunidades aisladas. Existe la posibilidad sin embargo, de que una sola población aislada, sin ninguna mezcla reciente con otros grupos humanos exista en algún lugar del globo, esto llevaría hacia atrás la fecha estimada de la existencia del ancestro común más reciente en varios milenios. Mientras que simulaciones ayudan a estimar probabilidades acerca de la ocurrencia de un evento como el descrito, la única manera de resolver esta cuestión sin duda alguna es el realizar pruebas genéticas a cada humano vivo.
+Otros modelos reportados en los estudios de Rohde, Olson y Chang sugieren que el ancestro común más reciente de los europeos occidentales vivió alrededor del año 1000, lo cual es una fecha sorprendentemente cercana. El mismo artículo también provee de estimaciones sorprendentemente cercanas para el punto de ancestros idénticos, concepto que designa a la fecha más cercana cuando cada persona viva era un ancestro de todas las personas vivas actualmente o ancestro de ninguna de ellas. Las estimaciones son inciertas igualmente, pero se cree que las fechas deben de ser anteriores a la existencia del ancestro común más reciente, según Rohde, el rango estimado se ubicaría entre 15.000 y 5.000 años antes de nuestra era.
+
+
+== Ancestro común más reciente para especies diferentes ==
+Véase también Último ancestro universal
+También es posible utilizar el término de “Ancestro común más reciente” para describir el ancestro común de dos o más especies diferentes. El concepto es descrito en el libro de Richard Dawkins, The Ancestor’s Tale ("La historia de los ancestros"), en el que él se imagina que los seres humanos conocemos a todas las otras especies con las que tenemos un ancestro en común.
+Siguiendo el árbol evolutivo hacia atrás, conocemos primero al “concestor” que compartimos con las especies que nos son más cercanas: el chimpancé y el bonobo. Dawkins estima que esto habría ocurrido entre 5 y 7 millones antes de nuestra era. Otra forma de decirlo es que nuestro 250.000 tataraabuelo fue una criatura de la cual todos los humanos, chimpancés y bonobos somos descendientes directos.
+El ancestro común más reciente de todos los seres vivos es conocido también como último ancestro universal.
+
+
+== Referencias ==
+Chang JT (1999) "Recent common ancestors of all present-day individuals". Advances in Applied Probability 31: 1002-1026.
+Dawkins, R (2004) The Ancestor's Tale, A Pilgrimage to the Dawn of Life. Weidenfeld & Nicolson. ISBN 0-7528-7321-0
+Hartwell L, Hutchison F, Hood L, Goldberg ML, Reynolds AE, Silver LM, Veres R (2004) Genetics: From Genes to Genomes. McGraw-Hill.
+Rohde DLT, Olson S, Chang JT (2004) "Modelling the recent common ancestry of all living humans". Nature 431: 562-566.
+Rohde, DLT, On the common ancestors of all living humans.
+
+
+== Enlaces externos ==
+Enlace en español
+Genealogia Molecular de la Sociedad Genealógica del Norte de México
+Todos los enlaces están (en inglés).
+DNA Heritage - Entendiendo MRCA para la genealogía genética
+Family Tree DNA - Entendiendo MRCA
+"Modelling the Most Recent Common Ancestry of All Living Humans"
+Estimaciones del MRCA del cromosoma Y o datos del ADN mitocondrial
+Link a una calculadora de MRCA que se puede bajar (archivo ".exe")
+Explicación de la relación entre el MRCA y el “Punto de ancestros idénticos”
+"On the Common Ancestors of All Living Humans"
+"Human populations are tightly interwoven"
+"Most Recent Common Ancestor of All Living Humans Surprisingly Recent"
+AP: Roots of human family tree are shallow
+LostCousins – Proyecto que pone en contacto a personas con los mismos ancestros
+
+
+== Véase también ==
+Evolución humana
+Genealogía
+Genealogía genética
+Genealogía molecular
+Último ancestro universal
+Paternidad

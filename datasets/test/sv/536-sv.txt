@@ -1,0 +1,5 @@
+Hendrik Wade Bode, född 24 december 1905 i Madison, Wisconsin, död 21 juni 1982 i Cambridge, Massachusetts, var en amerikansk ingenjör och forskare inom elektroteknik, känd för sina bidrag inom reglerteknik och telekommunikation, samt för analysverktyg som Bodediagrammet.
+Bode tog filosofie kandidat-examen 1924 och magisterexamen 1926 vid Ohio State University. Sponsrad av Bell Labs disputerade han 1935 vid Columbia University och blev filosofie doktor i fysik.
+1938 utvecklade han det banbrytande Bodediagrammet under sin forskning kring stabilitet i återkopplade system.
+Under andra världskriget arbetade Bode för Bell Labs med ett automatiskt predikterande luftvärnssystem baserat på återkoppling av radarsignaler, en tidig robot.
+Efter kriget fortsatte Bode att arbeta på Bell Labs med både militära och civila projekt. Han mottog 1948 den högsta amerikanska civila utmärkelsen, Presidential Medal for Merit, av president Harry S. Truman som ett erkännande för hans vetenskapliga bidrag till krigsansträngningen och till USA.

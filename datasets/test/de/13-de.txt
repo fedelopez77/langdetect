@@ -1,0 +1,11 @@
+Ein Salinometer ist ein Messgerät zur Bestimmung des Salzgehalts von Salzwasser.
+Viele physikalische Eigenschaften von Wasser ändern sich mit der Menge an gelöstem Salz. Diese Abhängigkeiten werden für unterschiedliche Bauarten von Salinomentern ausgenutzt. Je mehr Salz im Wasser enthalten ist, desto höher:
+die Dichte (Messung mittels Aräometer)
+der Brechungsindex (Bestimmung mit einem Refraktometer)
+die elektrische Leitfähigkeit (da das gelöste Salz als frei bewegliche Ladungsträger wirkt). In der modernen Ozeanographie verwendete Salinometer ermitteln zwecks erhöhter Genauigkeit das Verhältnis der Leitfähigkeiten der Probe zu Standardwasser über galvanische und/oder induktive Verfahren.
+die Schallgeschwindigkeit.
+
+
+== Weblinks ==
+Schulversuch zur Leitfähigkeitsmessung in Salzlösungen
+Oceanographic Salinometers

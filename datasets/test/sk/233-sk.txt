@@ -1,0 +1,23 @@
+Kódy ISO 3166-2 pre Namíbiu identifikujú 13 regiónov. Prvá časť (NA) je medzinárodný kód pre Namíbiu, druhá časť pozostáva z dvoch písmen identifikujúcich región.
+
+
+== Zoznam kódov ==
+
+NA-CA Caprivi (Katima Mulilo)
+NA-ER Erongo (Swakopmund)
+NA-HA Hardap (Mariental)
+NA-KA Karas (Keetmanshoop)
+NA-KH Khomas (Windhoek)
+NA-KU Kunene (Opuwo)
+NA-OD Otjozondjupa (Otjiwarongo)
+NA-OH Omaheke (Gobabis)
+NA-OK Okavango (Rundu)
+NA-ON Oshana (Oshakati)
+NA-OS Omusati (Uutapi)
+NA-OT Oshikoto (Tsumeb)
+NA-OW Ohangwena (Oshikango)
+
+
+== Pozri aj ==
+ISO 3166-2, zoznam kódov územno správnych celkov všetkých krajín.
+ISO 3166-1, zoznam kódov všetkých krajín, používaných súčasne ako ich doménové mená na internete.

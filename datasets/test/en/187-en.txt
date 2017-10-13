@@ -1,0 +1,20 @@
+R v Smith, [1992] 2 S.C.R. 915 is a leading decision on hearsay by the Supreme Court of Canada. This decision, along with R v Khan (1990), began what is called the "hearsay revolution", supplementing the traditional categorical approach to hearsay exceptions with a new "principled approach" based on reliability and necessity of testimony.
+
+
+== Background ==
+Arthur Larry Smith was accused of killing Aritha Monalisa King. It was believed that they had both traveled from Detroit to London, Ontario. While in Canada, Smith had asked King to smuggle drugs back for him. She refused and was killed by Smith. At trial, King's mother testified that she received four phone calls from her daughter the night of her death. The last call came from near where her body was found. King had told her mother she would be home very soon.
+The issue before the Supreme Court was whether the statements could be admissible as evidence. The trial judge admitted the evidence and Smith was convicted. On appeal, the Ontario Court of Appeal ordered a new trial.
+
+
+== Judgment ==
+Lamer C.J. writing for the Court, dismissed the appeal. His reasons focused on the "principled approach" first developed in the Khan case. He found that the new approach was not just limited to child testimony but rather was a new method that applied to all hearsay statements, calling it a "triumph of a principled analysis over a set of ossified judicially created categories".
+
+
+== See also ==
+List of Supreme Court of Canada cases
+R v Starr
+R v Khelawon (2006)
+
+
+== External links ==
+Full text of Supreme Court of Canada decision at LexUM and CanLII

@@ -1,0 +1,38 @@
+Asteroseismologija – mokslas, užsiimantis kintamųjų žvaigždžių tyrimais, analizuojant jų spindesio kitimo dažnines charakteristikas. Ši astrofizikos šaka savo principais mažai skiriasi nuo mūsų planetos drebėjimus tiriančios seismologijos.
+
+
+== Principai ==
+Skirtingos virpesių modos pasiekia skirtingą žvaigždės gylį. Pagrindinis virpesių mechanizmas, tai spinduliavimo energijos virsmas pulsacijos energija paviršiniuose žvaigždės sluoksniuose, t.y šiluminės energijos virtimas kinetine. Dvinarėse sistemose didelę įtaką virpesiams turi dar kaimynės sąlygoti žvaigždiniai potvyniai.
+Tiriamos bangos skirstomos į tris kategorijas:
+akustinės (p) modos – sukeliamos vidinių slėgio fliuktuacijų, jų dinamiką lemia lokalus garso greitis
+gravitacinės (g) modos – atsirandančios kai gravitacija atstato sutrikdyto skysčio (žvaigždės medžiagos) pusiausvyrą
+paviršiaus gravitacijos (s) modos – analogiškos bangoms Žemės vandenynuose
+
+
+== Prietaisai ==
+
+
+=== Merkatoro teleskopas ===
+Merkatoro Teleskopas, tai esantis Roque de los Muchachos observatorijoje, Kanarų salyno La Palma saloje, 1,2 m diametro pusiau automatizuotas teleskopas, priklausantis Leuveno Universiteto Astronomijos Institutui. Jame naudojama aparatūra:
+P7 fotometras
+MEROPE CCD kamera
+HERMES spektrometras
+
+
+=== COROT kosminis teleskopas ===
+COROT(COnvection ROtation and planetary Transits) yra Prancūzijos Nacionalinio Kosminių Tyrimų Centro (CNES), Prancūzijos Mokslinių Tyrimų Centro(CNRS), taip pat kelių kitų Europos šalių kosminė misija skirta asteroseismologiniams, bei kitų sistemų planetų tyrimams. Teleskopo prietaisai:
+27 cm diametro afokalinis teleskopas
+Keturių CCD elementų, didelio jautrumo kamera
+
+
+=== MOST ===
+MOST (Microvariability and Oscillations of STars) tai pirmas ir iki šiol vienintelis kanadietiškas kosminis teleskopas. Pagrindinė jo paskirtis, tai kaip teigia jo pavadinimas – žvaigždės šviesos pokyčių stebėjimas. Aparatūra:
+15 cm Maksutovo sistemos teleskopas
+Dviguba CCD kamera
+
+
+== Nuorodos ==
+Leuveno Universiteto Astronomijos Institutas
+Merkatoro Teleskopo svetainė
+COROT svetainė
+MOST svetainė

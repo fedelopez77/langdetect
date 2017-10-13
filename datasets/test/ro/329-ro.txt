@@ -1,0 +1,5 @@
+Henry (simbol: H) este unitatea SI pentru inductanță. A fost numită după Joseph Henry (1797-1878), om de știință american ce a descoperit inducția electromagnetică independent și aproape concomitent cu britanicul Michael Faraday (1791-1867).
+În unități SI de bază: 1 H = 1 V·A-1·s = 1 m²·kg·s-2·A-2
+
+
+== Referințe ==

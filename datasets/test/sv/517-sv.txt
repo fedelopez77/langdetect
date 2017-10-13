@@ -1,0 +1,642 @@
+Harmoniskt medelvärde är ett av de tre Pythagoreiska medelvärdena och används främst för att beskriva tillväxtfenomen.
+
+
+== Definition ==
+
+
+=== Diskret fördelning ===
+Det harmoniska medelvärdet H av de positiva reella talen x1, x2, ..., xn är definierad som det inverterade värdet av det aritmetiska medelvärdet av reciprokerna till x1, x2, ..., xn:
+
+  
+    
+      
+        H
+        =
+        
+          
+            (
+            
+              
+                1
+                n
+              
+            
+            ⋅
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                n
+              
+            
+            
+              x
+              
+                i
+              
+              
+                −
+                1
+              
+            
+            )
+          
+          
+            −
+            1
+          
+        
+        =
+        
+          
+            1
+            
+              
+                
+                  1
+                  n
+                
+              
+              ⋅
+              
+                (
+                
+                  
+                    1
+                    
+                      x
+                      
+                        1
+                      
+                    
+                  
+                
+                +
+                
+                  
+                    1
+                    
+                      x
+                      
+                        2
+                      
+                    
+                  
+                
+                +
+                ⋯
+                +
+                
+                  
+                    1
+                    
+                      x
+                      
+                        n
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        =
+        
+          
+            n
+            
+              
+                
+                  1
+                  
+                    x
+                    
+                      1
+                    
+                  
+                
+              
+              +
+              
+                
+                  1
+                  
+                    x
+                    
+                      2
+                    
+                  
+                
+              
+              +
+              ⋯
+              +
+              
+                
+                  1
+                  
+                    x
+                    
+                      n
+                    
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle H=\left({\frac {1}{n}}\cdot \sum _{i=1}^{n}x_{i}^{-1}\right)^{-1}={\frac {1}{{\frac {1}{n}}\cdot \left({\frac {1}{x_{1}}}+{\frac {1}{x_{2}}}+\cdots +{\frac {1}{x_{n}}}\right)}}={\frac {n}{{\frac {1}{x_{1}}}+{\frac {1}{x_{2}}}+\cdots +{\frac {1}{x_{n}}}}}.}
+  
+
+
+==== Exempel ====
+Det harmoniska medelvärdet av 1, 2, och 4 är
+
+  
+    
+      
+        
+          
+            3
+            
+              
+                
+                  1
+                  1
+                
+              
+              +
+              
+                
+                  1
+                  2
+                
+              
+              +
+              
+                
+                  1
+                  4
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              
+                
+                  1
+                  3
+                
+              
+              (
+              
+                
+                  1
+                  1
+                
+              
+              +
+              
+                
+                  1
+                  2
+                
+              
+              +
+              
+                
+                  1
+                  4
+                
+              
+              )
+            
+          
+        
+        =
+        
+          
+            12
+            7
+          
+        
+        =
+        1.
+        
+          
+            714285
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\frac {3}{{\frac {1}{1}}+{\frac {1}{2}}+{\frac {1}{4}}}}={\frac {1}{{\frac {1}{3}}({\frac {1}{1}}+{\frac {1}{2}}+{\frac {1}{4}})}}={\frac {12}{7}}=1.{\overline {714285}}}
+  
+
+
+=== Kontinuerlig fördelning ===
+För en kontinuerlig fördelning är det harmoniska medelvärdet
+
+  
+    
+      
+        H
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  ∫
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            x
+                          
+                        
+                      
+                    
+                  
+                  f
+                  (
+                  x
+                  )
+                  
+                  d
+                  x
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle H={\cfrac {1}{\int {\cfrac {1}{x}}f(x)\,dx}}}
+  
+
+
+=== Viktat harmoniskt medelvärde ===
+Om en mängd av vikter 
+  
+    
+      
+        
+          w
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          w
+          
+            n
+          
+        
+      
+    
+    {\displaystyle w_{1},\dotsc ,w_{n}}
+   är associerad med en datamängd 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x_{1},\dotsc ,x_{n}}
+  , definieras det viktade harmoniska medelvärdet som
+
+  
+    
+      
+        
+          
+            
+              
+                
+              
+              
+                
+                  
+                    ∑
+                    
+                      i
+                      =
+                      1
+                    
+                    
+                      n
+                    
+                  
+                  
+                    w
+                    
+                      i
+                    
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    ∑
+                    
+                      i
+                      =
+                      1
+                    
+                    
+                      n
+                    
+                  
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              w
+                              
+                                i
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              x
+                              
+                                i
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\cfrac {\sum _{i=1}^{n}w_{i}}{\sum _{i=1}^{n}{\cfrac {w_{i}}{x_{i}}}}}}
+  
+Det harmoniska medelvärdet kan ses som ett specialfall med vikterna = 1.
+
+
+== Tillämpningar ==
+Harmoniskt medelvärde används inom andra vetenskaper som till exempel elektrofysik och geologi. Inom geologin används harmoniskt medelvärde för bestämning av vattengenomsläppigheten i olika jordarter.
+
+
+== Exempel ==
+Antag att en person färdas sträckorna s1,..., sn med hastigheterna v1,..., vn. Genomsnittshastigheten v för hela resan ges av det viktade harmoniska medelvärdet
+
+  
+    
+      
+        v
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            s
+            
+              i
+            
+          
+        
+        
+          
+            [
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                n
+              
+            
+            
+              
+                s
+                
+                  i
+                
+              
+              
+                v
+                
+                  i
+                
+                
+                  −
+                  1
+                
+              
+            
+            ]
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle v=\sum _{i=1}^{n}{s_{i}}\left[\sum _{i=1}^{n}{s_{i}v_{i}^{-1}}\right]^{-1}}
+  
+Medelhastigheten för en bil som kör en 120 km lång sträcka fram och tillbaka mellan hemmet och sommarstugan, först med hastigheten 60 km/h till sommarstugan och sedan tillbaka med hastigheten 120 km/h, är lika med det harmoniska medelvärdet 80 km/h, inte det aritmetiska medelvärdet som är 90 km/h.
+Anledningen är att det tar två timmar att köra 120 km med hastigheten 60 km/h och att köra samma sträcka med hastigheten 120 km/h tar en timma. Totalt har bilen kört 240 km under 3 timmar och om vi delar 240 km med 3 timmar blir detta 80 km/h, vilket är lika med det harmoniska medelvärdet:
+
+  
+    
+      
+        v
+        =
+        
+          
+            2
+            
+              
+                
+                  1
+                  60
+                
+              
+              +
+              
+                
+                  1
+                  120
+                
+              
+            
+          
+        
+        =
+        80
+      
+    
+    {\displaystyle v={2 \over {{1 \over 60}+{1 \over 120}}}=80}
+  
+
+
+== Jämförelse med andra medelvärden ==
+
+Medelvärden av två tal, a och b, kan konstrueras geometriskt med hjälp av en halvcirkel med diametern a + b.
+A: Aritmetiska medelvärdet
+Q: Kvadratiska medelvärdet
+H: Harmoniska medelvärdet
+G: Geometriska medelvärdet
+Det framgår att
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                ¯
+              
+            
+          
+          
+            Q
+          
+        
+        ≥
+        
+          
+            
+              
+                a
+                ¯
+              
+            
+          
+          
+            A
+          
+        
+        ≥
+        
+          
+            
+              
+                a
+                ¯
+              
+            
+          
+          
+            G
+          
+        
+        ≥
+        
+          
+            
+              
+                a
+                ¯
+              
+            
+          
+          
+            H
+          
+        
+      
+    
+    {\displaystyle {\bar {a}}_{Q}\geq {\bar {a}}_{A}\geq {\bar {a}}_{G}\geq {\bar {a}}_{H}}
+  
+Denna ordning gäller även för ett godtyckligt antal tal.

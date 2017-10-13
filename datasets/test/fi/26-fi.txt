@@ -1,0 +1,36 @@
+Friedrichshafen FF 41 oli varsin isokokoinen saksalainen, puurakenteinen, kolmipaikkainen, kaksitasoinen ja kaksimoottorinen vesi- ja tiedustelulentokone. Koneen oli suunnitellut ja rakentanut Friedrichshafen Flugzeugbau. Sillä lennettiin Saksassa ensimmäisen kerran kesällä 1917.
+Konetta käytettiin tiedustelutoiminnan lisäksi myös pommitukseen ja merialueiden miinoitukseen. A-mallista kehitettiin erityisesti torpedojen kuljettamiseen tarkoitettu muunnos FF 41AT, jossa rungon muotoilua oli muutettu ja alkuperäiset kolmoissivuperäsimet oli korvattu tavanomaisella. FF 41AT-mallia valmistettiin viisi kappaletta.
+FF 41 oli käytössä Suomen lisäksi ainakin Saksassa ja Virossa. Sitä valmistettiin ilmeisesti kaikkiaan vain yhdeksän kappaletta.
+
+
+== Tekniikkaa ==
+Suluissa versiot
+Kärkiväli: 21,96 m
+Pituus: 13,70 m
+Korkeus: 4,65 m
+Siipipinta-ala: 112,5 m²
+Tyhjäpaino 2.323 kg
+Lentopaino: 3.670 kg
+Moottori: kaksi 6-sylinteristä nestejäähdytteistä 150 hv:n Benz III-rivimoottoria
+
+
+== Suorituskyky ==
+Huippunopeus: 120 km/h
+Lentoaika: 6 h
+
+
+== Aseistus ==
+Yksi konekivääri
+Pommeja
+700 kg:n torpedo, jota ei käytetty Suomessa
+
+
+== Käyttö Suomessa ==
+Suomen ilmavoimille ostettiin 26. marraskuuta 1918 Tallinnan saksalaiselta lentoasemalta yksi FF 41AT-kone. Yksilön tunnukseksi tuli 6.A1 ja se kuljetettiin alkuvuodesta 1919 osina Sortavalaan, missä se kunnostettiin ja koelennettiin. Vuonna 1922 se siirrettiin korjattavaksi Ilmailutelakalle Santahaminaan, jossa rungon etuosan muotoa muutettiin ja torpedoripustimet poistettiin. 21. marraskuuta 1922 alkaen sillä lennettiin kolme lyhyttä paikallislentoa ja alkukesästä 1923 vielä viisi lentoa, viimeinen lento oli 4. heinäkuuta 1923. Moottoreita ei saatu koskaan toimimaan kunnolla ja poisto tehtiin rekisteristä tammikuussa 1924. Kyseisen yksilön tunnettu lentoaika on 3h 20 min.
+Kone oli Suomen ilmavoimien ensimmäinen kaksimoottorikone ja se oli käytössä vuosina 1918 - 1923. Konetta kutsuttiin "Friedrichshafen-suurkoneeksi".
+
+
+== Lähteet ==
+Kalevi Keskinen, Kyösti Partonen, Kari Stenman, Suomen Ilmavoimat I 1918-27, 2005. ISBN 952-99432-2-9.
+Kalevi Keskinen, Kari Stenman, Klaus Niska, Suomen ilmavoimien lentokoneet 1918-1939, Tietoteos, 1976.
+Timo Heinonen, Thulinista Hornetiin, Keski-Suomen Ilmailumuseon julkaisuja 3, Gummerus Kirjapaino Oy, 1992. ISBN 951-95688-2-4.

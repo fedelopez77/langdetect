@@ -1,0 +1,84 @@
+Tlumené kmitání je mechanické kmitání, které po určité době ustává. V reálném světě vždy existuje tření a různé jiné odporové síly, které způsobují, že oscilující systém postupně ztrácí energii a jeho amplituda se s časem zmenšuje. Jakkoliv bychom se snažili zamezovat těmto nepříznivým vlivům, omezuje nás druhý zákon termodynamiky, podle kterého se mechanická energie postupně přeměňuje na vnitřní tepelnou energii. Závislost odporových sil od výchylky a její časové derivace může být obecně velmi složitá. V nejjednodušším modelu je odporová síla přímo úměrná první časové derivaci výchylky a působí proti narůstání výchylky. V případě tělesa na obrázku vpravo odporová síla vzduchu působí vždy proti směru pohybu tohoto tělesa.
+Ve zmíněném ideálním případě lze zapsat pro časový vývoj výchylky následující diferenciální rovnici:
+kde 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  , 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   a 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   bychom získali analýzou sil působících na systém. Pokud obě strany rovnice vydělíme 
+  
+    
+      
+        
+          M
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle M^{*}}
+  , dostaneme
+Aby se rovnice zjednodušila, zavedeme substituci:
+První parametr se nazývá vlastní úhlová frekvence a určuje úhlovou frekvenci v případě, kdyby neexistovaly žádné tlumící vlivy. Druhý parametr je tlumení . Tlumení je bezrozměrná fyzikální veličina.
+Diferenciální rovnice nyní nabyla tvar
+Tato diferenciální rovnice se většinou řeší s předpokladem, že hledané řešení 
+  
+    
+      
+        x
+        (
+        t
+        )
+      
+    
+    {\displaystyle x(t)}
+   má tvar
+kde γ je obecně komplexní číslo. Tento předpoklad není jen tipem, ale vychází z poznatku, že derivací exponenciální funkce je opět funkce exponenciální a v naší rovnici se součet jednotlivých derivací musí rovnat nule.
+Po dosazení a vydělení členem 
+  
+    
+      
+        
+          e
+          
+            γ
+            t
+          
+        
+      
+    
+    {\displaystyle e^{\gamma t}}
+   dostáváme jednoduchou rovnici:
+To je jednoduchá kvadratická rovnice s dvěma řešeními.
+
+
+== Chování systému při tlumených kmitech ==
+V závislosti na velikosti tlumení 
+  
+    
+      
+        ζ
+      
+    
+    {\displaystyle \zeta }
+   lze rozlišit 3 situace, které jsou popsány v následující tabulce:

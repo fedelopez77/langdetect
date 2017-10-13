@@ -25,11 +25,15 @@ def test_data(profiles, dir_path):
             with open(path + filename, 'r') as f:
                 text = f.read()
                 f.close()
-                results = ld.detect_language(text, profiles)
-                detected_language = results[0][0]
+                try:
+                    results = ld.detect_language(text, profiles)
+                    detected_language = results[0][0]
 
-                if detected_language == language: lang_right += 1
-                else: lang_wrong += 1
+                    if detected_language == language: lang_right += 1
+                    else: lang_wrong += 1
+
+                except ZeroDivisionError:
+                    print "ERROR: %s" % path + filename
 
         right += lang_right
         wrong += lang_wrong
@@ -46,12 +50,11 @@ def test_data(profiles, dir_path):
 
 def test_accuracy():
     profiles = ld.create_languages_profiles()
+    path_cwd = os.getcwd()
 
-    training_data_path = os.getcwd() + ld.PATH_DATASETS
-    test_data(profiles, training_data_path)
-
-    testing_data_path = os.getcwd() + ld.PATH_DATASETS + "testing/"
-    test_data(profiles, testing_data_path)
+    # test_data(profiles, path_cwd + ld.PATH_TRAIN)
+    # test_data(profiles, path_cwd + ld.PATH_DATASETS + "validation/")
+    test_data(profiles, path_cwd + ld.PATH_DATASETS + "test/")
 
 
 test_accuracy()

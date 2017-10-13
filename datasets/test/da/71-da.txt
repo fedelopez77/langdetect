@@ -1,0 +1,18 @@
+FreeDOS er et styresystem, der stræber mod at være 100% kompatibelt med MS-DOS. FreeDOS er fri og åben source software med undtagelse af nogle få utils. Det kører på IBM PC kompatible computere.
+Projektet begyndte den 28. juni 1994 som et svar på at Microsoft ikke længere ville sælge eller yde support på MS-DOS. 12 år efter, den 3. september 2006, blev version 1.0 frigivet.
+FreeDOS bliver nogle gange distribueret med pc-systemer, når der er krav om at disse sælges med et pre-installeret operativsystem.
+
+
+== Se også ==
+MS-DOS
+DOS
+DOS Extender
+
+
+== Eksterne henvisninger ==
+
+FreeDOS' officielle hjemmeside
+Download
+
+
+== Referencer ==

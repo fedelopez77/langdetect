@@ -1,0 +1,10 @@
+Elektrický náboj (Q) je fyzikálna veličina, ktorá vyjadruje veľkosť schopnosti pôsobiť elektrickou silou.
+Značka: Q (angl. quantity of charge)
+Základná jednotka: coulomb, skratka C
+Ďalšie používané jednotky: milicoulomb mC, mikrocoulomb μC; ampérhodina Ah, miliampérhodina mAh
+Merací prístroj: elektrometer
+Elementárne kvantum: e = 1,602177 x 10−19 C
+
+
+== Pozri aj ==
+magnetický náboj

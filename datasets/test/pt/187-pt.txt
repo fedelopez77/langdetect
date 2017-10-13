@@ -1,0 +1,25 @@
+Nitroguanidina é o nitroderivado da guanidina, no qual foi-se adicionado o grupo nitro (-NO2) ao nitrogênio, tendo a fórmula (NH2)2CNNO2. É um sólido incolor e cristalino que funde a 232°C e decompõe-se a 250°C. Dificilmente se inflama e é um explosivo de baixa sensibilidade. No entanto, sua velocidade de detonação é alta. É usado como propelente (em geral em airbags, embora possa ser utilizado como base para certos tipos de propelentes para munição), fertilizante, e para outros fins.
+
+
+== Produção ==
+A nitroguanidina é produzida comercialmente por um processo de dois passos a partir da reação da cianamida de cálcio com nitrato de amônio. Em seguida, através da intermediação de biguanidas numa reação de amonólise há a formação do sal de nitrato de guanidínio. No segundo passo, o sal de nitrato é tratado com ácido sulfúrico, um processo que desidrata o sal e forma a ligação NN.
+[C(NH2)3]NO3 → (NH2)2CNNO2 + H2O
+A nitroguanidina também pode ser gerada pelo tratamento da ureia com nitrato de amônio. Devido a problemas de fiabilidade e segurança, este processo não foi comercializado apesar das suas atrativas características econômicas.
+
+
+== Usos ==
+
+
+=== Propelente ===
+A nitroguanidina é utilizada como um propelentes de armas de fogo, nomeadamente na forma de pólvora sem fumaça de base tripla. A nitroguanidina reduz a temperatura do flash e da chama do propulsor, evitando um estresse por pressão na câmara. Estes são tipicamente usados ​​em armas de grande calibre onde a erosão do barril e flash são intensos e devem ser evitados.
+
+
+=== Pesticidas ===
+A nitroguanidina pode ser utilizada para a criação de inseticidas, tendo um efeito comparável as neonicotinoides. Dentre seus principais derivados, estão a clotianidina, a imidacloprida, o tiametoxam e o dinotefuran.
+
+
+== Reatividade ==
+A nitroguanidina existe em duas formas tautoméricas , como uma nitroimina (1-nitroguanidina, esquerda) ou uma nitroamina (2-nitroguanidina, direita), no qual em estado sólido ou em solução, há a predominância da forma nitroimina (estabilizada por ressonância).
+
+
+== Referências ==

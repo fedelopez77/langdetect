@@ -1,0 +1,14 @@
+Junga modulis jeb materiāla elastības modulis ir koeficients, kas raksturo materiāla pretestību stiepes vai spiedes elastīgajai deformācijai. Junga moduli SI mērvienībās izsaka paskālos jeb N/m2. Elastības modulis atkarīgs no vielas uzbūves (saitēm starp vielas molekulām) un ārējiem apstākļiem — temperatūras, vielas termiskās apstrādes u.c.
+Šis koeficients nosaukts 18. gadsimta angļu zinātnieka Tomasa Janga (Thomas Young) vārdā, kurš šo elastības raksturlielumu aprakstīja 1807. Pirms tam, jau 1727. gadā Leonards Eilers šo ideju bija aprakstījis, un 1782. gadā eksperimentus bija veicis itāļu zinātnieks Džordano Ričati.
+Junga modulis ietilpst Huka likumā kā proporcionalitātes koeficients E sakarībai starp mehānisko spriegumu σ un relatīvo deformāciju ε:
+
+  
+    
+      
+        σ
+        =
+        E
+        ε
+      
+    
+    {\displaystyle \sigma =E\varepsilon }

@@ -1,0 +1,42 @@
+Automated Transfer Vehicle (ATV), er et ubemandet rumfartøj udviklet af Den Europæiske Rumorganisation (ESA).
+ATV rumfartøjerne er udviklet med henblik på at bringe forsyninger til Den Internationale Rumstation. Forsyninger som brændstof, vand, ilt og eksperimenter, fartøjets vægt uden last er på cirka 9 ton.
+Den Internationale Rumstation kredser i en højde hvor der stadig er en smule luftmodstand. Friktionen vil med tiden nedbremse ISS, der taber 100 m i døgnet. I de lavere højder vil en kraftigere luftmodstand nedbremse ISS yderligere, så den til sidst brænder op i atmosfæren. For at forhindre dette kan ATV-fartøjet bringe rumstationen tilbage til det højere kredsløb. Jævnlige løft af ISS vil forlænge levetiden betragteligt.
+Når ATV-fartøjets last er overført til rumstationen vil den fungere som affaldsdepot, efter cirka 6 måneder vil den blive sendt ned igennem Jordens atmosfære for at brænde op ved genindtræden.
+
+
+== Første ATV rumfartøj – Jules Verne ==
+Første opsendelse af et ATV-fartøj skete d. 9. marts 2008 og blev koblet til rumstationen d. 3. april. Fartøjet er navngivet Jules Verne, opkaldt efter forfatteren Jules Verne.
+Jules Vernes vægt med last er cirka 20 ton.  Kontrollen med fartøjet vil blive styret af ESA's ATV Control Centre (CNES) i Frankrig. Opsendelsen skete fra den europæiske rumhavn i Kourou (Fransk Guyana).
+Jules Verne blev opsendt med Ariane 5-raketten, og kunne nå frem til rumstationen på 2-3 dage, men på den første mission varede turen 8 til 10 dage for at afprøve nogle testmanøvrer i god afstand af rumstationen.
+Der blev rapporteret om problemer med motorerne efter opsendelsen d. 9. marts.  Problemerne blev hurtigt løst  og efterfølgende testmanøvrer var uden problemer.
+5 april 2008 ISS' besætning går om bord på Jules Verne
+25 april 2008 Jules Verne løfter ISS .
+16 juni 2008 Rumstationens beboere benytter Jules Verne som baderum. 
+18 juni 2008 Brændstofpåfyldning.
+20 juni 2008 Jules Verne løfter ISS .
+28 august 2008 Jules Verne bremser ISS ned for at undgå sammenstød med rumaffald og løfter efterfølgende ISS tilbage i normal bane.
+Jules Verne har opfyldt forventningerne endda lidt udover det forventede, astronauterne har benyttet ATV'en som badeværelse, ikke lige det den var beregnet til, men gæsterne var tilfredse.
+
+
+== Første ATV frakobling og afbrænding i atmosfæren ==
+Jules Vernes blev frakoblet d. 5. september 2008, og blev som planlagt sendt ind i Jordens atmosfære d. 29. september 2008 hvor den brændte op som affaldscontainer.
+23 september 2008 På grund af orkanen "IKE" var der et mindre nedbrud på NASAs kommunikationssatellit (TDRSS) måtte ESAs kommunikationssatellit Artemis helt overtage kommunikationen med Jules Verne. Normalt kommunikerer begge satellitter med Jules Verne.
+29. september 2008 Jules Verne er på vej gennem Jordens atmosfære.
+30. september 2008 Det meste af Jules Verne brændte op i atmosfæren, resterne endte i Stillehavet.
+
+
+== ATV-flyvninger ==
+
+
+== Se også ==
+Progress
+
+
+== Eksterne henvisninger ==
+
+(Engelsk) Automated Transfer Vehicle ESA
+(Engelsk) ATV Factsheet ESA
+(Engelsk) Mission Guide: Jules Verne BBC
+Vellykket test af Europas raket før afgang til rumstation (8/10-2007) ing.dk
+Europas største rumfartøj tager livtag med tiden (26/11-2007) ing.dk
+(Engelsk) ESA:"Jules Verne" Automated Transfer Vehicle www.youtube.com

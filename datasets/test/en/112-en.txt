@@ -1,0 +1,137 @@
+The A-Hmao language, also known as Large Flowery Miao (Chinese: 大花苗) or Northeast Yunnan Miao (Diandongbei, Chinese: 苗语滇东北方言), is a Hmongic language spoken in China. It is the language the Pollard script was designed for, and displays extensive tone sandhi. There is a high degree of literacy in Pollard among the older generation.
+The standard written language, both in Pollard and in Latin script, is that of Shíménkǎn (石门坎) village in Weining County.
+
+
+== Classification ==
+The A-Hmao language is a branch of the West Hmongic languages, also known as Chuanqiandian Miao (川黔滇方言: Sichuan–Guizhou–YunnanMiao) and Western Miao, is the major branch of the Hmongic languages of China and Southeast Asia.
+Wang Fushi (1985) grouped the Western Miao languages into eight primary divisions.
+Chuanqiandian Miao
+Northeast Yunnan Miao (A-Hmao language)
+Guiyang Miao
+Huishui Miao
+Mashan Miao
+Luobohe Miao
+Chong'anjiang Miao
+Pingtang Miao
+
+
+== History ==
+The Miao was descended from the "Jiuli" tribe in the period of Yan Di and Huang Di, "Sanmiao" in the period of Yao and Shun. "Jiuli" is a tribe, which lived in the middle and lower reaches of the Yellow River more than five thousand years ago. Then, the "Jiuli" tribe were defeated at the Battle of Zhuolu by the military coalition of Huang Di and Yan Di. Chiyou, the leader of the "Jiuli" tribe, was caught and killed by Huang Di. The rest of the "Jiuli" tribe retreated to the middle and lower reaches of the Yangtze River, and formed "Sanmiao" tribe, the established Sanmiao Country. Four thousand years ago, the Huaxia tribe of the North led by Yao, Shun, and Yu had been fighting with "Sanmiao" for nearly one thousand years. In the end, Xiayu defeated "Sanmiao" Country. After defeated, one part of the "Sanmiao" were banished to "Sanwei" (the border of present provinces of Shanxi and Gansu). Then, they were forced to migrate to the southeast. After a long time of migration, they entered into the north of Sichuan, northeast of Yunnan, and northwest of Guizhou. Later, the present Western Miao was developed. The descendant of "Sanmiao" which stationed in the middle and lower reaches of the Yangtze River and the Central Plains Area, one part of them merged with Huaxia tribe, and another part developed to what was called "Nanman" in Shang and Zhou Dynasty. While the part, which lived in the middle reaches of Han River, was called "Jingchu barbarians". Later, the advanced part of the "Jingchu barbarians" gradually developed to Chu tribe, and then Chu was developed. While the less advanced part continued to immigrate to the adjacent mountainous area of Guizhou, Hunan, Guangxi, Sichuan, Hubei and Henan provinces, and the developed to the ancestor of present East and Central Miao.
+
+
+== Geographic distribution ==
+The A-Mao language is distributed in Zhaotong, Kunming, Qujing and Chuxiong Yi autonomous prefecture in the Northeast of Yunnan Province. And also Weining Yi, Hui, and Miao autonomous county, Hezhang county, Liupanshui, and Ziyun Miao and Buyi autonomous county in the West of Guizhou Province. There are 300,000 native speakers. Representative dialect: Shimenkan (石门坎), Weining County (威宁县).
+
+
+== Sounds/Phonology ==
+
+
+=== Consonants ===
+
+
+=== Vowels ===
+
+
+=== Tones ===
+On the basis of the 8 tones of A-Hmao language, in the eastern region, the 4th, 6th, and 8th tones are broken up partially or entirely into two categories. At most, it can be up to 11 tones. Basically, nouns and quantifiers are part of the first category, and they are higher in pitch. Other word classes are part of the second category, and they are lower in pitch.
+The A-Hmao language displays extensive tone sandhi. Similar to other branches of the West Hmongic languages, the tone sandhi happens on the second syllable when the first syllable of a disyllable word is level tone (1st and 2nd tone).
+
+
+== Grammar ==
+
+
+=== morphology and vocabulary ===
+The morphology of the three branches of the Hmong language is basically the same. The following examples are from Central Miao. A-Hmao is similar to Hmong, which is an isolating language in which most morphemes are monosyllables. As a result, verbs are not overtly inflected. Tense, aspect, mood, person, number, gender, and case are indicated lexically.
+Single-morpheme word
+1) Monosyllable single-morpheme word. (single-morpheme words are mostly monosyllable in Hmong language)
+Example:
+naxi human being xed tiger
+et tree wil I
+mongx you nenx he
+hsangb thousand wangs ten thousand
+bat hundred lol come
+mongl go; leave
+2) Multisyllable single-morpheme word. (there is a small number of Multisyllable single-morpheme word in Hmong language. Mostly, they are disyllable, and there is very little of 3 or more syllables.)
+a. Alliterative. Example:
+gangt git hurry up; quickly qut qat itchy
+hcud hxangd nausea
+b. Vowel rhyme. Example:
+Same tone:
+bal nial girl box jox run
+bux lux boiling daib ghaib star
+dent ent cloud vongs nongs dirty
+Different tones:
+hsab ngas clean hsangd dangl in case
+kak liax magpie
+c. Non-alliterative and vowel rhyme. Example:
+ak wol crow bil hsaid nearly; almost
+ghob yenl chair
+d. Reiterative syllable. Example:
+gid gid slowly seix seix together
+nangl nangl still xangd xangd occasionally
+Compound word
+1) Coordinating
+a. Noun morpheme compound with noun morpheme. Example:
+hveb hseid language haxub khat relative
+nangx bit name niangx hniut age
+b. Verb morpheme compound with verb morpheme. Example:
+cub nul rebuke tid xongt construct
+khab job lesson
+c. Adjective morpheme compound with adjective morpheme. Example:
+ghongl jangl bend khed hxat poverty
+2) Modifying
+a. Noun morpheme modifying noun morpheme. Example:
+det diangx candle det diux key
+eb mais tears gad wangx corn
+b. Adjective morpheme modifying noun morpheme. Example:
+bad yut uncle mais lul aunt
+3) Dominating
+a. Verb morpheme dominating noun morpheme. Example:
+dlangd wangb dress up qet ves rest
+b. Adjective morpheme dominating noun morpheme. Example:
+dad hvib patience hvent ves pleasantly cool
+mais bil proficiency mais ves tired
+4) Affixes
+Mostly are prefixes, and commonly used prefixes are ghab-, diub-, hangd-, gid-, jib-, daib-, bod-, xuk-, and so on. Ghab- is the most commonly used.
+a. Ghab- means human or animal body and part, plant part and things related to plants, natural objects, things related to buildings, utensils and abstract objectives. Example:
+ghab jid body ghab naix ear
+ghab ghaib root ghab nex leaf
+ghab qangb living room ghab sot kicken
+ghab dliux soul ghabnangs destiny
+b. Diub- means location. Example:
+diub senx provincial capital dioub ghaib on the street
+diub zaid at home
+c. Hangd-/khangd- means aspect and direction. Example:
+hangd nongx hangd nangl aspect of eating and wearing
+hangd nongd here hangd momgx there
+hangd deis where
+d. Gid- means aspect and direction. Example:
+gid waix above gid dab below
+gid gux outside gid niangs inside
+e. Jib- means person. Example:
+jib daib child jib hlangb grandchild
+jib bad man
+f. Daib- means person and some kinship terminology. Example:
+daib pik girl daib jangs man, boy, husband
+daib nenl uncle
+g. Bod- means round object. Example:
+bod vib stone bod ghof jus knee
+bod liul fist
+h. Xuk- means uncertain quantity.
+xuk laix a handful of
+
+
+=== Syntax ===
+The syntax of Hmong languages, regardless of the type of part of speech or phrase and the division of constituents of the sentence and the sentence types, are basically the same. The basic word order of Hmong is SVO. Within the noun phrase, possessors precede possessed nouns, and adjectives and relative clauses follow the nouns they modify. Noun phrases have the form as (possessive) + (quantifier) + (classifier) + noun + (adjective) + (demonstrative). As in Chinese, question formation does not involve word order change. For wh- questions, the wh- word does not occupy a sentence-initial position in Hmong as in many other languages. (e.g. the English sentence ‘What are you doing?’ would be rendered ‘you do what’ in Hmong)
+
+
+== Writing system ==
+A-Hmao is an ethnic group without their own writing system. Until the beginning of the 20th century, missionary Samuel Pollard invented the Pollard script, which was based on the decorative symbols on their clothing. During the time without writing system, the way A-Hmao people recorded their history, besides passing down through their ancient songs, was that they weave the history of their past memories on their clothes. Those images became the historical memory of their national construction.
+
+
+== References ==
+
+
+== External links ==
+A-Hmao (Diandongbei) basic lexicon at the Global Lexicostatistical Database
+283-word wordlists in Wuding Jiyi A-Hmao 花苗 dialect, ellicited in Standard Mandarin, archived with Kaipuleohone. (KG2-003, KG2-019)

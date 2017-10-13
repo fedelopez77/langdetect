@@ -1,0 +1,32 @@
+O Boeing E-3 Sentry é uma aeronave militar de AWACS que fornece em qualquer tempo vigilância, comando, controle e comunicações aos Estados Unidos, Reino Unido, França, OTAN e outras forças de defesa aérea. A produção foi encerrada em 1992, após 68 exemplares.
+
+
+== Especificações (E-3 da USAF/NATO) ==
+Dados de: Globalsecurity.org.
+Descrições gerais
+Tripulação: 4 tripulação de voo e 13-19 tripulação de missão
+Comprimento: 46,61 m (150 ft)
+Envergadura: 44,42 m (150 ft)
+Altura: 12,6 m (41 ft)
+Área alar: 283,4 m² (3 050 ft²)
+Peso vazio: 73 480 kg (162 000 lb)
+Peso bruto (carregado): 156 036 kg (344 000 lb) - com reabastecimento aéreo
+Peso de decolagem: 157 397 kg (347 000 lb)
+Motorização
+Número de motores: 4x
+Tipo do motor: Turbofan
+Fabricante/modelo: Pratt & Whitney TF33-PW-100A
+Empuxo por motor: 9 752,23 kgf (21 500 lbf) (93 kN)
+Performance
+Velocidade máxima: 855 km/h (531 mph)
+Velocidade total em Mach: 0.6984 Ma
+Velocidade total em Nó: 461,2 kn (855 km/h)
+Alcance: 7 400 km (4 600 mi)
+Autonomia: 8.0 hs
+Tecto de serviço: 12 500 m (41 000 ft)
+
+
+== Notas ==
+
+
+== Referências ==

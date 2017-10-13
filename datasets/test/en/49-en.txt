@@ -1,0 +1,67 @@
+PolyMorphic Systems was a manufacturer of microcomputer boards and systems based on the S-100 bus. Their products included the Poly-88 and the System 8813. The company was incorporated in California in 1976 as Interactive Products Corporation d/b/a PolyMorphic Systems. It was initially based in Goleta, then Santa Barbara, California.
+
+
+== S-100 boards ==
+PolyMorphic Systems' first products were several interface boards based on the then-popular S-100 bus. These were compatible with other microcomputers such as the Altair 8800 and IMSAI 8080. The first was an A/D and D/A converter board. This was followed by a video terminal interface (VTI) card which became the primary display device for their systems. Later board-level products included CPU, RAM, and disk controller cards.
+
+
+== Poly-88 ==
+
+With the release of their CPU card, PolyMorphic began selling complete systems. Their first was the Poly-88, housed in a 5-slot S100 chassis, with additional side-mounted S-100 connectors for the purpose of joining chassis together. This unit earned the nickname "orange toaster" due to its orange metal cover, and the fact that the S-100 cards generated noticeable heat. The Poly-88 was available in kit form, or assembled. It was originally called the Micro-Altair, but after objections from MITS, manufacturers of the Altair, the name was changed.
+
+
+=== Hardware ===
+The Poly-88 board set consisted of the following:
+Central Processing Unit (CPU) with an Intel 8080 chip, and an 8251 USART for serial communication to a modem, printer, or cassette tape interface. The cassette tape interface supported program storage and loading from consumer-grade cassette tape recorders, using either Kansas City standard or higher speed Manchester encoded signals. The board contained 512 bytes of RAM and one 1024-byte ROM.
+Video Terminal Interface (VTI) which produced a 16-line display of 64 characters per line. The VTI was intended to drive a television using an RF modulator, or to be connected directly to a TV monitor's composite video input (not commonly available in the 1970s). The VTI also displayed low-resolution graphics (today called text semigraphics). Each character position was divided into a grid 2 dots wide and 3 high, giving a graphics resolution of 128 horizontal and 48 vertical pixels, the same as the original TRS-80. A TTL-level, parallel keyboard interface was also included on the VTI. Several keyboards were available, including the Keyboard III which included a numeric keypad.
+Random Access Memory (RAM) cards were also available, with capacities ranging from 8,192 (8K) bytes up to 56K (the maximum supported in their system architecture). Since the systems were based on the S-100 bus, other manufacturers' memory card could be used in Poly systems as well.
+
+
+=== Software ===
+The Poly-88 ROM contained a boot loader program, capable of reading programs from the cassette tape interface. Available programs included games, utilities, a BASIC interpreter, and an 8080 assembler.
+
+
+== System 8813 ==
+
+PolyMorphic's disk-based system was the System 8813. It consisted of a larger chassis holding one, two, or three 5 1⁄4-inch minifloppy disk drives from Shugart Associates. The drives used single-sided, single-density storage on hard-sectored diskettes. Storage capacity was approximately 90K bytes per diskette.
+
+
+=== Hardware ===
+System 8813 hardware included the standard CPU and VTI cards; a RAM card, typically with at least 32K of memory; and a disk controller card, to interface with the minifloppy drives. Later, a Z80 based disk controller supported double sided, double-density minifloppy drives, and full-size (8-inch) floppy drives.
+
+
+=== Software ===
+The Poly disk operating system was called Exec. The three disk drives were distinguished by numbers enclosed in angle brackets such as <1>, rather than the drive letter convention (A:) used by CP/M and later MS-DOS. File names were case-sensitive and could contain up to 31 characters including a two-character extension. For example, a text file might be named Notes.TX.
+Various file extensions had predefined meanings: .GO for executable files, .BS for BASIC programs, .OV for overlays. Overlays were used extensively to provide more code space for the operating system. If a file named INITIAL.TX was present when the system booted, commands listed in that file were executed automatically, similar to the AUTOEXEC.BAT file of an MS-DOS system.
+Later versions of Exec supported subdirectories. The naming syntax continued to use angle brackets. For example, a file in a second-level subdirectory on drive 2 might be named <2<Projects<Dan<Accounts.TX. Unlike MS-DOS and Unix, no explicit "make directory" command was needed. When a program tried to create a file within a subdirectory, that subdirectory would be automatically created (if it didn't already exist).
+System 8813 software included an 8080 macro assembler and a BASIC interpreter for program development. Poly BASIC used BCD arithmetic for high precision in financial applications. A word-processing system, named WordMaster, consisted of a text editor and separate formatter program. Stuart Woods wrote his second novel, Run Before the Wind, using WordMaster on a PolyMorphic 8813 system.
+
+
+== Other Products ==
+
+
+=== System 8810 ===
+With the introduction of double-sided, double density minifloppy drives, the storage capacity of a single floppy became approximately 360K bytes (the same as the original IBM-PC floppy drive capacity). This made it feasible to store Exec, applications and data on a single floppy. The System 8810 was functionally identical to the 8813, but in a smaller chassis, with 5 slots and only one minifloppy drive.
+
+
+=== Mass Storage ===
+The 88/MS (Mass Storage) was a cabinet housing dual, 8-inch (full size) floppy drives. It was available with either single- or double-sided disk drives, both using double-density recording on hard-sectored media. The 88/MS could be added onto either an 8813 or 8810 system. The largest Poly configurations would contain three mini-floppy drives and four full-size drives, with drive numbers from 1 to 7.
+The 88/HD was a subsystem with an 18 MB SASI hard drive, housed in an 8810 chassis. Software called Volume Manager partitioned the available space into several logical disk drives, similar to the FDISK partitioning command used by other operating systems.
+
+
+=== TwinSystem ===
+The TwinSystem was marketed as "Get more work done on a computer built for two." The System 8813 TwinSystem had an additional RAM card, video card, and keyboard. Bank switching between the RAM cards allowed the CPU to keep two applications in memory simultaneously. However, the TTL-level keyboard interface limited the distance between the two user stations to a few feet.
+
+
+=== CP/M Compatibility ===
+The dominant operating system for microcomputers in this era was CP/M. Unmodified Poly systems were unable to run CP/M, for several reasons:
+Hard-sectored floppy disks. Nearly all CP/M systems used soft-sectored diskettes, so it was difficult to transport information between CP/M and Poly systems.
+Memory map. CP/M required RAM from addresses 0000 to (ideally) FFFF hex. The Poly CPU and VTI cards mapped ROM and video memory into the area between 0000 and 1FFF.
+Late in the system's lifetime, hardware modifications were introduced to solve the memory map issues, and a version of CP/M was released for the 8813.
+
+
+== References ==
+
+
+== External links ==
+History of Polymorphic Systems computers.

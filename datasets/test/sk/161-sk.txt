@@ -1,0 +1,52 @@
+Kryštál (angl. crystal, v schémach sa označuje ako XTAL) je v elektronike (mierne nepresný) názov súčiastky, ktorá slúži na stabilizáciu frekvencie kmitov elektronického oscilátora.
+
+
+== Princíp ==
+Výbrus z monokryštálu piezoelektrického materiálu (obvykle kremeňa) je opatrený polepmi (elektrickými kontaktami). Pri priložení striedavého napätia vzniknú mechanické kmity, ktoré majú za následok zmenu impedancie súčiastky. Pri dosiahnutí mechanickej rezonancie kryštálu je imaginárna časť impedancie – reaktancia – kladná (t. j. kryštál má induktívny charakter). Toto nastáva vďaka mechanickému usporiadaniu len vo veľmi malom rozsahu frekvencií.
+
+
+== Podobné prvky ==
+Podobné vlastnosti majú aj keramické rezonátory, ktoré využívajú piezoelektrické vlastnosti niektorých keramických materiálov. Keramické rezonátory sú síce o niečo lacnejšie, ale majú horšiu presnosť aj teplotnú stabilitu, takže sa používajú len v nenáročných aplikáciách, z ktorých ich však v poslednom čase vytláčajú integrované RC-oscilátory v mikrokontroléroch.
+Keramické rezonátory sa však aj naďalej používajú vo forme keramických filtrov v úzkopásmových analógových filtroch.
+Piezoelektrický jav využívajú aj analógové (používané napr. v demodulátoroch farebných televízorov) a digitálne oneskorovacie linky (používané napr. v pamäťových kontroléroch základných dosiek počítačov), ale tieto prvky sú v poslednom čase nahrádzané inými riešeniami a strácajú svoj význam.
+Najnovšie sú pre generovanie presnej frekvencie v elektronike používané elektromechanické oscilátory vyrobené mikro-elektromechanickými technológiami (MEMS).
+
+
+== Vlastnosti ==
+
+
+=== Frekvencie ===
+Pracovné frekvencie bežných kryštálov sú v rozsahu desiatok kHz až desiatok MHz. Pre menšie frekvencie sú fyzické rozmery kryštálu neprimerane veľké a je ich možné ľahko dosiahnuť delením vyššej frekvencie digitálnymi deličmi frekvencie. Kryštály kmitajúce na základnej frekvencii sa vyrábajú do asi 20 MHz. Vyššie frekvencie sa dosahujú použitím kryštálov kmitajúcich na nepárnych harmonických frekvenciách (prípadne násobením frekvencie oscilátora rôznymi technikami).
+
+
+=== Presnosť ===
+Ide vlastne o výrobnú toleranciu kryštálu. Vyjadruje sa ako relatívna odchýlka od menovitej hodnoty v jednotkách ppm (parts per million, milióntinách). Bežné kryštály majú presnosť 50 – 100 ppm, kvalitnejšie a drahšie kryštály majú presnosť jednotiek ppm. Presnejšie kryštály sú obvykle pre nižšie frekvencie, kde fyzické rozmery kryštálu sú väčšie a tým sa dajú vyrobiť presnejšie, napr. kryštály pre hodinky (kde je potrebné dosiahnuť presnosť asi 1 sekundu za deň, čo je okolo 10 ppm) pracujú obvykle na frekvencii 32.768 kHz.
+
+
+=== Stabilita v čase ===
+Na stabilitu frekvencie kryštálu v čase vplýva okrem výrobných faktorov (poruchy, čistota) najmä „záťaž“ kryštálu v prevádzke, t. j. zvýšená teplota, teplotné a mechanické šoky a budiaci výkon. Vyjadruje sa obvykle v ppm/rok.
+
+
+=== Teplotná stabilita ===
+Teplotná závislosť frekvencie kryštálu je daná vlastnosťami použitého materiálu a kryštalografickej orientácie použitého rezu. Pre veľmi presné aplikácie sa umiesňuje kryštál do termostatu, ktorý ho udržiava na konštantnej teplote bez ohľadu na teplotu okolia, čím sa eliminuje teplotná závislosť frekvencie kryštálu.
+
+
+=== Ladenie ===
+Pracovná frekvencia kryštálového oscilátora sa dá preladiť v pomerne úzkom rozsahu pomocou kondenzátora pripojeného paralelne ku kryštálu. Pre širšie prevádzkové preladenie je potrebné použiť sadu kryštálov, oscilátor fázovo zavesený na referenčný kryštálový oscilátor alebo techniku DDS. Aj keď sa v rádioamatérskej praxi používalo (jednorazové) ladenie samotných kryštálov (po odpuzdrení pomocou jódových pár), takto preladené kryštály mali obvykle problematickú dlhodobú stabilitu.
+
+
+=== Prevádzka na harmonických frekvenciách ===
+V obvyklom zapojení, kde kryštál je zapojený v spätnej väzbe pomerne širokopásmového zosilňovača (Pierceov oscilátor), kmitá kryštál na svojej základnej frekvencii. Aby sa dosiahlo kmitanie na nepárnych harmonických frekvenciách (pre frekvencie nad 20 MHz), je potrebné potlačiť základnú frekvenciu, obvykle zaradením indukčnosti (cievky) do obvodu. Niektoré kryštály sú priamo konštruované pre prevádzku na harmonických frekvenciách, naopak, u niektorých kryštálov je konštrukciou takmer vylúčená prevádzka na harmonických frekvenciách.
+
+
+== Použitie ==
+Kryštály sa používajú v oscilátoroch počítačov (dnes obvykle nasledovaných PLL obvodmi, vďaka ktorým je možné meniť pracovnú frekvenciu počítača), mikrokontrolérov, a tiež v hodinových obvodoch pre meranie času.
+
+
+=== Kryštálové oscilátory (integrované) ===
+Niekedy sa oscilátor spolu s kryštálom vyrába ako jedna súčiastka, nazývaná kryštálový oscilátor (skr. XCO, z angl. Xtal Controlled Oscillator). Niektoré firmy ponúkajú takýto oscilátor s integrovaným PLL obvodom, ktorého konštantu je možné digitálne nastaviť. Iný druh je oscilátor, ktorý sa dá preladiť priloženým napätím, príp. typy so zabudovaným termostatom.
+
+
+== Externé odkazy ==
+Aplikačná poznámka „Oscilátory pre mikrokontroléry“ (Intel)
+Výrobca alternatívy kryštálového oscilátora, založeného na MEMS

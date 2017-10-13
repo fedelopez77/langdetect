@@ -1,0 +1,32 @@
+El Television Interface Adapter (TIA) es el adaptador o la base de la videoconsola Atari 2600. Fue creado por Jay Miner.
+Atari utilizó versiones mejoradas del TIA para sus Atari 400 y Atari 800 llamadas:
+Color Television Interface Adapter (CTIA) y,
+George's Television Interface Adapter (GTIA).
+Programar para el TIA es muy complicado; limitaciones como la ausencia de un framebuffer y el hecho de que tres ciclos de píxeles equivalgan a uno de la CPU dificultan el trabajo del desarrollador, aunque lo hacen un interesante reto para los programadores aficionados.
+
+
+== Funciones del TIA ==
+El adaptador TIA se encarga de generar las imágenes en el televisor y de proporcionar acceso a las capacidades gráficas existentes en el hardware usadas para representar los gráficos de los videojuegos. Debido al coste de la memoria en la época, el TIA no cuenta con una memoria VRAM dedicada, con lo que tan sólo genera una línea de imagen cada vez. La imagen se crea a partir de los datos almacenados en siete registros:
+Un color de fondo.
+Dos sprites de ocho píxeles, que hacen la función de jugadores (players) 1 y 2.
+Una pelota (ball), básicamente líneas de diferentes tamaños.
+Dos proyectiles (missiles), básicamente líneas de diferentes tamaños.
+El TIA gestiona por hardware la detección de colisiones, entre estos objetos, y almacena los mapas de bits de las colisiones, los cuales se suelen leer durante el período VBLANK (rutinas de borrado vertical de la lista de despliegue). Los registros del TIA permiten al programador controlar la posición de los objetos así como su color. Además, el TIA también es el responsable de generar dos canales de sonido, de los que el programador puede controlar el tono, el volumen y el tipo de sonido. Por último, el TIA es capaz de recibir información de un joystick analógico con potenciómetro y de sus gatillos.
+
+
+== Capacidad de color ==
+El TIA utiliza diferentes paletas de color dependiendo del formato de televisión utilizado.
+Para NTSC dispone de un paleta de 128 colores, para PAL es de 104 colores, y para SECAM es de 8 colores solamente.
+
+
+== Véase también ==
+Adaptador (informática)
+Atari 2600
+Videoconsola
+
+
+== Enlaces externos ==
+Stella Programming Guide.
+TIA technical information.
+TIA technical manual.
+Programando juegos sin recursos.

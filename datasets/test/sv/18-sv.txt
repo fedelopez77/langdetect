@@ -1,0 +1,75 @@
+Inom matematiken är Shimizus L-funktion, introducerad av Shimizu (1963), en Dirichletserie associerad till en totalt reell algebraisk talkropp. Michael Francis Atiyah, H. Donnelly, and I. M. Singer (1983) definierade signaturdefekten av randen av en mångfald som etainvarianten, värdet vid s=0 av deras etafunktion, och använde detta till att bevisa att Hirzebruchs signaturdefekt av en spets av en Hilbert-modulär yta kan uttryckas med hjälp av värdena vid s=0 eller 1 av Shimizus L-funktion.
+
+
+== Definition ==
+Anta att K är en totalt reell algebraisk talkropp, M dess gitter i kroppen samt V en delgrupp av maximalt rang i gruppen av totalt positiva enheter som bevarar gittret. Då definieras Shimazus L-funktion som
+
+  
+    
+      
+        L
+        (
+        M
+        ,
+        V
+        ,
+        s
+        )
+        =
+        
+          ∑
+          
+            μ
+            ∈
+            {
+            M
+            −
+            0
+            }
+            
+              /
+            
+            V
+          
+        
+        
+          
+            
+              sign
+              ⁡
+              N
+              (
+              μ
+              )
+            
+            
+              
+                |
+              
+              N
+              (
+              μ
+              )
+              
+                
+                  |
+                
+                
+                  s
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle L(M,V,s)=\sum _{\mu \in \{M-0\}/V}{\frac {\operatorname {sign} N(\mu )}{|N(\mu )|^{s}}}.}
+  
+
+
+== Källor ==
+Den här artikeln är helt eller delvis baserad på material från engelskspråkiga Wikipedia, Shimizu L-function, 6 november 2014.
+Atiyah, Michael Francis; Donnelly, H.; Singer, I. M. (1982), ”Geometry and analysis of Shimizu L-functions”, Proceedings of the National Academy of Sciences of the United States of America 79 (18): 5751, doi:10.1073/pnas.79.18.5751, ISSN 0027-8424, http://www.jstor.org/stable/12685 
+Atiyah, Michael Francis; Donnelly, H.; Singer, I. M. (1983), ”Eta invariants, signature defects of cusps, and values of L-functions”, Annals of Mathematics. Second Series 118 (1): 131–177, doi:10.2307/2006957, ISSN 0003-486X, http://dx.doi.org/10.2307/2006957 
+Shimizu, Hideo (1963), ”On discontinuous groups operating on the product of the upper half planes”, Annals of Mathematics. Second Series 77: 33–71, doi:10.2307/1970201, ISSN 0003-486X, http://www.jstor.org/stable/1970201

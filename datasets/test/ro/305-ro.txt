@@ -1,0 +1,42 @@
+OS X v10.10 are numele de cod Yosemite și este a unsprezecea versiune a OS X.
+OS X Yosemite a fost anunțat și a fost lansat pentru dezvoltatori pe 2 iunie 2014, la WWDC 2014. Versiunea beta a fost lansată public pentru testeri pe 24 iulie 2014.
+Yosemite a fost lansat pentru consumatori pe data de 16 octombrie 2014. Denumirea de Yosemite a primit-o după Parcul Național Yosemite din California.
+
+
+== Caracteristici ==
+
+
+=== Design ===
+Multe dintre pictogramele din bara de meniu au fost actualizate pentru a fi mai subțiri, au fost curățate și sunt mai clare. Pictograma bateriei a fost actualizată să se potrivească cu stilul lui iOS 7. Având în vedere că stilul de design tinde spre o paletă luminoasă, Apple a făcut alegerea deosebită a utilizării unui albastru închis, mat pentru a indica statului selectat.
+Bara de meniu este la același nivel cu restul spațiului de lucru. În interiorul aplicației este o bară de instrumente restrânsă cu butoane ascunse sau ordonate într-un singur rând. În Finder butoanele roșu, galben și verde din colțul din stânga sus nu au efecte 3D.
+
+
+=== Mail ===
+Prima caracteristică importantă este Mail Drop care permite trimiterea de atașamente până la 5 GB prin trimiterea acestora la icloud și după, permite destinatarului descărcarea.
+A doua caracteristică nouă este child poster pentru extensii. Yosemite permite părților terțe adăugarea funcționalității la aplicațiile și caracteristicile Yosemite, într-un mod similar ca extensile lui iOS 8. Acesta e numit Markup și permite adnotarea atașamentelor de imagine din interior Mail.
+
+
+=== Centru de notificări ===
+Centru de notificări are o schimbare majoră: există două file, unul numit Notificări și al doilea numit Today (astăzi).
+Numele de Today la aceeași filă s-a adăugat la Centrul de notificări din iOS 7. A fost proiectat pentru a oferi o vizualizare rapidă a zilei curente care este compus dintr-un memento, vremea și un calculator. Widget-urile în Today sunt similare ca în iOS 8.
+
+
+== Cerințe de sistem ==
+Apple a confirmat că Mac-ul va avea nevoie de 2 GB de RAM pentru a rula Yosemite și spațiul de stocare de 8 GB.
+Este necesar OS X 10.6.8 deoarece trebuie avut Mac App Store în scopul descărcării actualizării înainte de instalare.
+Apple anunță oficial că OS X Yosemite rulează pe următoarele categorii Mac:
+iMac (de la mijlocul anului 2007 sau ulterior)
+MacBook (13 " de la sfârșitul anului 2008 de aluminiu, începutul anului 2009 sau ulterior)
+MacBook Pro (13 "mijlocul lui 2009 sau ulterior)
+MacBook Pro (15 "mijlocul / sfârșitul anului 2007 sau ulterior)
+MacBook Pro (17 " după 2007 sau ulterior)
+MacBook Air (sfârșitul anului 2008 sau ulterior)
+Mac mini (începutul anului 2009 sau ulterior)
+Mac Pro (timpurie 2008 sau ulterior)
+Xserve (începutul anului 2009)
+
+
+== Istoric versiuni ==
+
+
+== Referințe ==

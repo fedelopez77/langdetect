@@ -1,0 +1,18 @@
+A cidade brasileira de Porto Alegre, capital do estado do Rio Grande do Sul, está subdividida em oito Regiões de Gestão de Planejamento.
+Cada Região organiza o seu "Fórum Regional de Planejamento", cujas comunidades elegem um coordenador para representá-la junto ao Conselho Municipal de Desenvolvimento Urbano Ambiental (CMDUA).
+As oito Regiões englobam as dezessete regiões do Orçamento Participativo (OP); cada uma dessas, por sua vez, envolve um conjunto de bairros da cidade que apresentam afinidades entre si.
+
+
+== As oito Regiões ==
+RGP-1: Centro Histórico, Marcílio Dias, Floresta, Auxiliadora, Moinhos de Vento, Independência, Bom Fim, Rio Branco, Mont'Serrat, Bela Vista, Farroupilha, Santana, Petrópolis, Santa Cecília, Jardim Botânico, Praia de Belas, Cidade Baixa, Menino Deus, Azenha.
+RGP-2: Farrapos, Humaitá, Navegantes, São Geraldo, Anchieta, São João, Santa Maria Goretti, Higienópolis, Boa Vista, Passo D’Areia, Jardim São Pedro,Vila Floresta, Cristo Redentor, Jardim Lindóia, São Sebastião, Vila Ipiranga, Jardim Itu, Arquipélago
+RGP-3: Sarandi, Rubem Berta, Passo das Pedras
+RGP-4: Três Figueiras, Chácara das Pedras, Vila Jardim, Bom Jesus, Jardim do Salso, Jardim Carvalho, Mário Quintana, Jardim Sabará, Morro Santana.
+RGP-5: Cristal, Santa Tereza, Medianeira, Glória, Cascata, Belém Velho.
+RGP-6: Camaquã, Cavalhada, Nonoai, Teresópolis, Vila Nova, Vila Assunção, Tristeza, Vila Conceição, Pedra Redonda, Ipanema, Espírito Santo, Guarujá, Serraria, Hípi ca, Campo Novo, Jardim Isabel
+RGP-7: Santo Antonio, Partenon, Cel. Aparício Borges, Vila João Pessoa, São José, Lomba do Pinheiro, Agronomia
+RGP-8: Restinga, Ponta Grossa, Belém Novo, Lageado, Lami, Chapéu do Sol.
+
+
+== Ligações externas ==
+Página da SMURB sobre as Regiões de Gestão do Planejamento

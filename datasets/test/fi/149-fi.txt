@@ -1,0 +1,22 @@
+Klapikone on työlaite jolla saadaan nopeasti ja tehokkaasti pilkottua jopa kokonaisia puunrunkoja lämmityspuiksi.
+Eri mallisissa klapikoneissa on useita erilaisia toimintamekanismeja. Kaikissa niissä kuitenkin on sama toimintaperiaate: puunrungot (usein koivua, vahvuus yleensä alle 20 cm, joskus jopa 50cm) katkaistaan määrämittaisiksi ja halkaistaan. Toimintaperiaatteita suuren voimantarpeen takia käytännössä vain kaksi: mekaaninen tai hydraulinen. Klapikoneet ovat suurehkoja ja painavia laitteita. Siirto tapahtuu mallista riippuen henkilöautolla vetäen tai traktorin kolmipistenostolaitteeseen kiinnitettynä.
+
+
+== Eri mallit ==
+
+
+=== Sahaavat mallit ===
+Sahaavat laitteet katkaisevat rangan joko pyöreällä kovametalliterällä eli sirkkelin terällä tai sahaavalla laipalla, joka on samanlainen kuin moottorisahoissa.
+Sahaavassa koneessa puunrungon katkaisu tapahtuu katkaisuaukossa pyörösahanterän avulla, jonka jälkeen katkaistu osa putoaa halkaisukoneeseen, joissakin malleissa katkaistu osa on erikseen asetettava halkaisukoneeseen. Tämän jälkeen valmiit klapit yleensä kuljetetaan automaattisesti kuljetinhihnalla- tai ketjulla koneen ulkopuolelle.
+Leikkuuterä saattaa olla automaattisesti liikkuva, eli terä siirtyy katkaisuasentoon tietyin väliajoin, yleensä 3–5 sekunnin välein. Joissakin malleissa käyttäjän on itse ajettava leikkuuterä alas esimerkiksi jalkapolkimella.
+Jotkut sahaavat koneet vaativat kaksi käyttäjää: syöttäjän jonka tehtävä on katkaista runkoja sirkkelillä, sekä halkojan joka asettelee katkaistut puut halkaisijaan. Laiteet tuottavat sahanpurua, ja työ on joskus keskeytettävä koneen puhdistuksen ajaksi. Voimanlähteenä on yleensä traktorin hydrauliikka. Sahaavilla laitteilla voidaan käsitellä myös huomattavan suuria puita vaivattomasti ja ne ovat suosittuja suurien polttopuumäärien teossa.lähde?
+
+
+=== Giljotiinimallit ===
+
+Giljotiiniperiaatteella toimivissa koneissa on joko ylös-alas liikkuva tai ympäri pyörivä terärumpu. Yhtäaikaisesti leikkaava sekä halkaiseva terä katkaisee puunrungon yhdellä teränliikkeellä oikean mittaiseksi sekä halkaisee sen pituussuunnassa. Ensimmäisen halkaisukerran jälkeen puun runko on mahdollista halkaista neljään osaan kääntämällä runkoa 90º, koska halkeama puussa etenee katkaisukohtaa huomattavasti pidemmälle. Tämän jälkeen puunkappaleet putoavat usein kuljetushihnalle, jolla ne siirretään kokonaan koneen ulkopuolelle kekoon. Voimanlähteenä on yleensä traktorin voimanulosotto nivelakselin välityksellä tai hydraulimoottori.
+Kone tuottaa jonkin verran hakejätettä, sillä katkaisuterä murskaa osan puusta. Tämä johtuu yleensä koneen kulumisesta ja kone on jätteen tuoton lisääntyessä huollettava. Giljotiinimallit ovat sahaaviin verrattuna hieman nopeampia, varsinkin jos kyseessä on kevyt ja helposti hallittava puutavara.
+
+
+== Halkaisuruuvi ==
+Halkaisuruuvi on traktorin voimansiirtolaitteisiin kytkettävä työkone, jonka tarkoituksena on halkaista puupölkky sivusta pyörivällä kartiomallisella ruuvilaitteella. Ruuvihalkaisija voi olla myös sähkö tai polttomoottorikäyttöinen. Kyseisen laitteen käyttöturvallisuudessa on kuitenkin erittäin suuria puutteita ja sen käyttöä kannattaa välttää, koska se on erittäin vaarallinen jopa oikein käytettynä. Yleisimmät vaaranaiheuttajat on itsetehdyt mallit joissa ruuvin turvavarusteisiin ei ole välitetty kiinnittää huomiota. Kaupallisissa valmisteissa on kaikissa halkosyöttäjä johon halkaistava puu asetetaan ja työnnetään ruuvihalkaisijaan. Tämä vähentää tapaturmariskiä huomattavasti koska yllättävän liikkeen sattuessa syöttäjä suojaa käyttäjää estämällä kynsille lyöntejä vähentäen takertumis ym. lipsahdus vahinkoja.kenen mukaan?

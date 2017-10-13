@@ -1,0 +1,72 @@
+Mit Haverei bezeichnet man in der Schifffahrt die vermögensrechtliche Abwicklung einer Havarie. Die Haverei ist von Bedeutung vor allem für das Seehandelsrecht, aber auch für die Binnenschifffahrt.
+
+
+== Grundlagen ==
+In Deutschland ist die Haverei für das Seehandelsrecht in den §§ 588 ff. des Handelsgesetzbuchs (HGB) geregelt, für die Binnenschifffahrt in den § 78 Binnenschiffahrtsgesetz (BinSchG) geregelt.
+Eine Havarie kann eine Reihe von Folgeschäden nach sich ziehen, etwa durch Umweltbeeinträchtigungen oder Schadensersatzansprüche dritter Personen.
+Für die Begutachtung zur Festlegung und Regulierung von Schäden kommt oft ein Havariekommissar oder Dispacheur zum Einsatz, der von der Reederei, von einem Versicherungsunternehmen oder vom Versender der Waren beauftragt wird, einen Schadensverteilungsplan oder Dispache zu erstellen. Eine hohe Bedeutung in dieser Hinsicht hat ferner die Frage, wer oder was die Havarie verursachte und wer für Schäden haftbar gemacht werden kann.
+In der Praxis regeln die Vertragsparteien die möglichen Fälle der Haverei, insbesondere der Großen Haverei, häufig im Vorhinein vertraglich; hierzu wird häufig auf die sog. York-Antwerpener Regeln (engl.: York-Antwerp-Rules; kurz: YAR) Bezug genommen (am gebräuchlichsten sind derzeit noch die YAR 1994).
+
+
+== Arten der Haverei ==
+Unterschieden wurden im deutschen Seehandelsrecht in der Vergangenheit drei verschiedene Arten der Haverei, die große, die kleine sowie die besondere Haverei. Die kleine und die besondere Haverei wurden mit Inkrafttreten des Gesetzes zur Reform des Seehandelsrechts am 25. April 2013 aufgehoben, so dass seit dem 25. April 2013 nur noch Regelungen zur Großen Haverei existieren. Übergangsregelungen zu Tatbeständen, die davor eingetreten sind, sind in Art. 71 des Einführungsgesetzes zum Handelsgesetzbuch (EGHGB) festgelegt.
+
+
+=== Große Haverei ===
+(= auch gemeinschaftliche Haverei oder Havarie Grosse genannt.) (engl.: General Average oder Gross Average; franz.: avarie grosse)
+Befindet sich das Schiff oder die Passagiere in einer Gefahrensituation und entscheidet sich daraufhin der Kapitän, dem Schiff oder der Ladung vorsätzlich Schaden zuzufügen, um Schiff, Mannschaft und Ladung aus einer gemeinsamen Gefahr zu retten (§ 588 HGB n.F.), dann handelt es sich um eine Große Haverei. Voraussetzung ist die ganze oder teilweise Rettung des Schiffs und der Ladung. Für solche Kosten, die letztlich allen zugutekommen, da sie Schiff und Ladung im Großen und Ganzen retten, sollen dann Schiff, Ladung und Fracht gemeinsam aufkommen. Dies bedeutet im Umkehrschluss aber auch, dass die Große Haverei nicht zum Tragen kommt, wenn das Schiff und die restliche Ladung trotz dieser Maßnahmen dann dennoch nicht gerettet werden kann! Grundidee ist also, dass Rettungsmaßnahmen, die allen zugutekommen, auch gemeinschaftlich bezahlt werden sollen, sofern nicht ohnehin der Schädiger diese Kosten zur erstatten hat. Zu den Havereikosten gehören auch die sonstigen Aufwendungen, um Schiff und Ladung aus einer gemeinsamen Gefahr zu retten.
+Im § 706 HGB a.F. wurden u.a. folgende Fälle der Großen Haverei genannt:
+Nr. 1: Überbordwerfen von Ladung (sog. Seewurf),
+Nr. 2: Leichtern von Ladung,
+Nr. 3: absichtliche Strandung des Schiffes,
+Nr. 6: Abwehr von Seeräubern.
+Schäden an Ladung und Schiff gehören ebenso zu den Kosten der Haverei wie Aufwendungen des Reeders (z.B. bei einer Bergung oder Leichterung oder die Kosten für das Anlaufen eines Nothafens). Die Kosten werden von Schiff, Fracht und Ladung gemeinsam getragen (in Deutschland: §§ 591, 592 HGB n.F.). Die Anteile werden aus dem Wert des Schiffes, dem Wert der Ladung (auch der beschädigten oder untergegangenen) und der mit der Fahrt erzielten Fracht ermittelt.
+
+
+=== Kleine Haverei ===
+(= auch Particular Average)
+Sämtliche Kosten der Seereise wie Lotsengelder, Hafengebühren, Leuchtfeuergeld, Schlepplöhne, Kosten für Quarantäne und Auseisung etc., wurden nach § 621 HGB a.F. zu der Kleinen Haverei gerechnet.
+
+
+=== Besondere Haverei ===
+Die Besondere Haverei umfasst alle durch einen Unfall verursachten Schäden (z.B. durch Schiffszusammenstoss, Strandung) und Kosten, die nicht zur Großen Haverei gehören und keine Nebenkosten zur Fracht darstellen. Die erläuternde Vorschrift war § 701 HGB a.F.
+Wenn der Schädiger die Schäden und Kosten an der Ladung bzw. am Schiff nicht getragen hat, waren jeweils die Eigentümer zu ihren Teilen für den Aufwand verantwortlich. Dabei waren Schäden, die am Schiff entstanden sind, durch den Verfrachter zu tragen, Ladungsschäden durch die Befrachter.
+
+
+== Binnenschifffahrt ==
+Die Regelungen zur Haverei und zur Dispache im Bereich der Binnenschifffahrt finden sich in den § 78 des deutschen Binnenschifffahrtsgesetzes (BinSchG), die wiederum teilweise auf die entsprechenden Bestimmungen im Seehandelsrecht des deutschen Handelsgesetzbuches verweisen.
+
+
+== Gerichtsbarkeit ==
+Das Verfahren wird der freiwilligen Gerichtsbarkeit (§§ 402 ff. FamFG) zugeordnet.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+zum deutschen Recht: (Rechtslage bis zum 24. April 2013)
+Herber, Rolf, Seehandelsrecht. Systematische Darstellung, Berlin 1999, Verlag: de Gruyter, ISBN 3-11-016311-X.
+ders., Seefrachtvertrag und Multimodalvertrag, RWS-Skript 170, 2.Aufl. 2000, Verlag: RWS, ISBN 3-8145-9170-4.
+Puttfarken, Hans-Jürgen: Seehandelsrecht, Verlag Recht und Wirtschaft, Heidelberg 1997, ISBN 3800511711.
+Prüssmann, Heinz; Rabe, Dieter (Bearb.): Seehandelsrecht: fünftes Buch des Handelsgesetzbuches; mit Nebenvorschriften und internationalen Übereinkommen, Verlag C.H. Beck, München 2000 (4. Auflage), ISBN 3406455107.
+Creifelds, Rechtswörterbuch, 19.Aufl. München 2007, Verlag C.H. Beck, ISBN 978-3-406-553929, Stichwort: Haverei
+Hartenstein, Olaf/ Reuschle, Fabian (Hrsg.), Handbuch des Fachanwalts für Transport- und Speditionsrecht, 2. Aufl., Köln 2012, Verlag Carl Heymanns, ISBN 978-3-452-27562-2 (Kap.: 4: Seefrachtrecht; Rn.304 ff.: Große Haverei)
+
+zum deutschen Recht: (neue Rechtslage ab dem 25. April 2013)
+Czerwenka, Beate, Das Gesetz zur Reform des Seehandelsrechts. Einführung, Erläuterungen, Synopse, Materialien, Bundesanzeiger-Verlag, Köln 2014, ISBN 978-3-89817-967-6.
+Oetker, Hartmut, Kurz-Kommentar zum HGB, 4.Aufl. 2015, Verlag C.H. Beck, ISBN 978-3-406-67698-7.
+Münchner Kommentar zum HGB, Bd.7 - Transportrecht, 3.Aufl., 10/2014, Beck-Verlag München, ISBN 978-3-406-61027-1 [Anm.: mit Kommentierung der ADSp, CMR, MÜ, CMNI, COTIF und des neuen dt. Seehandelsrechts!]
+Hartenstein, Olaf/ Reuschle, Fabian (Hrsg.), Handbuch des Fachanwalts für Transport- und Speditionsrecht, 3. Aufl., Köln 2015, Verlag Carl Heymanns, ISBN 978-3-452-28142-5 (Kap.: 4: Seefrachtrecht)
+Herber, Rolf, Seehandelsrecht. Systematische Darstellung, 2.Aufl., Berlin/ New York 2016, Verlag de Gruyter, ISBN 978-3-89949-211-8
+Rabe, Dieter / Bahnsen, Kay-Uwe, Seehandelsrecht. HGB, Nebengesetze und Internationale Übereinkommen. Kommentar, 5.Aufl., München 2017, Verlag C.H. Beck, ISBN 978-3-406-65238-7
+
+
+== Weblinks ==
+Transport-Informations-Service: Fachinformationen zum Thema "Große Haverei"
+Text der York-Antwerp-Rules auf der Internet-Seite des "Comité Maritime International" (englisch)
+Internet-Präsenz der "Dt. Gesellschaft für Transportrecht e.V."
+
+
+== Siehe auch ==
+Lex Rhodia de iactu

@@ -1,0 +1,11 @@
+Panel sterowniczy, panel operatorski (HMI ang. Human Machine Interface) – to urządzenie elektryczne umożliwiające kontrolę innych urządzeń elektrycznych, realizujących pewne procesy, np. technologiczne lub produkcyjne.
+Ma formę płaskiej powierzchni z przyciskami, przełącznikami, pokrętłami lub licznikami, a obecnie najczęściej również z wyświetlaczem.
+Do głównych funkcji panelu operacyjnego należy pośredniczenie w komunikacji człowieka z maszyną (odbieranie i przekazywane sygnałów), zbieranie aktualnych danych (pomiarów) z kontrolowanych procesów, ich wizualizacja, sterowanie tymi procesami oraz alarmowanie.
+Współcześnie produkowane panele operatorskie są często wyposażane w ekran dotykowy (ang. touchpanels) i oprogramowanie, które umożliwia im przejmowanie zadań komputerów przemysłowych. Takie panele służą nie tylko do bieżącej wizualizacji procesów, ale także udostępniają coraz bardziej złożone funkcje ułatwiające pracę operatorom, jak raportowanie, generowanie trendów, rejestracja danych do systemów MES, komunikacja z innymi urządzeniami. Możliwe jest także podłączenie do nich różnych innych urządzeń, jak sterowniki PLC, moduły komunikacyjne, drukarki.
+
+
+== Zobacz też ==
+panel sterowania
+
+
+== Przypisy ==

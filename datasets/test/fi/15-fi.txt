@@ -1,0 +1,14 @@
+Protoporfyriini IX (C34H34N4O4) on porfyriineihin kuuluva orgaaninen yhdiste. Protoporfyriini IX on yksi yleisimpiä luonnossa esiintyviä porfyriinejä ja se on tärkeä esiaste monien metallipigmenttien esimerkiksi hemin ja klorofyllin biosynteesissä.
+
+
+== Ominaisuudet, biosynteesi ja biologinen rooli ==
+Huoneenlämpötilassa protoporfyriini IX on ruskehtavankeltaista kiteistä ainetta. Yhdiste liukenee puhtaaseen veteen vain niukasti ja hieman paremmin laimeisiin emäsliuoksiin. Orgaanisista liuottimista sitä liuottavat muun muassa kloroformi, erittäin väkevä etikkahappo eli jääetikka ja happamaksi tehty etanoli. Protoporfyriini IX muodostaa kelaatteja useiden metalli-ionien kanssa ja kelatoituvia ioneja ovat muun muassa rauta-, magnesium-, sinkki- ja koboltti-ionit. Protoporfyriini IX:ää voidaan eristää veressä esiintyvästä hemiinistä hapon avulla, mutta ongelmana on, että rauta-ioni ei helposti irtoa protoporfyriinistä ja protopyrfyriini IX:n vinyyliryhmät voivat hapettua. Yhdistettä voidaan myös valmistaa hematoporfyriinistä. Protoporfyriini IX toimii soluissa fotosentisaattorina esimerkiksi happiradikaalien muodostumiselle. Protoporfyriini IX:n muodostuminen aminolevuliinihaposta on perustana aminolevuliinihapon käytölle fotodynaamisessa terapiassa. Tähän tarkoitukseen käytetään myös protoporfyriini IX:stä synteettisesti valmistettavaa verteporfiinia.
+Eliöissä protoporfyriini IX:ää muodostuu lähtien aminolevuliinihaposta. Usean entsymaattisesti katalysoidun reaktion jälkeen muodostuu protoporfyrinogeeni IX:ää, jonka hapettaa protoporfyriini IX:ksi entsyymi nimeltään protoporfyrinogeeni IX-oksidaasi. Protoporfyriini IX:stä muodostuu hemiä, kun entsyymi nimeltä ferrokelataasi katalysoi koordinaatiosidoksen muodostumista rautaionin ja protoporfyriini IX:n pyrrolirenkaiden typpiatomien välille. Klorofyllin biosynteesissä magnesiumkelataasi katalysoi magnesiumin ja protoporfyriini IX:n välisen kelaatin muodostumista. Tästä kompleksista muodostuu edelleen protoklorofyllidiä..
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+Human Metabolome Database (HMDB): Protoporphyrin IX (englanniksi)
+Kyoto Encyclopedia of Genes and Genomes (KEGG): Protoporphyrin IX (englanniksi)

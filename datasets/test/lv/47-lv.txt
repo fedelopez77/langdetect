@@ -1,0 +1,49 @@
+Dzelzceļš ir virszemes transporta veids, kas paredzēts pasažieru un kravu pārvadāšanai. Dzelzceļš kā transporta sistēma sastāv no tehniskajiem līdzekļiem — dzelzceļa sliežu klātnes, kontakttīkla, signalizācijas, mākslīgajām būvēm, ritošā sastāva — un ekspluatācijai nepieciešamā personāla (dispečerdienesta).
+Visbiežāk ar vārdu "dzelzceļš" saprot dzelzceļa infrastruktūru — dzelzceļa sliežu ceļus un signalizācijas ierīces.
+
+
+== Vēsture ==
+Pirmie sliežu ceļi tika uzbūvēti Vācijā jau XVI gadsimtā — sliedes bija no koka un pa tām vagonus vilka zirgi. XVIII gadsimtā samērā plaši raktuvēs Anglijā un citur izmantoja metāla (čuguna) sliedes. Tomēr dzelzceļa īstā attīstība sākās līdz ar tvaika mašīnas izgudrošanu.
+Pirmo tvaika lokomotīvi uzbūvēja 1804. gadā angļu konstruktors Ričards Trevitiks. Tomēr tolaik izplatītās čuguna sliedes nespēja noturēt septiņas tonnas smago lokomotīvi, bet dzelzs bija pārāk dārga. 10 — 20 gadus vēlāk angļu inženieris Džordžs Stīvensons izgudroja vairākas veiksmīgas tvaika lokomotīvju konstrukcijas (Stīvensona konstruētā “Raķete” tika atzīta par par tā laika labāko lokomotīvi) un pārliecināja kalnraktuvju īpašniekus par dzelzceļa lietderību. Pirmo dzelzceļu atklāja Anglijā 1825. gadā starp Dārlingtonu un Stoktonu.
+Latvijas teritorijā dzelzceļus sāka būvēt Krievijas impērijas laikā. Tie bija 1524 mm platuma ceļi. 1860. gadā cauri Rēzeknei un Daugavpilij tika atklāta Pēterburgas—Varšavas līnija. Tikai gadu vēlāk tika uzbūvēta Rīgas—Daugavpils līnija.
+1897. gadā uzbūvēja pirmo 750 mm šaursliežu dzelzceļu Latvijā: Valkas—Rūjienas—Pērnavas dzelzceļa līniju (nav saglabājusies). Pirmo elektrificēto dzelzceļu Latvijā atklāja 1950. gadā (iecirknis Rīga—Dubulti).
+
+
+== Dzelzceļa sliežu ceļš ==
+
+Sliežu ceļš ir sarežģīta inženiertehniska konstrukcija. Tas sastāv no virsbūves — sliedēm, gulšņiem, sliežu stiprinājumiem, pārmijām, balasta un citām sastāvdaļām, kas nodod slodzi sliežu ceļa apakšbūvei — uzbērumam, zemes klātnei, citām mākslīgām būvēm (tiltiem, caurtekām, viaduktiem, estakādēm, tuneļiem). Sliežu ceļš paredzēts speciālam vilces un velkamajam ritošajam sastāvam — lokomotīvēm un vagoniem.
+Parasti sliežu ceļam ir divas sliedes (ir arī speciāli viensliedes ceļi). Sliežu ceļa platumu mēra milimetros starp abu sliežu galviņu iekšējām malām. Izšķir platsliežu ceļus (ar platumu, lielāku par 1000 mm) un šaursliežu ceļus (ar platumu, kas vienāds vai mazāks par 1000 mm). Latvijā pārsvarā ir 1520 mm platuma sliežu ceļi. Liepājas tramvaja sliežu platums ir 1000 mm. Latvijā un Baltijas valstīs vienīgās darbojošās pasažieru šaursliežu līnijas Gulbene—Alūksne sliežu ceļa platums ir 750 mm. Arī daudzas kūdras vešanai paredzētas līnijas Latvijā ir ar platumu 750 mm. Pagājušā gadsimta sākumā Kurzemē un Sēlijā tika uzbūvēts sazarots 600 mm šaursliežu līniju tīkls, kas darbojās līdz 60. gadiem. 600 mm dzelzceļa līnija ir uzbūvēta Ventspils Piejūras brīvdabas muzejā.
+Lielākajā daļā Eiropas pieņemtais sliežu platums ir 1435 mm. Ir arī citi platuma standarti, piemēram, Indijā un Pakistānā ir 1676 mm plati sliežu ceļi; tikai nedaudz šaurākas sliedes ir Spānijā un Portugālē (1668 mm).
+
+
+=== Dzelzceļa sliede ===
+Par sliedēm sauc īpaša profila tērauda sijas, kuras stiprina paralēli pa pāriem uz gulšņiem, lai veidotu divsliežu ceļu. Sliedei šķērsgriezumā izšķir galviņu (daļu, kas tieši saskaras ar riteņiem), kakliņu (šaurāku vidusdaļu, kas savieno galviņu ar pamatni) un pēdu (sliedes pamatni, kas balstās uz gulšņiem un kuru piestiprina pie tiem ar speciāliem stiprinājumiem).
+
+
+=== Dzelzceļa gulsnis ===
+
+Gulsnis ir sliežu balsts, kas uzņem slodzi no sliedēm, novada to uz balastu un notur sliedes nemainīgā attālumā vienu no otras. Var būt koka, dzelzsbetona un (retāk) metāla gulšņi. Pārmijas parasti montē uz koka gulšņiem.
+
+
+=== Dzelzceļa balasts ===
+Balastu ieklāj starp gulšņiem un dzelzceļa zemes klātni (uzbērumu) slodzes vienmērības un sliežu ceļa noturības nodrošināšanai. Parasti kā balasts kalpo sasmalcinātu iežu šķembas, retāk grants vai smiltis. Šķērsgriezumā balasta slānim ir prizmveida forma, tādēļ to sauc par balasta prizmu. Uz tiltiem balastu klāj speciālā iedobē vai arī gulšņus stiprina tieši pie tilta konstrukcijām.
+
+
+== Dzelzceļa līnija ==
+Dzelzceļa līnija ir sliežu ceļi un tiem piederošā infrastruktūra (staciju ēkas, citas būves, signalizācijas ierīces u.c.) starp divām mezgla stacijām vai starp mezgla staciju un galastaciju vai valsts robežu. Var būt vienceļa līnijas ar vienu sliežu ceļu, pa kuru vilcieni kursē pārmaiņus abos virzienos un divceļu līnijas ar diviem galvenajiem ceļiem katram virzienam. Divceļu līnijām ir daudz augstāka caurlaides spēja un lielāka drošība ekspluatācijā.
+Elektrificētās dzelzceļa līnijas ir aprīkotas ar elektroiekārtām un kontakttīklu ritošā vilces sastāva barošanai. Latvijas elektrificētajās līnijās izmantotais līdzstrāvas spriegums ir 3 kV.
+Dzelzceļa līnijas daļu starp stacijām (izmaiņas punktiem) sauc par dzelzceļa līnijas posmu.
+Dzelzceļa līnijas daļu starp iecirkņa stacijām (lielām stacijām, kurās notiek ne tikai vilcienu pieņemšana un aizlaišana, bet arī ritošā sastāva remonts, kravu iekraušana un izkraušana, pievedceļu apkalpošana u. tml.) sauc par dzelzceļa līnijas iecirkni.
+2010. gadā Latvijā bija 1850,8 km publiskas lietošanas platsliežu dzelzceļa līniju (tai skaitā 257,4 km elektrificēti) un 33,4 km šaursliežu dzelzceļa līnija.
+
+
+== Ārējās saites ==
+Latvijas dzelzceļa mājaslapa
+Dzelzceļu atjaunošana Latvijā 1919.-1925.g.
+Latvijas dzelzceļa vēstures muzejs
+Риго-Орловская железная дорога
+Либаво-Роменская железная дорога
+Железные дороги мира из XIX в XXI век.
+
+
+== Atsauces ==

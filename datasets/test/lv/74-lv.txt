@@ -1,0 +1,9 @@
+HDMI (High-Definition Multimedia Interface) ir patentēts audio/video interfeiss nekompresēta video datu un kompresētu vai nekompresētu audio datu pārsūtīšanai no HDMI-savietojamas izejas iekārtas, kā, piemēram, displeja kontrolieris uz savietojamu datora monitoru, video projektoru, ciparu televizoru vai ciparu audio iekārtu. HDMI aizvieto esošos analogā video standartus.
+
+
+== Savienojumi ==
+
+Pastāv pieci HDMI savienojumu veidi. A un B tipi ir noteikti HDMI 1.0 specifikācijā, C tips noteikts HDMI 1.3 specifikācijā un D un E 1.4 specifikācijā.
+
+
+== Atsauces ==

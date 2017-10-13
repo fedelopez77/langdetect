@@ -1,0 +1,45 @@
+Monoschwefeldinitrid ist eine anorganische chemische Verbindung des Schwefels aus der Gruppe der kovalenten Nitride. Die Verbindung gehört neben dem Dischwefeldinitrid, dem Tetraschwefeldinitrid, dem Pentaschwefelhexanitrid, dem Tetraschwefeltetranitrid, dem Monoschwefelmononitrid, den Oligoschwefeldinitriden und dem polymeren Polythiazyl (SN)x zur Gruppe der Schwefel-Stickstoff-Verbindungen oder Schwefelnitride. Die Verbindung ist isovalenzelektronisch mit dem Distickstoffmonoxid.
+Es entsteht als kurzlebige Zwischenstufe bei der Zersetzung von Phenylthiatriazol.
+
+Monoschwefeldinitrid zerfällt schnell in Stickstoff und Schwefel.
+
+  
+    
+      
+        
+          S
+          
+            N
+            
+              2
+            
+          
+          →
+          
+            N
+            
+              2
+            
+          
+          +
+          1
+          
+            /
+          
+          8
+          
+          
+            S
+            
+              8
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {SN_{2}\rightarrow N_{2}+1/8\,S_{8}} }
+  
+Bei tiefen Temperaturen kann die Verbindung in Matrix isoliert und untersucht werden. Die mittels IR-Spektroskopie bestimmten Bindungslängen betragen 113 pm für die N-N-Bindung und 158 pm für die N-S-Bindung.
+
+
+== Einzelnachweise ==

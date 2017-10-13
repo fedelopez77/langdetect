@@ -1,0 +1,46 @@
+Pole tensorowe – jeżeli każdemu punktowi w przestrzeni n-wymiarowej przypiszemy pewien tensor A, to otrzymane pole będzie polem tensorowym. Pole tensorowe jest opisywane przez N-funkcji (gdzie N jest iloczynem wymiarów tensora) n zmiennych postaci 
+  
+    
+      
+        
+          A
+          
+            α
+            …
+            ν
+          
+        
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle A^{\alpha \ldots \nu }(x_{1},\ldots ,x_{n})}
+  . Przykłady pól tensorowych:
+pole tensora naprężeń ciała stałego
+pole elektromagnetyczne
+Szczególnymi przypadkami pól tensorowych są:
+pole skalarne (najmniejszym możliwym tensorem jest skalar – tensor zerowego rzędu)
+pole wektorowe (tensor pierwszego rzędu jest wektorem)
+Ciekawym faktem jest to, że pole gradientu pola skalarnego jest polem wektorowym, natomiast pole pochodnych cząstkowych pola wektorowego jest polem tensorowym (o ile mamy do czynienia z niekrzywoliniowym układem współrzędnych).
+
+
+== Zobacz też ==
+teoria pola
+iloczyn skalarny
+iloczyn wektorowy
+iloczyn tensorowy

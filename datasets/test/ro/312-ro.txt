@@ -1,0 +1,1 @@
+Un circuit virtual este, în rețelele de calculatoare, sinonim cu „conexiune virtuală” și cu „canal virtual”, denumind un serviciu de telecomunicații orientat spre conexiune (legătură), oferit la comunicațiile bazate pe modul pachet.

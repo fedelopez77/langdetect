@@ -1,0 +1,60 @@
+Abdus Salam, KBE (Urdu عبد السلام, DMG ʿAbd as-Salām; * 29. Januar 1926 in Jhang, Punjab, Britisch-Indien, heute Pakistan; † 21. November 1996 in Oxford, England) war ein pakistanischer Physiker und der erste muslimische Nobelpreisträger für Physik. Salam befasste sich mit Elementarteilchenphysik und Quantenfeldtheorie und war ein Pionier in der Vereinigung der Naturkräfte seit den 1950er Jahren, was schließlich in das Standardmodell der Elementarteilchen führte, für das er einer der Begründer ist (Elektroschwache Wechselwirkung, dafür erhielt er 1979 mit Sheldon Lee Glashow und Steven Weinberg den Nobelpreis). Er war aber auch aktiv in der Entwicklung von GUTs, Supersymmetrie und Stringtheorie ab den 1970er Jahren, also Themen der Physik Jenseits des Standardmodells. Er war der erste pakistanische Nobelpreisträger sowie nach Anwar as-Sadat der zweite Nobelpreisträger muslimischen Glaubens. Er gehörte der Ahmadiyya Muslim Jamaat an.
+
+
+== Leben ==
+
+
+=== Frühe Jahre ===
+Abdus Salam wurde als Sohn von Chaudhry Muhammad Hussain und dessen Frau Hajira Hussain im Punjab geboren. Seine Familie gehörte der muslimischen Ahmadiyya-Religionsgemeinschaft an. Im Alter von nur 14 erzielte Salam den höchsten jemals verzeichneten Notendurchschnitt für die Immatrikulation an der University of the Punjab. Zunächst studierte Salam an der Universität Punjab (Government College of Punjab, Lahore) Mathematik. Schon 1943 erfolgte seine erste Veröffentlichung, in der er eine verbesserte Lösung eines nichtlinearen algebraischen Gleichungssystems angab, mit dem sich schon S. Ramanujan beschäftigt hatte.
+
+
+=== Beginn der wissenschaftlichen Karriere ===
+1946 schaffte er dank eines Stipendiums den Master-Abschluss. Im selben Jahr bekam er ein Stipendium für das St John’s College der Universität Cambridge und verlagerte hier seinen Schwerpunkt auf das Fachgebiet Physik. Er schaffte 1949 den Bachelor of Science in Mathematik und Physik mit einem „Double First-Class Honour“. Nach seinem erfolgreichen Abschluss promovierte er 1952 bei Nicholas Kemmer in theoretischer Physik. Mit Kemmers Doktoranden Paul Taunton Matthews arbeitete er ab Ende der 1940er Jahre eng über Renormierungstheorie zusammen und begleitete diesen auch 1949 an die Princeton University. Nach der Promotion kehrte er nach Pakistan zurück, wo er zunächst am staatlichen College von Lahore und anschließend an der Universität Punjab lehrte. Da er dort wissenschaftlich isoliert war, entschloss sich Salam, nach Cambridge zurückzugehen, wo er Lecturer wurde. 1957 wurde er Professor für theoretische Physik am Imperial College London. Zu seinen Doktoranden zählen in Cambridge John Moffat und Robert Shaw (1955), der unabhängiger Entdecker der Yang-Mills-Theorie war, und am Imperial College der israelische Mitentdecker der Quarks Yuval Neeman (Imperial College, London, 1961), der mathematische Physiker Ray Streater (1960), Ali Chamseddine, Christopher Isham und Michael Duff.
+
+
+=== ICTP ===
+Enttäuscht von seinen Erfahrungen an den pakistanischen Hochschulen, gründete Salam 1964 das Internationale Zentrum für theoretische Physik (ICTP) in Triest (Italien); seine Heimat Pakistan hatte sich an einer solchen wissenschaftlichen Einrichtung nicht interessiert gezeigt. Ein wichtiges Ziel dieser Einrichtung ist die bessere Förderung von jungen Wissenschaftlern aus Entwicklungsländern. Salam wurde Direktor dieser Institution und war ab 1993 bis zu seinem Tod Ehrenmitglied der Leitung. Heutzutage operiert das Zentrum unter der Schirmherrschaft der UNESCO und der Internationalen Atomenergie-Behörde (IAEO).
+Ein enger Mitarbeiter in Trieste war John Strathdee, der von 1965 bis 1993 mit Salam zusammenarbeitete, davon 32 Jahre am ICTP. Sie teilten sich ein Büro während der Aufenthalte von Salam im ICTP und ihre typische Zusammenarbeit wurde so geschildert, dass der von Ideen übersprudelnde Salam bei seinen Besuchen am ICTP Strathdee mit seinen Ideen „bombardierte“ und dieser sie dann mit Disziplin und Hartnäckigkeit prüfte und ausarbeitete.
+
+
+=== Tod und Gedenken ===
+Abdus Salam starb am 21. November 1996 im Alter von 70 Jahren in Oxford, England an der Parkinson-Krankheit. Er wurde – ohne jede offizielle Würdigung – in Rabwah auf dem Friedhof Bahishti Maqbara beerdigt. Als gläubiges Mitglied der innerhalb Pakistans als Nicht-Muslime geächteten Ahmadiyya-Gemeinschaft ist Salam nur ein einziges Mal von Seiten der pakistanischen Regierung eine Ehrung als erster Nobelpreisträger des Landes zuteilgeworden: 1979, als er durch Präsident Zia ul-Haq mit dem höchsten zivilen staatlichen Orden Nishan-i-Imtiaz ausgezeichnet wurde. Sein wissenschaftlicher Einfluss wurde in seinem Heimatland dagegen aus religiös motivierter Intoleranz (1974 Ausschluss der Ahmadiyya aus der muslimischen Gemeinschaft durch Beschluss der pakistanischen Nationalversammlung) bewusst zurückgedrängt. Auf seinem Grabstein war früher „First Muslim Nobel Laureate“ (erster islamischer Nobelpreisträger) zu lesen. Später wurde auf Veranlassung eines Lokalpolitikers der Begriff „Muslim“ gestrichen, so dass heute „First Nobel Laureate“ auf seinem Grabstein steht.
+In Pakistan ist das Abdus Salam Center of Mathematical Sciences an der Government College University in Lahore nach ihm benannt.
+
+
+== Werk ==
+In den 1950er Jahren beschäftigte er sich mit Renormierungstheorie in der Quantenelektrodynamik (QED), wo er ab seiner Zeit in Cambridge teilweise in Zusammenarbeit mit Matthews Fortschritte beim schwierigen Problem überlappender Divergenzen in den Feynmandiagrammen erzielte, ein Problem, das bei Freeman Dyson in seinem Beweis der Renormierbarkeit noch offengeblieben war. Außerdem bestimmte er weitere Feldtheorien, diesmal für Teilchen der starken Wechselwirkung (Mesonenfeldtheorien), die nach dem Vorbild der QED renormierbar sind. Da viele der vorgeschlagenen Theorien nicht-renormierbar waren, suchte man damals andere Wege zu einer Theorie der starken Wechselwirkung, zum Beispiel über Dispersionsrelationen, und auch hier leistete Salam wichtige Beiträge.
+Etwa gleichzeitig mit Chen Ning Yang und Tsung-Dao Lee schlug er die Paritätsverletzung der schwachen Wechselwirkung vor, was ihm allerdings zunächst von Wolfgang Pauli (wie schon zuvor von Rudolf Peierls in Birmingham) ausgeredet wurde, weshalb Lee und Yang die Paritätsverletzung zuerst publizierten. Er legte gleich darauf auch eine V-A-Theorie der Wechselwirkung des Neutrinos mit Elektronen und Muonen vor, wie sie allgemeiner für die schwache Wechselwirkung auch der Hadronen kurz darauf von Richard Feynman, Gell-Mann und Robert Marshak und Sudarshan eingeführt wurde. Schon damals entwickelte er Ideen zu einer vereinheitlichten elektroschwachen Theorie (die bereits eine Yang-Mills-Theorie und schwere Eichbosonen mit Spin 1 verwendete), die damals allerdings noch an dem damals vor der Erfindung des Higgs-Mechanismus ungelösten Widerspruch von Eichinvarianz und der Masse der Vektor-Eichbosonen scheiterte. Dabei arbeitete er mit John Clive Ward zusammen. 1963 war er an der Entwicklung der Theorien zum spontanen Symmetriebruch beteiligt (der Miterfinder des Higgs-Mechanismus T. W. B. Kibble war ein Kollege am Imperial College), zum Beispiel in einer Arbeit mit Jeffrey Goldstone und Steven Weinberg (der ein Jahr am Imperial College war), in denen sie das Goldstonetheorem bewiesen: dass ein solcher spontaner Symmetriebruch mit dem Auftreten masseloser Teilchen verbunden ist. Die endgültige spätere SU(2) x U(1) Theorie der elektroschwachen Wechselwirkung, für die er den Nobelpreis bekam, entwickelte er 1967 unabhängig von Steven Weinberg. 1979 teilten sich die beiden Wissenschaftler dafür den Nobelpreis der Physik für diese Forschungsarbeit mit Sheldon Lee Glashow. Salam entwickelte 1974 mit Jogesh Pati eine der ersten GUT, die die elektroschwache mit der starken Wechselwirkung (der Quantenchromodynamik) vereinigen sollen. In der zitierten Arbeit mit Pati von 1974 führte er auch Präon-Modelle (und den Namen Präon) ein, das heißt Modelle, bei denen Quarks und Leptonen aus fundamentaleren Fermionen zusammengesetzt sind. Mit John Strathdee führte er 1974 als erster das Konzept des Superraums in die Supersymmetrie ein, als Raum nicht nur mit den üblichen kommutierenden Koordinaten, sondern auch mit antikommutierenden.
+Mit Strathdee entwickelte er 1969 nichtlineare Darstellungen der Poincaré-Gruppe und behandelte Lösungsverfahren für Feldtheorien mit nichtpolynomialer Wechselwirkung.
+
+
+== Auszeichnungen ==
+Salam erhielt in seiner wissenschaftlichen Karriere zahlreiche Ehrentitel. Er war Mitglied der Royal Society, der American Academy of Arts and Sciences (1971) und der Pakistan Academy of Science (Islamabad). 1978 erhielt er die Royal Medal der Royal Society.
+
+
+=== Ehrendoktorwürden ===
+
+
+== Persönliches ==
+Salam heiratete 1968 die britische Biochemikerin Louise Johnson. Das Paar hatte einen Sohn und eine Tochter.
+
+
+== Siehe auch ==
+Academy of Sciences for the Developing World
+International Centre for Theoretical Physics
+
+
+== Literatur ==
+Gordon Fraser: Cosmic Anger: Abdus Salam – The First Muslim Nobel Scientist. Oxford University Press, 2008, ISBN 978-0-19-920846-3
+A. Ali, Isham, Kibble, Riazuddin (Herausgeber) Selected papers of Abdus Salam, World Scientific, 1994
+
+
+== Weblinks ==
+
+Abdus Salam Homepage (englisch)
+Ahmadiyya Muslim Jamaat Deutschland: Abdus Salam
+Literatur von und über Abdus Salam im Katalog der Deutschen Nationalbibliothek
+Informationen der Nobelstiftung zur Preisverleihung 1979 an Abdus Salam (englisch)
+
+
+== Einzelnachweise ==

@@ -1,0 +1,14 @@
+2V-varaverkko oli Suomen valtakunnallinen, yhteiskunnan poikkeusoloja ja häiriötilanteita varten rakennettu viranomaisten tiedonsiirtoverkko. Verkon lyhenne tuli sanoista Valtakunnallinen Vara-verkko.
+Verkko rakennettiin vuosina 1993–1996, ja sen tarkoituksena oli turvata viranomaisten ja muun julkishallinnon keskinäinen viestiliikenne poikkeusoloissa ja erilaisissa kriisitilanteissa, joissa normaalit tietoverkot eivät ole käytettävissä.
+2V-varaverkon kehittämisestä ja toiminnan ylläpidosta vastasivat Liikenne- ja viestintäministeriön asettama ohjausryhmä ja tekninen ryhmä. Verkkoa hallinnoi Suomen Erillisverkot Oy ja sen ylläpitoa rahoitti Huoltovarmuuskeskus.
+Verkko purettiin lokakuun 2012 loppuun mennessä. Verkon korvasi langaton VIRVE-viranomaisverkko ja KRIVAT-palvelu. Verkon nimitys käyttäjien keskuudessa oli Kuuma linja.
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+Liikenne- ja viestintäministeriö, Valtakunnallisen 2V-varaverkon ohjausryhmä ja tekninen ryhmä
+Valtio varautuu tietoverkkohyökkäyksiin uudistamalla järjestelmiään - HS.fi 5.8.2008
+Suomen erillisverkot Oy.
+Huoltovarmuuskeskuksen toimintakertomus 2000. (pdf)

@@ -1,0 +1,29 @@
+Šiame straipsnyje pateikiami statistiniai duomenys apie Namibijos demografiją.
+
+Gyventojų skaičius: 2 108 665 (2009 m. apskaičiavimai)
+Struktūra pagal amžių:
+0-14 m.: 35.9 %
+15-64 m.: 60.2 %
+65 m. ir daugiau: 3.9 % (2009 m. apsk.)
+Amžiaus mediana:
+bendra: 21 m.
+vyrų: 20,9 m.
+moterų: 21,1 m. (2009 m. apsk.)
+Prieaugis: 0.95 % (2009 m. apsk.)
+Gimstamumas: 22.5 gimusiųjų/1000 gyv. (2009 m. apsk.)
+Mirtingumas: 13,3 mirusiųjų/1000 gyv. (2009 m. apsk.)
+Migracija (imigravusių į šalį ir emigravusių iš šalies žmonių skirtumas): 0.3 migrantų/1000 gyv. (2009 m. apsk.)
+Kūdikių mirtingumas: 45.51 mirusiųjų/1000 gyv. (2009 apsk.)
+Vidutinė gyvenimo trukmė:
+bendra: 51,24 m.
+vyrų: 51,61 m.
+moterų: 50,86 m. (2009 apsk.)
+Vyresnių nei 15 metų žmonių raštingumas: 85 %
+bendras: 85 %
+vyrų: 86,8 %
+moterų: 83,5 % (2003 m. apsk.)
+
+
+== Šaltinis ==
+Vikiteka
+CIA Factbook

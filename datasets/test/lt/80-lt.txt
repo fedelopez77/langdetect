@@ -1,0 +1,71 @@
+Ieškinys – ieškovo procesinis dokumentas.
+
+
+== Turinys ==
+Teismui pateikiamas ieškinys turi atitikti bendruosius reikalavimus, keliamus procesinių dokumentų turiniui. Ieškinyje, be to, turi būti nurodoma (LR CPK 135 str. 1 d.):
+ieškinio suma, jeigu ieškinys turi būti įkainotas;
+aplinkybės, kuriomis ieškovas grindžia savo reikalavimą (faktinis ieškinio pagrindas);
+įrodymai, patvirtinantys ieškovo išdėstytas aplinkybes, liudytojų gyvenamosios vietos ir kitokių įrodymų buvimo vietą;
+ieškovo reikalavimas (ieškinio dalykas);
+ieškovo nuomonė dėl sprendimo už akių priėmimo, jeigu byloje nebus pateiktas atsiliepimas į pareikštą ieškinį arba parengiamasis procesinis dokumentas;
+informacija, ar byla bus vedama per advokatą.
+Prie ieškinio turi būti pridėti dokumentai ir kiti įrodymai, kuriais ieškovas grindžia savo reikalavimus, taip pat duomenys, kad žyminis mokestis sumokėtas, bei prašymai dėl įrodymų, kurių ieškovas pateikti negali, išreikalavimo, nurodant priežastis, kodėl negalima pateikti šių įrodymų.
+
+
+== Kelių ieškinio reikalavimų sujungimas ir išskyrimas ==
+Ieškovas turi teisę sujungti į vieną ieškinį kelis tarpusavyje susijusius reikalavimus (LR CPK 136 str. 1 d.).
+Teismas, priimantis ieškinį, kuriame yra sujungti keli reikalavimai, turi teisę išskirti vieną ar kelis iš jų į atskirą bylą, jeigu pripažįsta, kad tikslingiau nagrinėti juos skyrium.
+Kai sujungtus reikalavimus pareiškia keli ieškovai arba jeigu jie pareiškiami keliems atsakovams, priimantis ieškinį teismas turi teisę išskirti vieną ar kelis reikalavimus į atskirą bylą, jeigu pripažįsta, kad tikslingiau nagrinėti juos skyrium.
+Teismas, nustatęs, kad teismo (teismų) žinioje yra kelios vienarūšės bylos, kuriose dalyvauja tos pačios šalys, arba kelios bylos pagal vieno ieškovo ieškinius skirtingiems atsakovams, arba pagal skirtingų ieškovų ieškinius tam pačiam atsakovui, gali sujungti tas bylas į vieną bylą, kad jos būtų kartu išnagrinėtos, jeigu taip sujungus bus greičiau ir teisingai išnagrinėti ginčai, taip pat tais atvejais, kai jose nagrinėjami reikalavimai tarpusavyje susiję ir dėl to bylų negalima išnagrinėti skyrium.
+
+
+== Ieškinio priėmimas ==
+Ieškinio priėmimo klausimą teismas išsprendžia priimdamas rezoliuciją. Šis procesinis veiksmas laikomas civilinės bylos iškėlimu.
+Teismas atsisako priimti ieškinį, jeigu (LR CPK 137 str. 2 d.):
+ieškinys nenagrinėtinas teisme;
+ieškinys neteismingas tam teismui;
+suinteresuotas asmuo, kreipęsis į teismą, nesilaikė įstatymų nustatytos tai bylų kategorijai išankstinio bylos sprendimo ne teisme tvarkos;
+yra įsiteisėjęs teismo arba arbitražo sprendimas, priimtas dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu, arba teismo nutartis priimti ieškovo atsisakymą ieškinio ar patvirtinti šalių taikos sutartį;
+teismo žinioje yra byla dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu;
+šalys yra sudariusios susitarimą perduoti tą ginčą spręsti arbitražui ir atsakovas prieštarauja ginčo nagrinėjimui teisme bei reikalauja laikytis arbitražinio susitarimo;
+pareiškimą paduoda neveiksnus fizinis asmuo;
+pareiškimą suinteresuoto asmens vardu padavė neįgaliotas vesti bylą asmuo.
+Teismas, atsisakydamas priimti pareiškimą, priima dėl to motyvuotą nutartį. Nutartyje teismas privalo nurodyti, į kurią instituciją ar teismą reikia pareiškėjui kreiptis, jeigu byla nenagrinėtina teisme ar neteisminga tam teismui, arba kaip pašalinti aplinkybes, kliudančias priimti ieškinį. Teismo nutartis dėl ieškinio priėmimo turi būti priimta ne vėliau kaip per dešimt dienų nuo atitinkamo ieškinio registravimo teisme dienos. Jeigu ieškinyje prašoma taikyti laikinąsias apsaugos priemones, ieškinio priėmimo klausimas turi būti išsprendžiamas nedelsiant, bet ne vėliau kaip per tris dienas. Teismo nutarties, kuria atsisakoma priimti ieškinį, nuorašas, taip pat ieškinys bei jo priedai ne vėliau kaip per tris dienas nuo nutarties atsisakyti priimti ieškinį įteikiamas arba pasiunčiamas pareiškėjui.
+Teismo atsisakymas priimti ieškinį LR CPK 137 straipsnio 2 dalies 2–8 punktuose numatytais pagrindais nekliudo vėl kreiptis į teismą su tuo pačiu ieškiniu, jeigu yra pašalintos arba išnyko aplinkybės, kliudžiusios priimti ieškinį.
+Dėl teismo nutarties, kuria atsisakyta priimti ieškinį, gali būti duodamas atskirasis skundas.
+Teisėjas, priėmęs pareiškimą apie civilinės bylos dėl registruojamo daikto teisinio statuso arba daiktinių teisių į jį iškėlimo faktą, ne vėliau kaip kitą darbo dieną apie tai praneša viešo registro tvarkytojui, kuriame įregistruotas daiktas ar daiktinės teisės į jį.
+
+
+== Ieškinio trūkumų šalinimas ==
+Jeigu ieškinys neatitinka LR CPK Kodekso 135 straipsnio reikalavimų, ieškinio trūkumai šalinami Kodekso nustatyta procesinių dokumentų trūkumams pašalinti tvarka.
+
+
+== Ieškinio atsiėmimas ==
+Ieškovas tol, kol teismas neišsiuntė ieškinio nuorašo atsakovui, turi teisę atsiimti pateiktą ieškinį. Vėliau ieškinį atsiimti galima tik turint atsakovo sutikimą (CPK 139 str.).
+Ieškinio atsiėmimą teismas įformina nutartimi, kuria ieškinį palieka nenagrinėtą. Ši nutartis atskiruoju skundu neskundžiama.
+
+
+== Ieškinio atsisakymas, atsakovo pripažinimas ieškinio ir šalių taikos sutarties sudarymas ==
+Bet kurioje proceso stadijoje ieškovas, kreipęsis į teismą, turi teisę raštu ar žodžiu pareikšti teismui, kad jis atsisako ieškinio. Kai ieškinio atsisakoma žodžiu, teismas išaiškina ieškovui procesines atsisakymo pasekmes. Ieškovo rašytinis pareiškimas dėl ieškinio atsisakymo pridedamas prie bylos, o žodinis pareiškimas įrašomas į teismo posėdžio protokolą ir ieškovo pasirašomas. Teismas priima nutartį priimti ieškinio atsisakymą ir nutraukia bylą. Ieškinio atsisakymo rašytiniame pareiškime turi būti nurodyta, kad asmeniui yra žinomos ieškinio atsisakymo pasekmės. Tokį pareiškimą teismas išsprendžia rašytinio proceso tvarka. Jeigu rašytiniame pareiškime nėra nurodyta, kad ieškovui yra žinomos procesinės ieškinio atsisakymo pasekmės, teismas išsiunčia jam pranešimą, kuriame nurodomos procesinės ieškinio atsisakymo pasekmės. Negavus tokio atsisakymo atšaukimo per septynias dienas nuo teismo pranešimo išsiuntimo dienos, laikoma, jog ieškovas ieškinio neatsisako (LR CPK 140 str. 1 d.).
+Bet kurioje proceso stadijoje atsakovas turi teisę raštu ar žodžiu pareikšti, kad ieškinį pripažįsta. Rašytinis atsakovo pareiškimas, kuriuo pripažįstamas ieškinys, pridedamas prie bylos, o žodinis pareiškimas įrašomas į teismo posėdžio protokolą ir atsakovo pasirašomas. Kai atsakovas pripažįsta ieškinį, jeigu nėra LR CPK Kodekso 42 straipsnio 2 dalyje numatytų aplinkybių, teismas, atsižvelgdamas į dalyvaujančių byloje asmenų nuomonę, gali nuspręsti baigti bylos nagrinėjimą iš esmės.
+Bet kurioje proceso stadijoje šalys gali baigti bylą taikos sutartimi. Rašytinės šalių taikos sutarties tekstas pridedamas prie bylos, o žodinis pareiškimas įrašomas į teismo posėdžio protokolą ir šalių pasirašomas. Prieš tvirtindamas šalių taikos sutartį, teismas išaiškina šalims šių procesinių veiksmų pasekmes, o tvirtindamas taikos sutartį, priima nutartį, kuria nutraukia bylą. Nutartyje turi būti nurodomos tvirtinamos šalių taikos sutarties sąlygos.
+Jeigu teismas nepriima suinteresuoto asmens, kuris kreipėsi į teismą, ieškinio atsisakymo ar atsakovo pripažinimo ieškinio arba netvirtina šalių taikos sutarties, jis priima dėl to motyvuotą nutartį.
+
+
+== Ieškinio dalyko arba ieškinio pagrindo pakeitimas ==
+Iki nutarties skirti bylą nagrinėti teismo posėdyje priėmimo ieškovas turi teisę pakeisti ieškinio dalyką arba ieškinio pagrindą. Dėl ieškinio dalyko arba ieškinio pagrindo pakeitimo teismui yra pateikiamas rašytinis pareiškimas, kuris turi atitikti bendruosius reikalavimus, keliamus procesinių dokumentų turiniui. Vėlesnis ieškinio dalyko arba ieškinio pagrindo pakeitimas yra galimas tik tuo atveju, jeigu tokio pakeitimo būtinumas iškilo vėliau arba jeigu yra gautas priešingos šalies sutikimas, arba jeigu teismas mano, kad tai neužvilkins bylos nagrinėjimo.
+Pakeitus ieškinio dalyką ar ieškinio pagrindą, netaikomos normos, nustatančios pasirengimą bylos nagrinėjimui, tačiau teismas nustato ne trumpesnį kaip keturiolikos dienų terminą nuo procesinio dokumento įteikimo dienos pasiruošti bylos nagrinėjimui.
+Teismas gali atsisakyti tenkinti pareiškimą dėl ieškinio dalyko arba ieškinio pagrindo pakeitimo, jeigu tai užvilkintų bylos nagrinėjimą, o ieškovui buvo paskirtas terminas visiškai suformuluoti ieškinio dalyką ir ieškinio pagrindą, ir šis galėjo remtis pareiškime nurodytomis aplinkybėmis.
+Teismo nutartis atsisakyti tenkinti pareiškimą dėl ieškinio dalyko ar ieškinio pagrindo pakeitimo atskiruoju skundu neskundžiama.
+Procesinio dokumento dėl ieškinio dalyko ar ieškinio pagrindo pakeitimo nuorašas įteikiamas LR CPK Kodekso nustatyta tvarka dalyvaujantiems byloje asmenims (LR CPK 141 straipsnis „Ieškinio dalyko arba ieškinio pagrindo pakeitimas“).
+
+
+== Civilinis ieškinys baudžiamajame procese ==
+
+
+== Taip pat skaitykite ==
+Skundas
+Pareiškimas
+
+
+== Šaltiniai ==

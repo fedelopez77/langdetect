@@ -1,0 +1,41 @@
+Le byte (prononcé /baɪt/), anglicisme de symbole B[réf. nécessaire], ou multiplet en français, est la plus petite unité adressable d’un ordinateur. Aujourd’hui, les bytes de 8 bits se sont généralisés en informatique, mais jusque dans les années 1970, il existait des processeurs avec des bytes de 6 à 9 bits. Il existe aujourd'hui pour la programmation des automates ou équipements industriels simples, des processeurs utilisant des mémoires adressables par quantité de 4 bits, voire moins.
+En revanche, un octet, comme son nom l’indique, contient exactement 8 bits (en anglais eight-bit byte).
+
+
+== Histoire ==
+Le terme Byte est créé en 1956 par Werner Buchholz alors qu'il travaille à la conception de l'IBM Stretch. C'est une déformation orthographique volontaire de l'anglais bite, littéralement « bouchée », pour éviter toute confusion avec bit par élision du e final. Le terme désigne par analogie la plus petite unité de données accessible via un bus de données.
+Le byte est l'unité de stockage d'un emplacement mémoire, qui selon le processeur peut varier de quatre à plusieurs dizaines de bits. Chaque constructeur définissait la taille du byte en fonction de ses besoins du moment. Ainsi, par exemple, le PDP-10 utilise un byte par le jeu d'instructions en langage machine, qui a une taille variable. Sur cette même architecture, les mots, utilisés pour l'adressage mémoire, font 36 bits.
+
+
+== Distinction entre byte et octet ==
+En anglais, la capacité de la mémoire informatique est généralement exprimée en bytes, alors qu'en français on l'exprime plutôt en octets, ce qui revient au même suite à la généralisation des bytes de huit bits. On peut donc considérer qu'une documentation en français qui exprime la capacité de mémoire en bytes a été mal traduite. Aujourd'hui, pour le Dictionnaire du multimédia. Audiovisuel, informatique, télécommunications de l'AFNOR, le byte est « l'unité d'information correspondant à un octet, soit 8 bits ». La normalisation « IEC 80000-13 » va dans le même sens : normaliser la taille des bytes à 8 bits. C'est de cette normalisation du byte de 8 bits que vient la confusion.
+En anglais comme en français, si l'on veut explicitement désigner une quantité de huit bits, on utilise le mot octet ; tandis que si l'on veut exprimer l'unité d'adressage indépendamment du nombre de bits, on utilise le mot byte. Ainsi la description formelle d’un langage de programmation utilisera sciemment le mot byte si le langage ne nécessite pas qu’un byte ait une taille d’un octet. C’est par exemple le cas du langage C, où un byte peut contenir plus de huit bits. Le mot octet est sciemment utilisé en français comme en anglais pour décrire un format de données au bit près. Ainsi, on trouve le mot octet dans des textes anglais comme le RFC 793 qui décrit le protocole de communication TCP d'Internet, ou dans le standard H.263 qui décrit une norme de codage vidéo numérique.
+La même distinction entre byte et octet existe donc dans les deux langues, seul change le mot que l'on utilise couramment dans les cas où le byte mesure huit bits.
+
+
+== Confusion entre bit et byte ==
+La capacité mémoire d'une puce de mémoire informatique est généralement donnée en bits (b), mégabits (Mb) ou gigabits (Gb), alors que la capacité mémoire de l'ensemble des puces d'un ordinateur est généralement donnée en bytes (B), mégabytes (MB) ou gigabytes (GB), ou en octets (o), mégaoctets (Mo) ou gigaoctets (Go). Des médias négligents font la confusion entre bit et byte et se trompent donc d'un facteur de huit, par exemple en écrivant « ordinateur doté de 4 Gb de RAM » au lieu de « ordinateur doté de 4 GB de RAM » ou « ordinateur doté de 4 Go de RAM ».
+La capacité des cartouches de jeu vidéo est généralement donnée en bits, ce qui fait exception à l'usage répandu du byte ou de l'octet pour la mesure d'une mémoire complète. Cela permet d'utiliser de plus grands nombres dans la communication, en écrivant « cartouche de 8 Mb » (8 mégabits) au lieu de « cartouche de 1 Mo » (1 mégaoctet).
+
+
+== Bytes multiples ==
+Lorsqu’un processeur est capable de traiter plusieurs bytes en tant qu’entité unique, on appelle cette entité un « mot ». Les tailles de mot les plus courantes sont :
+16 bits, rarement appelé « seizet » ou « doublet » ;
+32 bits, rarement appelé « trente-deuzet » ou « quadlet » ;
+64 bits, rarement appelé « octlet ».
+Comme pour les octets, les multiples kilobyte, mégabyte, gigabyte, etc., sont utilisés avec des facteurs de 1 000 (10 puissance 3) ou de 1 024 (2 puissance 10)[réf. nécessaire].
+Voir les articles unité de mesure en informatique et octet pour plus de détails.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Débit binaire
+Préfixe binaire
+Système binaire
+
+ Portail de l’informatique

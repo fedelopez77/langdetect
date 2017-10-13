@@ -1,0 +1,37 @@
+Giotto (IPA: [dʒotoː]) bija Eiropas kosmiskās aģentūras (ESA) kosmiskais aparāts, kurš pētīja Haleja komētu, palidojot tai cieši garām. 1986. gada 13. martā misija sasniedza savu mērķi, Giotto palidoja garām komētas kodolam tikai 596 km attālumā. Kosmiskais aparāts tika nodēvēts itāļu viduslaiku gleznotāja Džoto di Bondones vārdā. Viņš bija redzējis Haleja komētu 1301. gadā un to attēlojis kā Betlēmes zvaigzni savā freskā «Ķēniņu lūgsna».
+
+
+== Misija ==
+Sākotnēji bija plānota arī otra zonde, kuru palaistu ASV, bet no tās atteicās, jo NASA tika samazināts budžets.
+Bija arī plāni veikt komētas novērošanu ar aprīkojumu, kurš atrastos uz kosmoplāna Space Shuttle borta, brīdī, kad Giotto lidos garām komētai. Plāni izgāzās Challenger katastrofas dēļ.
+Haleja komētas izpetes plāns tika realizēts kā piecu kosmisko aparātu armāda, tostarp Giotto, divas padomju zondes (Vega-1 un Vega-2), divas Japānas zondes (Sakigake un Suisei). Bija plānots, ka japānu zondes kopā ar agrāk palaisto ASV zondi International Cometary Explorer veiks liela attāluma mērījumus, kam sekos padomju zondes, kuras varētu atklāt komētas kodolu. Savāktā informācija ļautu Giotto notēmēt ļoti tuvu kodolam. Tā kā Giotto lidotu ļoti tuvu garām kodolam, ESA bija gandrīz pārliecināta, ka zonde neizdzīvos, jo komētas kodolu apņem sīku daļiņu mākonis, kuras milzīgā ātrumā bombardētu zondi. Zonžu apvienotā grupa tiek saukta par Haleja armādu.
+
+
+== Konstrukcija ==
+Giotto kosmiskā aparāta pamatā bija GEOS izpētes pavadonis. Tam tika pievienots putekļu vairogs, kurš sastāvēja no plānas alumīnija plāksnes un biezākas kevlara plāksnes, starp kurām bija tukšums. 1999. gadā palaistajai Stardust kosmosa izpētes zondei bija līdzīgs vairogs.
+
+
+== Lidojuma gaita ==
+Giotto tika palaists 1985. gada 2. jūlijā no Kuru kosmodroma Franču Gviānā ar Ariane 1 nesējraķeti. Zondes lidojumu kontrolēja no Eiropas kosmisko operāciju centra Darmštatē. Sākotnēji to ievadīja ģeostacionārajā pārejas orbītā. Tai sekoja Zemei tuvā fāze un lidojuma fāze.
+1986. gada 4. martā Vega 1 sāka pārraidīt Haleja komētas attēlus (pirmoreiz tika iegūts komētas kodola attēls) un 6. martā palidoja komētai garām. 9. martā tai sekoja Vega 2. Giotto pārlidoja komētu 1986. gada 14. martā, atrodoties tikai 596 km attālumā. Lai gan zondē ietriecās vairākas sīkas daļiņas, tā veiksmīgi izturēja pārlidojumu. Viens trāpījums zondi destabilizēja, liekot tai sākt griezties ap savu asi, kā rezultātā tās antena vairs nebija vērsta pret Zemi un, kas ir daudz bīstamāk, putekļu vairogs vairs neaizsargāja instrumentus. Giotto izdevās pašam stabilizējties pēc 32 minūtēm, un tas turpināja vākt datus.
+Vēl viens trāpījums sabojāja krāsaino kameru, bet tas notika jau pēc tam, kad bija iegūti komētas kodola attēli.
+Pēc komētas kodola pārlidošanas Giotto trajektorija tika mainīta tā, lai tas palidotu garām Zemei. 1986. gada 15. martā plkst. 02:00 UT tika izslēgti zinātniskie mērinstrumenti.
+1990. gada 2. jūlijā, kad tas lidoja garām Zemei, Giotto tika atmodināts un koriģēts uz satikšanos ar Griga—Šellerupa komētu. 1990. gada 10. jūlijā tas pārlidoja Griga—Šellerupa komētu tikai 200 km attālumā. Attēlus gan Giotto neieguva, jo tā kamera tika sabojāta pēc Haleja komētas pārlidošanas. 1990. gada 23. jūlijā Giotto atkal tika izslēgts.
+1999. gadā zonde atkal lidoja garām Zemei, bet vairs netika ieslēgta.
+
+
+== Misijas rezultāti ==
+Attēli parādīja, ka Haleja komētas kodols ir tumšs, pēc formas līdzīgs zemesriekstam: 15 km garš, 7 — 10 km plats. Tikai apmēram 10 % kodola virsmas bija aktīva. Saules apspīdētajā pusē tika redzētas vismaz trīs strūklas ar izplūstošo gāzi. Analīzes parādīja, ka komēta izveidojusies vismaz 4,5 miljardus gadu atpakaļ no gaistošām vielām, galvenokārt ledus, kurš kondensējies ap starpzvaigžņu putekļu daļiņām. Kopš savas izveidošanās, tā praktiski nav mainījusies.
+Tika izpētīts materiāls, kurš izdalās no Haleja komētas. Tajā bija 80 % ūdens, 10 % oglekļa monoksīds, 2,5 % metāns un amonjaks. Tika atklāti arī ogļūdeņraži, dzelzs un nātrijs.
+Komētas kodols ir tumšāks nekā kvēpi. Tas liecina, ka saturā ir vairāk putekļu, nekā ledus. Kodola virsma bija raupja un poraina. Kodola blīvums bija tikai 0,3 kg/m3. Tika konstatēts, ka no kodola tiek izmestas apmēram 3 tonnas viela ik sekundi. Ilgākā laika periodā tas liek komētai svārstīties.
+No kodola izmestās putekļu daļiņas bija tikai cigarešu dūmu daļiņu lielumā, lielākās bija ap 40 miligramu lielumā. Lai arī netika izmērīta daļiņa, kura lika Džoto rotēt, aprēķini liecināja, ka tai bija jābūt ap 0,1 līdz 1 g smagai.
+Tika atklāti divu veidu putekļi. Pirmie saturēja oglekli, ūdeņradi, slāpekli un skābekli, otrie kalciju, dzelzi, magniju, silīciju un nātriju.
+Instrumenti parādīja, ka komētas kodola virsma ir bagāta ar oglekli.
+
+
+== Kosmiskā aparāta sasniegumi ==
+Giotto pietuvojās vistuvāk komētai un sniedza labākos datus par to.
+Giotto bija pirmais kosmiskais aparāts, kurš ieguva komētas kodola attēlu.
+Giotto bija pirmais kosmiskais aparāts, kurš palidojis cieši garām divām komētām.
+Giotto bija pirmais kosmiskais aparāts, kurš atgriezās no starpplanētu telpas un pārlidoja Zemi.
+Giotto bija pirmais kosmiskais aparāts, kurš tika atmodināts pēc ilgāka laika.

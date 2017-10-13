@@ -1,0 +1,90 @@
+La sécurité des deux-roues est fragile et dépendante de nombreux critères. Elle renvoie à des aspects tels la formation, le respect de règles, la prévention, la qualité du réseau routier et celle des relations entre usagers de la route.
+Lorsque le deux-roues n'est pas motorisé, on parle d'accident de vélo. Les accidents de deux roues non motorisés pourraient être un problème moins grave car ils vont moins vite, hélas ils peuvent aussi être un problème plus grave du fait de leur présence plus importante en ville où les risque d'accident sont accrus par la densité du trafic routier.
+
+
+== Les statistiques ==
+
+D'après l'ONISR, la mortalité en deux roues motorisé est en lente régression depuis les années 1980 relativement à l'évolution du parc motorisé. Celui-ci a été multiplié par 6,7 depuis 1970, la mortalité à moto ayant augmenté d'un facteur 2,3 seulement.
+La moto reste cependant l’un des modes de transport les plus dangereux. Le taux de mortalité des motards est deux fois plus élevé que celui des automobilistes[réf. nécessaire]. Cela provient principalement du fait que les motocyclistes n’ont pas de carrosserie pour les protéger ; les lésions qui en résultent se limitent rarement à des traumatismes (fractures, contusions) mais comprennent également des dermabrasions, des brûlures et des risques d'infection (septicémie) en cas de contact de la peau avec la route. Voilà qui souligne l’importance d’une infrastructure sûre pour ce type d'usagers. C'est pour ça qu'ils disposent souvent d'une combinaison, limitant les risques de brûlures.
+Le Centre européen d'études de sécurité et d'analyse des risques (CEESAR) a poussé ses recherches dans les domaines de la biométrie et de la physiologie de la conduite, le système routier en général et ses infrastructures et a élaboré des scénarios types d'accidents. Ce centre a émis des propositions d'améliorations des équipements de protection mais aussi des normes liées, y compris celles servant à l'homologation des casques ; certains tests en effet mériteraient des modifications pour pleinement juger de leur efficacité.
+Quelques chiffres sur les sources d'accidents :
+Dans plus d'un cas sur trois (37,4 %), le deux-roues est responsable :
+lorsque le motard est responsable, une fois sur trois cela est dû à un manque de visibilité ;
+une fois sur trois cela est dû à une erreur de décision ;
+Dans plus de la moitié des cas (50,5 %), l'automobiliste est responsable :
+lorsque l'automobiliste est responsable, près de trois fois sur quatre cela est dû à un manque de visibilité ;
+près d'une fois sur quatre cela est dû à une erreur de décision.
+Dans le restant des cas d'accidents, l'environnement est en cause dans 7,7 % de tous les cas :
+2 % des cas la météo ;
+2 % des cas dû à un entretien déféctueux de la route ;
+1 % des cas dû à de mauvais tracés ;
+1 % des cas dû à des travaux et risques temporaires
+Le facteur prépondérant d'accident est donc la visibilité, en particulier les automobilistes très souvent n'ont pas vu le motard.
+Remarque : si l'on ne considère que les accidents mortels, la responsabilité du motard augmente à 53,4 % des cas contre 33,3 % pour les automobilistes.
+
+
+== Les circonstances ==
+
+
+=== En Europe ===
+
+Beaucoup de personnes jugent que les accidents sont dus à une prise de risque inconsidérée ou à une vitesse trop élevée des motards[réf. nécessaire]. Or, d'après l'étude MAIDS de l'Association des constructeurs européens de motocycles (ACEM), la vitesse de déplacement au moment de l’impact est « inférieure à 50 km/h dans 70 % des cas ». L’excès de vitesse ne contribue à l’accident que dans quelques cas isolés. Parmi les principales causes d’accident, plus de 70 % des conducteurs d’autres véhicules ayant commis une erreur humaine n’ont pas détecté la présence de la moto. Il apparaît que les détenteurs du permis auto uniquement apprécient rarement correctement l'approche d'un deux-roues contrairement à ceux qui sont en automobile mais disposent néanmoins du permis moto. Parmi les facteurs de risque secondaires, les conducteurs de deux-roues n’ont pas détecté la présence de l’autre véhicule, et ont commis un grand nombre d’erreurs dans leurs décisions. Par exemple, ils ont opté pour une mauvaise stratégie en tentant d’éviter la collision.
+Pour l'Observatoire national interministériel de sécurité routière de France (ONISR), « les conducteurs de deux-roues à moteur accidentés montrent souvent un attachement rigide au statut prioritaire [...], ils ont tendance à rouler trop vite pour la situation. ». Ce point met en effet le doigt sur l'oubli des motards de leur vulnérabilité face aux autres usagers, alors qu'une relative paranoïa aux mouvements et aux endroits potentiellement dangereux devrait l'alerter.
+Les sources d'informations sont différentes pour les deux parties : les études nationales françaises s'appuient sur les fichiers BAAC qui ont vu leur réputation ternie par divers organismes dont la FFMC et ce à juste raison. Les études européennes portent, elles, sur une sélection d'accidents épluchés pour obtenir les détails précis de l'accident mais aussi de son contexte. Le manque de visibilité par rapport aux autres véhicules est un réel danger. Une solution pragmatique est de posséder un équipement assez visible, surtout de nuit grâce aux bandes réfléchissantes. Lors de randonnées particulières, il devient courant de voir les « leaders » s'équiper de gilets fluorescents.
+
+
+=== Aux États-Unis ===
+Aux États-Unis, la première étude importante, le Hurt Report (en), menée dans la région de Los Angeles, a été publiée en 1981. Sur les 55 points évoqués en conclusion du rapport, une des principales conclusions est que les motocyclistes sont mal vus par les autres usagers ; dans deux tiers des accidents de moto impliquant une automobile, l'automobiliste n'a pas vu le motard et lui a coupé la route.
+Fin 2009, la Federal Highway Administration (Administration fédérale des autoroutes), conjointement avec l'université d'État de l'Oklahoma, a lancé un grand programme d'étude sur le sujet. Les résultats devraient être connus en 2013.
+
+
+=== En Nouvelle-Zélande ===
+La dernière étude en Nouvelle-Zélande date de 2004 ; 463 pilotes accidentés et 1 233 autres pilotes ont été interrogés afin d'évaluer les risques d'accident. Il ressort que le port d'un gilet fluorescent peut réduire le risque de 37 %, le port d'un casque de couleur blanche de 24 % et l'allumage des phares de 27 %.
+
+
+== Les infrastructures routières ==
+
+Conçues avant tout pour les voitures, elles tiennent rarement compte des caractéristiques physiques de la moto, pour laquelle elles peuvent être dangereuses. La dispersion des responsabilités entre les gestionnaires du réseau routier (État, collectivités territoriales) et la faiblesse des normes en matière de mobilier urbain constituent les principales causes de ces dysfonctionnements.
+Elles se classent en deux catégories :
+celles susceptibles de provoquer la perte d'adhérence indispensable à l'équilibre du deux-roues : peinture au sol glissante (passages piétons), bouche d'égout, accumulation de gazole/gravier, nid de poule, ralentisseurs non homologués de type coussin berlinois, etc. ;
+celles susceptibles de provoquer des blessures ou de les aggraver en cas de choc : absence de lisse inférieure sur les barrières latérales à effet guillotine, structure agressive du mobilier urbain (bac à fleur, bitte en acier, etc.).
+
+
+== La loi ==
+D'une manière générale, en France les campagnes de prévention routière pour les motos laissent entendre que cette catégorie d'usagers crée le risque ; des affiches présentent un motard après un crash-test de face contre un mur ou ayant trop bu. Le code de la route dispose que les motos doivent rouler feux de croisement allumés de jour comme de nuit, afin de les distinguer du trafic automobile.
+Le lien entre répression de la vitesse et réduction des accidents n'est pas démontré puisque le nombre d'excès de vitesse des motards n'a guère évolué. L'Observatoire (français) National Interministériel de Sécurité Routière (ONISR) annonce que, en 2003, entre 52 % et 82 % sont en excès de vitesse ; de plus, on peut noter que les motos roulent toujours entre 3 et 11 km/h de plus que les autres véhicules : c'est la sécurité active.[réf. nécessaire]
+
+Dans la plupart des pays, seul le casque équipé d'autocollants réfléchissants revêt un caractère obligatoire mais la plupart des motards, conscients des risques encourus en cas de chute, font l'acquisition de vêtements adéquats (Voir Vêtements pour motard).
+En France, depuis le 1er janvier 1985, la puissance des motos est limitée à 73,6 kW (100 ch). Néanmoins, une tolérance de 6 % est appliquée, portant la puissance maximale à 78 kW (106 ch).
+
+
+== La prévention des risques ==
+
+
+=== Les risques courants ===
+Une fatigue générale, générée par un manque de sommeil et un quotidien stressant, est dangereuse pour tous les usagers de la route. Or, l'équilibre physique et mental du motard assure la tenue de son équilibre sur la moto. Cette fatigue, plus que la régularité du temps de parcours, devrait inciter à ralentir, ce qui n'est pas toujours le cas. La conduite d'un deux-roues peut être remplie d'automatismes et de prises de risque rendues moins anormales par l'habitude. Une remise en cause régulière du pilotage ainsi que l'inscription à des stages de pilotage favorisent la sécurité. Si les sensations que procure l'essorage de la poignée donne des envies de recommencer, mieux vaut opter pour l'utilisation d'un circuit sécurisé. Bien que la moto permette l'expression d'une volonté de différenciation des autres usagers, il faut absolument éviter l'agressivité par le bruit excessif ou les excès de vitesse. Malgré une tenue vestimentaire qui peut être pénible à supporter les jours d'été, beaucoup de motards préfèrent transpirer plutôt que risquer des séquelles à vie liées au manque de protection comme les brulures profondes de second et troisième degré nécessitant des greffes de peau.
+D'une façon générale, ces points sont importants :
+les autres usagers perçoivent mal les deux-roues : ceci doit être une évidence pour les motards pour qu'ils agissent en conséquence ;
+éviter les angles morts, les zigzags et les pleins phares intempestifs ;
+adapter sa vitesse non pas seulement en fonction de l'adhérence mais plutôt en fonction de l'environnement (piétons, zone résidentielle, vent) ;
+être courtois, respectueux et tolérant pour calmer les esprits.
+s'assurer du respect de la règle « je contrôle et j'avertis », bien souvent négligé par les automobilistes.
+
+
+=== Réduire les risques ===
+Le permis pour les motocyclistes ne fournissant qu'un apprentissage minimal, certains pays voient la création d'organismes capables de fournir une formation de perfectionnement à la conduite.
+Aux États-Unis, la Motorcycle Safety Foundation (en) (MSF) propose dans les États de l'Oregon et d'Idaho des formations supplémentaires.
+Au Royaume-Uni, des organisations telles que l'Institute of Advanced Motorists (en) (IAM) et la Royal Society for the Prevention of Accidents (en) (RoSPA) propose des formations avancées avec l'objectif de réduire les causes d'accidents.
+Au Canada, l'organisation Canada Safety Council (en) (CSC) fourni des entraînements adaptés. La qualité de ces programmes est reconnue nationalement par le Motorcycle and Moped Industry Council (en) (MMIC).
+En France, l'AFDM est une structure de prévention et de formation à la conduite deux-roues issue de la FFMC.
+
+
+== Notes et références ==
+
+
+== Articles connexes ==
+Fédération française des motards en colère (FFMC)
+Association pour la formation des motards (AFDM)
+Prévention et sécurité routières
+
+ Portail de la moto

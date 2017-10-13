@@ -1,0 +1,1 @@
+Kvocients ir no nulles atšķirīgs skaitlis, ar ko jāpareizina kāds ģeometriskās progresijas loceklis, lai iegūtu tās nākamo locekli. Ģeometrisko progresiju, kuras kvocienta modulis ir mazāks par 1, sauc par bezgalīgi dilstošu ģeometrisko progresiju.

@@ -1,0 +1,11 @@
+Die Kantenkugel ist eine Kugel, die alle Kanten des gegebenen Polyeders berührt. Die Kantenkugel in der Raumgeometrie ist neben der Inkugel die Entsprechung zum Inkreis eines Polygons in der ebenen Geometrie.
+Der Mittelpunkt einer Kantenkugel muss von allen Kanten gleichen Abstand haben. Es besitzen nur spezielle Polyeder eine Kantenkugel, darunter unter anderem die fünf platonischen Körper und die Archimedischen Körper.
+
+
+== Siehe auch ==
+Inkugel
+Umkugel
+
+
+== Weblinks ==
+Venndigramm zur Beschreibung von Um-, In- und Kantenkugeln bei Polyedern

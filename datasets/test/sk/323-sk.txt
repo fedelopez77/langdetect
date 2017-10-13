@@ -1,0 +1,26 @@
+Uhlíková nanorúrka (iné názvy: uhlíková nanotrubička, uhlíková nanotrubica, nevhodne uhlíková nanotuba) je alotropická modifikácia uhlíka, ktorá má valcovitý tvar.
+Boli objavené v roku 1980. V tom čase sa začali uhlíkové nanorúrky používať v rôznych priemyselných odvetviach, najmä vďaka tomu, že sú silnejšie ako oceľ a ich hmotnosť predstavuje iba jednu šestinu hmotnosti ocele. Uhlíkové nanorúrky majú aj nezvyčajné tepelné a vodivé vlastnosti. Uhlíkové nanorúrky nie sú rozpustné vo vode a vodných roztokoch, rozpúšťajú sa v organických rozpúšťadlách. Sú takisto výbornými vodičmi, keďže elektróny sa v nich môžu pohybovať takmer voľne. Elektrický odpor nanorúrok je veľmi malý, takmer nezávislý od ich dĺžky. Dnes sa uhlíkové nanorúrky používajú v elektronike, optike a nanotechnológiach a nanomedicíne.
+
+
+== Využitie v nanomedicíne ==
+Uhlíkové nanorúrky sa v biomedicíne experimentálne používajú na prenos liečiv a zobrazovanie nádorov. Môžu byť použité na hypertermickú abláciu nádorových buniek, vďaka ich vysokej absorpcii v oblasti blízkej infračervenému žiareniu. Majú schopnosť absorbovať svetlo z oblasti blízkej infračervenému žiareniu a následne sú schopné vyrobiť teplo, ktoré je smrteľné pre rakovinové bunky. Zároveň sa môžu použiť na doručenie liečiv k nádorovým bunkám. Ukázalo sa, že pomocou kyseliny listovej, naviazanej na uhlíkových nanorúrkach sa dokáže zabezpečiť ich špecifické naviazanie práve na nádorové bunky. Nádorové bunky ktoré prijali kyselinu listovú naviazanú na uhlíkových nanorúrkach boli zničené ožiarením pomocou žiarenia s vlnovou dĺžkou blízko infračervenej oblasti. Na druhej strane zdravé bunky bez príslušného receptoru neboli zničené.
+
+
+== Typy nanorúrok ==
+Rozoznávame dva typy uhlíkových nanorúrok: jednostenné a mnohostenné. Oba typy sú skúmané pre aplikáciu v nanomedicíne. V štúdiách bolo dokázané, že liečivá naviazané na uhlíkové nanorúrky boli efektívnejšie prepravené do buniek. Ich použitím na doručenie liečiv sa možno vyhnúť potrebe rozpúšťadiel. Okrem toho ich použitím ako nosičov možno znížiť alebo sa úplne vyhnúť niektorým vedľajším účinkom.
+
+
+=== Jednostenné nanorúrky ===
+Rozvíjajúcim sa odvetím nanotechnológie je výskum mechanických, štruktúrnych, elektrických a optických vlastností jednostenných nanorúrok. Jednostenné nanorúrky majú priemer 1-3 nm a dĺžku 5-30 nm. Používajú sa napr. na transport liečiv. Vysoká optická absorbancia jednostenných nanorúrok v blízkosti infračerveného spektra spôsobuje zahrievanie pod laserovým žiarením, čo sa využíva na ničenie rakovinových buniek. Vyrábajú sa pomocou laserovej ablačnej techniky a rozsah priemerov takto pripravených nanorúrok bol odhadnutý na 1,3 až 1,6 nm. Surové jednostenné nanorúrky majú vysoký obsah nečistôt ako sú napríklad amorfné častice uhlíka alebo katalyzátory (Ni, Co). Pre ich použitie v medicíne je však nutný vysoký stupeň čistoty. Jedným z najpoužívanejších spôsobov čistenia je oxidácia pomocou koncentrovaných kyselín.
+
+
+=== Mnohostenné nanorúrky ===
+Mnohostenné nanorúrky majú priemer od 10 nm a dĺžku od 200 nm až do niekoľkých mikrometrov. Mnohostenné nanorúrky sa používajú pri zobrazovaní nádorov.
+
+
+== Referencie ==
+
+
+== Iné projekty ==
+
+ Commons ponúka multimediálne súbory na tému Uhlíková nanorúrka

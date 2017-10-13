@@ -1,0 +1,89 @@
+Semafor, v programovaní, je zabezpečená premenná (entita zachovávajúca hodnotu) alebo premenná abstraktného dátového typu (entita spájajúca viac premenných, ktoré môžu a nemusia byť číselné) ktoré nahrádzajú klasickú metódu pre obmedzenie prístupu k zdieľaným prostriedkom, ako zdieľaná pamäť, v multiprogramovom prostredí (systém, kde sa spúšťa alebo chce spustiť viacero programov naraz). Semafory existujú vo veľa variantoch, avšak týmto pojmom obyčajne myslíme počítací semafor, keďže binárny semafor je známy ako mutex. Počítací semafor je počítadlo pre množinu voľných zdrojov, skôr ako uzamykací/odomykací flag pre jeden zdroj. Vymyslel ho Edsger Dijkstra.
+Semafory sú klasické riešenie na predchádzanie race conditions a problému hladných filozofov, aj keď nepredchádzajú vzniku deadlock-u zdrojov.
+
+
+== Úvod ==
+K semaforu možno pristupovať len pomocou nasledovných operácii. Tie, ktoré sú označené ako atomické, nemôžu byť prerušené (t. j. ak sa systém rozhodne, že je čas "zmeniť" proces, nemôže ho zmeniť uprostred týchto inštrukcií). Dôvod je popísaný nižšie.
+
+P(Semaphore s) // Získanie zdroja
+{
+  wait until s > 0, then s := s-1;
+  /* musí byť atomické ak platí s > 0 */
+}
+
+V(Semaphore s)  // Uvoľnenie zdroja
+{
+  s := s+1;   /* musí byť atomické */
+}
+
+Init(Semaphore s, Integer v)
+{
+  s := v;
+}
+
+Všimnime si, že zvyšovanie premennej s nesmie byť prerušené a procedúra P nesmie byť prerušená, ak s je väčšie od 0. Toto sa dá dosiahnuť pomocou špeciálnej inštrukcie test-and-set (ak to v danej architektúre inštrukčná sada podporuje) alebo (ak to je jednoprocesorový systém) sa dá zakázať prerušenie na zabránenie prepnutia procesu.
+Hodnota semafora je počet jednotiek, ktoré sú v našom zdroji voľné. (Ak je tam iba jedna jednotka, je použitý "binárny semafor" s hodnotami 0 alebo 1.) Procedúra P používa činné čakanie (vo svojom čase nerobí nič) alebo spí (povie systému, nech ju neplánuje), kým zdroj nie je dostupný, keď pri zobudení ho hneď získa pre seba. V je opak; po skončení jeho používania procesom jednoducho urobí zdroj znova dostupný. Init je použitý len na inicializovanie semaforu pred tým, ako sa použije. Procedúry P a V musia byť atomické, čo znamená, že uprostred týchto procedúr nesmie byť naplánovaný žiadny iný proces, ktorý by na tomto semafore robil inú operáciu.
+
+Skratky P a V pochádzajú z holandských slov. V z verhoog, t. j. "zvýšenie". Viac možností je však pre P (vrátane passeeren pre "prejsť", probeeren "skúsiť" a pakken "chytiť"), ale v podstate Dijkstra napísal, že spomínané P je z nového zloženého slova prolaag, skratky pre probeer te verlagen, čiže "skús znížiť" [1][2]. Táto nejednoznačnosť vznikla pre nešťastnú vlastnosť holandčiny, kde slová zvýš a zníž obe začínajú na písmeno V, a celé vypísané slová by boli veľmi ťažké na vyslovenie pre neznalcov holandčiny.
+
+V programovacom jazyku ALGOL 68, v linuxovom jadre, a v niektorých anglických knihách, procedúry P a V sú nazývané down a up. V niektorých príručkách zasa wait a signal, acquire a release alebo pend a post. Niektoré texty ich nazývajú procure a vacate, aby sedeli s originálnymi holandskými iniciálkami.
+Aby sme sa vyhli činnému čakaniu, semafor môže mať priradenú frontu procesov (obyčajne first-in, first-out). Ak proces vykoná procedúru P na semafore, ktorý má hodnotu 0, proces je pridaný do tejto fronty. Ak iný proces zvýši semafor vykonaním procedúry V a aspoň jeden proces je vo fronte semaforu, jeden z nich je vybratý a pokračuje vo svojom behu.
+Počítací semafor možno rozšíriť o schopnosť vrátiť viac ako jednu 'jednotku' zo semafora. Takto skutočne pracuje UNIXový semafor. Upravené P a V procedúry:
+
+P(Semaphore s, integer howmany)
+{
+  wait until s >= 0;
+  s := s - howmany; /* musí byť atomické */
+  wait until s >= 0;
+}
+
+V(Semaphore s, integer howmany)
+{
+  s := s+howmany;   /* musí byť atomické */
+}
+
+Na pochopenie, prečo je to lepšie ako jednoduché viacnásobné volanie P, uvažujme nasledovný problém. Povedzme, že máte množstvo N nejakého zdroja, napríklad zásobníkov pevnej dĺžky. Môžete chcieť mať inicializovaný semafor na hodnotu N na monitorovanie toho, koľko zásobníkov je momentálne nepoužívaných. Keď si chce proces alokovať zásobník, zavolá P na semafore a dostane ho. Ak nie sú žiadne zásobníky voľné, bude čakať, pokiaľ niektorý z iných procesov neuvoľní zásobník a vyvolá V na semafore.
+
+Predpokladajme, že by si chceli dva procesy alokovať zásobníky. Jeden by chcel K zásobníkov a druhý L, kde K + L > N. Primitívna implementácia by volala K, resp. L, krát procedúru P na semafore v cykle. Avšak toto môže viesť k deadlocku: ak prvý proces dostane Z < K zásobníkov tak, že Z + L > N a operačný systém prepne na druhý proces, ktorý si začne tiež alokovať zásobníky, ten ich potom dostane N - Z (čo je menej ako L), semafor bude mať už 0 a teda druhý proces začne čakať. Prvý proces sa obnoví a pokúsi sa alokovať ďalší zásobník, ale semafor je stále 0 a teda aj on začne čakať. Žiaden s procesov teda nebude mať dostatok zásobníkov na pokračovanie činnosti a teda sa ani žiadne zásobníky uvoľnia. Teda sú zaseknuté v deadloku.
+V modifikovanej verzii semaforu si prvý proces alokuje K zásobníkov na semafore, ktoré dostane v atomickej operácii, nechávajúc ešte N-K zásobníkov voľných na semafore. Potom príde druhý proces, ktorý sa bude snažiť získať L zásobníkov, ale to je viac ako je na semafore voľných a teda bude musieť čakať. Keď prvý proces skončí, uvoľní zásobníky a zvýši semafor, druhý proces môže byť zobudený a dostane všetky svoje zásobníky.
+Za povšimnutie stojí, že číslo na semafore nie je vždy nutne rovné hodnote počtu voľných zásobníkov. Testovanie a čakanie na podmienke s >= 0 v P je potrebné na zabezpečenie toho, aby pri pridávaní sa do čakacej fronty procesy nerušili ostatným požiadavky: proces nezmení hodnotu na semafore, pokiaľ nie je prvý vo fronte. V reálnej implementácii je to robené bez toho, aby sa zobudil čakajúci proces len kvôli vykonaniu medzikroku – zmenšenie hodnoty.
+
+
+== Semafory v dnešnej dobe používané programátormi ==
+Semafory sa stále bežne používajú v programovacích jazykoch, ktoré nepodporujú inú priamejšiu formu synchronizácie. Sú to primitívne synchronizačné mechanizmy v mnohých operačných systémoch. Trend vo vývoji programovacích jazykov avšak smeruje k viac štruktúrovaným formám synchronizácie, ako monitory a kanály. Navyše semafory neriešia (viac-zdrojové) deadlocky, nechránia programátora pred ľahkými chybami znova použitia semafora, ktorý je už používaný tým istým procesom a uvoľnenia semafora na konci po použití.
+Napríklad Wikipedia asi nepoužíva semafory na synchronizáciu. (asi?) Toto by mohlo viesť k race conditions, ak by dvaja používatelia robili naraz zmeny. Radšej ako sa tomuto vynúť, napríklad zakázaním upravovania ostatným používateľom počas úprav jedného, si Wikipedia zvolila systém kontroly verzií, ktorý sa pokúša spojiť výsledky rôznych autorov a vysporiadať sa so spormi.
+
+
+== Ukážkové použitie ==
+Keďže semafory počítajú s hodnotou, môžu byť použité pri dosiahnutí určitého cieľa spoluprácou viacerými vláknami. Predstavme si príklad:
+Vlákno A potrebuje informáciu z dvoch databáz, kým môže pokračovať. Prístup k týmto databázam je kontrolovaný dvoma oddelenými vláknami B a C. Tieto dve vlákna majú cyklus spracujúci správy; ktokoľvek kto potrebuje použiť jednu z daných databáz pošle dotaz do fronty korešpondujúcej databázy. Vlákno A inicializuje semafor S s init(S,-1). A potom pošle požiadavku, vrátane pointra na semafor S, pre obe vlákna B aj C. Potom A zavolá P(S), ktorý ho zablokuje. Zvyšné dve vlákna budú zatiaľ získavať informácie z databáz; keď skončia hľadanie danej informácie, zavolajú V(S) na zaslanom semafore. Až keď obe vlákna vykonali svoju prácu bude hodnota na semafore kladná a A môže pokračovať. Takto použitý semafor sa nazýva "počítací semafor."
+Okrem počítacieho semafora je ešte napríklad "blokovací semafor". Blokovací semafor je semafor inicializovaný na 0. Potom ktorékoľvek vlákno pri zavolaní P(S) bude blokované, pokým iné vlákno nespraví V(S). Toto je veľmi pekný spôsob konštrukcie medzi bežiacimi vláknami, ktoré majú byť kontrolované.
+Najľahší prípad semafora je "binárny semafor", používaný na kontrolu prístupu k jedinému zdroju, čo je v princípe to isté ako mutex. Binárny semafor je stále inicializovaný na hodnotu 1. Keď chceme využiť zdroj, dané vlákno zavolá P(S) na zníženie hodnoty na 0 a vráti hodnotu 1 pomocou procedúry V, keď je zdroj pripravený na uvoľnenie....
+
+
+== Pozri aj ==
+Problém fajčiarov cigariet
+Problém hladných filozofov
+Problém čitateľov a zapisovateľov
+Problém spiaceho holiča
+
+
+== Referencie ==
+
+
+== Literatúra ==
+Over Seinpalen (EWD 74), v ktorom Dijkstra uvádza koncept (po holandsky).
+The Little Book of Semaphores, od Allena B. Downeyho, Green Tea Press.
+
+
+== Externé odkazy ==
+Over Seinpalen (EWD 74), v ktorom Dijkstra uvádza koncept (po holandsky)
+semaphore.h programovací interface - The Open Group Base Specifications Issue 6, IEEE Std 1003.1 (EN)
+Jednoduché použitie procesu v semafore v jazyku C# (EN)
+Iný popis tématiky a príklady v jazyku C (SK)
+J2SE class api/java/util/concurrent/Semaphore (EN)
+Python Semaphore Objects (EN)
+Inter-Process Communication Tutorial (EN)
+Popis semaforov od Portland Pattern Repository (EN)
+The Little Book of Semaphores, od Allena B. Downeyho (EN)
+"BE Engineering Insights: Benaphores", od Benoita Schillinga; detaily optimalizácie, ktoré môžu byť použité na implementáciu semaforov (EN)

@@ -1,0 +1,54 @@
+Las finanzas son una rama de la economía y administración de empresas que estudia el intercambio de capital entre individuos, empresas, o Estados y con la incertidumbre y el riesgo que estas actividades conllevan.[1]​ Se dedica al estudio de la obtención de capital para la inversión en bienes productivos y de las decisiones de inversión de los ahorradores. Está relacionado con las transacciones y con la administración del dinero.[2]​ En ese marco se estudia la obtención y gestión, por parte de una compañía, un individuo, o del propio Estado, de los fondos que necesita para cumplir sus objetivos, y de los criterios con que dispone de sus activos; en otras palabras, lo relativo a la obtención y gestión del dinero, así como de otros valores o sucedáneos del dinero, como lo son los títulos, los bonos, etc. Según Bodie y Merton, las finanzas "estudian la manera en que los recursos escasos se asignan a través del tiempo". Las finanzas tratan, por lo tanto, de las condiciones y la oportunidad con que se consigue el capital, de los usos de éste,y los retornos que un inversionista obtiene de sus inversiones.[3]​
+El estudio académico de las finanzas se divide principalmente en dos ramas,[4]​ que reflejan las posiciones respectivas de aquel que necesita fondos o dinero para realizar una inversión, llamada finanzas corporativas, y de aquel que quiere invertir su dinero dándoselo a alguien que lo quiera usar para invertir, llamada valuación de activos[cita requerida]. El área de finanzas corporativas estudia cómo le conviene más a un inversionista conseguir dinero, por ejemplo, si vendiendo acciones, pidiendo prestado a un banco o vendiendo deuda en el mercado. El área de valuación de activos estudia cómo le conviene más a un inversionista invertir su dinero, por ejemplo, si comprando acciones, prestando/comprando deuda, o acumulado dinero en efectivo.
+Estas dos ramas de las finanzas se dividen en otras más. Algunas de las áreas más populares dentro del estudio de las finanzas son: Intermediación Financiera, Finanzas Conductistas, Microestructura de los Mercados Financieros, Desarrollo Financiero, Finanzas Internacionales, y Finanzas de Consumidor.[5]​ Una disciplina recientemente creada son las neurofinanzas, rama de la neuroeconomía, encargada del estudio de los sesgos relacionados con el manejo de la economía.[cita requerida]
+Las finanzas personales son la aplicación de las finanzas y sus principios a una persona o familia en su deseo de realizar sus actividades con la mejor distribución de dinero para ello. Así, deben reconocer cómo ocupar sus ingresos en educación, salud, alimentación, vestimenta, seguros, lujos, transporte, etc. Se deben tener en cuenta los ingresos, los gastos, los ahorros y siempre estableciendo los riesgos y los eventos futuros. Parte de las finanzas personales son los cheques, las cuentas de ahorro, las tarjetas de crédito, los préstamos, las inversiones en el mercado de valores, los planes de jubilación, los impuestos, etc.
+
+
+== Conceptos clave ==
+Riesgo y beneficio: Los inversores actúan en los diferentes mercados intentando obtener el mayor rendimiento para su dinero a la vez que pretenden minimizar el riesgo de su inversión. El mercado de capitales ofrece en cada momento una frontera eficiente, que relaciona una determinada rentabilidad con un determinado nivel de riesgo o volatilidad. El inversor obtiene una mayor rentabilidad esperada a cambio de soportar una mayor incertidumbre. El precio de la incertidumbre es la diferencia entre la rentabilidad de la inversión y el tipo de interés de aquellos valores que se consideran seguros. A esta diferencia la conocemos como prima de riesgo.
+El valor del dinero en el tiempo: Ante la misma cantidad de dinero, un inversor prefiere disponer de ella en el presente que en el futuro. Por ello, el transvase intertemporal de dinero cuenta con un factor de descuento (si intercambiamos renta futura por capital presente, por ejemplo, en un préstamo hipotecario), o con una rentabilidad (si ìntercambiamos renta presente por renta futura, por ejemplo, en un plan de pensiones).
+Tasa de interés: Se define como el precio que se paga por los fondos solicitados en préstamo, en un periodo de tiempo. Por lo general es expresado en porcentaje y representa una tasa de intercambio entre el precio del dinero al día de hoy en términos del dinero futuro.
+En España la tasa de interés es conocida como "tipo de interés".
+La tasa de interés afecta directamente el consumo, el comercio y la inversión, pues parte del consumo se paga mediante tarjetas de crédito, parte de la mercancía comprada y vendida por los comercios es comprada a crédito, y las inversiones siempre se apoyan con préstamos bancarios o emisión de deuda mediante bonos: Al subir la tasa de interés el consumo y la inversión disminuyen, pues individuos y empresas encuentran más difícil pagar sus deudas; al bajar la tasa de interés el consumo y la inversión aumentan por el estímulo que representa pagar menos intereses. Esta relación entre tasa de interés, consumo e inversión es utilizada por los diseñadores de políticas macroeconómicas para manipularlos para afectar crecimiento económico, empleo e inflación: Para disminuir la inflación inducen un aumento en las tasas de interés; cuando quieren aumentar el empleo, inducen su disminución. Tales acciones usualmente son llevadas a cabo mediante el Banco Central de cada país al establecer la llamada tasa de descuento - la tasa de interés a la cual presta dinero a los bancos. Este cambio en la tasa de descuento impacta los costos del dinero en los bancos y, por tanto, impacta la tasa de interés que tales bancos cobran por sus préstamos.
+La relación entre liquidez e inversión: La necesidad de contar con dinero líquido tanto para el intercambio por bienes y servicios como para realizar una inversión hace que el mercado de la mercancía-dinero tenga su propia oferta y demanda, y sus propios costes y precios.
+Costes de oportunidad: Hace referencia al sacrificio que debe hacer cualquier agente que participe en un mercado al decidir prescindir de un consumo o de una inversión para emplear sus recursos, siendo estos por definición escasos, en otro proyecto.
+Inflación: Proceso económico que consiste en un aumento continuo de los precios de la mayor parte de los productos y servicios, y, por lo tanto, de una pérdida del valor del dinero para poder adquirir esos bienes y servicios, la inflación impacta principalmente a la economía de un país, es el nuevo costo de vida. La inflación tiene un impacto directo sobre la tasa de interés: puesto que la inflación reduce el valor del dinero, a mayor inflación, mayor es la tasa de interés necesaria para compensar a un ahorrador por prestar dinero al vecino.
+
+
+== Clasificación ==
+Hay varias fuentes de las finanzas, las deudas, las obligaciones, las utilidades brutas, los préstamos a largos plazos, el capital del préstamo, las tarjetas de créditos, los fondos de riesgos laborales, entre otros. Estas fuentes financieras son útiles en diferentes situaciones y pueden clasificarse con base al tiempo y el control. Una empresa puede elegir las fuentes de financiación alternativa. La elección debe de ser correcta y adecuada. Esto supone un gran reto a los gerentes de finanzas de las empresas. Este proceso de selección debe de ser analizado y, comprender todas las características de cada uno, con base a lo que necesite la empresa. Para conocer las fuentes de financiación, es necesario saber cuáles son las clasificaciones de las finanzas. Las finanzas se clasifican en dos ramas, las finanzas públicas y las privadas.
+
+
+=== Finanzas privadas ===
+Básicamente, este tipo de finanzas se trata de la optimización de las finanzas a nivel personal (la familia, los ahorros personales, entre otros). Están sometidas a un presupuesto. Por ejemplo, una persona puede financiar su vehículo en cualquier banco. La finanza privada es la planificación financiera a nivel individual. Se trata de la utilización de los recursos monetarios, personal y familiar, considerando los acontecimientos futuros y los riesgos asociados con estos.
+Las finanzas privadas incluyen:
+cuentas de ahorro
+riesgos laborales
+planes de retiros
+préstamos personales
+inversiones en el mercado de valores
+gestión de los impuestos
+tarjetas de crédito
+
+
+=== Finanzas públicas ===
+Estas finanzas tratan de optimizar los objetivos económicos de un Estado (inversión, PIB, déficit, superávit, entre otras), mediante la estimación de las necesidades futuras y la asignación de fondos de acuerdo con la disponibilidad de fondos.
+Las finanzas públicas constituyen una rama de la economía que ayuda a examinar las consecuencias de los diferentes tipos de inversiones, de los impuestos y de los gastos de los empleados de las empresas estatales o de los gobiernos. También analiza la eficacia de los procedimientos en el desarrollo técnico de la empresa. Las finanzas públicas se encargan de las provisiones necesarias a nivel de comercio. Una empresa necesita constantemente capital, sobre la base de las diferentes inversiones a:
+
+
+==== Corto plazo ====
+
+
+==== Largo plazo ====
+
+
+==== Mediano plazo ====
+Las inversiones a corto plazo se utilizan para satisfacer las necesidades actuales de una empresa. Las inversiones a largo plazo son utilizadas para la adquisición de activos fijos de la empresa, por ejemplo, tierras, maquinaria, entre otras. Y las inversiones a mediano plazo incluyen las utilidades retenidas, por ejemplo, los préstamos temporales, cambios en la empresa, entre otras. Algunas ramas de las finanzas públicas son:
+Ingresos. Los ingresos son obtenidos por el gobierno a través de los impuestos (impuestos sobre la renta, derecho de importación, entre otros) y las fuentes no tributarias (multas y honorarios).
+Gastos públicos. Estos son los diferentes tipos de gastos en que incurre el gobierno o empresa durante su correcto funcionamiento.
+Deuda publica. Cuando el gasto público de un gobierno excede sus ingresos, el gobierno toma prestado para continuar con su correcto funcionamiento.
+Presupuesto. El presupuesto es utilizado para determinar todos los gastos que tendrá un gobierno, mismo que se hace de forma anual.
+Política fiscal. La política fiscal tiene que ver con el marco político del gobierno, después de tomar en consideración el gasto público, las vías de ingresos del gobierno, entre otras. Las finanzas juegan un papel fundamental en la organización de un gobierno y de una empresa. Sin una correcta organización, los gastos pueden elevarse de tal manera que la deuda pública crezca hasta convertirse en una deuda externa.
+
+
+== Referencias ==

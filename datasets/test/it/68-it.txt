@@ -1,0 +1,34 @@
+Digital Universe è un sistema, attualmente solo allo stato di progetto, di siti web non commerciali detti portali, che si basano su diversi generi di risorse, che toccano una larga gamma di argomenti e che sono dotati di avanzati strumenti di rendering. I suoi creatori hanno annunciato che intendono costituire un servizio pubblico di emittenza, un Public Broadcasting Service, tramite Web". Nel progetto sono coinvolti il fondatore di USWeb Joe Firmage, l'astrofisico Bernard Haisch (presidente della Digital Universe Foundation), e il cofondatore di Wikipedia Larry Sanger.
+Il contenuto di Digital Universe sarà fornito dal lavoro di una rete mondiale di ricercatori, studiosi ed educatori. È previsto che una parte di Digital Universe sia un'enciclopedia alla quale il pubblico sarà invitato a contribuire, ma che sarà sotto la direzione di stewards, di supervisori, capaci di garantirne qualità e accuratezza. Mentre alcune prestazioni avanzate di presentazione richiederanno l'uso di un browser basato su Mozilla sviluppato da ManyOne Networks – e reso gratuitamente disponibile – si intende rendere accessibile il contenuto informativo di Digital Universe mediante altri browser di uso comune.
+Del programma di stewardship e di altre attività di Digital Universe è responsabile la Digital Universe Foundation, organismo senza fini di lucro con sede in Scotts Valley in California. Il progetto di costruzione di Digital Universe è concepito come iniziativa senza limiti di durata.
+
+
+== Fondi ==
+Nel gennaio 2006 il progetto aveva ricevuto fondi per 10.5 milioni di dollari USA da investitori e da fondazioni. Per gli ulteriori fondi che si renderanno necessari, è previsto che ManyOne Networks offra servizi privilegiati per 7.95$ mensili. ManyOne Networks inoltre venderà accessi a Internet.
+
+
+== Portali ==
+I portali Web del progetto saranno organizzati in un sistema di classificazione (tassonomia) visuale navigabile in grado di mostrare le relazioni fra gli argomenti e di incoraggiare l'esplorazione.
+
+
+== Enciclopedia ==
+Un componente del progetto Digital Universe sarà un'enciclopedia in linea guidata in parte da Larry Sanger. Questi è stato profondamente coinvolto nella creazione di Wikipedia, ma ha abbandonato il progetto nel 2002. Egli intende fare in modo che Digital Universe sia più affidabile di Wikipedia. Tra l'altro, si avvarrà di esperti per esercitare un controllo editoriale.
+Il progetto dell'enciclopedia di Digital Universe utilizzerà la tecnologia wiki. Probabilmente nel 2006 sarà avviato un wiki gestito da esperti. È anche previsto che successivamente sarà messo in opera un secondo wiki pubblico per "persone normalmente educate" alle quali sarà richiesto di presentarsi con il loro nome reale. Per gli articoli dell'area pubblica sarà adottato un sistema di valutazione.
+Sono stati forniti dettagli per una progettata Encyclopedia of Earth, che si focalizzerà sull'ambiente e sui temi ad esso collegati. Essa utilizzerà due wiki paralleli, uno "stewarded" e uno "pubblico". Il primo sarà aperto solo a "riconosciute autorità scientifiche" dopo un esame delle loro credenziali. È previsto che l'"Enciclopedia della Terra" sia coperta da una licenza del genere open-content. Al gennaio 2006 sono stati scritti da esperti più di 400 articoli, ma il progetto, coordinato da Cutler Cleveland, lancerà ufficialmente il suo Earth Portal solo dopo aver prodotto 1.000 articoli, cosa prevista per il marzo 2006. Come Wikipedia, la Encyclopedia of Earth si basa sul software del genere wiki chiamato MediaWiki.
+Sanger ha criticato Wikipedia per la sua "mancanza di rispetto per la competenza", ma ha dichiarato di vedere Wikipedia e Digital Universe come progetti che "occupano spazi socialmente complementari".
+
+
+== Note ==
+
+
+== Voci correlate ==
+about.com
+Everything2
+h2g2
+Nupedia
+Wikipedia
+
+
+== Collegamenti esterni ==
+Digital Universe, digitaluniverse.net.
+ManyOne Networks, manyone.net.

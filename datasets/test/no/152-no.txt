@@ -1,0 +1,4 @@
+Devuan er en fork av Linux-distribusjonen Debian. Dens uttalte målsetning er å være en distribusjon uten systemd installert som standard. Debian 8.0 «Jessie» forårsaket en polarisering blant brukere og utviklere av Debian, på grunn av prosjektets adoptering av systemd som en erstatning for init.Devuan Alpha 2 builds for i386 og amd64 ble lansert den 10. juni 2015.
+
+
+== Referanser ==

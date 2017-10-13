@@ -1,0 +1,6 @@
+O KDESvn é um cliente gráfico para o sistema de controle de versões Subversion, baseado nas tecnologias de arquitetura da KDE SC.
+Ele utiliza o invólucro da API em C, criado pelo RapidSVN. Ele é um cliente completo e uma interface administrativa, e não apenas interpreta as saídas do svn. O KDESvn também é integrado ao KWallet, para que as credenciais de acesso possam ser salvas seguramente em disco.
+
+
+== Ligações externas ==
+Sítio oficial do KDESvn

@@ -1,0 +1,20 @@
+Epäorgaaninen kemia on kemian osa-alue, joka tutkii epäorgaanisia yhdisteitä kuten metalleja, mineraaleja ja organometalliyhdisteitä. Orgaaninen kemia sitä vastoin tutkii orgaanisia yhdisteitä, jotka sisältävät hiiltä. Tarkkaa rajaa näiden kahden tieteenalan välillä ei ole, sillä esimerkiksi organometalliyhdisteitä tutkivat molemmat.
+Tapana on myös sijoittaa eräät hiilen yksinkertaisimmat yhdisteet, kuten hiilimonoksidi ja -dioksidi, karbonaatit, karbidit ja syanidit epäorgaaniseen kemiaan.
+Ryhmäteoria on epäorgaanisen kemian keskeinen teoria. Siinä epäorgaaniset yhdisteet jaetaan pisteryhmiin niiden symmetrian perusteella. Symmetrian perusteella on mahdollista päätellä yhdisteen kemiallisia ominaisuuksia. Ryhmäteorian avulla voidaan päätellä esimerkiksi vibraatio- ja rotaatiojuovien määrää tutkittavassa yhdisteessä.
+Epäorgaanisilla yhdisteillä on lukuisia käyttötarkoituksia. Niitä käytetään esimerkiksi katalyytteinä, pigmentteinä, pinnoitteina, tensideinä, lääkkeinä ja polttoaineina. Epäorgaaninen kemia onkin tieteenalana käytännönläheinen. Monilla epäorgaanisilla yhdisteillä on suuri taloudellinen merkitys: esimerkiksi rikkihapon tuotantomäärää on käytetty yhtenä talouden mittarina, sillä se on tärkeä teollisuuden raaka-aine.
+
+
+== Kirjallisuutta ==
+Atkins, P. W. & Overton, T. et al.: Inorganic Chemistry. 5. painos. New York: W. H. Freeman and Company, 2010. Teoksen verkkoversio.
+Housecroft, C. E. & Sharpe, A. G.: Inorganic Chemistry. 2. painos. Harlow: Prentice Hall, 2005. Teoksen verkkoversio.
+Cox, P. A.: Inorganic Chemistry. 2. painos. BIOS Scientific Publishers, 2004.
+Büchel, K. H. & Moretto, H.-H. et al.: Industrial Inorganic Chemistry. 2. painos. Weinheim (Allemagne): Wiley-VCH, 2000. Teoksen verkkoversio.
+Cotton, F. A. & Wilkinson, Geoffrey et al.: Advanced Inorganic Chemistry. 6. painos. John Wiley & Sons, 1999. Teoksen verkkoversio.
+Greenwood, N. N. & Earnshaw, A.: Chemistry of the Elements. 2. painos. Butterworth-Heinemann, 1997. Teoksen verkkoversio.
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Epäorgaaninen kemia Wikimedia Commonsissa

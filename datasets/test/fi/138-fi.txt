@@ -1,0 +1,62 @@
+Vismutti on metallinen alkuaine, jonka järjestysluku on 83, CAS-numero 7440-69-9 ja kemiallinen merkki Bi (lat. bisemutum). Sen atomipaino on noin 208,980 u, tiheys 9,78 g/cm3, sulamispiste 271 °C ja kiehumispiste 1564 °C. Vismutilla ei ole pysyviä isotooppeja. Luonnon vismutti (Bi-209) on lievästi radioaktiivinen, ja sen puoliintumisaika on hyvin pitkä, 19 triljoonaa vuotta.
+
+
+== Ominaisuudet ==
+Vismutti on näöltään tinan tapaista, hieman punertavaa metallinkiiltoista suurina lehtinä kiteytyvää metallia, jota voidaan jauhaa. Olomuodoltaan vismutti muistuttaa arseenia ja antimonia, mutta on enemmän metallinluonteinen kuin antimoni. Puhtaana alkuaineena vismutti on melko haurasta. Vismutilla on suuri sähkövastus ja metalleista elohopean jälkeen alhaisin lämmönjohtavuus. Diamagneettisuus on metalleista vahvin kuten myös Hallin ilmiö. Sulamispisteessä vismutin kiinteä faasi kelluu sulan faasin pinnalla jään tapaan, mikä on alkuaineilla epätavallista.
+
+
+== Historia ==
+Vismutin (saks. Weissmuth = valkoinen massa, myöhemmin Wismuth) olemassaolo tunnettiin jo keskiajalla, muttei osattu tehdä eroa lyijyyn ja tinaan, joita se muistuttaa. 1500-luvun alussa saksalainen lääkäri ja mineralogi Georgius Agricola kirjoitti, että vismutti tunnetaan Saksassa, ja hän väitti sen olevan eri metalli. Vuonna 1753 Claude Geoffroy nuorempi osoitti lopullisesti, että vismutti on eri ainetta kuin lyijy, ja kuvasi sen ominaisuuksia.
+
+
+== Käyttö ==
+
+
+=== Metallina ===
+Vismuttia käytetään helposti sulavissa metalliseoksissa ja magneeteissa. Lähes yhtä painavana ja vähemmän haitallisena aineena kuin lyijy vismuttia käytetään korvaamaan lyijyä kalastuskoukuissa ja -painoissa.
+Vismutin nykyisiä käyttötarkoituksia ovat myös:
+Vahvojen kestomagneettien valmistus.
+Varteenotettava rooli elektroniikkapiireissä ja seuraavan sukupolven aurinkopaneelien valmistuksessa.
+Tulipalojen tunnistamiseen ja tukahduttamiseen suunnitelluissa turvalaitteissa, koska monilla vismutin seoksilla on alhaiset sulamispisteet.
+Seosaineena taottavien rautojen valmistuksessa.
+Lämpöparimateriaalina.
+Kannattimena U-235- ja U-233-polttoaineelle ydinreaktoreissa.
+Juotoksissa. Vismutti ja monet sen seoksista laajenevat hieman jähmettyessään ja soveltuvat tästä syystä loistavasti tähän tarkoitukseen.
+Haulikon hauleihin vesilinnustusta varten.
+1990-luvun alussa alettiin arvioida vismutin mahdollisuuksia myrkyttömänä korvaajana lyijylle useissa sovelluksissa:
+Lyijyvapaissa juotoksissa. Sen vähäinen myrkyllisyys on erittäin tärkeää juotoksissa, joita käytetään ruoanjalostusvälineissä ja kuparisissa vesijohdoissa.
+Ainesosana voitelurasvoissa.
+Katalyyttinä akryylikuituja valmistettaessa.
+
+
+=== Yhdisteinä ===
+Vismuttiyhdisteitä käytetään kosmetiikassa ja lääketieteessä. Vismuttia käytetään useissa ripulilääkkeissä, koska se tuhoaa vatsan bakteereja. Suomessa aineen ominaisuuksia on hyödynnetty esimerkiksi kuppataudin hoidossa. Vismuttia tarvitaan myös kynsilakan ja huulipunan helmeilyyn, joissa sitä on vismuttikloridina.
+
+
+== Tuotanto ja esiintyminen luonnossa ==
+
+Vismutin esiintyminen maankuoressa on noin kaksi kertaa niin runsasta kuin kullan. Vismutin louhiminen primäärituotteena ei yleensä ole taloudellista. Sen sijaan sitä yleensä tuotetaan sivutuotteena muiden metallimalmien jalostuksessa, erityisesti lyijyn, volframin (Kiina), tinan, kuparin sekä myös hopean (epäsuorasti) tai muiden metallien malmeista. Tärkeimmät vismuttimalmit ovat vismuttihohde eli vismutiniitti Bi2S3 ja vismiitti Bi2O3, usein vismuttiokran nimellä tunnettuna karbonaattiseoksena. British Geological Surveyn mukaan Kiina oli vuonna 2005 suurin vismutin valmistaja vähintään 40 % osuudella koko maailman tuotannosta. Seuraavina tulivat Meksiko ja Peru. USGS:n mukaan maailmassa jalostetun vismutin tuotanto vuonna 2006 oli 12 000 tonnia, josta Kiina tuotti 8 500 tonnia, Meksiko 1 180 tonnia ja Peru 950 tonnia ; muita suuria tuottajia olivat Japani, Kanada ja Kazakstan. Varsinaisia vismuttimineraaleja maailmassa louhittiin kuitenkin vain 5700 tonnia, joista 3000 tonnia Kiinassa.  Ero vismutin louhinnan ja jalostustuotannon kesken johtuu sen saannista muiden metallien jalostuksen sivutuotteena. Vismutti kulkee lyijyharkossa (joka voi sisältää jopa 10 % vismuttia) usean jalostusasteen läpi, kunnes se poistetaan Kroll-Betterton-prosessissa tai Betts-prosessissa.
+
+
+== Kierrätys ==
+Vaikka vismuttia saadaan nykyään enimmäkseen sivutuotteena, pidemmällä aikavälillä sen saatavuus riippuu lähinnä kierrätyksestä. Vismutti on suurimmilta osin lyijyn sulatuksen sivutuote yhdessä hopean, sinkin, antimonin ja muiden metallien kanssa. Sitä saadaan sivutuotteena myös volframin tuotannosta yhdessä molybdeenin ja tinan kanssa, sekä kuparin tuotannon ohella. Vismutin kierrättäminen on vaikeaa monessa sen loppukäyttökohteessa johtuen pääasiassa hajonnasta. Luultavasti helpoin kierrätettävä olisi jokin iso kappale vismuttipitoista sulatettavaksi kelpaavaa metalliseosta. Seuraavaksi helpoimpia kierrätettäviä olisivat isot juotetut kappaleet. Puolet maailman juotoskulutuksesta on elektroniikkateollisuudessa (esimerkiksi piirilevyissä). Kun juotetut kappaleet tulevat yhä pienemmiksi tai sisältävät vain vähän juotosta tai vismuttia, niiden uudelleenkäyttö tulee yhä vaikeammaksi ja kalliimmaksi huolimatta siitä, että juotos, joka sisältää huomattavasti hopeaa, on kannattavampaa kierrättää. Huonoimmin kierrätykseen soveltuvat kohteet, joissa vismutti on eniten hajallaan: vatsalääkkeissä, joissakin maaleissa sekä vismuttia sisältävissä kosmetiikkatuotteissa ja luodeissa. Näissä käyttökohteissa vismutti on niin hajallaan, että sen takaisin saaminen on mahdotonta nykyteknologialla. Vismutin saatavuuteen ja kestävyyteen voidaan vaikuttaa käyttämällä sitä tehokkaammin tai korvaamalla se. Esimerkiksi vatsalääkkeessä toinen aktiivinen ainesosa voisi korvata osan tai koko vismuttiyhdisteen. Vismutin elinkaarikehitys keskittyy juotoksiin, yhteen suurimmista vismutin käyttökohteista. Keskimääräinen energian kulutus juotokselle on 200 MJ kiloa kohden, korkeapitoisella vismuttijuotoksella (58 % Bi) vain 20 % tästä arvosta ja matalapitoisilla vismuttijuotoksilla (2-5 % Bi) lähellä keskiarvoa. Vismutin GWP-arvo (Global warming potential) on keskimäärin 10-14 kg hiilidioksidia. Korkeapitoisella vismuttijuotteella noin kaksi kolmasosaa tästä ja matalapitoisella juotoksella arviolta keskiarvon verran.
+
+
+== Toksikologia ja ekotoksikologia ==
+Tieteellinen kirjallisuus yhtyy ajatukseen, että vismutti ja sen yhdisteet ovat vähemmän myrkyllisiä kuin lyijy tai sen muut jaksollisen järjestelmän naapurit (antimoni ja polonium) ja että se ei kerry elimistöön. Sen biologinen puoliintumisaika koko kehossa on 5 päivää, mutta se voi säilyä vuosia munuaisissa potilailla, joita on hoidettu vismuttiyhdisteillä. Vismuttia pidetään yhtenä vähiten myrkyllisistä raskasmetalleista. Vismuttimyrkytys esiintyy ja vaikuttaa lähinnä munuaisessa ja maksassa. Iho- ja hengitystieärsytystä voi myös seurata, mikäli kyseiset elimet altistuvat. Kuten myös lyijyllä, ylialtistuminen vismutille voi johtaa mustan esiintymän syntymiseen ikenen pinnalla. Tämä on usein ensimmäinen merkki vismuttimyrkytyksestä. Vismutin ympäristövaikutukset eivät ole kovin hyvin tunnettuja. Sen ympäristövaikutuksia pidetään pieninä johtuen sen yhdisteiden pienestä liukoisuudesta.
+
+
+== Lähteet ==
+Hamilo, Marko & Niinistö, Lauri (toim.): Alkuaineet. Helsingin Sanomat, 2007. 978-952-5557-16-9. Suomi
+Viitteet
+
+
+== Aiheesta muualla ==
+
+Coloria.net: Alkuaine, vismutti
+Periodictable: Technical data for Bismuth (englanniksi)
+The Isotopes Project Home Page: Luettelo vismutin isotoopeista (englanniksi)
+Mindat: Bismuth (englanniksi)
+Webmineral: Bismuth Mineral Data (englanniksi)
+Webmineral: Mineral Species containing Bismuth (Bi) (englanniksi)
+Americanelements: Bismuth Technical and Safety Data (englanniksi)

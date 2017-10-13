@@ -1,0 +1,10 @@
+Luigi Bianchi (n. 18 ianuarie 1856 - d. 6 iunie 1928) a fost un matematician italian, de al cărui nume se leagă construcția geometriei diferențiale pentru spațiul n-dimensional.
+S-a născut la Padova și a studiat la Paris. A fost profesor la Universitatea din Pisa, unde a avut ca studentă pe Silvia Creangă.
+A utilizat parametrii diferențiali la construirea și dezvoltarea metodelor de exprimare a variabilelor geometrice.
+Reciproca teoremei permutabilității a lui Bianchi a fost demonstrată de matematicianul român Froim Marcus în 1948.
+
+
+== Scrieri ==
+Lezioni sulla teoria delle sostituzioni (Pisa, 1890)
+Lezioni sulla teoria dei gruppi e dei equationi algebrichi (1900)
+Lezioni di geometria analitica (Pisa, 1920).

@@ -1,0 +1,7 @@
+Slot A je konektor pre prvé verzie procesorov AMD Athlon, fyzicky je rovnaký ako Slot 1, však elektronicky nekompatibilný (využíva technológiu DEC EV6 vyvinutú pôvodne pre procesory DEC Alpha).
+Použitie rovnakého fyzického konektora umožnilo výrobcom základných dosiek použiť existujúce súčiastky pre Slot 1. Pre zabránenie vloženie procesora pre Slot 1 je na doskách Slot A otočený o 180°.
+Slot A bol neskôr nahradený päticou Socket A.
+
+
+== Referencie ==
+Tento článok je čiastočný alebo úplný preklad článku Slot A na českej Wikipédii.

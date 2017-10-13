@@ -1,0 +1,12 @@
+Tarm Pastorat er et pastorat i Skjern Provsti, Ribe Stift med de fem sogne:
+Egvad Sogn
+Hoven Sogn
+Lønborg Sogn
+Tarm Sogn
+Ådum Sogn
+I pastoratet er der fem kirker
+Egvad Kirke
+Hoven Kirke
+Lønborg Kirke
+Tarm Kirke
+Ådum Kirke

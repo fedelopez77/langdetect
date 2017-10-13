@@ -1,0 +1,914 @@
+V geometrii představuje otočení neboli rotace v eukleidovské rovině geometrické zobrazení, které je charakterizováno tím, že spojnice všech bodů s pevně zvoleným bodem, tzn. středem otočení, se změní o stejný úhel a vzdálenost bodů od středu otáčení zůstává nezměněna.
+Otočení v rovině kolem středu 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   o (orientovaný) úhel 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   je tedy takové shodné zobrazení, při kterém je obrazem bodu 
+  
+    
+      
+        A
+        ≠
+        S
+      
+    
+    {\displaystyle A\neq S}
+   bod 
+  
+    
+      
+        
+          A
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle A^{\prime }}
+  , pro který platí 
+  
+    
+      
+        
+          |
+        
+        S
+        A
+        
+          |
+        
+        =
+        
+          |
+        
+        S
+        
+          A
+          
+            ′
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle |SA|=|SA^{\prime }|}
+   a velikost úhlu 
+  
+    
+      
+        ∠
+        A
+        S
+        
+          A
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle \angle ASA^{\prime }}
+   je 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  . Obrazem středu otočení 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   je opět bod 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  .
+Podobně se dá definovat rotace v třírozměrném prostoru jako otočení kolem jisté osy o pevný úhel. Tvar a velikost jednotlivých geometrických útvarů se při otočení nemění. Při otočení se také nemění dimenze otáčeného geometrického útvaru.
+Otočení se řadí mezi shodná zobrazení.
+
+
+== Matice rotace ==
+Rotace v dvourozměrné Eukleidově rovině kolem počátku souřadnic o úhel 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   je dána vztahy
+
+  
+    
+      
+        
+          x
+          
+            ′
+          
+        
+        =
+        x
+        cos
+        ⁡
+        α
+        −
+        y
+        sin
+        ⁡
+        α
+      
+    
+    {\displaystyle x^{\prime }=x\cos \alpha -y\sin \alpha }
+  
+
+  
+    
+      
+        
+          y
+          
+            ′
+          
+        
+        =
+        x
+        sin
+        ⁡
+        α
+        +
+        y
+        cos
+        ⁡
+        α
+      
+    
+    {\displaystyle y^{\prime }=x\sin \alpha +y\cos \alpha }
+  .
+Čárkované souřadnice 
+  
+    
+      
+        
+          x
+          ′
+        
+        ,
+        
+          y
+          ′
+        
+      
+    
+    {\displaystyle x',y'}
+   jsou souřadnice otočeného bodu, který měl před otočením souřadnice 
+  
+    
+      
+        x
+        ,
+        y
+      
+    
+    {\displaystyle x,y}
+  . Podobně rotace v třírozměrném Eukleidově prostoru o úhel 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   kolem osy 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   je dáno vztahem
+
+  
+    
+      
+        
+          x
+          
+            ′
+          
+        
+        =
+        x
+        cos
+        ⁡
+        α
+        −
+        y
+        sin
+        ⁡
+        α
+      
+    
+    {\displaystyle x^{\prime }=x\cos \alpha -y\sin \alpha }
+  
+
+  
+    
+      
+        
+          y
+          
+            ′
+          
+        
+        =
+        x
+        sin
+        ⁡
+        α
+        +
+        y
+        cos
+        ⁡
+        α
+      
+    
+    {\displaystyle y^{\prime }=x\sin \alpha +y\cos \alpha }
+  
+
+  
+    
+      
+        
+          z
+          
+            ′
+          
+        
+        =
+        z
+      
+    
+    {\displaystyle z^{\prime }=z}
+  
+Obecná rotace v prostoru se dá zapsat ve vektorovém tvaru 
+  
+    
+      
+        
+          
+            x
+            ′
+          
+        
+        =
+        A
+        
+          x
+        
+      
+    
+    {\displaystyle \mathbf {x'} =A\mathbf {x} }
+   kde 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   je ortogonální matice.
+Matice rotace kolem osy 
+  
+    
+      
+        
+          n
+        
+        =
+        (
+        
+          n
+          
+            1
+          
+        
+        ,
+        
+          n
+          
+            2
+          
+        
+        ,
+        
+          n
+          
+            3
+          
+        
+        
+          )
+          
+            T
+          
+        
+      
+    
+    {\displaystyle \mathbf {n} =(n_{1},n_{2},n_{3})^{T}}
+  , kde 
+  
+    
+      
+        
+          n
+          
+            1
+          
+          
+            2
+          
+        
+        +
+        
+          n
+          
+            2
+          
+          
+            2
+          
+        
+        +
+        
+          n
+          
+            3
+          
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle n_{1}^{2}+n_{2}^{2}+n_{3}^{2}=1}
+  , o úhel 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   je
+
+  
+    
+      
+        
+          
+            
+              
+                A
+              
+              
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          cos
+                          ⁡
+                          α
+                          +
+                          
+                            n
+                            
+                              1
+                            
+                            
+                              2
+                            
+                          
+                          (
+                          1
+                          −
+                          cos
+                          ⁡
+                          α
+                          )
+                        
+                        
+                          
+                            n
+                            
+                              1
+                            
+                          
+                          
+                            n
+                            
+                              2
+                            
+                          
+                          (
+                          1
+                          −
+                          cos
+                          ⁡
+                          α
+                          )
+                          −
+                          
+                            n
+                            
+                              3
+                            
+                          
+                          sin
+                          ⁡
+                          α
+                        
+                        
+                          
+                            n
+                            
+                              1
+                            
+                          
+                          
+                            n
+                            
+                              3
+                            
+                          
+                          (
+                          1
+                          −
+                          cos
+                          ⁡
+                          α
+                          )
+                          +
+                          
+                            n
+                            
+                              2
+                            
+                          
+                          sin
+                          ⁡
+                          α
+                        
+                      
+                      
+                        
+                          
+                            n
+                            
+                              1
+                            
+                          
+                          
+                            n
+                            
+                              2
+                            
+                          
+                          (
+                          1
+                          −
+                          cos
+                          ⁡
+                          α
+                          )
+                          +
+                          
+                            n
+                            
+                              3
+                            
+                          
+                          sin
+                          ⁡
+                          α
+                        
+                        
+                          cos
+                          ⁡
+                          α
+                          +
+                          
+                            n
+                            
+                              2
+                            
+                            
+                              2
+                            
+                          
+                          (
+                          1
+                          −
+                          cos
+                          ⁡
+                          α
+                          )
+                        
+                        
+                          
+                            n
+                            
+                              2
+                            
+                          
+                          
+                            n
+                            
+                              3
+                            
+                          
+                          (
+                          1
+                          −
+                          cos
+                          ⁡
+                          α
+                          )
+                          −
+                          
+                            n
+                            
+                              1
+                            
+                          
+                          sin
+                          ⁡
+                          α
+                        
+                      
+                      
+                        
+                          
+                            n
+                            
+                              1
+                            
+                          
+                          
+                            n
+                            
+                              3
+                            
+                          
+                          (
+                          1
+                          −
+                          cos
+                          ⁡
+                          α
+                          )
+                          −
+                          
+                            n
+                            
+                              2
+                            
+                          
+                          sin
+                          ⁡
+                          α
+                        
+                        
+                          
+                            n
+                            
+                              2
+                            
+                          
+                          
+                            n
+                            
+                              3
+                            
+                          
+                          (
+                          1
+                          −
+                          cos
+                          ⁡
+                          α
+                          )
+                          +
+                          
+                            n
+                            
+                              1
+                            
+                          
+                          sin
+                          ⁡
+                          α
+                        
+                        
+                          cos
+                          ⁡
+                          α
+                          +
+                          
+                            n
+                            
+                              3
+                            
+                            
+                              2
+                            
+                          
+                          (
+                          1
+                          −
+                          cos
+                          ⁡
+                          α
+                          )
+                        
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+              
+            
+            
+              
+              
+                =
+                (
+                1
+                −
+                cos
+                ⁡
+                α
+                )
+                
+                  n
+                
+                
+                  
+                    n
+                  
+                  
+                    T
+                  
+                
+                +
+                cos
+                ⁡
+                α
+                
+                I
+                +
+                sin
+                ⁡
+                α
+                
+                  
+                    (
+                    
+                      
+                        
+                          0
+                        
+                        
+                          −
+                          
+                            n
+                            
+                              3
+                            
+                          
+                        
+                        
+                          
+                            n
+                            
+                              2
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            n
+                            
+                              3
+                            
+                          
+                        
+                        
+                          0
+                        
+                        
+                          −
+                          
+                            n
+                            
+                              1
+                            
+                          
+                        
+                      
+                      
+                        
+                          −
+                          
+                            n
+                            
+                              2
+                            
+                          
+                        
+                        
+                          
+                            n
+                            
+                              1
+                            
+                          
+                        
+                        
+                          0
+                        
+                      
+                    
+                    )
+                  
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{rl}A&={\begin{pmatrix}\cos \alpha +n_{1}^{2}(1-\cos \alpha )&n_{1}n_{2}(1-\cos \alpha )-n_{3}\sin \alpha &n_{1}n_{3}(1-\cos \alpha )+n_{2}\sin \alpha \\n_{1}n_{2}(1-\cos \alpha )+n_{3}\sin \alpha &\cos \alpha +n_{2}^{2}(1-\cos \alpha )&n_{2}n_{3}(1-\cos \alpha )-n_{1}\sin \alpha \\n_{1}n_{3}(1-\cos \alpha )-n_{2}\sin \alpha &n_{2}n_{3}(1-\cos \alpha )+n_{1}\sin \alpha &\cos \alpha +n_{3}^{2}(1-\cos \alpha )\end{pmatrix}}\\\;&\;\\&=(1-\cos \alpha )\mathbf {n} \mathbf {n} ^{T}+\cos \alpha \,I+\sin \alpha {\begin{pmatrix}0&-n_{3}&n_{2}\\n_{3}&0&-n_{1}\\-n_{2}&n_{1}&0\end{pmatrix}},\end{array}}}
+  
+kde 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   jednotkovou matici řádu tři. Množina všech takových matic tvoří speciální ortogonální grupu 
+  
+    
+      
+        S
+        O
+        (
+        3
+        )
+      
+    
+    {\displaystyle SO(3)}
+  .
+
+
+== Rotace souřadnic ==
+Někdy se předpokládá, že se objekty v prostoru nezměnily, ale otočil se "pozorovatel", což odpovídá změně souřadnic. Změna souřadnic, která je dána stejným vzorcem jako rotace v prostoru, se nazývá rotace souřadnic, anebo ortogonální transformace souřadnic. Pokud 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x_{1},\ldots ,x_{n}}
+   jsou staré souřadnice a 
+  
+    
+      
+        
+          x
+          
+            1
+          
+          ′
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+          ′
+        
+      
+    
+    {\displaystyle x_{1}',\ldots ,x_{n}'}
+   nové souřadnice nějakého bodu nebo vektoru které vznikly rotací, pak platí
+
+  
+    
+      
+        ∑
+        
+          x
+          
+            i
+          
+          
+            2
+          
+        
+        =
+        ∑
+        (
+        
+          x
+          
+            i
+          
+          ′
+        
+        
+          )
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \sum x_{i}^{2}=\sum (x_{i}')^{2}.}
+  
+Rotace souřadnic o úhel 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   kolem nějaké osy je dáno stejným vzorcem jako geometrická rotace prostoru kolem stejné osy o opačný úhel.
+
+
+== Související články ==
+Shodné zobrazení
+Eulerovy úhly

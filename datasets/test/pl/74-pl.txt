@@ -1,0 +1,217 @@
+Bariogeneza – hipotetyczny proces zachodzący we wczesnym wszechświecie (krótko po Wielkim Wybuchu), w wyniku którego powstały główne składniki materii – nukleony, czyli protony i neutrony. Podstawowym problemem, który usiłują wyjaśnić hipotezy dotyczące procesu bariogenezy, jest obserwowana we wszechświecie nierównowaga pomiędzy liczbą cząstek materii a antymaterii. Naturalną hipotezą jest, że powstający wszechświat powinien zawierać równą liczbę cząstek i antycząstek. Pojawia się zatem problem utworzenia – z początkowo symetrycznego stanu wszechświata – obserwowanego obecnie stanu asymetrii pomiędzy materią i antymaterią.
+
+
+== Wstęp ==
+Istnienie antymaterii zostało zaproponowane w roku 1928 przez Paula Diraca jako wniosek z jego relatywistycznie niezmienniczego sformułowania mechaniki kwantowej. Teoria przewiduje, dla każdego rodzaju cząstki, istnienie jej antycząstki o takich samych: masie, spinie, oraz tej samej wartości bezwzględnej, ale przeciwnym znaku wszystkich addytywnych liczb kwantowych (jak ładunek elektryczny, dziwność, liczba barionowa, liczba leptonowa itp.). Niektóre cząstki (np. foton) są identyczne z własnymi antycząstkami.
+Istnienie antycząstek o przewidywanych teoretycznie własnościach zostało potwierdzone doświadczalnie, a pierwszą zaobserwowaną antycząstką był pozyton (w roku 1932).
+Wobec tej symetrii pomiędzy materią i antymaterią rodzi się pytanie, dlaczego wokół nas obserwujemy niemal wyłącznie materię. Istnieją dwie możliwości: albo nadmiar materii istniał od początku wszechświata, albo został w jakiś sposób wygenerowany w trakcie jego ewolucji. Hipoteza bariogenezy mówi, że zachodzi ta druga możliwość i proponuje mechanizm, w wyniku którego stan ten mógł powstać.
+
+
+== Dane obserwacyjne ==
+
+
+=== Antymateria we wszechświecie ===
+Równość mas cząstek i antycząstek oraz symetria oddziaływań elektromagnetycznych ze względu na transformację C (zamianę cząstek na antycząstki) powoduje, że obserwacja promieniowania elektromagnetycznego i oddziaływania grawitacyjnego odległego obiektu nie pozwala na określenie, czy jest on zbudowany z materii, czy z antymaterii.
+Z bezpośrednich obserwacji wiadomo, że cały Układ Słoneczny i jego najbliższe otoczenie zbudowane są ze zwykłej materii. Analiza pierwotnego promieniowania kosmicznego pokazuje, że jest to prawdą również dla odleglejszych obiektów. W zakresie energii pomiędzy 1 GeV a 50 GeV antyprotony stanowią mniej niż 0,01% docierających do Ziemi cząstek pierwotnego promieniowania kosmicznego, a ich liczba i rozkład energii są zgodne z obliczeniami przeprowadzonymi przy założeniu, że są one cząstkami wtórnymi, produktami zderzeń pierwotnego promieniowania z cząsteczkami gazu międzygwiazdowego. Wynika stąd, że całe pierwotne promieniowanie kosmiczne w zakresie średnich energii składa się z materii, co wskazuje, że obiekty je emitujące również są zbudowane z materii.
+Dla promieni kosmicznych o bardzo wysokich energiach (pochodzących w większości spoza naszej Galaktyki) identyfikacja antyprotonów jest znacznie trudniejsza. Istnieją jednak wyniki pomiarów wskazujące, że i w tym zakresie energii protony stanowią, jeżeli nie całość, to przynajmniej znaczną większość cząstek. Pokazuje to, że także w Grupie Lokalnej i innych pobliskich gromadach galaktyk materia jest w przewadze.
+Pośrednim argumentem za tym, że cały obserwowany wszechświat jest zbudowany ze zwykłej materii, są negatywne próby zaobserwowania promieniowania powstającego podczas anihilacji materii i antymaterii. Gdyby we wszechświecie istniały duże skupiska antymaterii, musiałyby też istnieć obszary graniczne, gdzie materia wyrzucona z galaktyk spotykałaby się z antymaterią wyrzuconą z „antygalaktyk”, dochodziłoby do anihilacji i uwolnienia znacznych ilości energii w postaci promieniowania o charakterystycznych energiach. Promieniowania takiego jednak nie zaobserwowano, co świadczy o tym, że widzialna część wszechświata nie zawiera znaczących obszarów zbudowanych z antymaterii.
+
+
+=== Gęstość barionów ===
+Interesujące w kontekście hipotez bariogenezy jest nie tylko stwierdzenie samego istnienia asymetrii pomiędzy barionami a antybarionami, ale również ilościowe określenie wielkości tej asymetrii. Ponieważ jednak objętość rozszerzającego się wszechświata zmienia się, wygodnie jest zamiast średniej liczby barionów na jednostkę objętości posługiwać się innym parametrem: stosunkiem średniej gęstości barionów do gęstości fotonów promieniowania reliktowego:
+
+  
+    
+      
+        η
+        =
+        
+          
+            
+              n
+              
+                B
+              
+            
+            
+              n
+              
+                γ
+              
+            
+          
+        
+      
+    
+    {\displaystyle \eta ={n_{B} \over n_{\gamma }}}
+  .
+
+Wielkość ta jest niezależna od objętości wszechświata, a pozostaje stała od momentu zajścia w nim rekombinacji, czyli połączenia elektronów z jądrami w obojętne atomy.
+Najlepsze obecnie oszacowanie parametru 
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   pochodzi z analizy procesu nukleosyntezy oraz pomiarów dokonanych przez sondę WMAP i wynosi:
+
+  
+    
+      
+        5
+        
+          ,
+        
+        1
+        ⋅
+        
+          10
+          
+            −
+            10
+          
+        
+        <
+        η
+        <
+        6
+        
+          ,
+        
+        5
+        ⋅
+        
+          10
+          
+            −
+            10
+          
+        
+      
+    
+    {\displaystyle 5{,}1\cdot 10^{-10}<\eta <6{,}5\cdot 10^{-10}}
+  .
+
+Fakt, że liczba ta jest tak niewielka, stanowi dodatkowy argument za bariogenezą. W bardzo wczesnym wszechświecie, gdy temperatura była jeszcze bardzo wysoka (powyżej 
+  
+    
+      
+        
+          10
+          
+            12
+          
+        
+      
+    
+    {\displaystyle 10^{12}}
+   K), bariony i antybariony (a wcześniej kwarki i antykwarki) były w równowadze z promieniowaniem, tzn. procesy kreacji par cząstka-antycząstka i ich anihilacji zachodziły jednakowo często. Pod koniec tego okresu, zwanego erą hadronową, temperatura (czyli energia cząstek) spadła na tyle, że procesy kreacji par hadronów przestały zachodzić i nastąpiła niemal całkowita anihilacja par barion-antybarion. Powyżej przytoczona wartość 
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   świadczy, iż przewaga barionów nad antybarionami w tym momencie musiała być bardzo niewielka, rzędu kilku cząstek na miliard. Teorie zakładające istnienie początkowej asymetrii wszechświata mają problemy z wyjaśnieniem, dlaczego ta asymetria jest tak mała – podczas gdy w modelach bariogenezy tak niewielka asymetria często pojawia się w sposób naturalny.
+
+
+== Warunki Sacharowa ==
+Andriej Sacharow w pracy opublikowanej w roku 1967 sformułował trzy warunki, jakie muszą być spełnione, by możliwa była bariogeneza we wczesnym wszechświecie:
+Muszą istnieć oddziaływania łamiące prawo zachowania liczby barionowej.
+Oddziaływania te muszą łamać symetrię (parzystość) C i CP.
+Procesy bariogenezy muszą przebiegać w stanie odbiegającym od równowagi termodynamicznej.
+Uzasadnienie:
+Gdyby liczba barionowa była bezwzględnie zachowana we wszystkich oddziaływaniach, czyli bariony mogły być produkowane bądź anihilowane wyłącznie w parach z antybarionami, nie byłoby możliwe wytworzenie asymetrii pomiędzy liczbą barionów i antybarionów.
+Jeżeli dany jest jakiś proces łamiący zasadę zachowania liczby barionowej, można zamienić w nim wszystkie cząstki na antycząstki i uzyskać w ten sposób proces zmieniający liczbę barionową w przeciwnym kierunku (jeżeli np. pierwotny proces produkował barion, po zamianie cząstek na antycząstki będzie produkowany antybarion). Zachowanie symetrii C oznacza, że obydwa te procesy byłyby tak samo prawdopodobne. Bariony i antybariony produkowane byłyby więc średnio tak samo często, czyli nie mogłaby powstać znacząca różnica w ich liczbie. Podobnie łamanie parzystości CP jest niezbędne, by proces, w którym wszystkie cząstki zostały zamienione na antycząstki i jednocześnie odwrócone zostały spiny wszystkich cząstek, zachodził z innym prawdopodobieństwem, niż proces pierwotny.
+Podstawowe prawa fizyki statystycznej mówią, że w równowadze termodynamicznej prawdopodobieństwo pojawienia się jakiegoś stanu zależy tylko od jego energii. Masa (a więc i energia spoczynkowa) cząstki jest dokładnie równa masie antycząstki, tak więc w równowadze termodynamicznej średnio powinna istnieć równa liczba cząstek i antycząstek.
+Nie wiadomo obecnie, czy warunek pierwszy jest spełniony. Nie udało się, jak dotychczas, zaobserwować żadnych przypadków łamania zasady zachowania liczby barionowej. Z drugiej strony wiele teorii wykraczających poza Model Standardowy przewiduje istnienie takich procesów. Nawet w ramach Modelu Standardowego istnieje możliwość łamania zachowania liczby barionowej przez tzw. instantony, czyli rozwiązania równań pola nie opisywalne w rachunku zaburzeń. Wszelkie rozważania na temat bariogenezy muszą postulować jakiś mechanizm spełniający pierwszy warunek.
+Spełnienie warunku drugiego zależy od mechanizmu łamania liczby barionowej. W naturze istnieją procesy spełniające ten warunek. Łamanie symetrii CP w oddziaływaniach słabych zostało doświadczalnie odkryte w roku 1964. Jeszcze wcześniej odkryto, że oddziaływania słabe nie zachowują również parzystości P, a to oznacza, że również parzystość C jest łamana. Założenie, że hipotetyczne oddziaływania łamiące zachowanie liczby barionów, łamią również C i CP, nie jest więc nazbyt egzotyczne.
+Warunek trzeci pozornie jest trywialny, bowiem rozszerzający się wszechświat nie jest w równowadze termodynamicznej. W rzeczywistości jednak narzuca on ograniczenia na siłę (szybkość zachodzenia) oddziaływań generujących bariony. Jeżeli oddziaływania te byłyby bardzo silne i odpowiednie procesy biegłyby bardzo szybko, wówczas pomiędzy procesami kreującymi asymetrię i odwrotnymi, niszczącymi ją, zdążyłaby się ustalić równowaga, zanim rozszerzanie się wszechświata i spadek jego temperatury miałyby szansę procesy te zatrzymać. Tym samym nie powstałaby znacząca asymetria.
+
+
+== Modele bariogenezy ==
+Zgodnie z powyższymi warunkami, budowa modelu bariogenezy musi się rozpoczynać od zapostulowania mechanizmu łamania zachowania liczby barionowej. Ten postulowany mechanizm jest jednocześnie podstawowym kryterium klasyfikacji modeli.
+
+
+=== Bariogeneza GUT ===
+U podstaw tej klasy modeli leżą teorie wielkiej unifikacji (w skrócie zwane GUT, od ang. Grand Unification Theories). Teorie te zakładają pełną unifikację wszystkich znanych oddziaływań (z wyjątkiem grawitacji) przy bardzo wysokich energiach, rzędu 
+  
+    
+      
+        
+          10
+          
+            15
+          
+        
+        −
+        
+          10
+          
+            16
+          
+        
+      
+    
+    {\displaystyle 10^{15}-10^{16}}
+   GeV. Wszystkie znane cząstki elementarne, tak kwarki, jak i leptony, teoria umieszcza we wspólnej reprezentacji grupy symetrii pola. Oznacza to, że istnieją oddziaływania zamieniające kwarki w leptony i odwrotnie, tzn. oddziaływania łamiące zachowanie liczby barionowej. Fakt, że oddziaływania takie nie zostały dotychczas eksperymentalnie zaobserwowane, oznacza, że przenoszące je bozony, zwane bozonami X i Y, muszą mieć bardzo duże masy, rzędu energii wielkiej unifikacji.
+Sama bariogeneza w modelach GUT zachodzi przez łamiące zachowanie B, C i CP rozpady bardzo ciężkich cząstek. Mogą nimi być wspomniane bozony X, bozony Higgsa skojarzone z łamaniem symetrii wielkiej unifikacji, a także (w bardziej złożonych teoriach GUT) inne cząstki. Trzeci warunek Sacharowa realizowany jest przy tym w taki sposób, że cząstki te muszą mieć stosunkowo długi czas życia, dłuższy niż czas życia wszechświata w momencie, gdy temperatura spada poniżej progu ich produkcji. Dzięki temu w czasie, gdy rozpada się większość z nich, nie ma już warunków, które umożliwiałyby zachodzenie w znaczącym stopniu procesów odwrotnych do tych rozpadów i wytworzona w rozpadach asymetria pozostaje trwała.
+Podstawowym problemem, na jaki napotykają te modele, jest połączenie bariogenezy GUT z hipotezą inflacji. We wszechświecie z inflacją bariogeneza musi zachodzić po epoce inflacji, bowiem wszelaka pojawiająca się wcześniej asymetria zostanie kompletnie „rozmyta” podczas gwałtownego rozszerzania się wszechświata. Hipotezy inflacyjne mówią, że na koniec epoki inflacji następuje rozpad tworzącego fałszywą próżnię pola na fizyczne cząstki, które szybko dochodzą do równowagi termodynamicznej („ogrzanie wszechświata”). Osiągana przy tym temperatura jest jednak zbyt niska, by umożliwić zwykłą „termodynamiczną” produkcję ciężkich bozonów, których rozpady miały być źródłem bariogenezy. Rozwiązanie tego problemu może jednak być możliwe dzięki temu, że pole odpowiedzialne za inflację wykonuje tuż przed rozpadem koherentne drgania i może, dzięki efektom kolektywnym, produkować cząstki dużo cięższe, niż wynikałoby to z osiąganej temperatury.
+
+
+=== Bariogeneza elektrosłaba ===
+Standardowy model oddziaływań elektrosłabych przewiduje zachowanie liczby barionowej i liczby leptonowej we wszystkich rzędach rachunku zaburzeń. Jednak już w roku 1976 ’t Hooft zauważył, że anomalne (nie dające się opisać w rachunku zaburzeń) rozwiązania równań pola mogą łamać te zasady zachowania, pozostawiając zachowaną jedynie różnicę 
+  
+    
+      
+        B
+        −
+        L
+      
+    
+    {\displaystyle B-L}
+  . Rozwiązaniom o tej własności nadano nazwę sfaleronów. Efektem przejścia z udziałem sfaleronu jest zamiana trzech antyleptonów (po jednym z każdej generacji) w 9 kwarków (po jednym z każdą kombinacją generacji i ładunku kolorowego) – lub odwrotnie. Ponieważ proces ten nie daje się opisać w języku rachunku zaburzeń, nie można również narysować odpowiadającego mu diagramu Feynmana.
+Proces, w którym uczestniczy sfaleron, odpowiada konieczności przekroczenia przez układ bariery potencjału o wysokości równej energii sfaleronu (szacowanej na około 10 TeV). Oznacza to, że obecnie proces taki jest niezwykle mało prawdopodobny, ale we wczesnym wszechświecie, gdy temperatura przekraczała powyższą wartość, procesy tego typu mogły zachodzić często.
+Drugi warunek Sacharowa wydaje się spełniony, wiadomo bowiem z eksperymentów, że oddziaływania słabe łamią symetrie C i CP. Niestety, obliczenia wykazują, że obserwowane łamanie CP w oddziaływaniach słabych jest zdecydowanie za małe, by uczynić ten proces dostatecznie efektywnym źródłem barionów. Oznacza to, że modele bariogenezy elektrosłabej muszą postulować jakieś dodatkowe źródło łamania CP, by zapewnić wyprodukowanie obserwowanej gęstości barionów. Źródłem takim może być np. rozszerzenie Modelu Standardowego o supersymetrię.
+Pewnym problemem dla tego modelu jest też spełnienie trzeciego warunku Sacharowa, tj. dostatecznie dalekie odejście od stanu równowagi termodynamicznej. Zazwyczaj przyjmuje się, że przemiana fazowa, jakiej doznał wszechświat w chwili łamania symetrii elektrosłabej, była przejściem fazowym pierwszego rodzaju (nieciągłym) i wydzielone przy tym ciepło przemiany stało się czynnikiem naruszającym lokalnie równowagę termodynamiczną.
+
+
+=== Bariogeneza przez leptogenezę ===
+Koncepcja ta stanowi swego rodzaju połączenie dwóch powyższych modeli, pozwalające uniknąć trudności napotykanych przez każdy z nich. Zgodnie z nią we wszechświecie najpierw wygenerowana została asymetria pomiędzy leptonami i antyleptonami a stało się to tuż po zakończeniu procesu inflacji. Przykładowym postulowanym mechanizmem jest rozpad ciężkich i długożyciowych neutrin Majorany. Może on prowadzić do wygenerowania niezerowej liczby leptonowej wszechświata w sposób podobny, jak rozpady ciężkich bozonów w modelu bariogenezy GUT. Cząstki te są przy tym znacznie lżejsze od bozonów X i mogą być produkowane w dużych ilościach pod koniec okresu inflacji.
+W dalszym ciągu ewolucji wszechświata, aż do momentu gdy temperatura spadnie poniżej skali elektrosłabej, mogą zachodzić procesy zamiany leptonów w bariony, za pośrednictwem opisanego powyżej mechanizmu sfaleronów. Procesy te zachowują (niezerową na tym etapie) różnicę 
+  
+    
+      
+        B
+        −
+        L
+      
+    
+    {\displaystyle B-L}
+  , łamią natomiast zachowanie 
+  
+    
+      
+        B
+        +
+        L
+      
+    
+    {\displaystyle B+L}
+  . Zmierzając w stronę równowagi termodynamicznej, zamieniają one część nadmiarowych antyleptonów w kwarki, które potem tworzą bariony. Omija się w ten sposób problem wytworzenia stanu nierównowagi termodynamicznej, występujący w modelu elektrosłabej bariogenezy. W tym scenariuszu produkcja barionów zachodzi w stanie równowagi i nie wymaga łamania C i CP – to zaszło bowiem już wcześniej, podczas leptogenezy.
+Ciekawą konsekwencją tej wersji bariogenezy jest to, że przewiduje ona asymetrię leptonową Wszechświata o znaku odwrotnym, niż asymetria barionowa. Nadmiarowi barionów powinien towarzyszyć nadmiar antyleptonów, a konkretnie antyneutrin. Obecny poziom technik eksperymentalnych nie pozwala na weryfikację tej hipotezy, nie jesteśmy bowiem w stanie zmierzyć kosmicznego tła niskoenergetycznych neutrin.
+
+
+== Bariogeneza a ciemna materia ==
+Zgodnie ze standardowym modelem kosmologicznym około 4,5% masy Wszechświata stanowi widoczna materia, złożona głównie z barionów, około 23% to zimna ciemna materia, złożona z nierelatywistycznych cząstek nie wysyłających promieniowania elektromagnetycznego, a oddziałujących z materią barionową przede wszystkim grawitacyjnie, zaś resztę stanowi ciemna energia, której ujemne ciśnienie przyspiesza ekspansję Wszechświata. Ilość ciemnej materii jest więc co do rzędu wielkości zgodna ilością materii barionowej. Wielu fizyków sądzi obecnie, że wynikać to może z faktu, że ciemna materia powstała wraz z barionami, w tym samym procesie.
+Przykładem modelu łączącego bariogenezę z powstaniem ciemnej materii jest zaproponowana w roku 2010 hipoteza hylogenezy. Model ten zakłada, że ciemna materia złożona jest z cząstek o masie kilku GeV, słabo oddziałujących z widoczną materią, ale mających liczbę barionową. Zgodnie z tą hipotezą, podobnie jak w bariogenezie GUT, pod koniec epoki inflacji nastąpił rozpad napędzającego ją pola skalarnego na pary ciężkich fermionów X (nie są to te same cząstki, co bozony X, postulowane w GUT). Fermiony X posiadają, według tego modelu, niezerową liczbę barionową i mogą rozpadać się zarówno na zwykłe bariony, jak i na obdarzone ładunkiem barionowym cząstki ciemnej materii. Łamanie symetrii CP w tych rozpadach powoduje, że fermion X rozpada się na bariony nieco częściej, niż jego antycząstka (̅X) na antybariony. Tym samym ̅X rozpada się na „ciemne antybariony” nieco częściej, niż X na „ciemne bariony”. Rozpady cząstek X generują więc asymetrię liczby barionowej, zarówno wśród cząstek widocznej, jak i ciemnej materii. Zgodnie z tym modelem warunkiem koniecznym do wystąpienie bariogenezy nie jest łamanie zasady zachowania liczby barionowej – całkowita liczba barionowa Wszechświata wynosi zero, a jest tylko niesymetrycznie podzielona pomiędzy materię barionową a ciemną.
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Mark Trodden. Baryogenesis and Leptogenesis. „Proceedings of 32nd SLAC Summer Institute on Particle Physics (SLAC 2004)”. 2-13 sierpnia 2004. Menlo Park, Kalifornia: Stanford Linear Accelerator Center. arXiv:hep-ph/0411301. SLAC-R-753, eConf C040802 (ang.). , slajdy

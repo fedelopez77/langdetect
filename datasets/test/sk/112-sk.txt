@@ -1,0 +1,1 @@
+PL/SQL (Procedural Language/Structured Query Language) je procedurálne rozšírenie SQL, ktoré vyvinula firma Oracle Corporation. Na rozdiel od klasického SQL sa dajú v PL/SQL vytvárať procedúry, funkcie, používať cykly, podmienky, atď.

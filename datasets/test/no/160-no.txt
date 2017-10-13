@@ -1,0 +1,17 @@
+AN/SPQ-9 er en amerikansk radar i bruk på flere skip i US Navy. Radaren er utviklet av Northrop Grumman Norden Systems og kan følge både overflatemål og lavtflygene luftmål.
+Den er en integrert del av Mk-86 ildledningsystemet, og kan integreres i Naval Tactical Design System (NTDS).
+AN/SPQ-9B varianten er en fullstendig oppgradert versjon av radaren, og kan benyttes både som selvstendig enhet og som en integrert del av et våpensystem. Den kan erstatte AN/SPQ-9A varianten i Mk-86 ildledningsystemet, og være integret i Ship Self Defense System (SSDS).
+
+
+== Plattform ==
+Radaren har vært og er installert på en rekke forskjellige fartøyer.
+Iowa-klassen, Tarawa-klassen, Ticonderoga-klassen, Spruance-klassen, Kidd-klassen, San-Antonio-klassen, Charles F. Adams-klassen, Nimitz-klassen, Virgina-klassen (krysser), California-klassen og Lütjens-klassen
+
+
+== Varianter ==
+ AN/SPQ-9A
+ AN/SPQ-9B
+
+
+== Eksterne lenker ==
+ FAS.org om AN/SPQ9B – besøkt 18. mars 2009

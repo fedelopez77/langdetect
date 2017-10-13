@@ -1,0 +1,47 @@
+A Streptococcus egy Gram-pozitív baktériumnemzetség. A csoport tagjait gömb alakú baktériumok képezik, melyek láncszerű elrendeződést mutatnak. A sejtek osztódása egyetlen síkban zajlik, az utódsejtek egymással összetapadva láncokat alkotnak. Ezen tulajdonságukra utal a nevük is, mely a görög sztreptosz (gyöngysor, lánc) és kokkosz (bogyó, mag) szavakból tevődik össze. A streptococcusok komoly orvosi jelentőséggel bírnak, mivel több fontos kórokozó is található közöttük, melyek klasszikus gennykeltőknek számítanak és olyan betegségeket okozhatnak, mint a garatgyulladás, tüdőgyulladás vagy az agyhártyagyulladás. Ezen kívül a streptococcusok nemzetségébe tartoznak jótékony hatású baktériumok is, melyeket gyógyszeriparban és élelmiszeriparban használnak.
+
+
+== Osztályozásuk ==
+
+A Streptococcus nemzetségbe tartozó fajok osztályozása azok hemolitikus tulajdonságaik alapján történik, vagyis aszerint, hogy mennyire képesek a vörösvérsejteket bontani. Ezen felosztás szerint megkülönböztetnek alfa, béta és gamma hemolízist. Az alfa-hemolizáló streptococcusok oxidálják a vörösvérsejtek hemoglobinjában a vasat, ami véres táptalajon zöldes elszíneződést okoz a baktérium telepek körül. A béta-hemolizáló törzsek ezzel szemben a teljes vörösvérsejteket képesek feloldani, ez véres agaron a telepek körüli áttetsző, vérmentes udvarként nyilvánul meg. A gamma-hemolizáló csoportba azok a fajok kerültek, melyek képtelenek bárminemű hemolízist okozni.
+A béta-hemolizáló streptococcusokat 1933-ban Rebecca Lancefield a sejtfelszínükön található szénhidrát típusú antigének alapján további alcsoportokra osztotta, melyeket nyomtatott nagy betűvel jelölt. Bár eredetileg a béta-hemolizáló fajokat sorolta be, azóta a Lancefield-féle antigének alapján ezekbe a csoportokba több olyan faj is került, amik nem mutatnak béta-hemolízist. Orvosi szempontból az A és B csoportú streptococcusok kiemelt jelentőségűek.
+Természetesen nem mindegyik Streptococcus faj kórokozó, közülük több a normál emberi baktériumflóra tagja. A Streptococcus thermophilus baktérium pedig fontos szerepet játszik a svájci ementáli sajt készítésében.
+
+
+=== α-hemolizáló streptococcusok ===
+
+
+==== Pneumococcus ====
+A Streptococcus pneumoniae vagy más néven Pneumococcus az alfa-hemolizáló streptococcusok legfontosabb képviselője. A bakteriális tüdőgyulladás leggyakoribb kórokozója, emellett különféle gyulladásos betegségeket, főleg agyhártyagyulladást, középfülgyulladást és arcüreggyulladást okozhat. Tagja a felső légúti baktériumflórának és az emberek többsége tünetmentesen hordozza.
+
+
+==== Streptococcus viridans csoport ====
+A Streptococcus viridans nem egy klasszikus rendszertani fogalom, ugyanis nem egy konkrét fajt, hanem fajok egy nagyobb csoportját jelöli. A viridans csoportú streptococcusok (angolul: Viridans group streptococci, VGS) között akadnak alfa- és gamma-hemolizáló fajok is, azonban a csoport egésze az alfa-hemolízisre utaló latin viridis (zöld) szóról kapta a nevét. A VGS baktériumok részei a szájüreg és a bélrendszer normál flórájának és egészséges egyénekben rendszerint nem okoznak betegséget. Immunhiányos vagy strukturális szívbetegségben szenvedőkben szívbelhártya gyulladást (latinosan infectiv endocarditis) okozhatnak.
+
+
+=== β-hemolizáló streptococcusok ===
+
+
+==== A csoport ====
+
+Az A csoportú béta-hemolizáló streptococcus (angolul: Group A Streptococcus, GAS) vagy más néven Streptococcus pyogenes a nemzetség egyik legismertebb tagja, mely becslések szerint évente körülbelül 700 millió fertőzést okoz világszerte, és 517.000 ember hal meg az általa előidézett súlyos betegségekben. A S. pyogenes által okozott betegségek tárháza igen széles, a fertőzéseket invazív, illetve nem-invazív csoportra osztják. Az invazív betegségek jóval ritkábbak, de súlyosak, olyan kórképek tartoznak közéjük, mint a toxikus sokk szindróma (TSS), vagy a nekrotizáló lágyrészfertőzés (latinul: fasciitis necrotisans), utóbbi esetén a kórokozóra "húsevő baktériumként" szoktak hivatkozni. Noha a GAS fertőzések összhalálozása csupán 0,1 százalék, az invazív megbetegedések 25 százaléka halállal végződik. A nem-invazív megbetegedések gyakoriak, ilyen például a garatgyulladás, vagy az ótvar (latinul: impetigo contagiosa).
+Az S. pyogenes azért is jelentős, mert a fertőzések következményeként súlyos szövődmények alakulhatnak ki. Ezek immunológiai mechanizmussal alakulnak ki a betegben, nem pedig a baktérium közvetlen terjedésével magyarázhatóak. Gyakorlatilag a kórokozó egyes komponenseivel szembeni immunválasz keresztreagál a szervezet saját struktúráival, és ez idézi elő ezeket a kórképeket. Jó példa a baktérium felszínén található ún. M fehérje, ami ellen a szervezet olyan antitesteket termel, amik a szívizomzat egyes komponenseivel is reagálnak. A lehetséges szövődmények közé tartozik a reumás láz, vagy az akut vesegyulladás.
+
+
+==== B csoport ====
+A B csoportba a Streptococcus agalactiae (angolul: Group B Streptococcus, GBS) tartozik, ami elsősorban újszülöttekben és idősekben okoz betegségeket, főként tüdőgyulladást, és agyhártyagyulladást. A baktérium az emberi bélflóra normál tagja, ami nőkben tünetmentesen megtelepedhet a hüvelyben is. Utóbbinak terhességkor van klinikai jelentősége, mivel a baktériumot hordozó nők körében gyakoribb a koraszülés és a kórokozó megfertőzheti az újszülöttet is. Éppen ezért a terhesgondozás során a nőket szűrik GBS-re, és szükség esetén megelőző célzattal antibiotikumos kezelést rendelnek el.
+
+
+==== C csoport ====
+A C csoportba több faj is tartozik, például a Streptococcus equi és a Streptococcus zooepidemicus, mely utóbbi a S. equi biovariánsa, 98 százalékban azonos DNS állománnyal. A S. equi a lovakban kialakuló tüdőgyulladás egyik kórokozója, emberben gyakorlatilag nem okoz megbetegedést. Ugyanakkor a szintén főként lovakat megbetegítő S. zooepidemicus képes az embert is megfertőzni. Szintén C csoportú a Streptococcus dysgalactiae, mely az A csoportú streptococcushoz hasonló megbetegedéseket okozhat emberben.
+
+
+==== D csoport ====
+A molekuláris biológiai módszerek alapján (DNS-DNS és DNS-RNS hibridizációs vizsgálatok) sok, korábban a D csoportú streptococcusok közé tartozó fajt átsoroltak az enterococcusok nemzetségébe, pl. Enterococcus faecalis, E. faecium, E. durans, és E. avium. A D csoportba tartozó fajok közül kiemelendő a Streptococcus bovis, ami szívbelhártya gyulladást okozhat, illetve összefüggésbe hozták a vastagbélrákkal is. Említendő még a Streptococcus equinus is, mely latin nevének megfelelően a lovak bélflórjának tagja, a lovak székletében legnagyobb számban található baktérium. Utóbbi emberben betegséget nagyon ritkán okoz.
+
+
+==== F csoport ====
+Az F csoportba tartozó fajok az általuk okozott hemolízist tekintve változatosak, nem szigorúan béta-hemolizálók. A rendszerezésük némiképp zavaros, Európában sokáig a nem-hivatalos Streptococcus milleri néven hivatkoztak rájuk, manapság inkább az ún. "anginosus csoportként" említik őket, utalva az egyik legismertebb képviselőjére, a S. anginosus nevű baktériumra. Az anginosus csoportba három faj tartozik, a S. anginosus, a S. constellatus és a S. intermedius. Ezek a baktériumok az ember különböző nyálkahártyafelszínein a helyi flóra tagjai (pl. a szájüregben), de okozhatnak betegségeket is (pl. szívbelhártya gyulladást, bőrfertőzéseket, májtályogot).
+
+
+== Jegyzetek ==

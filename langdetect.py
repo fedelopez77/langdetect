@@ -9,6 +9,8 @@ import operator
 
 
 PATH_DATASETS = '/datasets/'
+PATH_TRAIN = PATH_DATASETS + "train/"
+
 LANGUAGES = {"it": "Italian", "pl": "Polish", "ru": "Russian", "sk": "Slovak", "pt": "Portuguese",
              "ro": "Romanian", "da": "Danish", "sv": "Swedish", "no": "Norwegian", "en": "English",
              "es": "Spanish", "fr": "French", "cs": "Czech", "de": "German", "fi": "Finnish", "et": "Estonian",
@@ -75,7 +77,7 @@ def count_ngrams_from_files(language):
     :param language
     :return: dictionary of {ngrams: freq} of all the corpus of the given language
     """
-    path = os.getcwd() + PATH_DATASETS + language + "/"
+    path = os.getcwd() + PATH_TRAIN + language + "/"
     ngram_freq = {}
     for filename in os.listdir(path):
         with open(path + filename, 'r') as f:

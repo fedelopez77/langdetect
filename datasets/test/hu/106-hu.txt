@@ -1,0 +1,12 @@
+AZ AOL Instant Messenger (AIM) egy azonnali üzenetküldő alkalmazás, amit az America Online internet szolgáltató jelentetett meg 1997-ben. Az eleinte a Netscape böngészőkhöz letölthető csevegő program hamar népszerű lett, 2006-ban az amerikai azonnali üzenetküldési forgalom 52%-át az AIM bonyolította.
+
+
+== Története ==
+1994-ben az AOL alkamazott Barry Appleman és Stephen D. Williams pár hónapos munkával elkészítették annak a rendszernek az első példányát, ami lehetővé tette az AOL előfizetőknek az azonnali üzenetek küldésének egy kezdetleges formáját. 1995-ben a rendszert kizárólag az AOL alkalmazottak használták belső beszélgetésekre. A dolgozók ekkoriban „leskelődő eszköznek” csúfolták, mivel munkatársaik a program segítségével tudták mikor vannak online. Az AOL 1997 májusában döntött arról, hogy az AIM-et elérhetővé teszik az előfizetők számára is.
+
+
+== Szolgáltatások ==
+Jelenleg az AOL Instant Messenger (AIM) elérhető az AOL.mail oldalakra való bejelentkezéssel, kliens program nélkül. Az AIM x.x főleg magánfelhasználók számára készült azonnali üzenetküldő alkalmazás. Az AIM.pro professzionális célú alkalmazás. Képes importálni az outlook címjegyzékét a BUDDY listbe, illetve a Calendars fülön megjeleníti az adott napi naptári bejegyzéseket. A programmal lehet telefonálni, videotelefonálni, fájlt küldeni és csoportos csevegésre és távoli segítségnyújtásra is alkalmas.
+
+
+== Források ==

@@ -1,0 +1,411 @@
+Andrzej Stanisław Mostowski (ur. 1 listopada 1913 we Lwowie, zm. 22 sierpnia 1975 w Vancouver, Kanada) – polski matematyk zajmujący się głównie podstawami matematyki, przedstawiciel warszawskiej szkoły matematycznej.
+
+
+== Życiorys ==
+Syn Stanisława. W 1931 roku ukończył gimnazjum im. Stefana Batorego w Warszawie i wstąpił na Uniwersytet Warszawski, gdzie studiował pod kierunkiem Tarskiego, Kuratowskiego i Lindenbauma. Doktoryzował się w 1938 roku na podstawie rozprawy O niezależności definicji skończoności w systemie logiki napisanej pod kierunkiem Kuratowskiego i Tarskiego.
+Po inwazji niemieckiej w 1939 r. na Polskę pracował jako księgowy. W latach 1942-1944 uczył na Tajnym Uniwersytecie Warszawskim. We wrześniu 1944 roku ożenił się z Marią Matuszewską. Po powstaniu warszawskim Niemcy chcieli wysłać go do obozu koncentracyjnego, ale dzięki pomocy pielęgniarek ukrył się w szpitalu.
+Habilitował się w 1945 roku na Uniwersytecie Jagiellońskim. Od roku 1946 aż do śmierci pracował na Uniwersytecie Warszawskim; od 1947 roku jako profesor nadzwyczajny na tej uczelni, a od 1951 roku jako profesor zwyczajny.
+W roku akademickim 1948-1949 pracował w Instytucie Badań Zaawansowanych w Princeton, w 1958-1959 wykładał na Uniwersytecie Kalifornijskim w Berkeley, a w 1969-1970 w All Souls College w Oksfordzie w Wielkiej Brytanii.
+Został odznaczony Krzyżem Kawalerskim Orderu Odrodzenia Polski (1954).
+W 1956 roku został członkiem korespondentem, a w 1963 roku członkiem rzeczywistym Polskiej Akademii Nauk; w 1973 roku został członkiem Fińskiej Akademii Nauk.
+W latach 1945-1975 (tj. od końca II wojny światowej do swej śmierci) Mostowski był naukowcem, wokół którego środkowały się badania podstaw matematyki w Polsce. Oprócz swoich uczniów, przede wszystkim na Uniwersytecie Warszawskim i w Instytucie Matematycznym Polskiej Akademii Nauk, Mostowski współpracował z wszystkimi polskimi grupami badaczy podstaw, tak matematyki, jak i innych dziedzin ścisłych (np. informatyki) czy filozofii. Książka Andrzej Mostowski and Foundational Studies zawiera szereg artykułów i wspomnień poświęconych Mostowskiemu.
+
+
+== Dorobek dydaktyczny ==
+Mostowski był promotorem rozpraw doktorskich wielu polskich logików, doktoryzowali się u niego Zofia Adamowicz, Krzysztof Apt, Maciej Bryński, Andrzej Ehrenfeucht, Andrzej Grzegorczyk, Wojciech Guzicki, Andrzej Janiczak, Stanisław Krajewski, Michał Krynicki, Wiktor Marek, Janusz Onyszkiewicz, Helena Rasiowa, Roman Sikorski, Kazimierz Wiśniewski oraz Paweł Zbierski.
+Mostowski był autorem ponad 100 publikacji naukowych, z których najważniejsze zostały w 1979 opublikowane w dwutomowym wydaniu Dzieł wybranych:
+Mostowski, Andrzej: Foundational studies. Selected works. Tom I, II. Edytorzy: Kazimierz Kuratowski, Wiktor Marek, Leszek Pacholski, Helena Rasiowa, Czesław Ryll-Nardzewski i Paweł Zbierski. "Studies in Logic and the Foundations of Mathematics", 93. North-Holland Publishing Co., Amsterdam-New York; PWN – Polish Scientific Publishers, Warsaw, 1979. ​ISBN 0-444-85102-X​, ​ISBN 0-444-85103-8​
+Mostowski był też autorem kilku monografii i podręczników akademickich, w tym
+Sentences undecidable in formalized arithmetic. An exposition of the theory of Kurt Gödel. Reprint of the 1952 original. Greenwood Press, Westport, CT, 1982. viii+117 pp. ​ISBN 0-313-23151-6​
+Constructible sets with applications. "Studies in Logic and the Foundations of Mathematics". North-Holland Publishing Co., Amsterdam; PWN-Polish Scientific Publishers, Warszawa 1969.
+wspólnie z Kazimierzem Kuratowskim Teoria mnogości: wraz ze wstępem do opisowej teorii mnogości. "Monografie Matematyczne", 27. Wyd. 3. Państwowe Wydawnictwo Naukowe (PWN), Warszawa, 1978.
+Thirty years of foundational studies. Lectures on the development of mathematical logic and the study of the foundations of mathematics in 1930-1964. "Acta Philosophica Fennica", Fasc. XVII. Barnes & Noble, Inc., New York 1966.
+wspólnie z Marcelim Starkiem: Algebra liniowa, "Biblioteka Matematyczna", tom 19. Wyd. 6. Państ. Wydaw. Naukowe, Warszawa 1977.
+wspólnie z Marcelim Starkiem: Elementy algebry wyższej, "Biblioteka Matematyczna", tom 16. Wyd. 9. Państ. Wydaw. Naukowe, Warszawa 1977.
+A. Mostowski. A class of models of second-order arithmetic. Bulletin de l'Academie Polonaise des Sciences, Ser. Sci. Math. Astron. Phys. 7:401-404, 1959.
+A. Mostowski. Remarks on models of Morse's set theory. Lecture Notes in Mathematics 537. pages 13-21, Springer-Verlag, 1976.
+
+
+== Dorobek naukowy ==
+Osiągnięcia naukowe Andrzeja Mostowskiego zaliczają się głównie do podstaw matematyki i należą przede wszystkim do następujących dziedzin.
+
+
+=== Teoria mnogości i jej metamatematyka ===
+W dziedzinie podstaw teorii mnogości Mostowski badał zależności pomiędzy rozmaitymi formułami teoriomnogościowymi, w szczególności formami tzw. pewnika wyboru postulującego istnienie selektora dla rodzin zbiorów niepustych. W pierwszej połowie XX w. aksjomat ten budził kontrowersje ze względu na brak określenia konstruktywnych technik znajdowania selektora. (Dziś, w wieku XXI, na ogół nie jest już traktowany jako tak kontrowersyjny.) Istotnym problemem badawczym teorii mnogości, do mniej więcej roku 1970, były zależności pomiędzy różnymi formami aksjomatu wyboru. Aksjomat ten jest równoważny następującej własności zbiorów: każdy zbiór może być dobrze uporządkowany. Słabszą formą tego zdania jest "każdy zbiór może być uporządkowany liniowo". Mostowski wykazał, że ta druga forma nie implikuje pierwszej , czyli jest istotnie słabsza. Dowód Mostowskiego, opierający się na wcześniejszych propozycjach B. Russela i - szczególnie - A. Fraenkla, doprowadził do stworzenia metody nazywanej obecnie metodą Fraenkla i Mostowskiego. Metoda ta zakłada istnienie indywiduów, tj. obiektów nieposiadających elementów, ale nie będących zbiorem pustym. Dziś powszechnie przyjmowana teoria mnogości, zazwyczaj oznaczana ZFC (aksjomatyka Zermela i Fraenkla z pewnikiem wyboru), nie dopuszcza istnienia indywiduów. Wyniki uzyskane metodami Fraenkla i Mostowskiego zostały odtworzone w latach 60. i 70. XX wieku przy użyciu metody wymuszania (forcingu) wprowadzonej przez P.J. Cohena we wczesnych latach 60. Mostowski poświęcił teorii wymuszania swą książkę. Wykazał też, że struktury relacyjne postaci 
+  
+    
+      
+        <
+      
+    
+    {\displaystyle <}
+   A,E 
+  
+    
+      
+        >
+      
+    
+    {\displaystyle >}
+  , gdzie E jest relacją ufundowaną (tj. nieposiadającą ciągów nieskończonych zstępujących), są izomorficzne ze strukturami postaci 
+  
+    
+      
+        <
+      
+    
+    {\displaystyle <}
+   S, ∈ 
+  
+    
+      
+        >
+      
+    
+    {\displaystyle >}
+  , gdzie 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   jest zbiorem przechodnim. Strukturę 
+  
+    
+      
+        <
+      
+    
+    {\displaystyle <}
+   S, ∈ 
+  
+    
+      
+        >
+      
+    
+    {\displaystyle >}
+   nazywa się często kolapsem Mostowskiego.
+
+
+=== Teoria modeli ===
+Mostowski był jednym z twórców teorii modeli (zdefiniowanej jako poddziedzina podstaw matematyki przez A. Tarskiego). Mostowski wprowadził szereg ważnych technik teorii modeli. Najważniejszą z tych technik jest metoda "elementów nieodróżnialnych", wprowadzona wspólnie z A. Ehrenfeuchtem. Autorzy pokazują, że teorie mające modele nieskończone posiadają modele z dowolnie dużymi zbiorami elementów nieodróżnialnych. Jako skutek tego wyniku teorie takie mają modele posiadające duże grupy automorfizmów. Metoda elementów nieodróżnialnych jest po dziś dzień jedną z podstawowych technik teorii modeli. Inne badania Mostowskiego w teorii modeli dotyczyły zależności zbioru zdań prawdziwych w produkcie kartezjańskim struktur 
+  
+    
+      
+        
+          
+            A
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}}
+   i 
+  
+    
+      
+        
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {\mathcal {B}}}
+  , 
+  
+    
+      
+        
+          
+            A
+          
+        
+        ×
+        
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}\times {\mathcal {B}}}
+   od zbiorów zdań prawdziwych w 
+  
+    
+      
+        
+          
+            A
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}}
+   i zdań prawdziwych w 
+  
+    
+      
+        
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {\mathcal {B}}}
+  . Dalsze badania teorio-modelowe Mostowskiego dotyczyły topologicznych własności przestrzeni złożonych z modeli, z topologią generowaną poprzez zbiory struktur spełniających zadaną formułę.
+
+
+=== Kwantyfikatory uogólnione ===
+Mostowski wprowadził pojęcie uogólnionego kwantyfikatora. Przykładem takiego kwantyfikatora jest kwantyfikator "istnieje nieskończenie wiele obiektów 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , takich że 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  ". Innymi słowy formuła 
+  
+    
+      
+        Q
+        x
+        φ
+      
+    
+    {\displaystyle Qx\varphi }
+   prawdziwa jest w strukturze 
+  
+    
+      
+        
+          
+            A
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}}
+  , jeśli 
+  
+    
+      
+        φ
+        (
+        x
+        )
+      
+    
+    {\displaystyle \varphi (x)}
+   spełnione jest w strukturze 
+  
+    
+      
+        
+          
+            A
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}}
+   przez nieskończenie wiele 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  . Kwantyfikator ten (i inne znalezione później przez innych badaczy) znalazł istotne zastosowania w badaniach podstaw informatyki. Pojęcie kwantyfikatora uogólnionego zostało następnie rozszerzone przez Pera Lindströma, co doprowadziło do zdefiniowania pojęcia abstrakcyjnej logiki. Kwantyfikatory podlegające definicji podanej przez Andrzeja Mostowskiego są często nazywane "kwantyfikatorami Mostowskiego".
+
+
+=== Hierarchie zbiorów liczb naturalnych ===
+Definiowalne podzbiory zbioru liczb naturalnych i ogólniej iloczynu kartezjańskiego 
+  
+    
+      
+        
+          N
+          
+            k
+          
+        
+      
+    
+    {\displaystyle N^{k}}
+   mogą być klasyfikowane ze względu na postać definicji. Ograniczając się do definicji w postaci normalnej (ang. prenex normal form), można klasyfikować zbiory ze względu na liczbę przemian kwantyfikatorów i pierwszy kwantyfikator w preneksie. Tak więc zbiory klasy 
+  
+    
+      
+        
+          Σ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \Sigma _{1}}
+   mają definicję posiadającą preneks złożony z kwantyfikatorów egzystencjalnych, zbiory klasy 
+  
+    
+      
+        
+          Π
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \Pi _{1}}
+   to uzupełnienia zbiorów klasy 
+  
+    
+      
+        
+          Σ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \Sigma _{1}}
+  , dalej zaś indukcyjnie - zbiory klasy 
+  
+    
+      
+        
+          Σ
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle \Sigma _{n+1}}
+   to rzuty zbiorów klasy 
+  
+    
+      
+        
+          Π
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \Pi _{n}}
+  , zaś zbiory klasy 
+  
+    
+      
+        
+          Π
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle \Pi _{n+1}}
+   to uzupełnienia zbiorów klasy 
+  
+    
+      
+        
+          Σ
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle \Sigma _{n+1}}
+  . Mostowski wykazał, że wszystkie te klasy są różne, że każda z tych klas posiada relację uniwersalną i wiele innych własności. Podobne wyniki i w tym samym czasie uzyskał matematyk amerykański S. Kleene.
+Hierarchia opisana powyżej nazywana jest zazwyczaj hierarchią Kleene i Mostowskiego. Hierarchię tę można rozszerzyć w pozaskończoność. Uzyskuje się w ten sposób hierarchię zbiorów hiperarytmetycznych nazywaną w literaturze hierarchią Davisa i Mostowskiego.
+
+
+=== Metamatematyka arytmetyki Peana ===
+Rozwijając badania K. Gödla Mostowski studiował modele arytmetyki Peana. Jedną z konsekwencji twierdzenia o niezupełności aksjomatyzowalnych rozszerzeń arytmetyki Peana jest to, że zbiór numerów Gödla konsekwencji arytmetyki Peana jest klasy 
+  
+    
+      
+        
+          Σ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \Sigma _{1}}
+  , ale nie jest obliczalny. Mostowski studiował zbiory zdań prawdziwych w definiowalnych modelach arytmetyki Peana. Mostowski studiował, szczególnie w latach 40. XX wieku, szereg zagadnień związanych z twierdzeniem Gödla o niezupełności i poświęcił tej dziedzinie monografię , która była przez wiele lat klasycznym wprowadzeniem do problematyki niezupełności.
+
+
+=== Metamatematyka arytmetyki II rzędu ===
+Mostowski zajmował się intensywnie badaniami tzw. teorii II rzędu, t.j. dwusortowych teorii ze zmiennymi dla obiektów pierwszego rzędu, a także zmiennych dla obiektów drugiego rzędu, podklas klasy obiektów pierwszego rzędu. Pierwszą z tych teorii jest arytmetyka II rzędu, zakładająca aksjomaty Peana dla obiektów pierwszego rzędu i schemat istnienia zbiorów (ang. comprehension) dla obiektów rzędu drugiego. Mostowski studiował modele teorii tego typu. W szczególności wraz z A. Grzegorczykiem i Cz. Ryll-Nardzewskim studiował modele arytmetyki II rzędu, których liczby naturalne są uporządkowane w typ 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   (tzw. 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   – modele arytmetyki II rzędu). Mostowski rozważał też mniejsze rodziny takich modeli, na przykład zachowujące pojęcie dobrego porządku (tzw. 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  -modele). Mostowski studiował również analogiczną konstrukcję dla teorii zbiorów i klas (zazwyczaj nazywaną teorią klas Kelley'a i Morse'a), uzyskując wiele analogicznych wyników.
+W 1966 roku otrzymał nagrodę państwową I. stopnia.
+
+
+== Zobacz też ==
+Kolaps Mostowskiego
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+John J. O'Connor; Edmund F. Robertson: Andrzej Stanisław Mostowski w MacTutor History of Mathematics archive (ang.)
+Grzegorczyk, Andrzej; Marek, Wiktor: Szkic osiągnięć naukowych Andrzeja Mostowskiego, Wiadomości Matematyczne 22 (1979), strony 47-52.
+Krajewski, Stanisław; Srebrny, Marian: Życie i twórczość Andrzeja Mostowskiego. "Wiadomości Matematyczne" 22 (1979), strony 53-64.
+
+
+== Linki zewnętrzne ==
+Prace Andrzeja Mostowskiego dostępne w Sieci (Katalog HINT)

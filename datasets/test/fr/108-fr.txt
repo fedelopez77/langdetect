@@ -1,0 +1,29 @@
+Table des caractères Unicode U+2FFF0 à U+2FFFF.
+
+
+== Caractères spéciaux ==
+Les points de code U+2FFFE et U+2FFFF sont réservés par le standard Unicode pour un usage interne et ne sont pas affectés à un caractère. Ces points de code ne sont valides qu’isolément (pour des traitements internes aux applications ou comme marqueurs spéciaux non affichables), ils ne doivent être utilisés dans aucun texte conforme à Unicode, car ce ne sont pas des caractères, et ils pourraient poser des problèmes d’interopérabilité ou des incompatibilités lors de la transmission de textes entre systèmes hétérogènes.
+
+
+=== Table des caractères ===
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Table des caractères Unicode (2F000-2FFFF)
+Table des caractères Unicode
+Unicode
+
+
+==== Blocs de caractères Unicode spéciaux contenant des non-caractères ====
+Table des caractères Unicode - Demi-zone haute d’indirection
+Table des caractères Unicode - Demi-zone basse d’indirection
+Table des caractères Unicode - Formes A de présentation arabes (2e partie)
+Table des caractères Unicode - Fins de plans : Caractères spéciaux, plan multilingue complémentaire, plan idéographique complémentaire, plan 3, plan 4, plan 5, plan 6, plan 7, plan 8, plan 9, plan 10, plan 11, plan 12, plan 13, plan complémentaire spécialisé, zone supplémentaire A à usage privé, zone supplémentaire B à usage privé
+
+
+=== Liens externes ===
+ Portail de l’informatique
+ Portail de l’écriture

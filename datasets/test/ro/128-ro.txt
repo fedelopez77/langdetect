@@ -1,0 +1,27 @@
+Bioelectrochimia este o ramură a electrochimiei care are ca obiect de investigare transportul electronic/protonic celular și reacțiile de electrod ale enzimelor oxidoreducatoare.
+
+
+== Istoric ==
+Bioelectrochimia are aceleași inceputuri ca și electrochimia prin lucrarile lui Galvani și Volta despre electricitatea animală. Prima lucrare modernă din acest domeniu este considerată cea a lui Julius Bernstein din 1902 având ca subiect evaluarea biopotențialelor create de concentrații diferite ale unor ioni de o parte și de alta a membranelor celulare. În urmatoarele decenii, edificiul bioelectrochimiei a crescut și a dobândit numeroase aplicații în diverse discipline medicale. Pentru realizarile din acest domeniu s-au acordat mai multe premii Nobel pentru fiziologie sau medicina.
+
+
+== Note ==
+
+
+== Vezi și ==
+Potențial membranar
+Magnetocepție
+Biomagnetism
+Bioelectronică
+Chemotronică
+Magnetoelectrochimie
+Mitocondrie
+Neurobiofizică
+Bioreactor electrochimic
+Biofizică
+Pilă de combustie enzimatică
+Ecuația Goldman
+
+
+== Legături externe ==
+http://electrochem.cwru.edu/ed/dict.htm

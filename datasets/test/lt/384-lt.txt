@@ -1,0 +1,57 @@
+Skystis – viena iš medžiagos agregatinių būsenų. Skysčiai yra takūs, jų formą įprastinėmis sąlygomis nulemia indo forma. Skysčio molekulės neturi fiksuotos padėties – jos laisvai juda visame tūryje, susidurdamos viena su kita ir keisdamos trajektorijas. Skirtingai nei dujų molekulės, galinčios greitai išsisklaidyti aplinkoje, skysčio molekulės traukia viena kitą, todėl jų pabėgimo į aplinką galimybės yra ribotos.
+
+
+== Skysčio slėgis ==
+Skysčio slėgis yra jo molekulių kinetinės energijos pasekmė. Jis apibrėžiamas kaip jėga, tenkanti ploto vienetui. Skysčio slėgis gali atsirasti dėl gravitacijos, judėjimo su pagreičiu ar buvimo uždarame inde, kuomet molekulių traukos jėgos nekompensuoja jų kinetinės energijos.
+Skysčio, esančio gravitaciniame lauke, slėgį tam tikrame gylyje aprašo lygtis
+
+  
+    
+      
+         
+        p
+        =
+        ρ
+        g
+        z
+      
+    
+    {\displaystyle \ p=\rho gz}
+  
+kur
+
+  
+    
+      
+         
+        ρ
+      
+    
+    {\displaystyle \ \rho }
+   – skysčio tankis
+
+  
+    
+      
+         
+        g
+      
+    
+    {\displaystyle \ g}
+   – laisvojo kritimo pagreitis
+
+  
+    
+      
+         
+        z
+      
+    
+    {\displaystyle \ z}
+   – gylis
+
+
+== Paviršiaus įtempimas ==
+Skysčio paviršius elgiasi kaip elastinga plėvelė. Dėl jos savybių lašai ir burbulai turi taisyklingą formą. Paviršiaus įtempimu aiškinamas kapiliarumas – skysčių savybė kilti labai plonais vamzdeliais arba indo sienelėmis.
+
+Vikiteka

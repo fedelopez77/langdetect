@@ -1,0 +1,219 @@
+Bloomov filter, pomenovaný podľa Burtona Howarda Blooma, ktorý ho objavil v roku 1970, je priestorovo efektívna pravdepodobnostná dátová štruktúra, ktorá sa používa na overovanie príslušnosti prvku do množiny. Keďže je táto štruktúra pravdepodobnostná, môžu pri tomto overovaní nastať chyby. Takáto chyba môže znamenať, že o prvku, ktorý v skutočnosti do danej množiny nepatrí, zistíme, že tam patrí, ale nikdy nie naopak. To znamená, že pri zistení, že daný prvok do množiny nepatrí, sa dá na Bloomov filter spoľahnúť na 100%. Pravdepodobnosť chyby je tým väčšia, čím je väčší počet prvkov v danej množine.
+Bloomov filter sa používa v rôznych aplikáciách. Napríklad, databázový systém Big Table od spoločnosti Google používa Bloomov filter na redukovanie vyhľadávania na disku. Pred tým, ako vôbec spracuje požiadavku, overí si pomocou Bloomovho filtra, či daný riadok alebo stĺpec databázy existuje (t. j., či patrí do množiny reprezentovanej Bloomovým filtrom). Vďaka charakteru možných chýb pri použití Bloomovho filtra sa nikdy nemôže stať, že by "prehliadol" existujúci záznam. Tým sa výrazne zvyšuje výkon databázovej požiadavky (pri neexistujúcich záznamoch nemusí zakaždým čítať z disku) pri zachovaní stopercentnej spoľahlivosti. Bloomove filtre tiež používa proxy server Squid pre tzv. cache digests  a archivačný systém Venti na detegovanie predtým vloženého obsahu.
+
+
+== Popis algoritmu ==
+
+Prázdny Bloomov filter (zodpovedajúci prázdnej množine) je bitové pole dĺžky m bitov, pričom všetky hodnoty poľa sú nastavené na 0.
+Na prácu s Bloomovým filtrom je potrebné mať definovaných k rôznych hašovacích funkcií, pričom každá z nich (za zachovania požiadavky rovnomerného hašovnia) priradí každému prvku univerza (množina všetkých prvkov, o ktorých potenciálne môžeme chcieť zisťovať ich príslušnosť do množiny) jedno z m pozícií poľa.
+Vloženie prvku x do množiny funguje podľa nasledujúceho algoritmu:
+Vypočítajme hodnotu každej z k hašovacích funkcií (označme tieto hašovacie funkcie 
+  
+    
+      
+        
+          h
+          
+            1
+          
+        
+        …
+        
+          h
+          
+            k
+          
+        
+      
+    
+    {\displaystyle h_{1}\ldots h_{k}}
+  ) pre argument x.
+Takto dostaneme hodnoty 
+  
+    
+      
+        
+          h
+          
+            1
+          
+        
+        (
+        x
+        )
+        ,
+        
+          h
+          
+            2
+          
+        
+        (
+        x
+        )
+        ,
+        …
+        
+          h
+          
+            k
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle h_{1}(x),h_{2}(x),\ldots h_{k}(x)}
+  , čiže najviac k rôznych hodnôt.
+Nastavme hodnoty poľa na pozíciách 
+  
+    
+      
+        
+          h
+          
+            1
+          
+        
+        (
+        x
+        )
+        ,
+        
+          h
+          
+            2
+          
+        
+        (
+        x
+        )
+        ,
+        …
+        
+          h
+          
+            k
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle h_{1}(x),h_{2}(x),\ldots h_{k}(x)}
+   na 1.
+Dopyt na nejaký prvok x (t. j. otázka, či prvok x patrí do množiny, alebo nie) funguje podľa nasledujúceho algoritmu:
+Vypočítajme hodnotu každej z k hašovacích funkcií (označme tieto hašovacie funkcie 
+  
+    
+      
+        
+          h
+          
+            1
+          
+        
+        …
+        
+          h
+          
+            k
+          
+        
+      
+    
+    {\displaystyle h_{1}\ldots h_{k}}
+  ) pre argument x (rovnako ako pri vkladaní).
+Takto dostaneme hodnoty 
+  
+    
+      
+        
+          h
+          
+            1
+          
+        
+        (
+        x
+        )
+        ,
+        
+          h
+          
+            2
+          
+        
+        (
+        x
+        )
+        ,
+        …
+        
+          h
+          
+            k
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle h_{1}(x),h_{2}(x),\ldots h_{k}(x)}
+  , čiže najviac k rôznych hodnôt (rovnako ako pri vkladaní).
+Pozrieme sa na hodnoty poľa na pozíciách 
+  
+    
+      
+        
+          h
+          
+            1
+          
+        
+        (
+        x
+        )
+        ,
+        
+          h
+          
+            2
+          
+        
+        (
+        x
+        )
+        ,
+        …
+        
+          h
+          
+            k
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle h_{1}(x),h_{2}(x),\ldots h_{k}(x)}
+  . Ak je jedna z nich 0, vieme s určitosťou povedať, že prvok x sa v množine nenachádza, keďže ináč by boli všetky tieto hodnoty pri jeho vložení nastavené na 1. Ak sú všetky tieto hodnoty 1, potom síce s určitosťou nie je možné povedať nič, ale aspoň pre menší počet prvkov v množine je relatívne vysoká pravdepodobnosť, že prvok x sa v množine nachádza. Preto je výstupom algoritmu zistenie, že prvok sa v množine nachádza, treba však rátať s možnosťou chyby.
+Keďže pri dopytoch na prvky môžu vznikať chyby, Bloomove filtre sa v praxi používajú najmä vtedy, keď chyba tohto druhu nemôže spôsobiť problém. Teda napríklad v takejto modelovej situácii: máme nejakú procedúru, ktorá na základe nejakého vstupu vykoná nejakú procedúru (typicky nejaké časovo náročné výpočty). Výpočet však môže prebehnúť úspešne len v prípade, ak bol vstup ešte pred touto požiadavkou užívateľom vložený do nejakej databázy informácií (teda napr. k rodnému číslu, ktoré budeme považovať za vstup, musíme mať v databáze meno, priezvisko,...). V takom prípade je možné povedať, že vstup bude patriť do množiny, ak o ňom v danej databáze jestvuje záznam, v opačnom prípade do nej nebude patriť. V prípade, že vieme ešte pred spustením výpočtu určiť, že vstup do tejto množiny nepatrí, vieme ušetriť náklady na vykonanie tohto výpočtu. Na to je možné použiť Bloomov filter. Ak nastane chyba, neznamená to veľký problém, pretože fakt, že vstup do množiny nepatrí, vieme zistiť aj po vykonaní výpočtu (akurát to bude stáť istý výpočtový čas). V mnohých prípadoch však chyba nenastane, a čo je podstatné, nikdy nenastane v prípade, že vstup skutočne do množiny patrí. Bloomov filter teda, ako napovedá jeho názov, dokáže odfiltrovať pomerne veľké množstvo vstupov, pre ktoré by sme výpočet spúšťali márne.
+
+
+== Obmedzenia Bloomových filtrov ==
+Asi najpodstatnejším obmedzením Bloomových filtrov je, že z pochopiteľných dôvodov nepodporuje odoberanie prvkov z množiny. Ak by sme sa totiž pokúsili všetkých k hodnôt daných spomínanými hašovacími funkciami pre prvok x nastaviť na 0, mohlo by sa stať, že by sme nechtiac odobrali aj iný prvok - ľubovoľný prvok y, ktorý je prvkom množiny a súčasne hodnota aspoň jednej hašovacej funkcie má pre vstup y rovnakú hodnotu ako niektorá z týchto k hodnôt. Tým by sa ale porušila základná vlastnosť Bloomových filtrov, t. j., že ak prvok patrí do množiny, výsledkom dopytu je vždy kladná odpoveď.
+
+
+== Referencie ==
+
+
+== Externé odkazy ==
+Originálny článok (po anglicky)
+Implementácia Bloomovho filtru v jazyku C (po anglicky)
+Implementácia Bloomovho filtru v jazyku Java (po anglicky)
+Less Hashing, Same Performance: Building a Better Bloom Filter - článok o optimalizácii Bloomových filtrov (po anglicky)

@@ -1,0 +1,30 @@
+Martin Karplus (ur. 15 marca 1930 w Wiedniu) – amerykański chemik teoretyczny pochodzenia austriackiego, laureat Nagrody Nobla w dziedzinie chemii w roku 2013 „za rozwój wieloskalowych modeli dla złożonych układów chemicznych” (wraz z Ariehem Warshelem i Michaelem Levittem).
+Urodził się w Wiedniu w rodzinie żydowskiej o tradycjach lekarskich. W 1938 roku wraz z rodzicami i bratem Robertem (później fizykiem) wyjechał z Austrii przez Szwajcarię do Stanów Zjednoczonych. W 1950 roku uzyskał stopień BA na Harvard University. Edukację kontynuował w California Institute of Technology, gdzie w 1953 roku uzyskał stopień doktora pod kierunkiem Linusa Paulinga. W latach 1953-1955 odbył, dzięki stypendium National Science Foundation, staż podoktorski na Uniwersytecie Oksfordzkim, gdzie współpracował z Charlesem Coulsonem. Po powrocie do USA pracował na University of Illinois, a od 1966 roku na Harvardzie, gdzie objął stanowisko profesora chemii. Od 1996 roku współpracuje również z Université Louis Pasteur w Strasburgu.
+Jego zainteresowanie badawcze dotyczą szerokiego obszaru chemii fizycznej i teoretycznej, obejmującego chemię kwantową, dynamikę molekularną oraz wykorzystanie spektroskopii NMR.
+Jego imieniem nazwano równanie Karplusa opisujące zależność między wicynalną stałą sprzężenia spinowo-spinowego 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+   a kątem dwuściennym 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   tworzonym przez wiązania łączące sprzężone jądra atomowe.
+Kierowany przez niego zespół zainicjował oraz koordynuje użycie pakietu CHARMM, pozwalającego na symulację dynamiki molekularnej.
+Wraz z Andrew McCammonem i Bruce'em Gelinem Karplus opublikował pierwszą symulację dynamiki molekularnej białka.
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Profil na Harvard University
+Biogram na prywatnej stronie Martina Karplusa

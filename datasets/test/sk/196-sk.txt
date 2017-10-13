@@ -1,0 +1,25 @@
+Informatická výchova je nový vyučovací predmet 1.stupňa základných škôl,v rámci štátneho vzdelávacieho programu ISCED 1.
+Na 1.stupni ZŠ sa budujú základy informatikay, preto sa názov predmetu prispôsobil na informatická výchova. Poslaním vyučovania, informatickej výchovy, je viesť žiaka 1.stupňa ZŠ k pochopeniu základných pojmov, postupov a techník používaných pri práci s údajmi a informáciami v počítačových systémoch.
+Vychováva k efektívnemu využívaniu prostriedkov IKT s rešpektovaním právnych a etických zásad. Toto poslanie sa dá dosiahnuť spoločným pôsobením predmetu informatická výchova a aplikovaním IKT vo vyučovaní iných predmetov, medzipredmetových projektov, celoškolských programov a pri riadení školy.
+Oblasť informatiky zaznamenáva mimoriadny rozvoj, preto v predmete informatická výchova je potrebné dôkladnejšie sa zamerať na štúdium základných pojmov. Dostupné technológie majú poskytnúť vyučovaniu informatickej výchovy široký priestor na motiváciu a praktické projekty.
+
+
+== Stratégie vyučovanie ==
+Pri voľbe vyučovacích metód a foriem prihliadame na obsah vyučovania, na individualitu žiakov a vzťahy v triednom kolektíve tak, aby boli splnené stanovené ciele a rozvíjali sa kľúčové kompetencie žiakov pre daný predmet. Pri výučbe informatickej výchovy využívame najmä:
+riadený rozhovor (aktivizovanie poznatkov a skúseností žiakov)
+výklad učiteľa
+problémová metóda (upútanie pozornosti prostredníctvom nastoleného problému)
+rozprávanie (vyjadrovanie skúseností a aktívne počúvanie)
+prezentačná metóda (prezentácia s využitím dataprojektoru)
+kooperatívne vyučovanie (forma skupinového vyučovania – napr. vo dvojiciach)
+heuristická metóda (učenie sa riešením problémov)
+samostatná práca žiakov (s pracovným listom, s počítačom, s internetom)
+projektové, zážitkové vyučovanie
+
+
+== Ciele predmetu ==
+Cieľom informatickej výchovy na 1. stupni ZŠ je zoznámenie sa s počítačom a možnosťami jeho využitia v každodennom živote.Prostredníctvom [1] primeraných veku žiakov získať základné zručnosti v používaní počítača. V rámci medzipredmetových vzťahov si žiaci pomocou rôznych aplikácií precvičujú základné učivo z matematika, slovenského a cudzieho jazyka, získavajú vedomosti za podpory edukačných programov z prírodovedy a vlastivedy. Rozvíjajú svoju tvorivosť a estetické cítenia v rôznych grafickýcheditoroch[2] Dôraz sa pri tom kladie nie na zvládnutie ovládania aplikácie, ale na pochopenie možností, ktoré môžeme využiť pri každodenných činnostiach.
+
+
+== Pozri aj ==
+Informatika

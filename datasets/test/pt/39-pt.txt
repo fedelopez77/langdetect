@@ -1,0 +1,12 @@
+A bomba de palhetas rotativas é uma bomba de deslocamento positivo que consiste de palhetas montadas em um rotor que gira dentro de uma cavidade. Em alguns casos estas palhetas podem ser de comprimento variável e/ou tensionadas para manter contato com as paredes nas quais a bomba gira. Foi inventada por Charles C. Barnes de Sackville, New Brunswick que a patenteou em 16 de junho de 1874.
+
+
+== Tipos ==
+A mais simples bomba de palhetas rotativas é um rotor circular girando dentro de uma cavidade circular mais larga. Os centros destes dois círculos são descentrados, causando ecentricidade. As palhetas são livres para entrar e sair do rotor e selo em todas as margens, com a criação de câmaras de palhetas que fazem o trabalho de bombeamento. No lado da entrada da bomba, as câmaras de palhetas aumentam de volume. Estas câmaras de palhetas que aumentam o volume estão cheias de líquido forçada pela pressão de entrada. Muitas vezes esta pressão de entrada não é nada mais do que a pressão da atmosfera. Do lado de descarga da bomba, as câmaras de palhetas estão diminuindo em volume, forçando o fluido da bomba. A ação da palheta expulsa o mesmo volume de fluido a cada rotação. As bombas de vácuo rotativas de palhetas multiestágio podem atingir pressões tão baixas quanto 10−3 mbar (0.1 Pa).
+
+
+== Usos ==
+Usos comuns de bombas de palhetas rotativas incluem bombas hidráulicas de alta pressão e usos automotivos incluindo bombas de supercompressão, direção assistida e câmbio automático. Bombas para pressões de faixa mediana incluem aplicações como carbonadores de dosadores de refrigerantes e máquinas de café espresso. Eles também são frequentemente utilizados como bombas de vácuo para prestação de assistência à frenagem (através de uma frenagem servofreio) em caminhões grandes, e na maioria dos aviões leves para conduzir instrumentos de voo giroscópicos, o horizonte artificial e indicador de rumo. Além disso, as bombas de palhetas podem ser usados em aplicações de gás de baixa pressão, como injeção secundária de ar para controle de emissão de exaustão, e em aplicações de vácuo incluindo linhas de evacuação de fluido refrigerante em condicionadores de ar, e secadores a frio laboratoriais, extensivamente em sistemas de deposição química de vapor em semicondutores, e experimentos com vácuo em física. Nesta aplicação o gás bombeado e o óleo são misturados dentro da bomba, mas devem ser separados externamente.
+
+
+== Referências ==

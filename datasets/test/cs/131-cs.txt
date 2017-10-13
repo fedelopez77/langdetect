@@ -1,0 +1,20 @@
+Kódy ISO 3166-2 pro Zambii identifikují 10 provincií (stav v roce 2015). První část (ZM) je mezinárodní kód pro Zambii, druhá část sestává ze dvou čísel identifikujících provincii.
+
+
+== Seznam kódů ==
+
+ZM-01 Západní (Mongu)
+ZM-02 Centrální (Kabwe)
+ZM-03 Východní (Chipata)
+ZM-04 Luapula (Mansa)
+ZM-05 Severní (Kasama)
+ZM-06 Severozápadní (Solwezi)
+ZM-07 Jižní (Livingstone)
+ZM-08 Copperbelt (Ndola)
+ZM-09 Lusaka (Lusaka)
+ZM-10 Muchinga (Chinsali)
+
+
+== Související články ==
+ISO 3166-2, seznam kódů územně správních celků všech zemí.
+ISO 3166-1, seznam kódů všech zemí, používaných současně jako jejich doménová jména na internetu.

@@ -1,0 +1,13 @@
+Elektryczne sterowanie dachu - rozwiązanie techniczne stosowane w pojazdach mechanicznych/samochodach umożliwiające otwieranie/zamykanie fabrycznie lub niefabrycznie (rzadko spotykane) zamontowanego otwieranego dachu bez konieczności użycia siły ludzkich rąk (tzn. ruch korby zamocowanej do podsufitki).
+Do elektrycznego sterowania dachu stosuje się silniki prądu stałego z możliwością obrotu w prawo i lewo. Dodatkowo stosuje się mikrowyłączniki lub czujniki Halla, za pomocą których urządzenie sterujące - za pomocą odebranych sygnałów - rozpoznaje położenie dachu.
+Podobnie jak w elektrycznym sterowaniu szyb stosuje się zabezpieczenie przed zaciśnięciem dachu (w trakcie zamykania); urządzenie sterujące rozpoznaje zwiększony opór (wzrasta pobór prądu), zmienia się na krótko kierunek prądu (silnik obraca się w przeciwnym kierunku).
+Główne elementy elektrycznego sterowania dachu:
+czujniki Halla lub mikrowyłączniki,
+elektroniczne urządzenie sterujące,
+obwody elektryczne,
+tarcza pozycyjna,
+pokrętło wyboru pozycji.
+
+
+== Bibliografia ==
+Anton Herner & Hans-Jürgen Riehl, Elektrotechnika i elektronika w pojazdach samochodowych, Tytuł oryginału: Der sichere Weg zur Meisterprüfung im Kfz-Techniker-Handwerk, ISBN 83-206-1478-3

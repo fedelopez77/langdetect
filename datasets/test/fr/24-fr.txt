@@ -1,0 +1,24 @@
+Lure of the Temptress est un jeu vidéo d'aventure qui se déroule dans un univers médiéval fantastique. Créé par le studio Revolution Software et publié en 1992 par Virgin Interactive, il utilise le moteur Virtual Theatre.
+
+
+== Synopsis ==
+Le joueur incarne un jeune paysan appelé Diermot qui va accompagner, malgré lui, son roi au village de Turnvale, où une rébellion vient d'éclater. Mais au lieu d'affronter des paysans en colère, le groupe se trouve confronté à des Skorl mangeurs d'hommes, dirigés par la belle Séléna. Le roi est tué et Diermot perd connaissance ; il se réveille dans la cellule d'un donjon et il va falloir d'abord s'évader avant de penser à délivrer le monde de la tyrannie de l'enchanteresse.
+
+
+== Système de jeu ==
+La souris permet de déplacer le personnage, d'interagir avec les objets, ou de dialoguer avec les gens rencontrés : un clic gauche permet d'examiner les choses ou de se déplacer ; un clic droit permet d'interagir avec l'environnement ou les personnages rencontrés. Lors du clic droit, un système de menus déroulants permet de choisir l'action à effectuer et l'objet à utiliser ; au début par exemple, un clic droit sur une torche fixée au mur fait apparaître une liste avec deux choix « Tirer » et « Prendre ».
+Placer le pointeur de la souris en haut de l'écran permet d'afficher un menu général avec trois options : « Info », « Fichier », « Aide ».
+Les conversations s'effectuent en choisissant des répliques prédéfinies.
+
+
+== Accueil ==
+Adventure Gamers : 2/5
+
+
+== Notes et références ==
+
+
+== Lien externe ==
+(en) Site officiel de Revolution Software Ltd.
+ Portail du jeu vidéo
+ Portail de la fantasy et du fantastique

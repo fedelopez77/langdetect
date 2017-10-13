@@ -1,0 +1,19 @@
+A Samsung S8500 Wave (vagy Samsung Wave) a Samsung első bada rendszerű okostelefonja. Később a Samsung két „kisebb” testvérét is kiadta, a Wave 723 és Wave 525 készülékeket.
+
+
+== Külső ==
+A Wave külső borítása a kijelző kivételével fém, több helyen rombuszok teszik különlegessé. Mérete 118×56×10,9 mm, a súlya 118 g. Az előlapon egy 3.3" átmérőjű, WVGA felbontású (800×480 pixel) Super AMOLED technológiájú kapacitív érintőképernyő található. A Super AMOLED kijelző ebben a készülékben mutatták be, ami intenzív színekkel, mély feketével és nagy betekintési szöggel rendelkezik. A mobiltelefon tetejére került a csúszkás fedéllel védett micro usb csatlakozó, amin egyben töltő és adatkábel csatlakozó.
+
+
+== Hardver ==
+A Wave a már említett, csúcstechnológiás, alacsony fogyasztású képernyő mellé 1 GHz órajelű Cortex A8 alapú processzort és 256 mb RAM-ot kapott. Előbbihez hasonló van a HTC Desire, Google Nexus One, Apple iPhone 4 vagy Samsung Galaxy S készülékekben is. A RAM kisebb, mint a fent említett készülékekben, ekkora memóriát az iPhone 3GS-ben találunk. Ehhez jön még egy 5 megapixeles autófókuszos, HD videó felvételére képes kamera, amit Ledes vaku segít. A telefont 1, 2 vagy 8 gb beépített flashmemóriával árulják.
+
+
+== Szoftver ==
+A Wave volt a világ első Samsung bada rendszerű telefonja. A bada a Samsung saját fejlesztésű operációs rendszere, melyhez a gyártó elkészítette a Samsung Apps nevű alkalmazásboltot és a TouchWiz felület 3.0 nevű verzióját, amely teljesen eltér az előző két verziótól.
+
+
+== Jegyzetek ==
+
+
+== Külső hivatkozások ==

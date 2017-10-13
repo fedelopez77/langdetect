@@ -1,0 +1,4 @@
+Gramvægt (også kaldet papirvægt) er masse per arealenhed.
+Enheden for gramvægt er gram per kvadratmeter (g/m²). Ofte angives det blot som gram (g).
+Værdien for papirs og kartons gramvægt er et udtryk for, hvor kraftig det er. Almindeligt kopipapir er normalt på 80 g/m², mens karton først starter med 170 g/m² og går op til adskillige hundrede g/m².
+Ved frankering af et brev er dets vægt af betydning. Et tip til en overslagsberegning af vægten: Hvis det er kopipapir (80g), så er vægten af et A4-ark lig 80 delt med 16 = 5 gram. Det er fordi et A4-arks areal er en sekstendedel kvadratmeter.

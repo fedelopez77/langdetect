@@ -1,0 +1,12 @@
+Das Ė (kleingeschrieben ė) ist ein Buchstabe des lateinischen Schriftsystems. Er besteht aus einem E mit übergesetztem Punkt.
+Das Ė wurde erstmals im 16. Jahrhundert von Daniel Klein für das Litauische eingeführt. Der Buchstabe stellt ein langes E dar (IPA: eː), im Gegensatz zum normalen E, welches wie ein kurzes deutsches Ä (IPA: ​ɛ​) ausgesprochen wird.
+In der Umschrift des Kyrillischen nach DIN 1460 steht Ė für den Buchstaben Э (ein E, das als [ɛ] und nicht [jɛ]/[je] bzw. im Inlaut [ʲɛ]/[ʲe]/[ʲɪ] ausgesprochen wird).
+
+
+== Darstellung auf dem Computer ==
+Unicode enthält das Ė an den Codepunkten U+0116 (Großbuchstabe) und U+0117 (Kleinbuchstabe).
+In TeX kann man das Ė mit den Befehlen \.E und \.e bilden.
+In HTML gibt es die benannten Zeichen &Edot; für das große Ė und &edot; für das kleine ė.
+
+
+== Quellen ==

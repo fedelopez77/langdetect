@@ -1,0 +1,15 @@
+Szczytowy przepływ wydechowy, PEF (z ang. peak expiratory flow) – parametr spirometryczny określający maksymalne natężenie przepływu powietrza przez drogi oddechowe podczas maksymalnie nasilonego wydechu, wyrażany w l/min.
+Konstruktorem pierwszego przepływomierza szczytowego był w 1959 roku Basil Martin Wright. Do dziś używa się urządzeń wykorzystujących zasadę działania jego aparatu, zwanych pikflometrami (z ang. peak flow meter), dostępnych także w wersji zminiaturyzowanej (minipikflometry).
+Przenośne pikflometry pozwalają na wykonywanie przez pacjentów cierpiących na astmę oskrzelową i POChP samodzielnych pomiarów szczytowego przepływu wydechowego, będących podstawą samokontroli.
+Wartość PEF zależna jest od pory dnia: najniższa jest nad ranem, pomiędzy godziną 400 a 600, a najwyższa po południu, pomiędzy godziną 1600 a 1800. Za prawidłową zmienność dobową uznaje się występowanie różnicy mniejszej niż 20%.
+Prawidłowa wartość PEF dla danego pacjenta zależy od jego płci, wieku, wzrostu i włożonego wysiłku. W przybliżeniu zakres normy odpowiada ±20% wartości należnej.
+W trakcie wykonania spirometrii można także wyznaczyć szczytowy przepływ wdechowy (PIF, z ang. peak inspiratory flow), rejestrowany w trakcie maksymalnie natężonego wdechu. PIF nie ma większego znaczenia diagnostycznego, ale może być pomocny przy doborze inhalatora.
+
+
+== Bibliografia ==
+Choroby wewnętrzne. Andrzej Szczeklik (red.). Wydawnictwo Medycyna Praktyczna, 2005. ISBN 8374300310.
+
+
+== Linki zewnętrzne ==
+Grażyna Bochenek: Znaczenie pomiarów szczytowego przepływu wydechowego (PEF) w rozpoznawaniu, monitorowaniu i leczeniu astmy. mpOnLine. [dostęp 2010-01-05].
+Rozpoznanie astmy – testy oddechowe. Portal Farmaceutyczno-Medyczny. [dostęp 2010-01-05].

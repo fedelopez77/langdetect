@@ -1,0 +1,43 @@
+Binární soubor je v informatice počítačový soubor, který obsahuje jakákoliv data, která jsou následně zpracovávána počítačovým programem. Obsahem souboru jsou čísla v binární soustavě (řetězec nul a jedniček), která reprezentují jistým způsobem uloženou informaci, což může být zvuk, obrázek, video, ale i formátovaný text, databáze a podobně. Při čtení binárního souboru je proto nutné vědět, jak uložená data interpretovat.
+Opakem binárních dat je textový soubor, ve kterém jednotlivé byty, dvojice bytů nebo posloupnosti bytů mají význam znaků v určité znakové sadě.
+
+
+== Obsah binárního souboru ==
+Binární soubor je označení pro data, která je nutné po přečtení nějakým způsobem interpretovat. Data mohou být uložena jinak, než ve formě řady za sebou uložených bajtů (osm bitů) a při jejich čtení je nutné je správně interpretovat.
+
+
+=== Hlavička ===
+Pokusíme-li se zobrazit uložený zvuk jako obrázek, zobrazíme nejspíše chaotickou změť bodů, která nevytváří rozumný obrázek (platí samozřejmě i obráceně). Proto binární soubory někdy obsahují hlavičku (záhlaví), která uložená data popisuje (tzv. metadata). Pomocí formátu záhlaví lze pak obvykle zjistit, jaká data jsou v souboru uložena. Například EXE soubory začínají dvěma charakteristickými znaky (MZ, NE, LE, NX, PE). V unixových systémech existuje nástroj file, který podle těchto charakteristických znaků dokáže určit, jaká data jsou v souboru uložena.
+
+
+=== Vlastní data ===
+Za hlavičkou následují vlastní data obsažená v binárním souboru. Jejich organizace je závislá na tom, jak je příslušný program zapisuje (a čte). U některých formátů je všeobecně známo, jakou mají strukturu, u jiných to známé být nemusí, případně to ani není nutné (jsou-li k dispozici nástroje, které umí binární soubor zpracovat, prohlížet a upravovat).
+Data mohou být čtena po jednotlivých bajtech, ale i po více bajtech nebo naopak po jednotlivých bitech. Mohou být interpretována jako text, obraz, zvuk a podobně.
+Mezi binární soubory se známým formátem patří multimediální soubory (například GIF, JPEG, MPEG, …), spustitelné soubory (EXE, ELF, …) a další. Formát souborů pro uchování dokumentů textového editoru Microsoft Word (.DOC) je převážně známý, avšak jeho interpretace přesto není dokonalá, protože význam jednotlivých údajů je jen odhadován (viz otevírání těchto souborů v OpenOffice.org).
+
+
+== E-mail ==
+Při posílání binárních souborů pomocí e-mailu je nutné jejich obsah transformovat do textové podoby (Base64, Quoted-printable, Uuencoding a podobně), protože starší systémy pro přepravu elektronické pošty neumí přepravovat binární data. Konvertovaná podoba má však typicky větší délku, než původní binární data.
+
+
+== Binární a textový režim ==
+Microsoft Windows umožňuje při otevírání souboru specifikovat parametr systémového volání, který určuje, je-li soubor textový nebo binární. U souborů otevřených jako textové dochází k převodu konců řádků mezi dvojicí CR, LF na disku a LF v přečtených nebo zapisovaných datech. V Unixových systémech tento převod není potřeba, proto není nutné tyto režimy rozlišovat.
+
+
+== Čtení binárních souborů ==
+Pokud otevíráte binární soubor v textovém editoru, každá skupina osmi bitů bude typicky přeložená jako jeden znak. Uvidíte (pravděpodobně nelogicky) zobrazení textových znaků tak, jako by byl tento soubor otevřen v jiné aplikaci. Tato aplikace bude mít svůj vlastní význam pro každý bajt: je možné, že daná aplikace bude nakládat s každým bajtem jako s číslem, a pošle na výstup tok čísel v rozpětí 0 až 255. A nebo je možné, že bude interpretovat tato čísla v bajtech jako barvy, a zobrazí odpovídající obrázek. Jestliže se se samotným souborem nakládá jako s vykonavatelným a spustitelným souborem, tak se počítač pokusí interpretovat tento soubor jako sérii strojových instrukcí.
+Na čtení hexadecimálních (možné dokonce i decimálních) hodnot pro zodpovídající bajty binárního souboru se může použít hex editor. S bajty se nakládá stejně jako s jejich hexadecimálními hodnotami v hexadecimálním editoru.
+
+
+== Reference ==
+
+
+== Související články ==
+Binární kód
+EXE
+ELF (Executable and Linkable Format)
+Knihovna (programování)
+
+
+== Externí odkazy ==
+http://biew.sourceforge.net – BIEW (volně šiřitelný program pro zobrazení binárních souborů)

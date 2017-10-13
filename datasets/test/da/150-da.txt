@@ -1,0 +1,61 @@
+Anville er et lille nedslagskrater på Månen. Det befinder sig på den nordlige halvkugle på Månens forside i den nordlige del af Mare Fecunditatis, og det er opkaldt efter den franske geograf Jean-Baptiste d'Anville (1697-1782).
+Navnet blev officielt tildelt af den Internationale Astronomiske Union (IAU) i 1976. ,,
+
+
+== Omgivelser ==
+Taruntiuskrateret ligger nord-nordvest for Anville, i udkanten af månehavet.
+
+
+== Karakteristika ==
+Krateret er cirkulært og skålformet med en skarp kant og få tegn på nedslidning. Nogle mindre skred er sket i den østlige halvdel af den indre væg. Før det blev navngivet af IAU, hed det "Taruntius G".
+
+
+== Se også ==
+Månekratere – Liste over kratere på Månen
+Navne på Månens have – Liste over have på Månen
+
+
+== Navigation ==
+
+
+== Måneatlas ==
+Billeder af Anvillekrateret i LPI-måneatlasset
+
+
+== Kilder ==
+
+
+=== Eksterne henvisninger ===
+(  )
+1) Henvisninger, som specielt retter sig mod Anville
+(Bemærk, at kraternavne med specialkarakter, herunder mellemrum, kan kræve søgning på de nævnte internetsider)
+Billeder af stedet i flere udgaver, baseret på optagelser fra sonden Clementine (1994) og vist på http://pdsmaps.wr.usgs.gov/ Map-a-Planet (Astrogeology Research Program), U.S. Geological Survey:
+
+Monokromt (et bånd ved bølgelængde på 750 nanometer giver et sort/hvidt billede;
+Naturlige farver (fem bølgelængder: 415, 750, 900, 950 og 1000 nanometer);
+Kunstige farver (Blå og grønne er de lavestliggende områder, røde og grønne de højere);
+Relieffarver (viser topografien i farverne rød (750 nm/415 nm), grøn (750 nm/950 nm) og blå (414 nm/750 nm) i en farveblanding, som fjerner dominerende klarhedsfaktorer som albedo og skyggevirkninger. Se også farveindexet).
+
+En nærmere forklaring på den anvendte fotografiske teknik findes på denne hjælpeside (Engelsk).
+"Præcis beliggenhed og overblik over stedet". fra http://www.geody.com/?world=moon Geody - søgemaskine for steder på Merkur, Venus, Jorden, Månen, Mars og i rummet (støttet af Google Earth, NASA World Wind, Celestia og Stellarium.  (hjemmeside under Creative Commons-licens , se http://www.geody.com/legal.php).
+(Engelsk) Søgning af fotografier, kort og dokumentation vedrørende Anville på "Lunar and Planetary Institutes søgemaskine". fra http://www.lpi.usra.edu/ (Hjemmeside for Lunar and Planetary Institute, Universities Space Research Association). 
+2) Generel information om overfladedannelser på Månen
+(Engelsk) Deskriptive data og geologiske kort over detaljer på måneoverfladen ifølge IAU, vist på hjemmesiden fra USAs geologiske institut: "Gazetteer of Planetary Nomenclature - Moon Nomenclature Table Of Contents". på http://planetarynames.wr.usgs.gov/ Astrogeology Research Program, U.S. Geological Survey. 
+(Engelsk) NASAs side om månekratere: "Moon nomenclature -Crater". http://lunar.arc.nasa.gov/ The Lunar Prospector Website, NASA Ames Research Center. 
+(Engelsk) Wikiprojekt til samling af informationer om Månens overflade (The-Moon Wiki) på http://the-moon.wikispaces.com/.
+(Fransk) Program og integreret database på: "Atlas Virtuel de la Lune". fra http://www.astrosurf.com/ Portail de l'Astronomie en France ved Patrick Chevalley og Christian Legrand. 
+
+
+=== Bibliografi ===
+(  )
+Andersson, L. E.; Whitaker, E. A., (1982). NASA Catalogue of Lunar Nomenclature (NASAs katalog over månenomenklatur). NASA RP-1097. 
+Bussey, B.; Spudis, P. (2004). The Clementine Atlas of the Moon (Clementine-atlas over Månen). New York: Cambridge University Press. ISBN 0-521-81528-2. 
+Cocks, Elijah E.; Cocks, Josiah C. (1995). Who's Who on the Moon: A Biographical Dictionary of Lunar Nomenclature (Hvem er hvem på Månen: En biografisk ordbog over månenomenklatur). Tudor Publishers. ISBN 0-936389-27-3. 
+McDowell, Jonathan (15. juli 2007). Lunar Nomenclature (Månenomenklatur). Jonathan's Space Report. Hentet 2007-10-24. 
+Menzel, D. H.; Minnaert, M.; Levin, B.; Dollfus, A.; Bell, B. (1971). "Report on Lunar Nomenclature by The Working Group of Commission 17 of the IAU (Rapport over månenomenklatur fra arbejdsgruppen under kommission 17 hos IAU)". Space Science Reviews 12: 136. 
+Moore, Patrick (2001). On the Moon (På Månen). Sterling Publishing Co.. ISBN 0-304-35469-4. 
+Price, Fred W. (1988). The Moon Observer's Handbook (Månebetragterens håndbog). Cambridge University Press. ISBN 0521335000. 
+Rükl, Antonín (1990). Atlas of the Moon (Måneatlas). Kalmbach Books. ISBN 0-913135-17-8. 
+Webb, Rev. T. W. (1962). Celestial Objects for Common Telescopes (Himmelobjekter for almindelige teleskoper) (6th revision udg.). Dover. ISBN 0-486-20917-2. 
+Whitaker, Ewen A. (1999). Mapping and Naming the Moon (Månens kortlægning og navngivning). Cambridge University Press. ISBN 0-521-62248-4. 
+Wlasuk, Peter T. (2000). Observing the Moon (Måneobservation). Springer. ISBN 1-85233-193-3.

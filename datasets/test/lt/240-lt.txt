@@ -1,0 +1,8 @@
+Kapitalizacijos norma (angl. All Risk Yield) - nekilnojamojo turto kapitalizacijos norma yra vienas svarbiausių naudojimo pajamų vertės metodų elementų. Ir Didžiojoje Britanijoje, ir Vokietijoje, ir tokiose Europos šalyse, kaip Nyderlandai, Italija, Prancūzija ir visos Skandinavijos šalys, kapitalizacijos norma nustatoma rinkos pagrindu. Ji priklauso nuo:
+nuosavybės formos,
+objekto rūšies,
+visų investicijų pelno normų,
+objekto amžiaus ir kokybės sudėties,
+nuomos sutarčių sąlygų (pvz., sutarties terminas).
+Kapitalizacijos normą veikia nekilnojamojo turto objekto amžius (pavyzdžiui, likusi ekonomiškai efektyvi objekto naudojimo trukmė bei nekilnojamojo turto objekto kokybė. Nustatant pastato, kurio likęs gyvavimo laikas yra žinomas, kapitalizacijos normą, kapitalizuojant grynąsias pajamas tam tikram nuomos laikotarpiui, pagal vokiškąjį pajamų metodą pirmiausia atsižvelgiama į likusį pastato gyvavimo laikotarpį, o pagal anglosaksiškąjį metodą pastato likusio gyvavimo laikotarpio įtaka įvertinama jau įtraukta į pačią kapitalizacijos normą. Objekto kokybė (ypač įvairūs nuokrypiai) pagal vokiškąjį metodą, ypač nuokrypiai nuo normų, vertinami neįtraukti į pačią kapitalizacijos normą.
+Kapitalizacijos norma yra apskaičiuojama grynąsias pajamas padalinus iš pardavimo kainos arba turto vertės. Gautas dalmuo padauginamas iš 100 (procentų).

@@ -1,0 +1,10 @@
+Neparametriskās statistikas metodes tiek izmantotas gadījumā, ja uz izlasi nevar attiecināt normālos "parametrus" jeb izlase neatbilst normālajam sadalījumam. Iemesli var būt dažādi: vai nu vainīgi ir izlases veidošanas principi, vai arī kāda cita iemesla dēļ izlasē neveidojas normālsadalījumam līdzīgs sadalījums. Šie divi gadījumi, attēloti ar piemēriem, izskatās šādi:
+Ja tiek mesta monēta, un mērķis ir izmērīt, vai monēta uz katru no pusēm krīt vienādu skaitu reižu (t.i. vai atšķirības ir uzskatāmas par statistiski nenozīmīgām), vai varbūt kāda blakusfaktora dēļ monēta kritīs vairāk uz vienu no pusēm. Šeit viennozīmīgi ir zināms, ka par normālsadalījumu nav runas, jo rezultāti grupējas divās vienlīdzīgās kolonnās;
+Ja populācijā tiek mērīta kādas pazīmes izteiktība, un rezultāti liecina, ka pusē gadījumu rezultāti ir ļoti zemi, bet otrā pusē - ļoti augsti, un praktiski nav sastopamas vidējās vērtības. Šeit no matemātiskā viedokļa būtu iespējams normālsadalījums, bet rezultāti liecina pretējo.
+
+
+== Populārākās metodes ==
+Hī kvadrāta kritērijs
+Manna Vitneja U kritērijs
+Kolmogorova-Smirnova l kritērijs
+Spīrmena rangu korelācijas koeficients

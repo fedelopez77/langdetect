@@ -1,0 +1,42 @@
+Litauiska (lietuvių kalba) är ett språk som talas av 4 miljoner människor, varav 3 miljoner i Litauen. Det tillhör den baltiska språkgruppen (tillsammans med bland andra lettiska och prusiska; det senare numera utdött), som är en undergrupp till baltoslaviska språk. Litauiska anses vara ett av de nutida indoeuropeiska språken som ligger närmast det ursprungliga indoeuropeiska språket, särskilt i fråga om intonation och accent. Detta, och att litauiskan i så liten grad har påverkats av andra språk, gör att litauiskan har stort värde inom den jämförande språkforskningen.
+Det litauiska språket kan ses som det kanske bästa exemplet på att utrotningshotade språk, vilka förutsägs bli betydligt fler under 2000-talet, kan återhämta sig. För drygt hundra år sedan, när Litauen tillhörde Ryssland, var litauiskan i hög grad på väg att utrotas. På 1880-talet förklarade ryska regeringen det utdött, men uttalandet bör ses i ljuset av dåtida rysk koloniseringspolitik och definitioner av språkbegreppet.
+
+
+== Dialekter ==
+Det finns två större litauiska dialekter, augštaitiskas och (i nordvästra Litauen) žemaitiskan. Augštaitiskas, som ligger till grund för skriftspråket, har endast två tonaccenter, medan žemaitiskan har flera. Dialektsplittringen anses ha skett på 1400-talet, och dessförinnan var aukštaičiai och žemaiciai geografiska begrepp. I liten mån skrivs det också på žemaitiska.
+
+
+== Ortografi ==
+Det litauiska alfabetet är en utökad variant av det latinska och bygger till stor del på principen att ett ljud motsvaras av en bokstav. Tilläggen består i att ett flertal latinska tecken har försetts med något av fyra olika diakritiska tecken (hjälptecken). Alfabetet omfattar 32 grafem. Därtill kommer digraferna dz [dz], dž [dʒ], ch [x].
+A Ą B C Č D E Ę Ė F G H I Į Y J K L M N O P R S Š T U Ų Ū V Z Ž
+Diakriten hake (ˇ) ändrar en alveolar frikativa till en postalveolar. En svans (˛) markerar en lång vokal och är en kvarleva från tiden då dessa uttalades nasalt (jämför polska där vokaltecken med svans (ogonek) uttalas nasalt). Också makron (¯) kan användas för att markera lång vokal. Bokstaven i representerar antingen en vokal [ɪ] eller, då den står mellan en konsonant och vokalerna a, ą, o, u, ū och ų, en palatalisering [ʲ] av den föregående konsonanten.
+De diakritiska tecknen akut accent, grav accent och tilde kan användas för att markera ordton. Dessa skrivs dock vanligtvis inte ut annat än i ordböcker, grammatikor med mera. Tonaccenterna är distinktiva (betydelseskiljande), vilket för augštaitiskans del innebär att det finns två tonem.
+
+
+=== Uttal ===
+
+
+== Morfologi och syntax ==
+Litauiskan har två grammatiska genera: maskulinum och femininum. Till skillnad från de germanska språken, men i likhet med lettiskan och de flesta slaviska språk, saknar litauiskan helt artikel, såväl bestämd som obestämd.
+Litauiskan har sju kasus: nominativ, ackusativ, dativ, genitiv, instrumentalis, lokativ och vokativ. I vissa dialekter förekommer också illativ som åttonde kasus; detta är en egen bildning som saknas i lettiskan liksom i övriga indoeuropeiska språk.
+Till följd av det utvecklade kasusbruket har ordföljden inte så stor syntaktisk betydelse, varför ordföljden kan varieras betydligt mer än i svenskan. Frågesatser har rak ordföljd och inleds med frågepartikeln ar.
+Verben har följande tempus: presens, preteritum, upprepad preteritum, futurum, futurum exaktum, pluskvamperfekt. Ett tiotal participformer kan bildas av verben.
+
+
+== Historia ==
+
+Litauiska är, tillsammans med övriga baltiska språk och de slaviska och indo-iranska, ett s.k. satemspråk, vilket innebär att den indoeuropeiska palatovelara klusilen *ḱ har utvecklats till en sibilant (š i litauiska, till skillnad från s i lettiskan och slaviska språk). Då litauiskan blev ett litteraturspråk först på 1500-talet är språkets tidiga historia föga känd. Syntaxen anses vara påverkad av polska och latin, alternativt har litauiska språket kvar en ganska ursprunglig syntax som därför liknar den latinska. Vidare kan man misstänka att den dialektala illativen beror på finskt inflytande (illativ förekommer förutom i litauiska i estniska, finska och samiska).[källa behövs]
+
+
+== Namnskick ==
+Utmärkande för litauiskt namnskick är att kvinnors familjenamn får olika form enligt följande: Ogifta kvinnor har familjenamn på -aitė, -ytė, -(i)utė, som utgår från faderns efternamn; gifta kvinnor har familjenamn på -ienė, som utgår från makens efternamn.
+Mansnamn slutar nästan alltid på vokal+s (Gintaras, Sarunas, Audrius, Vytautas) och för att passa i detta mönster läggs -as till i slutet av utländska namn när de lånas in (Adolfas, Robertas, Richardas).
+
+
+== Referenser ==
+Sužiedėlis, Saulius (2011) (på eng). Historical dictionary of Lithuania. Historical dictionaries of Europe ; no. 80 (2. ed.). Lanham, Md.: Scarecrow Press. Libris 12156831. ISBN 978-0-8108-4914-3 
+
+
+== Externa länkar ==
+Litauiska-Franska
+Lithuanian Out Loud - Podcast-lektioner i litauiska

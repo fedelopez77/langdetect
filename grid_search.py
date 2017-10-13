@@ -3,6 +3,7 @@ import os
 
 import langdetect as ld
 
+PATH_VALIDATION = ld.PATH_DATASETS + "validation/"
 TESTING_LANGUAGES = {"it": "Italian", "pl": "Polish", "ru": "Russian", "sk": "Slovak", "pt": "Portuguese",
                     "ro": "Romanian", "da": "Danish", "sv": "Swedish", "no": "Norwegian", "en": "English",
                     "es": "Spanish", "fr": "French", "cs": "Czech", "de": "German", "fi": "Finnish", "et": "Estonian",
@@ -36,7 +37,7 @@ def test_data(profiles, dir_path):
 
 
 def grid_search():
-    testing_data_path = os.getcwd() + ld.PATH_DATASETS + "testing/"
+    testing_data_path = os.getcwd() + PATH_VALIDATION
 
     min_ngrams = [1]
     max_ngrams = [3, 4]

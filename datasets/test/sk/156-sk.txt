@@ -1,0 +1,10 @@
+Logistická metóda je v súčasnej matematike a logike prijatá metóda budovania formalizovaných systémov (formalizácia) alebo kalkulov (v logickej syntaxi sa používa termín "syntaktický systém"). Budovanie takýchto systémov sa uskutočňuje čisto formálne, ako akési konfigurácie znakov a ich postupností, a od zmyslu príslušných výrazov sa abstrahuje.
+Logistická metóda predpokladá:
+zoznam prvotných (základných) symbolov systému
+určenie, ktoré postupnosti prvotnych symbolov tvoria správne zostrojené formuly systému (skrátene SZF) (prvé dva typy pravidiel sú pravidlá tvorenia)
+vyčlenenie axióm z množiny SZF
+určenie pravidiel odvodzovania (alebo transformačných pravidiel), podľa ktorých z príslušných SZF ako z premís sa bezprostredne odvodí niektorá SZF ako záver
+
+
+== Externé odkazy ==
+FILIT – zdroj, z ktorého pôvodne čerpal tento článok.

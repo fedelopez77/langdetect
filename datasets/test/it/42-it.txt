@@ -1,0 +1,4 @@
+Assistente Migrazione è una utility prodotta dalla Apple che trasferisce utenti, dati e impostazioni da un computer Macintosh ad un altro, purché entrambi siano collegati tramite Firewire e supportino la tecnologia Target Firewire oppure anche da qualsiasi volume in cui si trovi un'installazione di macOS.
+Si trova nel percorso /Applications/Utilities/Migration Assistant.app.
+È stata introdotta con Mac OS X Tiger ma se ne trovava una versione che non permetteva il trasferimento da altre partizioni o da Hard Disk esterni in tutti i computer Macintosh da settembre 2004 con l'introduzione dell'iMac G5.
+Si presenta con una semplice Interfaccia Grafica che, al momento della configurazione dell'account per la nuova installazione oppure se viene aperto durante il normale utilizzo del computer, guida l'utente in tutte le fasi del processo.

@@ -1,0 +1,12 @@
+Kazehakase est un navigateur web japonais multilingue pour Linux avec une interface en GTK+2. Il utilise Gecko comme moteur de rendu HTML.
+Cependant, les auteurs envisagent la possibilité d'utiliser d'autres moteurs de rendu comme GtkHTML, Dillo ou w3m.
+Depuis la version 0.4.5 sortie début avril 2007, Kazehakase peut, à titre expérimental, s'appuyer sur GTK+ WebCore.
+Kazehakase est un logiciel libre distribué selon les termes de la licence GNU GPL.
+De plus, ce navigateur est utilisé par la distribution GNU/Linux Fluxbuntu
+
+
+== Liens externes ==
+Site officiel du projet
+Liste de diffusion des développeurs de Kazehakase
+
+ Portail des logiciels libres

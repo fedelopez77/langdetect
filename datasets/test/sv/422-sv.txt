@@ -1,0 +1,14 @@
+Exhaustor, anordning för att suga ut gas. En möjlig konstruktion är att använda en liggande cylinder, försedd med in- och utlopp för gasen, i vilken en mindre cylinder roterar, som är excentriskt lagrad i den större på sådant sätt, att den vid rotationen berör den yttre på ett ställe. Den inre cylindern utföres i tre delar, mellan vilka finns tre plattor av stål eller läder, som anligger mot den yttre cylinderns väggar och som kan röra sig fram och åter i radiell led mellan cylinderns tre delar. Vid innercylinderns rotation skjuts dessa av centrifugalkraften mot den yttre cylindern och släpar efter densamma, varvid de omväxlande skjuts in och ut i innercylindern. Därvid förstoras eller förminskas rummet mellan plattorna, varigenom en sugande respektive tryckande verkan uppstår vid in- respektive utloppssidan.
+Exhaustor har använts i gasverk och därtill förbundna gasklocka.
+Som en pionjär inom denna apparat tillämpar Lübeck industrin pionjär Wilhelm Beth.
+
+
+== Se även ==
+fläkt
+propeller
+impeller
+pump
+
+
+== Källor ==
+Exhaustor i Nordisk familjebok (andra upplagan, 1907)

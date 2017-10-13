@@ -1,0 +1,41 @@
+El AEG B.I era un biplano, biplaza desarmado con funciones de reconocimiento y producido en muy pequeñas cantidades desde 1914.
+
+
+== Diseño y desarrollo ==
+A principios del siglo XX la compañía AEG - Allgemeine Elektrizitäts Gesellschaft - empezó a interesarse por la aviación por lo que constituyó en 1910 un departamento de aviación y cuando estallo la Primera Guerra Mundial , ya se había establecido como fabrica de aviones militares. En 1914 se le encargo una pequeña cantidad de aparatos de reconocimiento desarmados. Designado B.I, era un biplano de tres secciones y envergadura desigual. Este diseño fue la base para el desarrollo de aeronaves más exitosas de la compañía AEG, como las de las series AEG C y AEG J
+
+
+== Operadores ==
+ Imperio Alemán: Luftstreitkräfte
+
+
+== Especificaciones (AEG B.I) ==
+
+
+=== Características generales ===
+Tripulación: 2
+Longitud: 10,50 m
+Envergadura: 14,50 m
+Superficie alar: 44 m²
+Peso vacío: 744 kg (1 639,8 lb)
+Peso máximo al despegue: 1.044 kg
+Planta motriz: 1× lineal 6 cilindros refrigerado por agua Mercedes D.I.
+Potencia: 75 kW (103 HP; 102 CV) 100 cv
+
+
+=== Rendimiento ===
+Velocidad máxima operativa (Vno): 110 km/h
+Techo de vuelo: 2.500 m
+Carga alar: 24 kg/m²
+
+
+== Véase también ==
+Anexo:Lista de biplanos
+
+
+== Bibliografía ==
+Enciclopedia Ilustrada de la Aviación. Vol. 1 Barcelona, Edit. Delta, 1982 ISBN 84-85822-29-3
+
+
+== Enlaces externos ==
+Un AEG B.I en el Museo de Aviación Virtual

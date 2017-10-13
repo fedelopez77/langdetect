@@ -1,0 +1,5 @@
+Blackbox er en tidligere minimalistisk vindusbehandler for vindussystemet X på Unix-lignende operativsystemer. Blackbox var skrevet i C++, og en rekke andre vindusbehandlere startet som en fork av Blackbox, deriblant Fluxbox og Openbox.
+Siste versjon var 0.70.1 som ble lansert 3. november 2005.
+
+
+== Referanser ==

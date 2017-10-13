@@ -1,0 +1,9 @@
+Very Large DataBase (VLDB) est une base de données contenant plus de 1 téraoctet de données.
+
+
+== Présentation ==
+
+
+== Notes et références ==
+
+ Portail de l’informatique

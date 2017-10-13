@@ -1,0 +1,759 @@
+Código é uma representação simbólica de repertório próprio ou resultado de um processo de codificação, podendo ser entendido como o ponto de partida do qual é elaborada e decifrada uma mensagem. Situa-se como elemento da informação entre os níveis de semiótica, ou seja, do significado comum a todos os sistemas simbólicos e cuja interpretação menos depende do sistema no qual foi escrito; e da comunicação, sistema de receptores/emissores e fontes de informação. Nesse contexto geral, código também é a ferramenta criada para manter a máxima eficiência da transmissão de informação segundo determinadas propriedades matemáticas.
+
+
+== Propriedades matemáticas do código ==
+Pode-se associar qualquer conjunto finito de símbolos de forma biunívoca a equivalentes binários (0's e 1's) e assim tratar cada símbolo como uma sequência de escolhas do emissor e como uma quantidade que pode ser mensurada em bits. Para sinais analógicos, é necessário primeiro fazer sua discretização. Feito isso, o código detém as seguintes propriedades:
+Seja 
+  
+    
+      
+        D
+        =
+        {
+        
+          s
+          
+            1
+          
+        
+        ,
+        
+          s
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        
+          s
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle D=\{s_{1},s_{2},...s_{n}\}}
+   um dicionário de uma fonte emissora 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   com 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   símbolos na qual cada símbolo possui uma probabilidade 
+  
+    
+      
+        P
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle P(s_{i})}
+   de ocorrência e seja 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   uma mensagem qualquer contendo 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   símbolos produzida por essa fonte.
+Se a mensagem for convertida para código binário, como frequentemente requer o processamento digital de sinais e utilizando algum processo como código de Huffman ou de Shannon-Fano, obtemos um novo dicionário 
+  
+    
+      
+        
+          D
+          
+            ∗
+          
+        
+        =
+        {
+        
+          s
+          
+            1
+          
+          
+            ∗
+          
+        
+        ,
+        
+          s
+          
+            2
+          
+          
+            ∗
+          
+        
+        ,
+        .
+        .
+        .
+        
+          s
+          
+            n
+          
+          
+            ∗
+          
+        
+        }
+      
+    
+    {\displaystyle D^{*}=\{s_{1}^{*},s_{2}^{*},...s_{n}^{*}\}}
+  , associando cada símbolo original 
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+      
+    
+    {\displaystyle s_{i}}
+   a uma sequência de números binários 
+  
+    
+      
+        
+          s
+          
+            i
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle s_{i}^{*}}
+  .
+
+
+=== Quantidade de informação ===
+Define-se a quantidade de informação de um símbolo por 
+  
+    
+      
+        I
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        =
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        
+          (
+          
+            
+              1
+              
+                P
+                (
+                
+                  s
+                  
+                    i
+                  
+                
+                )
+              
+            
+          
+          )
+        
+        =
+        −
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        (
+        P
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle I(s_{i})=\log _{2}\left({\frac {1}{P(s_{i})}}\right)=-\log _{2}(P(s_{i}))}
+   com a exceção particular de que se 
+  
+    
+      
+        P
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle P(s_{i})=0}
+  , então 
+  
+    
+      
+        I
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle I(s_{i})=0}
+   (nota-se que o mesmo ocorre se 
+  
+    
+      
+        P
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        =
+        1
+      
+    
+    {\displaystyle P(s_{i})=1}
+  , ou seja, símbolos que sempre ou nunca ocorrem não carregam informação nova alguma). A escolha da base 2 para o logaritmo é devido à relação entre o dicionário e um conjunto de códigos binários e a unidade de medida é o bit.
+Para a mensagem, tem-se que 
+  
+    
+      
+        I
+        (
+        M
+        )
+        =
+        
+          ∑
+          
+            
+              s
+              
+                i
+              
+            
+            ∈
+            
+              M
+            
+          
+        
+        I
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        =
+        −
+        
+          ∑
+          
+            
+              s
+              
+                i
+              
+            
+            ∈
+            
+              M
+            
+          
+        
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        (
+        P
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle I(M)=\sum _{s_{i}\in {M}}I(s_{i})=-\sum _{s_{i}\in {M}}\log _{2}(P(s_{i}))}
+  , considerando no somatório todas as repetições de símbolos.
+
+
+=== Entropia ===
+
+Entropia é uma medida da informação média contida numa mensagem. Para 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  , define-se entropia como a esperança da quantidade de informação de uma mensagem produzida por essa fonte, ou seja, 
+  
+    
+      
+        H
+        (
+        F
+        )
+        =
+        E
+        [
+        I
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        ]
+        =
+        −
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        P
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        (
+        P
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle H(F)=E[I(s_{i})]=-\sum _{i=1}^{n}P(s_{i})\log _{2}(P(s_{i}))}
+  , de unidade em bits. Vê-se que qualquer 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   produzida por 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   não interfere no valor de 
+  
+    
+      
+        H
+        (
+        F
+        )
+      
+    
+    {\displaystyle H(F)}
+   uma vez que os valores 
+  
+    
+      
+        P
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle P(s_{i})}
+   tenham sido determinados. Para uma mensagem, tem-se que 
+  
+    
+      
+        H
+        (
+        M
+        )
+        =
+        E
+        [
+        I
+        (
+        M
+        )
+        ]
+        =
+        E
+        [
+        
+          ∑
+          
+            
+              s
+              
+                i
+              
+            
+            ∈
+            
+              M
+            
+          
+        
+        I
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        ]
+        =
+        
+          ∑
+          
+            
+              s
+              
+                i
+              
+            
+            ∈
+            
+              M
+            
+          
+        
+        E
+        [
+        I
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        ]
+        =
+        m
+        H
+        (
+        F
+        )
+      
+    
+    {\displaystyle H(M)=E[I(M)]=E[\sum _{s_{i}\in {M}}I(s_{i})]=\sum _{s_{i}\in {M}}E[I(s_{i})]=mH(F)}
+  .
+
+
+=== Tamanho de mensagem codificada, tamanho médio e eficiência de codificação ===
+Se passarmos a utilizar 
+  
+    
+      
+        
+          D
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle D^{*}}
+   como dicionário para a mensagem, uma mensagem 
+  
+    
+      
+        
+          M
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle M^{*}}
+   possui o tamanho 
+  
+    
+      
+        L
+        (
+        M
+        )
+        =
+        
+          ∑
+          
+            
+              s
+              
+                i
+              
+            
+            ∈
+            
+              M
+            
+          
+        
+        L
+        (
+        
+          s
+          
+            i
+          
+          
+            ∗
+          
+        
+        )
+      
+    
+    {\displaystyle L(M)=\sum _{s_{i}\in {M}}L(s_{i}^{*})}
+  , em que 
+  
+    
+      
+        L
+        (
+        
+          s
+          
+            i
+          
+          
+            ∗
+          
+        
+        )
+      
+    
+    {\displaystyle L(s_{i}^{*})}
+   é simplesmente a quantidade de caracteres binários de 
+  
+    
+      
+        
+          s
+          
+            i
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle s_{i}^{*}}
+  . A partir disso, define-se tamanho médio da mensagem de 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  , também uma esperança, por 
+  
+    
+      
+        
+          
+            
+              L
+              ¯
+            
+          
+        
+        (
+        F
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        P
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+        L
+        (
+        
+          s
+          
+            i
+          
+          
+            ∗
+          
+        
+        )
+      
+    
+    {\displaystyle {\bar {L}}(F)=\sum _{i=1}^{n}P(s_{i})L(s_{i}^{*})}
+   e a eficiência de codificação por 
+  
+    
+      
+        η
+        =
+        
+          
+            
+              H
+              (
+              F
+              )
+            
+            
+              
+                
+                  
+                    L
+                    ¯
+                  
+                
+              
+              (
+              F
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \eta ={\frac {H(F)}{{\bar {L}}(F)}}}
+  , adimensional (apesar da unidade da entropia).
+
+
+== Referências ==

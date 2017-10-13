@@ -1,0 +1,17 @@
+Trijstūra tīkls[nepieciešama atsauce] ir viens no daudzstūru tīklu tipiem datorgrafikā. Tas ietver virkni ar trijstūriem (parasti trijās dimensijās), kas ir saistīti ar kopīgām malām vai stūriem.
+Daudzas grafiskās programmas un aparatūras ierīcas var darboties efektīgāk ar trijstūriem, kas ir grupēti tīklos nekā ar tādu pašu skaitu trijstūru, kas tiek attēloti individuāli. Tas parasti ir tādēļ, ka datorgrafika veic operācijas uz trijstūru stūru virsotnēm. Ar atsevišķiem trijstūriem, sistēmai ir jādarbojas ar visām trijām virsotnēm katram trijstūrim. Lielā tīklā varētu būtu astoņi vai vairāk trijstūri, kuru virsotnes satiktos vienā un tajā pašā punktā — kā rezultātā sistēmai būtu jāapstrādā tikai šis viens punkts, nevis astoņi vai vairāk.
+
+
+== Reprezentācija ==
+Iespējamas dažādas metodes, lai uzglabātu un apstrādātu trīstūru tīklus datora atmiņā.
+Izmantojot OpenGL un DirectX API, ir divi galvenie veidi kā trīstūru tīklus padotu uz grafikas aparatūru: trīstūru sloknes un indeksu masīvi.
+
+
+=== Trīstūru sloknes (Triangle strip) ===
+Katrs trijstūris data vienu pilnu malu ar vienu kaimiņu un citu malu ar citu kaimiņu. Cits veids ir trijstūru "fan", kur kopa ar saistītiem trijstūriem dala vienu centrālo virsotni. Ar šīm metodēm virsotņu apstrāde notiek efektīvi, jo ir nepieciešams tikai apstrādāt n+2 virsotnes, lai uzzīmētu n trijstūrus.
+Trijstūru sloknes ir efektīgas, tomer trūkums ir tas, ka var nebūt īsti skaidrs kā pārvērst patvaļīgu trijstūru tīklu trijstūru sloknēs.
+
+
+=== Indeksu masīvi ===
+Izmantojot indeksu masīvus, tīkls tiek uzglabāts ar diviem atsevišķiem masīviem. Viens masīvs satur virsotņu pozīcijas, otrs masīvs satur katra trijstūra stūru pozīcijas. Grafikas sistēma apstrādā vispirms virsotnes un pēc tam veido trijstūrus. OpenGL šo atbalsta ar glDrawElements().
+Izmantojot šo metodi, patvaļīgs skaits trijstūru ar kopēju skaitu patvaļīgu virsotņu var tikt uzglabātas, manipulētas un padotas uz grafikas API bez jebkādām starp apstrādēm.

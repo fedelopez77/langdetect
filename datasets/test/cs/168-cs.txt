@@ -1,0 +1,24 @@
+Žolíky jsou název rozšířené karetní hry mezi střední a starší generaci i v Čechách. Hraje se s žolíkovými kartami a je velmi podobná hře Rummy, trochu i hře Autobus. Hrát ji může od dvou do šesti hráčů.
+
+
+== Pravidla ==
+Používají se karty známé jako žolíkové, tedy 2x francouzské o 52 kartách plus 4 žolíci, celkem tedy 108 hracích karet. Před hrou je třeba se domluvit na níže uvedených variantách v počtu a hodnotě karet.
+Hra se zahajuje snímáním 3 karet zadákem (hráč po pravici rozdávajícího). Pokud sejme žolíka, nechá si jej do hry a dostane o to méně karet při rozdání.
+Rozdá se mezi hráče po 12 kartách (varianta 15), jen předákovi (první hráč po levici rozdávajícího) se dá karet 13. Zbytek karet je v talónu. Předák zahájí hru vyložením své třinácté karty, případně může nejdříve vyložit. Každý hráč si bere jednu kartu z talonu a jednu nehodící odhazuje averzem vzhůru do společného odkládacího balíčku. Výjimkou je rozhodnutí vyložit. Vykládat lze postupky, trojice či čtveřice, přičemž je nutné napoprvé dosáhnout 42 bodů (varianta 52) a jedné čisté postupky.
+Do ostatních sestav je možné místo chybějící karty vložit žolíka. Pokud už mají vyloženo, mohou karty z ruky přikládat k jakékoliv sestavě karet na hrací ploše, i těm vyloženým jinými hráči. Na rozdíl od podobné hry Autobus/Amerika nelze již vyložené sestavy karet roztrhat a vytvořit nové, mohu jen přikládat.
+Pokud hra pokračuje, i když už karty v talonu dojdou, pak se odkládací balíček otočí a stává se novým talonem. Hra končí, pokud některý hráč vyloží své karty a poslední zbylou hru uzavírá odložením reversem nahoru na odkládací balíček. Pokud hráč ukončí hru a ušetří, nevyloží žolíky, může si jej ponechat (povolená herní varianta) do další hry.
+
+
+== Hodnota karet ==
+K prvnímu vyložení je třeba mít 42 bodů. Eso bývá za 11 bodů (varianta 1), ostatní figury K - Q - J po 10, karty 10-9-8 a 7 ve výši 10-9-8 a 7 bodů, žolík je zpravidla za 15 bodů (varianta 20).
+
+
+== Odkazy ==
+
+
+=== Reference ===
+
+
+=== Externí odkazy ===
+Oficiální pravidla clubjoker.cz
+Žolíky - Pravidla karetnihry.blogspot.cz

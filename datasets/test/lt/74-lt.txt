@@ -1,0 +1,14 @@
+Pinigų kaina laike arba pinigų kaina įvertinant laiko faktorių – koncepcija, paremta tuo, kad pinigai turi atnešti nuošimčius, pinigų vertė didesnė negu tos pačios sumos pinigų vertė ateityje.
+
+
+== Istorija ==
+Pinigų kaina laike – viena iš fundamentalių finansinių reiškinių, išplėtotų Leonardo Fibonačio 1202 metais. Pinigų kaina laike pagrįsta prielaida, kad kiekvienas labiau norės gauti pinigus dabar, negu ateityje, jei viskas lieka vienodai. Dėl to kiekvienas, dėdamas indėlį į banką, reikalauja palūkanų (ir jas uždirba). Pinigai, gauti šiandien, vertesni daugiau, negu pinigai, gauti ateityje, galimų uždirbti palūkanų dydžiu. Jeigu 90 šiandieninių litų po 1 metų padidės iki 100 litų, tai 100 litų po metų kainuoja 90 litų dabar.
+Pinigų kaina laike taip pat atsižvelgia ir į bankroto bei infliacijos riziką. 100 piniginių vienetų dabar – patikimas dalykas: juos galima naudoti nedelsiant. Po penkerių metų pinigai gali būti nieko neverti ar paprasčiausiai nesumokėti. Yra ir likutinė pinigų kaina laike, nekompensuojant už nesumokėjimą ir infliacijos riziką, kai paprasčiausiai pageidaujama pinigų dabar, o ne vėliau. Rinkos ekonomikoje vykdant finansines operacijas svarbiausia yra „Auksinė verslo taisyklė“:
+Suma, gauta dabar, didesnė už sumą, gautą rytoj.
+Šio reiškinio tyrimas buvo svarbus formuojant pinigų kainos laike principą (angl. time value of money), kuris yra šiandieninės finansų vadybos kertinis akmuo. Taikant šį principą, šiandieninės įplaukos vertingesnės už būsimąsias.
+
+
+== Pasekmės ==
+Iš pinigų kainos laike seka mažiausiai dvi pasekmės:
+vykdant finansines operacijas, būtina įvertinti laiko faktorių;
+nekorektiškumas (analizuojant ilgalaikes paskolas) sumuojant piniginius dydžius, priskiriamus skirtingiems laiko periodams.

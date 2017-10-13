@@ -1,0 +1,120 @@
+L’histoire de la mesure du temps remonte aux premières civilisations (Égypte, Chine). La mesure du temps a rapidement été une préoccupation importante, notamment pour organiser la vie sociale, religieuse et économique des sociétés. Les phénomènes périodiques du milieu où l'Homme vivait - comme le déplacement quotidien de l'ombre, le retour des saisons ou le cycle lunaire - ont servi de premières références.
+Mais progressivement, l'Homme s'est inspiré de phénomènes physiques, dont il avait remarqué le caractère périodique, pour concevoir et mettre au point des dispositifs de mesure du temps de plus en plus précis, ainsi que des unités adaptées. L'application du balancier aux horloges mécaniques en est un exemple ; ces appareils permirent aux hommes de connaître l'heure à tout moment et en tout lieu.
+
+Le calendrier ne relève pas à proprement parler de la mesure du temps. C'est un compte des années et des jours dans une année. La majorité des calendriers sont définis par rapport au Soleil ou à la Lune : une année solaire compte environ 365,242 19 jours et un mois lunaire environ 29,53 jours. Comme l'année définie par un calendrier comporte obligatoirement un nombre entier de mois et de jours, on comprend la difficulté à laquelle les civilisations ont fait face pour mettre au point une année, et les mois qui la composent, dont la durée approche et, éventuellement, se maintient en moyenne autour de la valeur de la période de référence choisie : année solaire, mois lunaire.
+Plusieurs calendriers se sont succédé ou ont coexisté à travers l'Histoire : calendriers romain, julien, grégorien, orthodoxe, hébreu, musulman, copte, hindou, égyptien, hahai's, zoroastrien, inca, chinois ou encore républicain. Chaque grande civilisation a eu son propre calendrier ; c'était un moyen de marquer son époque.
+Les premières traces de véritables calendriers remontent à l'Égypte et aux Mayas et Aztèques, chez qui les prêtres étaient aussi astronomes et possédaient, pour ce qui est de ces derniers, un calendrier bien plus précis qu'en Europe à la même époque.
+
+En -45, Jules César demande à l'astronome grec Sosigène d'Alexandrie de réformer le calendrier romain peu précis. Il crée ainsi le calendrier julien qui innove, créant les années bissextiles. La durée moyenne d'une année, 365,25 jours, la rapprochait de l'année astronomique, avec un décalage de trois jours tous les 400 ans.
+C'est l'accumulation de ce décalage qui eut pour conséquence que, vers 1582, le calendrier julien accusait déjà un retard de 11 jours sur l'année astronomique. Les débuts des saisons se produisaient de plus en plus tôt et les religieux avaient la sensation de ne plus fêter Pâques à la bonne date. Le pape Grégoire XIII s'adressa à l'astronome Luigi Giglio qui proposa que les années centenaires ne soient bissextiles que si elles sont divisibles par 400 ; de plus il fixa la date de l'équinoxe de printemps au 21 mars. Il donna ainsi naissance au calendrier grégorien que nous utilisons actuellement. La durée moyenne d'une année du calendrier grégorien est de 365,2425 jours, qui se rapproche encore plus précisément de la véritable durée de l'année astronomique 365,2422… jours. Sa mise en place entraîna aussi la suppression de 11 jours pour corriger le décalage existant entre les dates des saisons et leur occurrence réelle.
+Les fêtes catholiques et les fêtes orthodoxes sont décalées de 13 jours actuellement, l'Église orthodoxe n'ayant pas adopté le calendrier grégorien.
+
+
+== Calcul de la durée (période) en histoire ==
+Le calcul s'effectue en comptant :…, -3, -2, -1, +1, +2, +3, +4…
+L'an 0 (Année zéro) (naissance de Jésus-Christ) n'existe pas.
+Exemples :
+
+Durée entre l'an -100 et -20 :
+  → (-20) - (-100) = 100-20 = 80 ans
+Durée entre  l'an -100 et +100 :
+  → 100 - (-100)-1 = 200-1 = 199 ans
+Durée entre l'an +2000 et +1500 :
+  → 2000 - (1500) = 500 ans
+
+
+== Utilisation des phénomènes périodiques naturels ==
+
+
+=== Du gnomon au cadran solaire ===
+
+À partir du début du IIe millénaire av. J.-C., les Mésopotamiens ont compté en base 60 en utilisant une numération de position dérivée du système de numération de type additif et de base mixte des Sumériens. Ce système est généralement associé à la civilisation babylonienne, qui occupe le sud mésopotamien après -1800 et jusqu'au début de notre ère. Cette base a traversé les siècles : on la retrouve aujourd'hui dans la notation des angles en degrés (360° = 6 x 60°) ou dans le découpage du temps (1 heure = 60 minutes = 60² secondes).
+Parmi les premiers à s'être préoccupés de la division du jour en unités de temps, on trouve les Égyptiens, mais d'abord dans un but religieux. La première période divisée en « heures » fut la nuit, il y a environ quarante-et-un siècles. Pour repérer l'écoulement du temps, le ciel avait été divisé en 36 décans associés à des divinités, chaque décan consistait en une ou plusieurs étoiles. Les observateurs nocturnes surveillaient le défilé des décans ; et suivant l'époque de l'année le nombre de décans visibles du crépuscule à l'aube était variable. Au solstice d'été, quand les nuits sont les plus courtes et lorsque le lever héliaque de Sirius approche, seuls douze décans étaient observables avec certitude, les autres se perdaient dans les lueurs du levant ou du couchant. Vers 2100 av. J.-C. il fut décidé de ne conserver que l'observation de douze décans au cours de la nuit : celle-ci fut ainsi divisée en douze parties qui furent maintenues toute l'année. Ainsi la première période, autre que l'année, précisément jalonnée fut la nuit et non le jour. Mais cela ne concernait que le pharaon, et sa relation avec les dieux. On a retrouvé dans des sarcophages des tableaux donnant les décans divisant la nuit en douze parties.
+
+Six siècles plus tard les textes indiquent une division du jour également en douze heures, sans doute par symétrie avec la nuit. À cette division est associé le premier véritable cadran solaire connu : c'est une pièce en forme de « L ». Elle s'oriente dans la direction est-ouest, l'ombre projetée par le montant vertical sur l'autre partie indique les heures de part et d'autre de midi. Les graduations sont fixes et ne tiennent pas compte de l'influence de la saison : une journée est divisée en douze heures quelle que soit sa durée. Les heures indiquées n'ont donc pas la même longueur tout au long de l'année, plus longues l'été que l'hiver. En Égypte l'écart est assez faible (40 %) pour ne pas être trop sensible (contrairement à l'Europe occidentale où, entre l'hiver et l'été, la durée du jour varie du simple au double). Cette division en deux fois douze heures est conservée et adoptée par les Chaldéens vers le VIIe siècle av. J.-C. puis se répand en Grèce et se perpétue par la suite, jusqu'à nos jours. Nos 24 heures sont égyptiennes.
+Le système de numération babylonien était sexagésimal, la division de l'heure et des minutes a repris ce système. Ainsi, l'heure est divisée en 60 minutes et la minute en 60 secondes. Soixante est un nombre qui a la particularité d'avoir un grand nombre de diviseurs entiers (1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30 et 60), ce qui facilite les calculs astronomiques.
+Les Romains utilisèrent des cadrans solaires portatifs, tel le cadran de berger.
+
+
+== Utilisation des phénomènes périodiques mécaniques ==
+Mais l'Homme ne s'est pas contenté d'observer et d'utiliser la nature. Il a aussi su utiliser son sens de l'observation et son intelligence pour concevoir des instruments de mesure du temps qui ne se basent pas forcément sur des phénomènes naturels qui ne sont pas sous son contrôle. Les usages de la vie quotidienne (temps de parole dans un conseil, un procès, sonneries des cloches pour les heures des offices, réunions de conseils de villes, le couvre-feu, etc.) lui en fournirent la motivation.
+
+
+=== La clepsydre et le sablier ===
+
+Les Égyptiens utilisaient la clepsydre, grand vase percé à sa base, gradué à l'intérieur et qui laisse échapper un mince filet d'eau. Les Grecs l'ont perfectionnée pour la rendre plus précise. Ils lui ont ajouté un cadran et une aiguille, la transformant en un véritable instrument de mesure.
+D'origine inconnue, le sablier est basé sur le même principe que la clepsydre, excepté que l'eau est remplacée par du sable. Il sert plus à mesurer des intervalles de temps qu'à indiquer l'heure. Une anecdote couramment citée est celle de Christophe Colomb qui, en 1492, lors de son voyage vers l'Amérique, utilisait pour faire le point un sablier qu'il retournait depuis son départ toutes les demi-heures.
+Ces outils étaient peu précis sur de longues périodes et les écarts s'accumulaient.
+
+
+=== L'horlogerie ===
+
+
+==== L'horloge mécanique ====
+
+Les premières horloges mécaniques apparaissent au XIVe siècle. Au début, elles sonnent les cloches, n'ont pas de cadran et, lorsqu'elles en seront dotées au XVe siècle, il n'y aura qu'une aiguille, celle des heures.
+Ces premières horloges consistent schématiquement en un poids moteur qui entraîne un train d'engrenages, lequel fait accessoirement tourner la ou les aiguilles. Le tout ne constitue une horloge que si l'on sait réguler la chute du poids. C'est l'apparition de l'échappement qui va transformer ce simple assemblage d'engrenages en véritable horloge. L'échappement permet alternativement de libérer puis de bloquer la chute du poids, grâce à un mécanisme oscillant.
+Dans ces premières horloges, ce mécanisme est un foliot, simple tige aux extrémités de laquelle sont accrochés deux masses, qui peut osciller horizontalement autour d'un axe vertical la supportant en son milieu. Les masses lui confèrent l'inertie nécessaire pour stopper la chute du poids. Solidaires de l'axe d'oscillation, deux palettes viennent alternativement bloquer la roue de rencontre (qui donne son nom à ce premier type d'échappement) qu'entraîne le poids moteur.
+Ce mécanisme très ingénieux est aussi très délicat à régler précisément ; frottements et chocs sont importants, difficiles à maîtriser. Et surtout, chacun des éléments participe de façon indiscernable aux deux fonctions motrice et régulatrice.
+
+
+==== Le pendule et le ressort spiral ====
+
+Parmi de nombreux autres phénomènes, Galilée étudia le pendule oscillant et nota que la période (la durée d'un aller et retour complet) du pendule semblait être remarquablement constante pour un pendule donné. Il dessina en 1641 un projet d'horloge réglée par un pendule oscillant sans la construire. Ce sont finalement Christiaan Huygens et Salomon Coster qui construisirent la première horloge à pendule en 1657.
+Le progrès technique est important ; le progrès conceptuel l'est encore plus. Les fonctions régulatrice et motrice sont clairement identifiées et séparées, ce qui va rendre possible des réglages précis. Les premières horloges retardent la chute d'un poids grâce à un mécanisme oscillant irrégulier au travers d'un échappement. Les horloges à pendule entretiennent le mouvement oscillant régulier du pendule en prélevant au travers de l'échappement juste l'énergie nécessaire à un poids qui descend.
+En 1675, Huygens invente également le ressort spiral, organes régulateur, qui va constituer avec le balancier l'organe réglant des montres.
+
+
+==== Vers un outil de mesure transportable ====
+
+La mesure du temps dans la marine est indispensable, comme le montre l'exemple de Christophe Colomb. En particulier la détermination de la longitude impose de conserver à bord l'heure du port de départ. À tel point qu'au début du XVIIIe siècle les gouvernements britannique et espagnol offrirent de fortes récompenses au savant qui réussirait à construire un chronomètre transportable ayant une précision et, surtout, une stabilité suffisante pour faire un point complet en mer. Car il est impossible de faire fonctionner un pendule sur un bateau à cause du roulis.
+Un tel instrument de mesure est inventé par l'horloger britannique John Harrison en 1737. Après plusieurs tentatives, il crée un chronomètre d'une précision et d'une stabilité étonnantes. Il remporte le prix en 1764 seulement avec son quatrième prototype, beaucoup plus compact dans sa forme, et qui, en deux mois de voyage, ne se décale que de quelques secondes, performance jamais atteinte jusque-là.
+
+
+==== Une horloge pour tous ====
+
+Au cours du XVIIIe siècle, il est de bon ton, quand on en a les moyens, de posséder une pendule. Le raffinement de son décor et sa précision indiquent la richesse de son propriétaire. Cette précision n'est, à l'époque, d'aucune utilité dans la vie courante, mais le goût du « dernier cri » technologique n'est pas une manie apparue au XXe siècle. Au cours du XIXe siècle, l'industrialisation de l'horlogerie permet petit à petit à tous de posséder une horloge ou une pendule. En même temps, la diffusion de l'heure va se répandre avec le télégraphe et l'uniformisation du temps deviendra nécessaire en particulier avec le développement du chemin de fer, qui oblige à synchroniser les horloges d'un pays entier. Puis, le temps va aussi s'introduire dans les usines avec la mesure du temps de travail et de la productivité.
+
+
+== Les méthodes modernes ==
+
+Désormais, les horloges mécaniques ne sont plus à l'ordre du jour sur le plan de la précision. Des moyens plus précis et plus compacts ont été développés. En la matière, l'horloge à quartz a constitué un véritable progrès.
+Le quartz est une forme de dioxyde de silicium (SiO2) qui abonde dans la nature. Comme tous les matériaux rigides, un morceau de quartz résonne à des fréquences qui lui sont propres (par exemple 32 768 Hz pour les quartz des montres courantes). De plus, sa dureté lui permet d'avoir des fréquences de vibrations élevées, ce qui est très favorable pour la précision. Or lorsqu'un cristal de quartz vibre, de faibles charges électriques apparaissent et disparaissent à sa surface. C'est l'effet piézo-électrique. Ces charges sont détectées et servent à asservir et stabiliser le fonctionnement d'un oscillateur électronique. La précision obtenue est dix fois plus importante que le meilleur des mécanismes d'horlogerie mécaniques. Le premier oscillateur à quartz à fonctionner sur ce principe apparaît en 1933, mais sa taille est plus proche d'un réfrigérateur que d'une montre bracelet. Produit d'une grande miniaturisation, cette dernière n'apparaît que dans les années 1970.
+
+Mais pour répondre au besoin de précision croissant de la science et des technologies de pointe, le quartz seul se révèle encore trop imprécis. L'étape suivante est l'horloge atomique. Dans celle-ci, la stabilité d'un oscillateur électronique ne repose plus sur les oscillations d'un cristal seul, mais sur celles de l'onde électromagnétique (de même nature que la lumière) émise par un électron lors de sa transition d'un niveau d'énergie à un autre à l'intérieur de l'atome. La première horloge atomique apparut en 1947 ; elle utilisait les transitions atomiques de la molécule d'ammoniac. Puis on eut recours au rubidium puis, surtout, au césium. C'est ce dernier corps qui assure actuellement le fonctionnement le plus exact et le plus stable pour une horloge atomique. La première horloge au césium apparut en 1955. Depuis, elle n'a cessé de s'améliorer. Les performances actuelles des horloges correspondent à un décalage d'une seconde tous les 3 millions d'années. Les fontaines de césium à atomes froids sont dix fois plus performantes. Des transitions atomiques d'autres corps simples comme l'ytterbium, à des fréquences optiques beaucoup plus élevées que la fréquence utilisée dans les horloges à césium, sont à l'étude dans le monde entier et permettront de gagner encore un facteur de dix à cent.
+La prochaine étape sera la miniaturisation des oscillateurs atomiques qui deviendront alors des composants pouvant s'insérer dans une montre ou un récepteur GPS ou Galileo. L'organisme américain du National Institute of Standards and Technology (NIST) travaille actuellement (2007) dans ce sens, ainsi que le consortium Européen MAC-TFC: MEMS Atomic Clocks for Timing, Frequency control and Communications, (www.mac-tfc-eu).
+
+
+=== Le Bureau International de l'Heure ===
+Jusqu'en 1987, le laboratoire BIH au sein de l'observatoire de Paris était chargé de l'établissement de l'heure universelle (UT). À partir 1987, c'est le Service international de la rotation de la Terre (IERS), regroupant plusieurs pays dans le monde qui en a la charge.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Temps
+Chronométrie
+Unité de temps
+Machine d'Anticythère
+
+
+=== Bibliographie ===
+Approche historique et technique :
+(en) David S. Landes, Revolution in Time. Clocks and the Making of the Modern World, Viking, 2000 (ISBN 0-670-88967-9)
+Une traduction française d'une édition antérieure existe sous le titre L'Heure qu'il est. Les horloges, la mesure du temps et la formation du monde moderne, Gallimard, coll. Bibliothèque illustrée des histoires, 1987.
+G. Dohrn-van Rossum, L'Histoire de l'heure, Ed. de la maison des Sciences de l'homme, Paris, 1997.
+Jean Jouannic, « Historique de la mesure du temps », Culture technique, no 9,‎ 1983, pp. 127-135 (ISSN 0223-4386, lire en ligne)
+Approche physique :
+Claude Audoin et Bernard Guinot, Les fondements de la mesure du temps : comment les fréquences atomiques règlent le monde, Paris u.a, Masson, coll. « Culture scientifique », 1998 (ISBN 978-2-225-83261-1, OCLC 245770546, présentation en ligne).
+Approche philosophique :
+Ernst Jünger (trad. Henri Plard), Le Traité du sablier, Paris, Ch. Bourgois, coll. « Points : Littérature Points : Littérature » (no 167), 1984, 198 p. (ISBN 978-2-020-06979-3, OCLC 31450371).
+
+
+=== Liens externes ===
+« Évolution de la mesure du temps à l'aide du Soleil » (consulté le 14 février 2010)
+ Portail de l’histoire des sciences
+ Portail du temps

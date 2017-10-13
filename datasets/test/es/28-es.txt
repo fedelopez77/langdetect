@@ -1,0 +1,48 @@
+Eken es un fabricante de productos electrónicos (principalmente tabletas, SmartPCs[1]​- también conocidos como MiniPCs-) radicado en China.
+
+
+== Eken M003 ==
+La Eken M003 es una tableta fabricada y diseñada por Eken y presentada en junio de 2010, junto con el Eken M001. Denominada aPad por su aspecto intencionadamente similar al del entonces recién lanzado iPad, hizo que ese nombre se utilizara para designa a las tabletas sin respaldo de una marca. Aunque actualmente se encuentra descatalogada, se siguen encontrando unidades a la venta en tiendas online.
+Presentado con Android 1.6 Donut, hay disponible una versión oficial con Android 2.0 Eclair. En dicha página se hace referencia a los modelos M003, M003T y M003S. En diversos foros y comunidades de usuarios como slatedroid hay disponibles ROMs alternativas, pero algunos reportan que tras instalar se ha quedado bloqueado. Teniendo en cuenta que se conoce al menos una tableta del mismo nombre pero con pantalla 16:9 de 800x480 y webcam, es muy posible que otros fabricantes chinos hayan tratado de aprovechar el nombre y su posicionamiento en Google.
+Hay al menos un anuncio conocido de un equipo con el doble de memoria, diferente posición de los botones y conector microUSB[2]​ que se presenta como un Eken M003, lo que hace suponer que los modelos T y S que se nombran en la página de soporte sean revisiones del equipo original y una actualización con la imagen ROM incorrecta la causa de los bloqueos.
+
+
+=== Características ===
+CPU: Wondermedia MW8505 ARM 9 a 533 MHz (otras fuentes reportan 350).
+Pantalla táctil: resistiva TFT de 8 pulgadas monotáctil, 800x600 en formato 4:3, 24 bit/píxel (16777216 colores).
+Sistema operativo: Android 1.6 alojado en una Flash EEPROM de 1908 MiB.
+Memoria RAM: 128 Megabytes
+Memoria flash interna: de 2 GB
+Lector de Tarjetas: microSD con soporte SDHC de hasta 32 GB.
+Fuente de alimentación externa AC 110/240 V ± 10% ( 50/60 Hz ) 0.3 amperios autoconmutable. Salida de 9 voltios DC 1,5 amperios, toma de barrilete amarillo positivo dentro negativo fuera.
+Batería de iones de litio de 2400 mAh. 5 horas en espera, 3 trabajando.
+Carcasa: en plástico plateado, blanco y negro de 180 x 220.77 x 14.5 mm (7.1 x 8.7 x 0.6 pulgadas y un peso de 600 gramos incluyendo la batería. Tornillos de fijación de la parte superior bajo la capa negra superior. Botón MENU bajo la pantalla, botones Power/Lock, Reset, Volumen ± y micrófono en el lateral derecho. Altavoz izquierdo, conector de alimentación, ranura MicroSD, conector de 30 Pines estilo iPod con señales USB, minijack de 3,5 mm, conector USB, altavoz derecho en la parte inferior.
+Sensor 3G (acelerómetro)
+Redes
+Wi-Fi: 802.11b/g 54 Mbps.
+RJ-45 de red 10/100 mediante dongle opcional (incluye 2 puertos USB adicionales).
+
+Entrada/Salida:
+1 puerto USB 2.0 con capacidad para manejar periféricos como teclado o mouse.
+1 conector de 30 pines estilo iPod con señales de USB. Se incluye cable de conexión a ordenador por USB.
+1 minijack 3,5 mm de auriculares (line out).
+1 toma de barrilete de alimentación 9 V D.C.
+1 ranura MicroSD
+Teclas Power, Home, Menu y Back.
+Pulsador de RESET junto al control de volumen.
+
+
+== Referencias ==
+
+Página oficial en la Wayback Machine con enlace a documento de características
+
+
+== Enlaces externos ==
+Tabletas Eken
+Tableta W70.
+
+Página oficial de soporte con nuevas versiones de Android
+ficha en pdadb.net
+Ficha en slatedroid
+Añadiendo un Heatsink a la CPU
+Abriendo el M003

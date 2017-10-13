@@ -1,0 +1,4 @@
+Le Wireless Bitmap (WBMP) est un format d'image numérique monochrome (noir et blanc) optimisé pour le protocole d'application sans fil, destiné aux téléphones mobiles.
+
+ Portail des télécommunications
+ Portail de l’imagerie numérique

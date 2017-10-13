@@ -1,0 +1,2 @@
+Liugehõõrdejõud on hõõrdejõu erijuht. Liugehõõrdejõud on alati vastassuunaline keha liikumise kiirusele v.
+Liugehõõrdejõud esineb näiteks järgmises olukorras. Kinnitame klotsi külge dünamomeetri ja veame klotsi selle abil ühtlaselt horisontaalsel laual. Liikumiseks mõjub klotsile dünamomeetri vedru elastsusjõud. Kuna liikumine on ühtlane, siis peab kõigi kehale mõjuvate jõudude summa võrduma nulliga. Järelikult mõjub klotsile ühtlase liikumise ajal peale elastsusjõu veel sellega võrdvastupidine jõud. Seda jõudu nimetatakse liugehõõrdejõuks.

@@ -1,0 +1,55 @@
+Výkladový slovník je:
+v širšom zmysle slovník, ktorý poskytuje vecný výklad hesiel v ňom obsiahnutých 
+v užšom zmysle len jazykový výkladový slovník, teda slovník, ktorý poskytuje filologický výklad významu slov v ňom obsiahnutých; tento výklad môže byť vecný výklad (t.j. krátky a výstižný opis charakteristík) alebo štruktúrny výklad (t.j. naznačí sa vzťah slova k príslušnému základovému slovu) 
+Okrem samotného výkladu výkladový slovník často obsahuje aj ďalšie jazykové informácie o slove (koncovky pri skloňovaní, výslovnosť a podobne).
+
+
+== Druhy ==
+Jazykový výkladový slovník sa delí primárne na:
+všeobecný výkladový slovník - t.j. jazykový výkladový slovník pre celú slovnú zásobu jazyka
+terminologický slovník - t.j. jazykový výkladový slovník pre jeden odbor; je to často zároveň odborný náučný slovník
+Medzi jazykové výkladové slovníky sa obyčajne radia aj tieto špeciálne druhy slovníkov:
+slovník cudzích slov
+frazeologický slovník
+idiomatický slovník
+dialektologický slovník
+slovník porekadiel
+slovník prísloví
+slovník epitet
+slovník neologizmov
+slovník slangu
+slovník argotu
+slovník alúzií
+Výkladový slovník môže byť:
+slovník súčasného jazyka
+historický slovník
+Výkladový slovník je obyčajne jednojazyčný slovník, ale niekedy je doplnený prekladmi do iných jazykov alebo paralelnými výkladmi v iných jazykoch a stáva sa tak viacjazyčným slovníkom.
+
+
+== Jednojazyčný všeobecný výkladový slovník súčasného jazyka ==
+Jednojazyčný všeobecný výkladový slovník súčasného jazyka (ďalej len JVVSSJ) sa zakladá na lexikálnom materiáli súčasného jazyka. Podáva všestrannú semiotickú, systémovo i komunikačne orientovanú informáciu potrebnú pre používateľov. Materiálom pre jeho tvorbu je teda lexikálna zásoba konkrétneho jazyka, ktorá sa v slovníku všestranne opisuje.
+V súvislosti s JVVSSJ možno hovoriť o tzv. metajazykovej funkcii jazyka. Je to vlastnosť jazyka umožňujúca používať prirodzený jazyk na opis jazyka. Vyjadruje snahu o zistenie podstatného.
+Pri spracovávaní lexikálneho materiálu je potrebné odstupňovať slová postupne starnúce, zastarané a prognózovať nosnosť neologizmov. Výber musí byť vyvážený; môže sa zohľadniť aj hľadisko frekvenčné alebo encyklopedické. Používateľom JVVSSJ je verejnosť.
+Pri uvažovaní o jeho kolektívnom používateľovi je potrebné vziať do úvahy jednak pragmatický aspekt (postojové, expresívne, konotačné zložky lexikálnych jednotiek), a jednak aspekt sociolingvistický (makroštruktúra a mikroštruktúra JVVSSJ). Text JVVSSJ nie je určený na súvislé čítanie, ale má telegrafické poslanie.
+Funkcia JVVSSJ je vedecká, národná, kultúrne reprezentatívna, didaktická a často aj normatívna.
+
+
+=== Slovenské JVVSSJ ===
+Slovník slovenského jazyka (Š. Peciar)(1959 - 1968);
+Krátky slovník slovenského jazyka (J. Kačala);
+Slovník súčasného slovenského jazyka (zatiaľ 1. zväzok. A - G) (K. Buzássyová) (2006).
+
+
+=== Inojazyčné JVVSSJ ===
+Prvé JVVSSJ latinčiny a gréčtiny vydali otec a syn Robert a Henry Estiennovci (1532 a 1572).
+Slovník Dictionnaire de l´Académie française z roku 1694 slúžil ako vzor slovníkov tzv. akademického typu.
+Najvýznamnejším anglickým JVVSSJ je The Oxford English Dictionary (online, za poplatok) a americkým Webster´s 3rd New International Dictionary of English Language (rok 1986), ktorý na svojich stránkach spracúva 450 000 hesiel.
+Najznámejší nemecký JVVSSJ je bezpochyby Duden - Das große Worterbuch der deutschen Sprache (6 zväzkov, roky 1978 - 1981; aktuálne vydanie len na CD).
+
+
+== Referencie ==
+
+
+== Pozri aj ==
+encyklopédia
+náučný slovník

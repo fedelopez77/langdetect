@@ -1,0 +1,31 @@
+Kotúčová brzda je druh brzdy. Princíp brzdenia pomocou kotúčovej brzdy spočíva v spotrebovaní kinetickej (pohybovej) energie otáčajúceho sa kotúča na teplo, pomocou trecích segmentov a prítlačného mechanizmu.
+
+
+== Konštrukcia ==
+Skladá sa z brzdného kotúča, ktorý je spojený s pohyblivou časťou stroja a trecích segmentov pritláčaných ku povrchu kotúča brzdnými čeľusťami - hydraulickým piestom, alebo mechanickou pákou.
+
+
+=== Brzdný kotúč ===
+je mechanicky spojený s brzdeným strojom. Pohybová energia brzdeného stroja sa teda prenáša na brzdný kotúč, ktorý ju pomocou segmentov premení na teplo. Teplo je odvádzané okolitým prúdiacim vzduchom. Kotúč je obvykle vyrobený z ocele, niekedy obsahuje otvory pre zväčšenie chladiacej plochy. Kotúč sa niekedy vyrába aj s vnútorným chladením (ventilovaný kotúč). Kotúč môže mať rôzne rozmery, pričom platí čím väčší priemer, tým väčší brzdný moment a menšia potrebná trecia sila. Vo vysokovýkonných strojoch sa ako materiál na kotúč používa kompozit (napr. z aramidových, alebo uhlíkových vlákien) alebo keramika.
+
+
+=== Brzdná čeľusť ===
+je pre zvýšenie účinnosti protismerná, čiže prítlačné sily pôsobia proti sebe. čeľuste teda brzdný kotúč zovrú medzi seba. Trecia plocha je obvykle výmenná (kvôli opotrebovaniu v prevádzke). Výmenné trecie elementy nazývame brzdné segmenty alebo brzdné doštičky. V čeľustiach sa nachádza zdroj brzdnej sily - obvykle hydraulický, alebo vzduchový piest (jeden, alebo viacero), prípadne pohybová prítlačná skrutka, alebo jednoduchá prítlačná páka.
+
+
+=== Brzdný segment ===
+je tvorený nosnou plochou na ktorej je nanesená trecia vrstva. Trecia vrstva je obvykle tvorená kompozitným materiálom so špeciálnymi vlastnosťami. Tento materiál musí vynikať stálosťou brzdných účinkov za všetkých prevádzkových teplôt. Na minimum musí byť obmedzený tzv. „fading“ (vädnutie brzdy - zmena koeficientu trenia vplyvom teploty). Materiál musí mať pomerne vysoký koeficient trenia, nízku stlačiteľnosť a deformovateľnosť, nízku teplotnú vodivosť (minimálny prenos tepla od kotúča ku čeľusti a tým ku brzdovej kvapaline), dlhú životnosť, oter nesmie byť zdraviu škodlivý a zaťažovať životné prostredie.
+
+
+== Použitie ==
+Kotúčová brzda sa najčastejšie používa v automobilovom priemysle ako predná (niekedy aj zadná) hlavná brzda automobilu, motocykla a pod. Často je používaná v bicykloch. Používa sa tiež na brzdenie elektromotorov. Viacnásobné kotúčové brzdy sa používajú v lokomotívach vlakov.
+Kotúčové brzdy sú oproti bubnovým brzdám ľahšie, výkonnejšie a lepšie sa chladia. Kotúčová brzda môže byť vybavená systémom ABS. Nevýhodou je vyššia cena, vyššia náchylnosť na poruchy (hydraulický mechanizmus, vpadnuté nečistoty, vysoké teploty ...) a zložitejšia integrácia s núdzovou (parkovacou) brzdou, preto sa používajú (väčšinou) iba v prednej náprave automobilu.
+
+
+== Pozri aj ==
+Bubnová brzda
+
+
+== Iné projekty ==
+
+ Commons ponúka multimediálne súbory na tému Kotúčová brzda

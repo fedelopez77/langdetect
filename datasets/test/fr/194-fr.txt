@@ -1,0 +1,16 @@
+Evaluation and Report Language (EARL) est un vocabulaire, proposé par le W3C permettant d'exprimer des résultats de tests.
+
+
+== Présentation ==
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Lien externe ===
+(en) Evaluation and Report Language (EARL) 1.0 Schema
+ Portail de l’informatique
+ Portail du Web sémantique

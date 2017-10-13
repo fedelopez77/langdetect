@@ -1,0 +1,51 @@
+PROFINET je průmyslová komunikační sběrnice určená pro řídící systémy v oblasti průmyslové automatizace. Profinet je vystavěn na základech průmyslového Ethernetu.
+
+
+== Specifikace ==
+Základní specifikace PROFINETu: 
+Otevřený protokol - jako každý mezinárodní standard jej lze získat u mezinárodní standardizační organizace, v tomto případě IEC.
+Přenosová rychlost: 10 Mbit / 100 Mbit
+Standard podle definice Profibus & Profinet International
+Pracuje s TCP/IP a standardy IT
+
+
+== Charakteristika ==
+Základní charakteristika PROFINETu: 
+Možnost využití modulů PROFINET CBA – Component Based Automation
+Možnost připojení decentrálních periferií PROFINET IO
+Možnost komunikace v reálném čase PROFINET RT
+Přístupnost i pro webové klienty přes HTTP (Hypertext Transfer Protocol), XML (Extensible Markup Language), HTML (Hypertext Markup Language)
+Přenos dat ve standardizovaném tvaru (HTML, XML)
+Možnost integrace a propojení se stávajícími průmyslovými sběrnicemi PROFIBUS, INTERBUS, AS-Interface
+
+
+== Síť ==
+Síť může používat různá přenosová média:
+Metalická - přenos vodiči
+Optická - přenos optickými vlákny
+WiFi - bezdrátový přenos
+a topologie:
+Hvězdicová síť
+Liniová - sběrnicová síť
+Kruhová síť
+Smíšená síť
+
+
+== Odkazy ==
+
+
+=== Reference ===
+
+
+=== Literatura ===
+
+
+=== Související články ===
+Ethernet
+Ethernetový rámec
+
+
+=== Externí odkazy ===
+PROFIBUS & PROFINET International (PI)
+All Things PROFINET
+PROFINET switch

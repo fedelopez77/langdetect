@@ -1,0 +1,46 @@
+Cassini-Huygens bol spoločný projekt planetárnej sondy, vyvinutý a prevádzkovaný v spolupráci americkej organizácie NASA, západoeurópskej organizácie ESA a talianskej kozmickej agentúry ASI a určený na výskum Saturnu, jeho okolia, prstencov a mesiacov.
+Sonda mala dve samostatné časti: materskú sondu Cassini (pomenovanú po talianskom astronómovi Giovanni Domenico Cassinim) a atmosférickú sondu Huygens (pomenovanú po holandskom vedcovi Christiaanovi Huygensovi).
+Sonda bola 15. októbra 1997 vynesená do vesmíru z kozmodrómu na myse Canaveral raketou Titan IVB/Centaur. Sonda Cassini bola navedená na obežnú dráhu okolo Saturnu 1. júla 2004. Do roku 2008 mala obiehať okolo planéty a vykonávať systematický diaľkový prieskum jej okolia. Sonda Huygens pristála na mesiaci Titan 14. januára 2005 a počas zostupu atmosférou a 2 hodiny po pristátí zhromaždila veľké množstvo vedeckých poznatkov o tomto vesmírnom telese. Sonda Cassini zanikla o 13 rokov neskôr v atmosfére Saturna.
+
+
+== Priebeh letu ==
+Štart s nosnou raketou Titan 4B Centaur prebehol 15. októbra 1997 z kozmodrómu na myse Canaveral na Floride. V čase 09:19 UT prebehlo navedenie na únikovú dráhu, ktoré bolo mimoriadne presné. Odchýlka rýchlosti bola menšia než 0,02 %, smerová odchýlka do 0,004°. 42 minút po štarte sa teleso sondy spolu s pripojeným modulom Huygens oddelilo od nosnej rakety.
+
+USA rozhodli, že vzhľadom na veľkú hmotnosť sondy budú počas letu k Saturnu využité gravitačné manévre pri dvoch preletoch okolo Venuše (26. apríla 1998 vo výške 234 km a 24. júna 1999 vo výške 600 km) a okolo Zeme (18. augusta 1999 vo výške 1 171 km). Pri prelete pásom asteroidov sa priblížila na niekoľko miliónov kilometrov k planétke 2685 Masursky. Okolo Jupitera preletela (30. decembra 2000 vo výške približne 10 mil. km). Každý z týchto gravitačných manévrov sondu urýchlil, čím sa podstatne skrátila doba príletu k Saturnu. Tento typ trajektórie sa nazýva VVEJGA (Venus-Venus-Earth-Jupiter Gravity Assist). Prelety okolo Venuše a Zeme boli využité na kalibráciu vedeckých prístrojov, v oblasti planéty Jupiter sonda Cassini uskutočňovala v obmedzenom rozsahu vedecké merania. Medzi vedecké ciele výskumu Jupitera patrilo mapovanie oblačnej vrstvy atmosféry, vytvorenie jej trojrozmernej mapy, globálna meteorológia, mapovanie výskytu polárnych žiar, snímkovanie známych satelitov, hľadanie stôp atmosféry na nich a tiež hľadanie ďalších, dovtedy neznámych obežníc Jupitera a mapovanie jeho rozsiahlej magnetosféry. Pri najväčšom priblížení bola sonda od vrchných mrakov Jupitera vzdialená 9,72 miliónov km. Z tejto vzdialenosti urobila zábery planéty s rozlíšením 58 km na pixel.
+Okrem gravitačných zrýchlení sonda absolvovala ešte niekoľko dráhových korekcií.
+
+
+=== Prílet k Saturnu ===
+Do Saturnovej sféry gravitačného vplyvu vstúpila sonda 9. marca 2004. 27. mája sonda vykonala manéver, ktorý ju dostal na preletovú dráhu okolo vzdialeného Saturnovho mesiaca Phoebe. 11. júna sonda uskutočnila najtesnejšie priblíženie k tomuto mesiacu vo vzdialenosti 2 068 km. V priebehu preletu boli všetky optické prístroje sondy orientované na Phoebe. Boli získané podrobné snímky tohto mesiaca a vďaka nim mohla byť vytvorené základná nomenklatúra povrchových útvarov. Okrem preletu okolo Phoebe sonda minula v podstatne väčších vzdialenostiach ešte niekoľko Saturnovych mesiacov počas takzvaných necielených preletov, to znamená, že kvôli týmto preletom nebola dráha sondy nijako korigovaná.
+
+
+=== Navedenie na orbitu a prvé pozorovania ===
+Zážihom hlavného korekčného motora na dobu 96 minút bola 1. júla 2004 sonda navedená na obežnú dráhu okolo planéty. Počas tohto kritického manévru sonda najprv preletela vo vzdialenosti 158 500 km od planéty rovinou Saturnovych prstencov. Po skončení preletu sa sonda otočila, aby jej motory smerovali do protismeru letu. V čase 02:26 UT bolo z rozboru prichádzajúceho signálu zrejmé, že sonda prežila prelet nebezpečným prstencom, s ktorého časticami sa mohla zraziť a chystá sa na brzdiaci manéver. V čase 02:35:42 UT sa začal zážih hlavného motora. V čase 04:12 UT bol hlavný raketový motor vypnutý. Sonda Cassini sa stala prvou umelou obežnicou Saturna. Zmena rýchlosti sondy počas zážihu bola 626,17 m/s. Manéver prebehol úplne bez problémov a sonda začala vedecké pozorovania. V čase V 05:32 UT sonda začala druhý prelet rovinou Saturnovych prstencov, počas ktorého zaznamenala 100 000 jednotlivých nárazov zrniečok prachu na sondu, ale žiadny z nich ju nepoškodil. Krátko po 12:30 UT začali do riadiaceho strediska prichádzať prvé snímky, ktoré boli urobené z bezprostrednej blízkosti prstencov. V čase 17:00 UT sa konala tlačová konferencia, na ktorej manažér projektu Robert Mitchell oznámil, že navádzanie na obežnú dráhu prebehlo perfektne.
+14. septembra došlo k previerke puzdra Huygens. 26. októbra minula sonda Cassini vo vzdialenosti 1 176 km mesiac Titan, čo bolo zatiaľ najbližšie priblíženie k tomuto mesiacu v histórii kozmonautiky. Na Zem prišli prvé detailné snímky, spektrá a radarové údaje. 19. novembra sa uskutočnila kontrola pripravenosti na uvoľnenie puzdra Huygens. 23. novembra prebehla posledná previerka puzdra Huygens. 13. decembra sa uskutočnil ďalší prelet okolo Titanu s najväčším priblížením 1 200 km.
+Dňa 25. decembra 2004 sa od sondy Cassini oddelila sonda Huygens. Modul začal trojtýždňovú samostatnú cestu.
+
+
+=== Pristátie na Titane ===
+
+14. januára 2005, počas tretieho obehu sondy Cassini okolo Saturna, sonda Huygens úspešne pristála na mesiaci Titan. Počas jej pristávania slúžila sonda Cassini ako retranslačná stanica na preposielanie vedeckých a technických dát zo sondy Huygens na Zem. Po dosadnutí puzdra na povrch sledovala miesto pristátia ešte tak dlho, až kým nezmizlo za obzorom. Ďalšie spojenie s Huygensom už nebolo možné.
+
+
+=== Materská sonda ===
+Sonda Cassini naďalej obiehala Saturn a zostala dlhodobo funkčná a aktívna. Primárna časť misie bola skončená 30. júna 2008. Po jej skončení sa začal program rozšírenej misie (tzv. Cassini Equinox Mission). Keďže sonda aj naďalej fungovala dobre, došlo ešte k druhému predĺženiu misie. Dĺžku životnosti misie obmedzilo množstvo pohonných hmôt, bez ktorých by sonda nemohla vykonávať korekcie svojej obežnej dráhy dôležité pre množstvo pozorovaní mesiacov a prstencov. Posledné zvyšky paliva preto vedci využili na navedenie sondy do atmosféry Saturna a získaniu cenných vedeckých dát priamo z nej tesne predtým, ako Cassini zhorel. Stalo sa tak 15. septembra 2017.
+
+
+== Pozri aj ==
+sonda Cassini
+sonda Huygens
+
+
+== Iné projekty ==
+
+ Commons ponúka multimediálne súbory na tému Cassini-Huygens
+
+
+== Externé odkazy ==
+Cassini-Huygens Home Page ESA (po anglicky)
+Cassini-Huygens Home Page JPL (po anglicky)
+Sonda Cassini na encyklopédii SPACE 40 (po česky)
+Sonda Huygens na encyklopédii SPACE 40 (po česky)

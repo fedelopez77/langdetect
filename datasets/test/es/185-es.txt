@@ -1,0 +1,13 @@
+Los transelevadores son robots creados para el almacenamiento automático, tanto de paletas como de unidades con menores dimensiones. Los transelevadores se desplazan a lo largo del almacén, y en toda la altura disponible realizando diferentes funciones como: ubicación de la mercancía y su entrada o salida.[1]​
+Los transelevadores aportan eficiencia, rapidez y exactitud en los movimientos de las tareas del almacén, aumentando de esta forma la productividad en el proceso de almacenamiento y preparación de pedidos. Los robots pueden ser adaptados a las características de cualquier almacén. Existen diferentes tipos de extracción de la mercancía según las dimensiones de la misma, características del almacenamiento, etcétera y además pueden operar en curva según el layout del almacén.
+Un robot transelevadores es el equipo principal de un almacén que se encarga de realizar las operaciones de ubicación y de extracción de las cargas de la estantería, así como de transportarlas y depositarlas en la mesa de cabecera del almacén.
+
+
+== Tipo de transelevadores ==
+Existen diferentes tipos de transelevadores según las características del almacén y la mercancía a manipular:
+
+Mini Load: los transelevadores Mini Load son diseñados para manipular la mercancía en unidades o en cajas. Es decir, mercancía con tamaños más reducidos y menor peso.
+Unit Load: los transelevadores Unit Load, están diseñados para manipular la mercancía en pallets, por lo que pueden llegar a manipular mercancías pesadas.
+
+
+== Referencias ==

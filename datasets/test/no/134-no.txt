@@ -1,0 +1,14 @@
+En elektromagnet består av en spole der et magnetfelt blir dannet av elektrisk strøm gjennom spolen. Styrken til magnetfeltet er proporsjonal med strømmen i spolen, og magnetfeltet forsvinner når strømmen opphører. I spolen er det en kjerne, oftest av jern, som forsterker og styrer magnetfeltet. Elektromagneten ble oppfunnet av engelskmannen William Sturgeon i 1826, seks år etter at den danske fysikeren Hans Christian Ørsted påviste at det er et magnetfelt rundt en strømførende ledning.
+
+
+== Virkemåte ==
+
+Når det går strøm gjennom en elektrisk leder, oppstår et magnetfelt rundt lederen. For å konsentrere magnetfeltet rundt en ledning til bruk i en elektromagnet, blir ledningen viklet til en spole, der ledningen danner mange vindinger som ligger inntil hverandre. Magnetfeltet i alle vindingene passerer gjennom midten av spolen, og skaper et sterkt magnetfelt der. En spole formet som et rett rør kalles en solenoid; en solenoid formet som en smultring, der endene møtes, kalles en toroid. Magnetfeltet kan ytterligere forsterkes ved å plassere en kjerne av ferromagnetisk materiale, for eksempel jern, inne i spolen. Kjernen kan forsterke magnetfeltet til mer enn tusen ganger styrken på magnetfeltet i spolen alene, på grunn av høy magnetisk permeabilitet i det ferromagnetiske materialet. Dette kalles en ferromagnetisk kjerne- eller en jernkjerne-magnet.
+Man kan lage en elektromagnet uten en kjerne, eller med bare en blyant, for eksempel, men da vil den være veldig svak. Lengden og antall vindinger det er på ledningen, blir bestemt med tanke på spenning og strøm. Når det går elektrisk strøm gjennom spolen blir det skapt et magnetisk felt, og det blir skapt en magnetisk pol i hver ende (nord/sør). Retningen til magnetfeltet avhenger av hvilken vei elektronene går gjennom spolen.
+Konklusjonen blir da at en spole som det går strøm igjennom har den samme effekten som en magnet.
+Magnetismen til en elektromagnet skyldes magnetfeltet til elektroner i bevegelse. Elektronet har et magnetfelt som går i sirkel (ingen poler) i et plan som er på tvers av fartsretningen. Dette kan man utforske selv ved å holde en sterk magnet foran en TV- eller dataskjerm som har et bilderør (altså ikke nyere LCD- eller plasmaskjermer). Da kan man se at bildet «vris rundt» magneten. Ha i bakhodet at skjermer og TV apparater vil få en midlertidig misfarging som følger av magneten. Dette vil gå bort etter hvert som skjermen får avmagnetisert seg.
+I elektronikk-diagrammer representeres en spole ofte med en «L», som er symbolet for induktans, som har måleenheten Henry («H»).
+
+
+== Bruksområder ==
+Elektromagneten er en mye brukt komponent i elektriske enheter, for eksempel elektromotorer, generatorer, releer, høyttalere, harddisker, MRI-maskiner og vitenskapelige instrumenter.

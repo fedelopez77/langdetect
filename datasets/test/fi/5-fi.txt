@@ -1,0 +1,4 @@
+GW-BASIC on Microsoftin vuonna 1983 julkaisema BASIC-tulkki, kehitetty BASICA:n pohjalta. Se kehitettiin alun perin Compaqille. GW-BASIC:in jälkeen Microsoftilta alkoi tulla entistä kehittyneempiä BASIC-tulkkeja, kuten QBASIC ja QuickBASIC ja nykyisin se on BASIC-kielten yksi johtavista kehittäjistä (esimerkiksi VB.NET).
+
+
+== Lähteet ==

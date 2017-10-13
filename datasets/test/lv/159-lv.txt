@@ -1,0 +1,28 @@
+Grafīts (grieķu: γραφειν - raksts) ir minerāls no elementu tīrradņu klases (sastāv tikai no viena elementa - oglekļa). Grafīts ir viena no oglekļa alotropiskajām modifikācijām. Tā struktūra ir slāņaina. Grafīta atsevišķu kārtu kristāliskie režģi var dažādi novietoties attiecībā vienam pret otru. Kārtas ir gandrīz plakanas un sastāv no regulāru sešstūru veidā izvietotu oglekļa atomu režģa.
+
+
+== Īpašības ==
+Grafīts labi vada elektrisko strāvu. Atšķirībā no dimanta grafītam ir zema cietība (1-2 balles pēc Mosa skalas). Blīvums 2,08 - 2,23 g/cm3. Krāsa pelēka, spīdums metālisks. Grūti kūstošs (sublimējas 3600-3700 °C temperatūrā), noturīgs pret augstu temperatūru. Skābēs nešķīst. Aptaustot liekas, ka ir taukains. Dabiskais grafīts satur 10-12% māla un dzelzs oksīdu piemaisījumu. Daudzām grafīta fiziskajām īpašībām, it sevišķi termiskajām un akustiskajām, piemīt izteikta anizotropija.
+
+
+== Atrašanās dabā ==
+Pavadošie minerāli dabā ir pirīts, granāts un špinelis. Veidojas augstā temperatūrā vulkāniskos un magmatiskos iežos. Sastopams kvarca dzīslās kopā ar volframītu un citiem minerāliem. Plaši izplatīts metamorfiskos iežos - kristāliskajos slānekļos, gneisos, marmoros. Lielas iegulas veidojas pirolīzes rezultātā akmeņogļu atradņu vietās (Tunguskas baseinā).
+
+
+== Mākslīgā sintēze ==
+Grafītu iegūst, uzsildot koksa un piķa maisījumu līdz 2800 °C. Var iegūt arī no gāzveida ogļūdeņražiem vakuumā pie temperatūras 1400—1500 °C. Pēcsildot iegūto pirooglekli līdz temperatūrai 2500-3000 °C spiedienā 50 MPa, iegūst produktu, ko dēvē par pirografītu.
+
+
+== Izmantošana ==
+Grafīta izmantošana balstās uz tā unikālajām īpašībām - izturību pret augstu temperatūru (bez skābekļa klātbūtnes) un ķīmisko noturību pret daudziem izkausētiem metāliem. Izmanto kausējamo tīģeļu un krāšņu izklāšanas plākšņu izgatavošanai.
+Elektrodos un sildelementos grafītu pielieto, pateicoties tā augstajai elektrovadāmībai un ķīmiskai noturībai pret agresīviem ūdens šķīdumiem (tā ir daudz augstāka nekā cēlmetāliem).
+Izmanto ķīmiski aktīvu metālu iegūšanā ar metālu savienojumu kausējumu elektrolīzes metodi. Piemēram, lai iegūtu alumīniju, izmanto uzreiz divas grafīta īpašības:
+laba elektrovadāmība ir lietderīga elektrodu izgatavošanā;
+uz elektroda notiekošās reakcijas blakusprodukts ir gāzveida (oglekļa dioksīds) - tas vienkāršo alumīnija ražošanas tehnoloģiju, jo oglekļa dioksīds pats izdalās no kausējuma un neprasa speciālu atdalīšanu.
+Pielieto cietās smērvielās, kombinētajās šķidrajās un pastveida smērvielās.
+Grafītu lieto arī kā neitronu palēninātāju kodolreaktoros.
+Izmanto melno grafīta zīmuļu ražošanai, kā arī sintētisko dimantu izgatavošanā.
+
+
+== Skatīt arī ==
+Dimants

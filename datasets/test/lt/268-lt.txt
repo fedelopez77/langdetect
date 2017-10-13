@@ -1,0 +1,241 @@
+Valkšnumas – kietojo kūno savybė lėtai plastiškai deformuotis nuo pastovios apkrovos arba įtempimų. Deformacija yra tuo didesnė, kuo didesnė apkrova, aukštesnė temperatūra, ilgesnė apkrovos trukmė. Medžiagų valkšnumas ypač reikšmingas konstrukcijų elementuose, veikiamuose aukštos temperatūros ir didelių apkrovų, pvz., turbinų, reaktyvinių variklių ir raketų mentėse. Kai kurių (ypač polimerinių) medžiagų valkšnumas pastebimas normalioje ir net neigiamoje temperatūroje (pvz., kadmio -269 °C).
+Valkšnumas pastebėtas prieš kelis šimtus metų, tačiau nuoseklūs jo tyrimai pradėti tik XX a. pr.; ypač suintensyvėjo XX a. vid., pradėjus gaminti didelio našumo energetinius agregatus.[reikalingas šaltinis] Lietuvoje kai kurie valkšnumo klausimai tiriami Kauno technologijos universitete ir Vilniaus Gedimino technikos universitete.
+
+
+== Valkšnumo kreivė ==
+
+Valkšnumą apibūdina vadinamoji valkšnumo kreivė, kuri rodo, kaip kinta deformacija (ε) per laiką (t), kai temperatūra ir apkrova (įtempimai) pastovūs. Kreivėje skiriami trys ruožai, atitinkantys skirtingas valkšnumo stadijas: AB – nestacionaraus valkšnumo ruožas (stiprėjimo stadija), BC – stacionaraus valkšnumo ruožas (pastovi deformacija), CD – greitėjančio valkšnumo ruožas (irimo stadija). A rodo pradinės deformacijos didumą, taškas D – suirimo momentą. Tokia valkšnumo kreivė būdinga daugeliui medžiagų (metalams, polimerams, betonui, puslaidininkiams), nors šių medžiagų struktūriniai pakitimai dėl valkšnumo yra skirtingi.
+
+
+== Valkšnumo teorijos ==
+Valkšnumo teorijos yra kontinuumo mechanikos dalis. Tiria funkcinį ryšį tarp įtempimų (σ), valkšnumo deformacijos (εp) ir jų išvestinių laiko (t) atžvilgiu. Valkšnumo teorijos kūrėju laikomas Liudvigas Eduardas Bolcmanas (Austrija). 1874 m. jis sukūrė linijinę valkšnumo teoriją, tinkančia izotropinėms medžiagoms. Veliau valkšnumo teorijas kūrė ir jas naudojo praktiniams skaičiavimams V. Voltera (Italija), C. R. Sioderbergas (Švedija), A. Nadajus.
+Šis ryšys reiškiamas formule:
+
+  
+    
+      
+        F
+        
+          
+            (
+          
+        
+        σ
+        ,
+        
+          ε
+          
+            p
+          
+        
+        ,
+        t
+        ,
+        
+          
+            
+              d
+              
+                ε
+                
+                  p
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+        
+          
+            
+              d
+              σ
+            
+            
+              d
+              t
+            
+          
+        
+        ,
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                ε
+                
+                  p
+                
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              σ
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+        …
+        
+          
+            )
+          
+        
+        =
+        0.
+      
+    
+    {\displaystyle F{\Bigg (}\sigma ,\varepsilon _{p},t,{\frac {d\varepsilon _{p}}{dt}},{\frac {d\sigma }{dt}},{\frac {d^{2}\varepsilon _{p}}{dt^{2}}},{\frac {d^{2}\sigma }{dt^{2}}},\dots {\Bigg )}=0.}
+  
+Rasti universalią šių parametrų priklausomybę, tinkančią visoms medžiagoms, sunku, todėl naudojamos kelios riboto pritaikymo valkšnumo teorijos. Jos patikrintos eksperimentais, ir jų analitinė išraiška palyginti nesudėtinga.
+Tiriant metalus, dažniausiai naudojamasi tekėjimo teorija. Ji ypač tinka, kai įtempimai kinta lėtai ir monotoniškai.
+
+  
+    
+      
+        
+          
+            
+              d
+              
+                ε
+                
+                  p
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        f
+        (
+        σ
+        ,
+        t
+        )
+      
+    
+    {\displaystyle {\frac {d\varepsilon _{p}}{dt}}=f(\sigma ,t)}
+  
+Stiprėjimo teorija tiksliau atspindi valkšnumo eigą; ja naudojamasi, kai įtempimai dideli arba greitai kinta.
+
+  
+    
+      
+        
+          
+            
+              d
+              
+                ε
+                
+                  p
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        f
+        (
+        σ
+        ,
+        
+          ε
+          
+            p
+          
+        
+        )
+      
+    
+    {\displaystyle {\frac {d\varepsilon _{p}}{dt}}=f(\sigma ,\varepsilon _{p})}
+  
+Polimerams tirti dažniausiai naudojamasi paveldimumo teorija. Remiantis paveldimumo teorija, galima nustatyti ne tik valkšnumo deformaciją (kaip remiantis tekėjimo ar stiprėjimo teorijomis), bet ir visą deformacijos dydį.
+
+  
+    
+      
+        φ
+        (
+        ε
+        )
+        =
+        σ
+        (
+        t
+        )
+        +
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        K
+        (
+        t
+        −
+        τ
+        )
+        σ
+        (
+        τ
+        )
+        d
+        τ
+      
+    
+    {\displaystyle \varphi (\varepsilon )=\sigma (t)+\int \limits _{0}^{t}K(t-\tau )\sigma (\tau )d\tau }
+  
+
+čia K(t-τ) – vadinamasis poveiksmio branduolys, įvertinantis ankstesnio (laiko momentu τ) įtempimo įtaką deformacijai šiuo momentu.

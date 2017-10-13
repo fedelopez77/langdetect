@@ -1,0 +1,7 @@
+emelFM2 - urmașul direct al lui emelFM - este un program (software) navigator de fișiere ce utilizează GTK+ 2 pentru X11 pe sistemele de operare de tip Unix. Interfața utilizatorului este foarte configurabilă. Punctul forte al emelFM2 este flexibilitatea sa.
+
+
+== Legături externe ==
+Situl web al emelFM2
+Pagina de proiecte pe Gnomefiles
+Pagina de proiecte pe Freshmeat

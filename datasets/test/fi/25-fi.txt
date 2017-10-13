@@ -1,0 +1,10 @@
+54509 YORP on pikkuplaneetta, joka kuuluu Maan lähelle tuleviin Apollo-tyypin asteroideihin. Se löydettiin LINEAR-ohjelmalla vuonna 2000. Pikkuplaneetta sai nimensä YORP-ilmiön mukaan, sillä se oli ensimmäinen pikkuplaneetta, jossa havaittiin suoraan ilmiön mukainen pyörimisen muutos. Ennen kuin tämä asteroidi sai nimensä se tunnettiin väliaikaisella tunnuksella 2000 PH5. Koska YORP:in absoluuttinen magnitudi (H) on 22,56, sen läpimitta on todennäköisesti välillä 85–190 metriä. Tämän pikkuplaneetan pyörähdysaika on hyvin lyhyt, vain noin 0,20 tuntia.
+
+
+== Lähteet ==
+JPL Small-Body Database Browser: 54509 YORP (2000 PH5) (englanniksi)
+Spin Rate of Asteroid (54509) 2000 PH5 Increasing Due to the YORP Effect (englanniksi)
+LINEAR (englanniksi)
+IAU Minor Planet Center: Discovery Circumstances: Numbered Minor Planets (englanniksi)
+ABSOLUTE MAGNITUDE (H) (englanniksi)
+Numbered minor planets (englanniksi)

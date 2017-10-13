@@ -1,0 +1,14 @@
+Salmonelová sepsa alebo septikémia je vážne infekčné ochorenie, vyvolané akýmkoľvek druhom salmonel okrem S. typhi a S. paratyphi (vyskytujú sa sepsy vyvolané aj týmito baktériami, v MKCH-10 však majú iné zaradenie). Neliečená má 25% úmrtnosť.
+
+
+== Klasifikácia ==
+A02: Iné infekcie salmonelami
+A02.1: Salmonelová septikémia (sepsa)
+
+
+== Patogenéza a rizikové faktory ==
+Podstatou je preniknutie obyčajne len v tráviacom trakte pôsobiacej salmonely do krvného obehu. Imunitný systém si s patogénom nedokáže poradiť a ten sa začne v krvi bez obmedzení množiť (septikémia v užšom zmysle slova). Vyššie riziko je u detí a ľudí s poruchou imunity (AIDS, rakovina).
+
+
+== Klinický obraz, komplikácie a liečba ==
+Klinický obraz, komplikácie a liečba sa neodlišujú významne od sepsy, spôsobenej iným mikroorganizmom: podávajú sa na vyvolávací činiteľ citlivé antibiotiká, doplňujú sa straty tekutín a elektrolytov, liečia sa prípadné následky zlyhávania alebo zlyhania jednotlivých orgánov.

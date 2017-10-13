@@ -1,0 +1,67 @@
+Abborfamilien (Percidae) er en gruppe av ferskvannsfisker som er utbredt på den nordlige halvkule. Gruppen har et todelt (disjunkt) utbredelsesområde. Det ene området omfatter Nord- og Mellom-Europa, Transkaukasia, Nord-Anatolia, Sentral-Asia og Sibir øst til Lena og Kolyma. Det andre området strekker seg over det østlige Nord-Amerika fra Canada til Mexico. Det todelte utbredelsesområdet skyldes at denne familien oppstod før Nord-Atlanteren ble dannet. Det har ikke vært noen kontakt over Beringstredet i de periodene det har vært tørrlagt.
+
+
+== Arter som finnes i Norge ==
+ Abbor (Perca fluviatilis)
+ Gjørs (Sander lucioperca)
+ Hork (Gymnocephalus cernua)
+
+
+== Oversikt over arter og slekter ==
+Systematikken her følger P. Bănărescu (1990–95), Zoogeography of Fresh Waters, men Stizostedion er endret til Sander, Crystallaria er skilt ut i en egen slekt, og Vardar-streberen er regnet som egen art.
+
+
+=== underfamilie Percinae ===
+
+
+==== stamme Percini ====
+slekt Perca Abbor (Perca fluviatilis)
+ Gulabbor (Perca flavescens) – Den arten lever i det østlige Canada og USA, og er svært lik den eurasiske arten, selv om forfedrene til de to artene har vært adskilt siden oligocen.
+ Perca schrenki – Finnes bare i Balkhasjsjøen i Kasakhstan. slekt Percarina Percarina demidoffi  – Dette er en liten art (maksimalt 10 cm) som lever i brakkvann, der de store flodene Dnestr, Bug og Dnepr renner ut i det nordlige Svartehavet. I Azovhavet og munningen av Don lever en form som regnes som en egen underart, P. d. maeotica.slekt Gymnocephalus Donauhork (Gymnocephalus schraetzer) – Denne arten lever kun i Donau og bielver. Kroppen er mer langstrakt enn hos hork, og fisken har langsgående striper. Den er tilpasset et liv på bunnen av store floder, og trives med mindre strømhastighet enn artene i slekten Zingel.
+ Gymnocephalus acerina – Denne arten står nær donauhork, men mangler de langsgående stripene. Den lever i Dnjestr, Dnjepr og Don.
+ Gymnocephalus ambriaelacus – Denne arten finnes bare i Ammersee i det sørlige Tyskland, og ble ikke beskrevet før i 2010.
+ Gymnocephalus baloni – Denne arten er svært lik hork, og ble beskrevet i 1974. Den finnes bare i øvre og midtre del av Donau.
+ Hork (Gymnocephalus cernua)
+
+
+==== stamme Etheostomatini ====
+Disse fiskene finnes bare i Nord-Amerika, og kalles der «darters». Det er tilsammen over 140 arter i slektene Percina, Etheostoma, Ammocrypta og Crystallaria. Den meksikanske arten Etheostoma pottsii er den eneste i familien som naturlig lever i ei elv som renner til Stillehavet. Alle artene har en langstrakt kropp og mangler svømmeblære. Dette er en tilpasning til å leve i sterk strøm; de samme tilpasningene finnes hos den europeiske slektene Zingel og Romanichthys. 
+
+
+=== underfamilie Luciopercinae ===
+
+
+==== stamme Luciopercini ====
+slekt Sander Amerikagjørs (Sander vitreus) – Dette er en stor art, som kan bli 107 cm og 11,3 kg. Den lever i det østlige Nord-Amerika fra De store sjøer og St. Lawrence-vassdraget sør til Alabama og Arkansas.
+ Gjørs (Sander lucioperca)
+ Sander canadensis – Dette er en mindre art som lever ved Hudsonbukta, i De store sjøer, og i øvre del av Mississippi-vassdraget.
+ Sander marinus – Denne arten lever hele livet i brakkvann i Svartehavet og Det kaspiske hav.
+ Volgagjørs (Sander volgensis) – Denne arten er sjelden og lite kjent. Den lever i midtre og nedre Donau, og videre østover i de store flodene som renner nordfra til Svartehavet og Det kaspiske hav helt til Ural.
+
+
+==== stamme Romanichthyini ====
+slekt Zingel Rhône-streber (Zingel asper) – Denne arten lever i Rhône og bielver. 
+ Streber (Zingel streber) – Denne arten er, som resten av slekten, tilpasset et liv på bunnen av elver med sterk strøm. Streber finnes i Donau og Dnjestr. 
+ Vardar-streber (Zingel balcanicus) – Denne arten blir ofte regnet som en underart av streber. Den lever i elva Vardar i Republikken Makedonia og Hellas.
+ Zingel (Zingel zingel) – Denne arten lever i Donau og Dnjestr.slekt Romanichthys Rumensk ulkeabbor (Romanichthys valsanicola) – Denne arten ble ikke vitenskapelig beskrevet før i 1957. Da ble den funnet i elva Argeș og to sideelver i Romania. Den er sterkt tilpasset livet på bunnen av bekker, noe som gjør at den har en overfladisk likhet med hvitfinnet steinulke, Cottus gobio. Dette er det mest truede fiskearten i Europa, og den finnes nå bare i elva Vâlsan. 
+
+
+== Galleri ==
+
+		
+		
+
+
+== Eksterne lenker ==
+ (sv) abborfamilien hos Dyntaxa
+ (en) abborfamilien – oversikt og omtale av artene i WORMS-databasen
+ (en) abborfamilien i Encyclopedia of Life
+ (en) abborfamilien i Global Biodiversity Information Facility
+ (en) abborfamilien hos Fossilworks
+ (en) abborfamilien hos Fauna Europaea
+ (en) abborfamilien hos NCBI
+ (en) abborfamilien hos ITIS
+ (en) Kategori:Percidae – bilder, video eller lyd på Wikimedia Commons
+  Percidae – detaljert informasjon på Wikispecies
+ (fr) Stratégie de Conservation de l'Apron Prosjekt for å bevare Rhône-streberen
+ (en) Family Percidae - Perches - FishBase

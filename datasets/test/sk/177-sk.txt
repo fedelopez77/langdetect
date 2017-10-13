@@ -1,0 +1,62 @@
+Luminiscenčná dióda alebo svetelná dióda (iné názvy: elektroluminiscenčná dióda, LED, LED dióda, zriedkavo svietivá dióda, žiarivá dióda, dióda emitujúca svetlo, ľudovo ledka, angl. light-emitting diode) je polovodičová elektronická súčiastka, ktorá vyžaruje úzkospektrálne svetlo, keď ňou prechádza elektrický prúd v priepustnom smere. Svietiaci jav vzniká následkom žiarivej rekombinácie elektrónovo-dierového páru a je formou elektroluminiscencie. Farba vyžarovaného svetla závisí od štruktúry PN priechodu aj od použitého materiálu.
+Vytvorenie LED a laserových diód sa stalo možné vďaka výskumu polovodičových heteroštruktúr, na ktorom pracoval ruský vedec Žores Ivanovič Alfiorov. Prvú prakticky použiteľnú LED diódu vyvinul v roku 1962 americký vedec Nick Holonyak.
+Najlacnejšie sa vyrábajú infračervené diódy, po nich najlacnejšie svietivé sú červené. Zelené sú o približne o 20 % drahšie ako červené. Modré sú podľa výrobcu aj niekoľkonásobne drahšie ako červené, ale ich cena v poslednom čase prudko klesá.
+Samostatnou konštrukčnou kategóriou sú OLED (Organické LED).
+
+
+== Druhy LED ==
+
+
+=== Ultrafialové (UV) LED ===
+LED, ktorých špička vyžarovacieho diagramu leží pod 420 nm, sa nazývajú UV LED. Výrobné technológie (voľné patenty pre trh a z bezpečnostných dôvodov) nedovoľujú uvádzať UV LED s výkonom nad 10 mW. V predajniach je možné najčastejšie dostať UV LED s vlnovými dĺžkami 380 – 420 nm a 320 – 370 nm.
+
+
+=== Infračervené (IR) LED ===
+Vyžarovací diagram týchto LED má výkonovú špičku nad 680 nm. Keďže ľudské oko (zrenička nie je schopná prepustiť žiarenie s vlnovou dĺžkou nad 1 400 nm) a v podstate celá fyziológia človeka je na IR žiarenie imúnna, je možné zaobstarať IR LED s výkonmi aj vysoko nad 10 mW. Bežne sa predávajú IR LED s vlnovou dĺžkou 680 – 750 nm a 870 – 950 nm, ktoré sú vhodné ako zdroje IR žiarenia do diaľkových ovládaní. Svetlo týchto diód sa nedá pozorovať voľným okom, ale dá sa pozrieť napr. cez digitálny fotoaparát, ktorý je na IR svetlo citlivý.
+
+
+=== Jednofarebné (monochromatické) LED ===
+Každá LED vyrobená iba z jedného druhu polovodiča má svoju charakteristickú vlnovú dĺžku, na ktorej emituje svetlo (danú prevažne šírkou zakázaného pásma polovodiča). Túto vlnovú dĺžku možno „nastaviť“ pomocou použitého druhu polovodiča (t. j. pomerom obsahu jednotlivých prvkov – zložiek – polovodiča) a pri niektorých polovodičoch (GaN) aj zmenou obsahu dotovacieho prvku. Takto možno vyrobiť LED s tým istým substrátom v širokom spektre vlnových dĺžok. Prakticky je možné vyrobiť LED vyžarujúce svetlo s vlnovými dĺžkami od 250 do 3 500 nm. LED s jedinou výkonovou špičkou sa nazýva monochromatická LED. Spektrálna krivka vyžiareného svetla má v ich prípade tvar Gaussovej krivky, ktorá nie je širšia ako +/-25 nm. Monochromatické LED vyžarujú minimálne 90 % celého žiarivého výkonu v rozmedzí maximálne +/-10 nm. Reálne LED však nemajú úplne ideálny spektrálny diagram a pri niektorých typoch sa prejavujú aj sekundárne maximá na iných vlnových dĺžkach. Ale tieto sekundárne maximá nepredstavujú ani 1 % z celkového výkonu.
+
+
+=== Biele LED ===
+Existujú dva základné spôsoby produkovania vysoko intenzívneho bieleho svetla s použitím LED. Jeden využíva samostatné LEDky, emitujúce základné farby – červenú, zelenú, modrú – a ich zmiešaním vznikne biele svetlo. Druhý s použitím fosforového materiálu mení monochromatické svetlo z modrej alebo ultrafialovej LED na širokospektrálne biele svetlo.
+
+
+==== RGB LED ====
+Prvý typ je poskladaný z troch monochromatických LED, ktoré emitujú žiarenie vo farbách červená, zelená, modrá. Takýmto LED sa hovorí RGB LED (z angl. skratiek pre red, green, blue). Ich výnimočnosťou je možnosť regulovať výkony jednotlivých zložiek (jednotlivých monochromatických LED) a tak dosiahnuť nielen biele svetlo, ale aj celé spektrum farieb, v rozpätí okrajových zložiek RGB LED.
+
+
+==== Fluorescenčné LED ====
+Druhý typ bielych LED je založený na zmene vlnovej dĺžky emitovaného žiarenia klasickou monochromatickou LED na širokopásmové spojité spektrum, ktorého energia je rozložená približne rovnako po celom spektre. Zmena vlnovej dĺžky sa dosahuje vo vrstve luminoforu (fluorescenčného materiálu). Ako budiaca monochromatická LED je použitá vysokosvietivá modrá LED. Jej použitie však prináša aj malý neduh týchto LED. Vlnová dĺžka budiacej LED sa prejavuje ako primárne maximum vyžarovacieho spektrálneho diagramu, no vyžarovaná energia neklesá až na nulu (smerom k červenej farbe), ale po miernom poklese nadobúda sekundárne (nižšie a širšie) maximum niekde v okolí 560 nm (oranžová farba), čo je dané vyžarovacím spektrom použitého luminoforu. Až následne po tomto sekundárnom maxime pozvoľna klesá k nule, ktorú dosahuje väčšinou až za hranicou VIS/IR žiarenia. Z toho vyplýva modrastý až zelenkastý nádych vyžarovaného bieleho svetla. Čím je biela LED kvalitnejšia, tým je tento nádych menej badateľný.
+
+
+=== Klasické LED vs. vysoko svietivé LED ===
+
+Bežná LED má žiarivý výkon hlboko pod 5 mW. Je to spôsobené tým že vznikajúce elektrónovo-dierové páry v PN priechode v homogénnom polovodiči pri zvyšujúcom sa prúde majú tendenciu rekombinovať nežiarivo (t. j. menia svoju energiu na teplo), a priechod sa prehrieva. Týmto je obmedzená prúdová hustota na priechode, a keďže polovodiče, z ktorých sa LED vyrábajú, majú pomerne veľkú hustotu porúch, a teda kvôli výťažnosti a spoľahlivosti je obmedzená maximálna možná plocha čipu na niekoľko mm², je tým obmedzený aj celkový prúd čipom. Navonok to z elektrického hľadiska vyzerá tak, že limitujúcou fyzikálnou vlastnosťou je sériový odpor a strmosť V-A charakteristiky v otvorenom stave. Ak chceme LED prinútiť emitovať viac svetla, musíme zvýšiť napájacie napätie, čím sa zvýši aj prúd pretekajúci LED. Po prekonaní kritickej hodnoty prúdu dochádza k degradácii PN priechodu a doslova k jeho pretaveniu v dôsledku vysokej teploty (viac ako 1 000 °C). Preto kvôli zvýšeniu výkonu LED boli vypracované technológie, ktoré ich posúvajú ďaleko za hranice 5 mW vyžarovaného výkonu. Na dosiahnutie vyšších výkonov sa používajú polovodiče s menšou strmosťou V-A charakteristiky a s rozmernejším PN priechodom alebo paralelizáciou PN priechodov agregovaných (vrstvené PN priechody) na tom istom čipe. Ďalej sa konštruujú multi-PN priechodové LED, ktoré, síce na úkor zvýšenia napájacieho napätia, zvyšujú výsledný výkon. Najpodstatnejšou zmenou je však použitie tzv. heteropriechodu (t. j. P a N vrstvy sú z rozdielnych polovodičov), pri ktorom je možné dosiahnuť vyššiu tzv. injekčnú účinnosť, následkom čoho viac elektrónovo-dierových párov rekombinuje žiarivo než nežiarivo aj pri veľkých prúdoch. Dnes možno zohnať LED s výkonom aj viac ako 1 W. LED, ktoré dosahujú svietivosť viac ako 100 mCd, sa hovorí vysokosvietivé (ultrabright) LED.
+
+
+=== Laserové diódy ===
+
+Laserové LED nie sú úplne laserové. Aj keď ich svetlo vzniká na základe stimulovanej emisie, nemožno ich považovať za pravý laser, ale iba za zdroj laseroveho svetla. Z definície laserového svetla je zrejmé, že laserové LED majú vyššie nároky na parametre ako klasické LED. Predovšetkým majú laserové LED užšiu šírku pásma v ktorom vyžarujú (max. +/-5 nm). Smerovosť a rozbiehavosť vyžarovaného lúča LED alebo surovej laserovej LED (bez rezonátora alebo s poškodeným rezonátorom) je približne rovnaká (ale v prípade laserovej LED je sústredená do jednej roviny, podľa toho ako sú usporiadané vrstvené PN priechody laserovej LED). Laserové diódy sa vyrábajú v dvoch usporiadaniach: vyžarujúce z hrany (edge emitting), pri ktorých rezonátor je tvorený prirodzeným lomom okraja čipu; a vyžarujúce z povrchu (VCSEL – vertical cavity surface emitting laser), kde rezonátor je tvorený striedajúcimi sa vrstvami polovodičov rôzneho zloženia, tvoriac Braggov reflektor pod a nad žiarivou oblasťou (t. j. PN priechodom). Niekedy sa laserové LED vkladajú do externých rezonátorov. Základným problémom laserových diód je chladenie a stabilizácia výkonu (ktorý podobne ako pri LED závisí silne od teploty).
+Obe skupiny – svetelné i laserové diódy sa vyrábajú z intermetalických zliatin (polovodičových zlúčenín), a to spravidla z karbidu kremičitého (SiC), arzenidu gália (GaAs), fosfidu gália (GaP), alebo zo zliatin typu gálium-arzenid-fosfid (GaAsP) a ďalších.
+
+
+== Charakteristické hodnoty napätia v priepustnom smere ==
+
+
+== Mechanická a optická konštrukcia ==
+LED čip sa montuje na reflektor (na obrázku viditeľný ako kužeľ na konci jedného z vonkajších prívodov) tvoriaci súčasne spodný kontakt (obvykle katódu, keďže substrát je obvykle typu N), aby sa využil výkon vyžiarený z PN priechodu v smere do substrátu; a horný kontakt sa kontaktuje podobne ako pri integrovaných obvodoch. Puzdri sa do priehľadného plastu (bodová LED) alebo do mliečne sfarbeného plastu (difúzna LED). Plast je často sfarbený v rovnakej farbe ako emituje LED. Často je na zvýšenie smerovosti vytvarovaný vrchol puzdra do polgule, čo má efekt kolimačnej šošovky.
+
+
+== Použitie ==
+LED sa tradične používajú najmä ako indikátory a ako zobrazovacie prvky v segmentových zobrazovačoch a bodových maticových zobrazovačoch (známe ako „bežiace nápisy“). Známe je aj ich použitie vo veľkoplošných zobrazovačoch používaných na reklamné účely. V poslednom čase s nástupom vysokosvietivých LED sa začalo ich využívanie na osvetľovacie účely a v dopravnej svetelnej signalizácii (cestné semafory, železničné návestidlá). Pre svoju dlhú životnosť a otrasuvzdornosť sa uplatňujú aj v automobiloch, dokonca aj ako náhrada koncových brzdových či smerových svetiel. Riešenia v interiéroch ako náhrada žiaroviek je zatiaľ veľmi drahá. Infračervené LED a najmä laserové diódy sa používajú na prenos informácií prostredníctvom optických vláken. Laserové diódy našli hromadné uplatnenie aj v oblasti uchovávania údajov (CD, DVD).
+
+
+== Pozri aj ==
+LED žiarovka
+
+
+== Iné projekty ==
+
+ Commons ponúka multimediálne súbory na tému Luminiscenčná dióda

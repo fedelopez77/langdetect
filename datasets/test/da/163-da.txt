@@ -1,0 +1,18 @@
+I fysikken er rumtid defineret som en matematisk model, som kombinerer vores tredimensionale syn på universet med tid. Rumtid er sædvanligvis tolket som firedimensionale objekter hvor objektet har de tre kendte rumdimensionene, i tillæg til tid som en fjerde dimension.
+Begrebet rumtid er i nyere tid blevet en fællesbetegnelse på teorier som går udover de tre dimensioner. Hvor mange dimensioner man faktisk må tage i brug for at beskrive universet, er stadig et åbent spørgsmål. Strengteorien tilsiger, at vi har fra 10 til 26 dimensioner.
+I Einsteins specielle og generelle relativitetsteori er tid og det tredimensionelle rum slået sammen til en enkel firedimensionel mangfoldighed kaldet rumtid. Et punkt i rumtiden bliver benævnt en hændelse. Enhver hændelse har fire koordinater: (t, x, y, z).
+Dette fænomen kan ses som en masse 3 dimensionelle plader, der er stablet, hvilket giver det fulde billede af en ellers tidsmæssig handling.
+
+
+== Relaterede artikler ==
+Gravitation
+Præcession
+Sort hul (astronomi)
+Relaterede science-fiction artikler:
+Alcubierre drive
+Ormehul
+Warp drive
+
+
+== Eksterne henvisninger ==
+Youtube: The illusion of time : past, present and future all exist together

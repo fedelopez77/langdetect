@@ -1,0 +1,42 @@
+Kemosynteesi (kreik. synthesis ’yhdistäminen’) on yhteyttämistä, joka perustuu epäorgaanisten yhdisteiden hapettamiseen. Kemosynteesissä eliö käyttää hapettumisreaktioista vapautuvaa energiaa orgaanisten yhdisteiden tuottamiseen. Kemosynteesissä ei siis fotosynteesistä poiketen tarvita energianlähteenä auringon valoa, vaan energia saadaan hapettamalla epäorgaanisia yhdisteitä. Kemosynteesiä hyödyntävät eliöt ovat epäsuorasti riippuvaisia auringon valosta, koska esimerkiksi hapettava ammoniakki muodostuu orgaanisten aineiden hajotessa.
+Kemosynteesiin perustuvat eliöt sietävät fotosynteesiin perustuvan elämän näkökulmasta elinkelvottomia ympäristöjä, kuten esimerkiksi merten syvyyksien painetasoa ja erilaisia hapettomia olosuhteita, esimerkiksi syvänmeren savuttajissa.
+
+Kemosynteesiin perustuva elämä on saattanut edeltää fotosynteesiin perustuvaa elämää maapallolla. Lisäksi jotkut arvioivat, että kemosynteesiin perustuva elämä olisi mahdollista myös Aurinkokunnan muilla planeetoilla, kuten Marsissa ja Jupiterin Europa-kuussa.
+
+
+== Kemiallinen prosessi ==
+Kemosynteesissä hapettuvia erilaisia rikki-, typpi- ja rautayhdisteitä ovat eliöryhmästä riippuen esimerkiksi vetysulfidi (H2S), ammoniakki (NH3) sekä rautaionit (Fe2+). Kemosynteesin seurauksena syntyy pelkistyneitä hiiliyhdisteitä. Kemosynteesi on tapa tuottaa hiilihydraatteja.
+Rikkibakteerin vetysulfidin hapettumisreaktio:
+CO2 (g) + O2 (g) + 4 H2S (aq) → CH2O (aq) + 4 S (g) + 3 H2O (l)
+jossa syntyy hiilihydraattia (CH2O), vettä ja puhdasta rikkiä.
+Muita kemosynteesiä hyödyntäviä bakteereita ovat muun muassa nitrifikaatio- ja rautabakteeri.
+Nitrifikaatiobakteerin ammoniakin hapetusreaktio:
+2 NH3 (g) + 3 O2 (g) → 2 HNO2 (aq) + 2 H2O (l)
+jossa syntyy typpihapoketta ja vettä.
+Rautabakteerin hapetusreaktio:
+2 Fe(HCO3 )2 (aq) + 1/2 O2 (g)+ H2O (l)→ 2 Fe (OH)3 (aq)+ 4 CO2 (g)
+jossa syntyy ferrihydroksidia ja hiilidioksidia.
+
+
+== Historia ==
+Mikrobiologi Sergei Nikolaevich Vinogradski esitti vuonna 1887 teorian ilmiöstä, jossa jotkut mikrobit voisivat elää epäorgaanisessa ympäristössä. Vinogradski teki löydökset tutkiessaan rikkibakteereja Strasburgin yliopistossa.
+Kymmenen vuotta myöhemmin saksalainen kasvitieteilijä Wilhelm Pfeffer muotoili ilmiölle termin kemosynteesi.
+
+Vahvistus Vinogradskin löydöksille saatiin vasta vuonna 1977, kun yhdysvaltalainen syvänmeren tutkimusalus DVS Alvin löysi Galápagossaarten lähistöltä merenpohjasta outoja eliöitä tutkiessaan syvänmeren savuttajia. Nämä eliöt olivat jättiputkimatoja, jotka tuottivat energiansa kudoksissaan elävien rikkibakteerien avulla. Samaan aikaan mikrobiologi Colleen Cavanaugh esitti, että näiden bakteerien energianlähteenä toimii rikkivedyn hapettaminen ja hiilen lähteenä madon keräämä hiilidioksidi.
+Vuonna 2013 löydettiin bakteereja, jotka elivät merenpohjan maankuoren sedimenteissä ja saavat energiansa kemosynteesin avulla.
+
+
+== Käyttökohteet ==
+Kemosynteesiä voidaan hyödyntää tulevaisuudessa energian tuotannossa. Teollisuudessa kemosynteesin avulla voidaan jätteistä tuottaa biomassaa. Syntyneestä biomassasta on mahdollista valmistaa vihreää energiaa.
+Esimerkiksi kemosynteesiä hyödyntävän bakteerin Pyrococcus avulla voitaisiin tuottaa hiilidioksidista teollisuudessa yleisesti käytettyä karboksyylihappoa. Tulevaisuudessa bakteerien geneettisen muokkaamisen avulla voidaan ilmakehän hiilidioksidista tuottaa tehokkaasti synteettisiä polttoaineita ja kemikaaleja.
+
+
+== Katso myös ==
+Fotosynteesi
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+Internetix: Kemosynteesi

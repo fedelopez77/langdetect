@@ -1,0 +1,88 @@
+Az egérfélék (Muridae) az emlősök (Mammalia) osztályába és a rágcsálók (Rodentia) rendjébe tartozó család.
+A család fajai az egész világon elterjedtek. Még a Déli-sarkvidéken is megtalálhatók.
+A rágcsálók legfajgazdagabb családja 821 fajjal.
+Zambiában és Malawin az egérhús csemegének számít.
+
+
+== Jellemzőik ==
+Az egérfélék kis termetűek, a legtöbb faj testhossza farok nélkül 10 cm körüli. A legkisebb faj az afrikai törpeegér (4,5–8 cm), a legnagyobb a Phloeomys cumingi (44–48 cm, 1,45-2,1 kg). Rendszerint karcsúak, a testüknél hosszabb farokkal, jól fejlett tapogatószőrökkel, de mindezek erősen változhatnak. Egyes fajok hosszú lábaikkal ugrálnak, míg mások széles talpukkal és fogófarkukkal inkább a mászáshoz idomultak. Megint más fajoknak nincs egyik adaptációja sem. Leggyakrabban barnák, de vannak köztük szürkék, feketék, és előfordulnak fehér foltok is.
+Általában kiválóan hallanak és szagolnak. Sok faj, például az ugróegerek (Dipodidae) a sivatagi körülményekhez alkalmazkodtak, és csekély vízmennyiséggel hosszú ideig bírják. Állkapocsizmaik erősek. Fogképletük: 
+  
+    
+      
+        
+          
+            
+              
+                1.0.0.1
+                −
+                3
+              
+              
+                1.0.0.1
+                −
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1.0.0.1-3}{1.0.0.1-3}}}
+  
+Gyakran szaporodnak, almaik általában nagyok. Vemhességi idejük többnyire 20-40 nap. A kölykök általában szőrtelenül és vakon születnek, habár vannak kivételek, például az Acomys.
+
+
+== Előfordulásuk ==
+
+Az egérfélék majdnem minden helyen megtalálhatók a világon. Kivételt az óceáni szigetek és az Antarktisz jelentenek. Néhány fajt, mint a házi egeret és a házi patkányt az ember terjesztette el.
+Az egérfélék sokféle biotópot elfoglalnak, a trópusi esőerdőktől a tundrákig. Bár a legtöbbjük szárazföldi, vannak félig vízi életmódú és fán élő fajok is.
+
+
+== Táplálkozásuk ==
+Az egérfélék sokféle táplálkozási típust képviselnek a mindenevő generalistától, ami a csokit és a cipőtalpat is megeszi, a specialistákig, amik csak földigilisztával, gombával vagy vízi gerinctelenekkel táplálkozik. A legtöbb faj inkább növényeket és gerincteleneket eszik, gyakran tárolnak magvakat és más növényi anyagokat a szűkösebb időkre. A méhészetben több faj is problémás, mert amikor a méhek elülnek, akkor behatolnak a kaptárba, és fészket raknak ott. Szagukkal, rágcsálásukkal zavarják a méheket, rongálják a lépeket. Az enyhébb idő elérkeztével elhagyják a kaptárat, vagy a méhek agyonszurkálják. Hét mm-es ráccsal szoktak védekezni ellenük.
+Állkapcsuk sciurognathous típusú, és diasztémájuk is van. Nincs szemfoguk, és nincsenek előőrlőik sem. A legtöbb fajnak három őrlője van, és ezek természete fajonként változó.
+
+
+== Szaporodásuk ==
+Egyes fajok társasak, mások magányosak. Megszokott, hogy a nőstények évente több almot szülnek. A melegebb területeken egész évben szaporodnak. Habár a legtöbb faj várható élettartama nem éri el a két évet, gyors szaporodási ciklusuk miatt képesek hamar elszaporodni, ha sok a táplálék, és ugyanilyen hamar visszaesni, ha az élelem elfogyott. Ez gyakran három- négyéves ciklusokban következik be.
+
+
+== Evolúciójuk ==
+Az egérfélék evolúciója sok más kis termetű emlőshöz hasonlóan a leletek hiánya miatt kevéssé ismert. Valószínűleg hörcsögszerű emlősökből fejlődtek ki Ázsiában a miocén kezdetén. Csak ezután kezdtek el terjeszkedni a hűvösebb éghajlatú területek felé. A holocén alatt mindenütt gyakorivá váltak, ami az ember vándorlásaihoz köthető.
+
+
+== Rendszerezés ==
+A családba az alábbi 5 alcsalád tartozik:
+Deomyinae Thomas, 1888 - 44 faj
+Versenyegérformák (Gerbillinae) Gray, 1825 - 103 faj
+Leimacomyinae Musser & Carleton, 2005 - 1 faj
+Egérformák (Murinae) Illiger, 1811 - 643 faj
+Szélesfülűegér-formák (Otomyinae) Thomas, 1897 - 30 faj
+Korábban a következő családok és alcsaládok fajait is az egérfélék családjába sorolták: pocokformák (Arvicolinae), hörcsögformák (Cricetinae), sörényespatkány-formák (Lophiomyinae), betűfogúformák (Sigmodontinae), hörcsögpatkányformák (Cricetomyinae), kúszóegérformák (Dendromurinae), madagaszkáriegér-formák (Nesomyinae), petromyscinae, mystromyinae, calomyscidae, tüskéspelefélék (Platacanthomyinae), földikutyaformák (Spalacinae), gyökérrágóformák (Tachyoryctinae) és zokorformák (Myospalacinae).
+
+
+== Az irodalomban ==
+
+Az egérfélék szerepelnek az irodalomban, köztük népmesékben és tündérmesékben is. A Hamelni patkányfogó című mesében a patkányfogó magával csalja a patkányokat, de nem fizetik ki a bérét, így a gyerekeket is elviszi. Bővebben lásd itt: A hamelni patkányfogó. Egerek szerepelnek Beatrix Potter könyvecskéiben, többek között a ikövetkezőkben: The Tale of Two Bad Mice (1904), The Tale of Mrs Tittlemouse (1910), The Tale of Johnny Town-Mouse (1918), and The Tailor of Gloucester (1903). Ezek közül a legutóbbit J. R. R. Tolkien írta, és talán a legközelebb áll a tündérmeséhez, a többi állatmese. Aesopus meséi között is van, amiben egerek szerepelnek, mint A macska és az egér, és A béka és az egér. James Herbert regényében, a The Ratsben (1974), egy csapat óriáspatkány megeszik egy csavargót.
+
+
+== Jegyzetek ==
+
+
+== Források ==
+Mammal Species of the World. Don E. Wilson & DeeAnn M. Reeder (szerkesztők). 2005. Mammal Species of the World. A Taxonomic and Geographic Reference (3. kiadás) (angolul)
+Pocokformák
+ITIS szerinti rendszer besorolása
+Örösi Pál Zoltán: Méhek között (1957).
+
+
+== Fordítás ==
+Ez a szócikk részben vagy egészben a Muridae című angol Wikipédia-szócikk fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.
+
+
+== További információk ==
+
+
+== Kapcsolódó szócikkek ==
+Egérfogó

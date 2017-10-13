@@ -1,0 +1,25 @@
+Henn Oit (sündinud 2. jaanuaril 1956 Tallinnas) on Eesti arvutiteadlane.
+
+
+== Elulugu ==
+Henn Oit on Edgar ja Lydia Oidi poeg, Monika Oidi vend.
+Lõpetas 1974 Tallinna 1. Keskkooli ja 1979 TPI elektrotehnikateaduskonna, tehnikakandidaat (1989, Küberneetika Instituudi), väitekiri "Bilineaarsete ja triivivate parameetritega lineaarsete süsteemide stohhastiline juhtimine". Olnud 1977–84 Küberneetika Instituudi insener ja aspirant, 1985–93 juhtimissüsteemide osakonna nooremteadur, aastast 1994 töötab Eesti Pangas (1995– osakonnajuhataja). Analüüsinud osaliselt vaadeldavaid stohhastilisi süsteeme. 20 teadustrükist.
+
+
+== Viited ==
+
+
+== Teoseid ==
+Асимтотические свойства двушагового отпимального управления частичнонаблюдаемым случайным процессом (kaasautor R. Tenno). // Изв. АН ЭССР. Сер. Физ.-Мат. 33 (1983)
+Адаптивное управление одним многомерным процессом (kaasautor R. Tenno). // V Всес. конф. по управлению многомерными системами. Тбилиси, 1984
+Адаптивное управление линейным динамическим объектом с неизвестными параметрами (kaasautor R. Tenno). // Изв. АН ЭССР. Сер. Физ.-Мат. 34 (1984)
+Stochastic control for stabilization of sludge loading characteristic anobic wast-water treatment system (kaasautorid R. Tenno, R. Vilu). // Automatica, 25 (1989)
+
+
+== Kirjandus ==
+Eesti TA Küberneetika Instituut 1990. Tallinn, 1990, 34, 45
+
+
+== Välislingid ==
+Eesti teaduse biograafiline leksikon. 3. köide: N–Sap TTEÜ, avaldatud elektrooniliselt 2013
+ Käesolevas artiklis on kasutatud "Eesti teaduse biograafilise leksikoni" materjale.

@@ -1,0 +1,39 @@
+Et wilsonprimtall, oppkalt etter den engelske matematikeren John Wilson, er en type primtall p hvor
+
+  
+    
+      
+        
+          
+            
+              
+                (
+                p
+                −
+                1
+                )
+              
+              !
+              +
+              1
+            
+            
+              p
+              
+                2
+              
+            
+          
+        
+        =
+        n
+        
+        
+      
+    
+    {\displaystyle {\frac {\left(p-1\right)!+1}{p^{2}}}=n\,\!}
+  
+hvor n er et naturlig tall. Disse tallene ble første gang beskrevet av Emma Lehmer.
+
+
+== Referanser ==

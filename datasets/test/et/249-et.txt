@@ -1,0 +1,339 @@
+Corrèze'i departemangu haldusüksuste loend sisaldab loetelu kõigist departemangu haldusüksustest (alldepartemangud, kantonid ja vallad). Lisaks on märgitud ka INSEE kood. Vallad Brive-la-Gaillarde, Tulle ja Ussel on jagatud mitme kantoni vahel. Igasse kantonisse, mille vahel on vald jagatud, kuulub ka kindel territoriaalne osa vallast.
+
+
+== Brive-la-Gaillarde ==
+Ayen' kanton 19 02
+Ayen 19 015
+Brignac-la-Plaine 19 030
+Louignac 19 120
+Objat 19 153
+Perpezac-le-Blanc 19 161
+Saint-Aulaire 19 182
+Saint-Cyprien 19 195
+Saint-Rober 19 239
+Segonzac 19 253
+Vars-sur-Roseix 19 279
+Yssandon 19 289
+Beaulieu-sur-Dordogne'i kanton 19 03
+Astaillac 19 012
+Beaulieu-sur-Dordogne 19 019
+Bilhac 19 026
+Brivezac 19 032
+La Chapelle-aux-Saints 19 044
+Chenailler-Mascheix 19 054
+Liourdres 19 116
+Nonards 19 152
+Puy-d'Arnac 19 169
+Queyssac-les-Vignes 19 170
+Sioniac 19 260
+Tudeils 19 271
+Végennes 19 280
+Beynat' kanton 19 04
+Albignac 19 003
+Aubazines 19 013
+Beynat 19 023
+Lanteuil 19 105
+Palazinges 19 156
+Le Pescher 19 163
+Sérilhac 19 257
+Brive-la-Gaillarde-Edela kanton 19 33
+Brive-la-Gaillarde 19 031
+Estivals 19 077
+Jugeals-Nazareth 19 093
+Nespouls 19 147
+Noailles 19 151
+Brive-la-Gaillarde-Kagu kanton 19 30
+Brive-la-Gaillarde 19 031
+Cosnac 19 063
+Brive-la-Gaillarde-Kesk kanton 19 31
+Brive-la-Gaillarde 19 031
+Brive-la-Gaillarde-Kirde kanton 19 06
+Brive-la-Gaillarde 19 031
+Brive-la-Gaillarde-Loode kanton 19 32
+Brive-la-Gaillarde 19 031
+Donzenac'i kanton 19 09
+Allassac 19 005
+Donzenac 19 072
+Sadroc 19 178
+Sainte-Féréole 19 202
+Saint-Pardoux-l'Ortigier 19 234
+Saint-Viance 19 246
+Juillac'i kanton 19 12
+Chabrignac 19 035
+Concèze 19 059
+Juillac 19 094
+Lascaux 19 109
+Rosiers-de-Juillac 19 177
+Saint-Bonnet-la-Rivière 19 187
+Saint-Cyr-la-Roche 19 196
+Saint-Solve 19 242
+Vignols 19 286
+Voutezac 19 288
+Larche'i kanton 19 14
+Chartrier-Ferrière 19 047
+Chasteaux 19 049
+Cublac 19 066
+Larche 19 107
+Lissac-sur-Couze 19 117
+Mansac 19 124
+Saint-Cernin-de-Larche 19 191
+Saint-Pantaléon-de-Larche 19 229
+Lubersac'i kanton 19 15
+Arnac-Pompadour 19 011
+Benayes 19 022
+Beyssac 19 024
+Beyssenac 19 025
+Lubersac 19 121
+Montgibaud 19 144
+Saint-Éloy-les-Tuileries 19 198
+Saint-Julien-le-Vendômois 19 216
+Saint-Martin-Sepert 19 223
+Saint-Pardoux-Corbier 19 230
+Saint-Sornin-Lavolps 19 243
+Ségur-le-Château 19 254
+Malemort-sur-Corrèze'i kanton 19 34
+La Chapelle-aux-Brocs 19 043
+Dampniat 19 068
+Malemort-sur-Corrèze 19 123
+Ussac 19 274
+Varetz 19 278
+Venarsal 19 282
+Meyssac'i kanton 19 18
+Branceilles 19 029
+Chauffour-sur-Vell 19 050
+Collonges-la-Rouge 19 057
+Curemonte 19 067
+Lagleygeolle 19 099
+Ligneyrac 19 115
+Lostanges 19 119
+Marcillac-la-Croze 19 126
+Meyssac 19 138
+Noailhac 19 150
+Saillac 19 179
+Saint-Bazile-de-Meyssac 19 184
+Saint-Julien-Maumont 19 217
+Turenne 19 273
+Vigeois' kanton 19 29
+Estivaux 19 078
+Orgnac-sur-Vézère 19 154
+Perpezac-le-Noir 19 162
+Saint-Bonnet-l'Enfantier 19 188
+Troche 19 270
+Vigeois 19 285
+
+
+== Tulle ==
+Argentat kanton 19 01
+Albussac 19 004
+Argentat 19 010
+Forgès 19 084
+Ménoire 19 132
+Monceaux-sur-Dordogne 19 140
+Neuville 19 149
+Saint-Bonnet-Elvert 19 186
+Saint-Chamant 19 192
+Saint-Hilaire-Taurieux 19 212
+Saint-Martial-Entraygues 19 221
+Saint-Sylvain 19 245
+Corrèze'i kanton 19 08
+Bar 19 016
+Chaumeil 19 051
+Corrèze 19 062
+Eyrein 19 081
+Meyrignac-l'Église 19 137
+Orliac-de-Bar 19 155
+Saint-Augustin 19 181
+Sarran 19 251
+Vitrac-sur-Montane 19 287
+Égletons'i kanton 19 10
+Champagnac-la-Noaille 19 039
+Chapelle-Spinasse 19 046
+Égletons 19 073
+Le Jardin 19 092
+Montaignac-Saint-Hippolyte 19 143
+Moustier-Ventadour 19 145
+Rosiers-d'Égletons 19 176
+Saint-Yrieix-le-Déjalat 19 249
+Lapleau' kanton 19 13
+Lafage-sur-Sombre 19 097
+Lapleau 19 106
+Latronche 19 110
+Laval-sur-Luzège 19 111
+Saint-Hilaire-Foissac 19 208
+Saint-Merd-de-Lapleau 19 225
+Saint-Pantaléon-de-Lapleau 19 228
+Soursac 19 264
+Mercœuri kanton 19 16
+Altillac 19 007
+Bassignac-le-Bas 19 017
+Camps-Saint-Mathurin-Léobazel 19 034
+La Chapelle-Saint-Géraud 19 045
+Goulles 19 086
+Mercœur 19 133
+Reygade 19 171
+Saint-Bonnet-les-Tours-de-Merle 19 189
+Saint-Julien-le-Pèlerin 19 215
+Sexcles 19 259
+La Roche-Canillac'i kanton 19 20
+Champagnac-la-Prune 19 040
+Clergoux 19 056
+Espagnac 19 075
+Gros-Chastang 19 089
+Gumond 19 090
+Marcillac-la-Croisille 19 125
+La Roche-Canillac 19 174
+Saint-Bazile-de-la-Roche 19 183
+Saint-Martin-la-Méanne 19 222
+Saint-Pardoux-la-Croisille 19 231
+Saint-Paul 19 235
+Saint-Privat' kanton 19 21
+Auriac 19 014
+Bassignac-le-Haut 19 018
+Darazac 19 069
+Hautefage 19 091
+Rilhac-Xaintrie 19 173
+Saint-Cirgues-la-Loutre 19 193
+Saint-Geniez-ô-Merle 19 205
+Saint-Julien-aux-Bois 19 214
+Saint-Privat 19 237
+Servières-le-Château 19 258
+Seilhac'i kanton 19 22
+Beaumon 19t 020
+Chamboulive 19 037
+Chanteix 19 042
+Lagraulière 19 100
+Pierrefitte 19 166
+Saint-Clément 19 194
+Saint-Jal 19 213
+Saint-Salvadour 19 240
+Seilhac 19 255
+Treignac'i kanton 19 24
+Affieux 19 001
+Chamberet 19 036
+L'Église-aux-Bois 19 074
+Lacelle 19 095
+Le Lonzac 19 118
+Madranges 19 122
+Peyrissac 19 165
+Rilhac-Treignac 19 172
+Saint-Hilaire-les-Courbes 19 209
+Soudaine-Lavinadière 19 262
+Treignac 19 269
+Veix 19 281
+Tulle-Linna-Lõuna kanton 19 25
+Tulle 19 272
+Tulle-Linna-Põhja kanton 19 26
+Tulle 19 272
+Tulle-Maa-Lõuna kanton 19 35 (keskus Naves)
+Les Angles-sur-Corrèze 19 009
+Chanac-les-Mines 19 041
+Le Chastang 19 048
+Cornil 19 061
+Gimel-les-Cascades 19 085
+Ladignac-sur-Rondelles 19 096
+Lagarde-Enval 19 098
+Laguenne 19 101
+Marc-la-Tour 19 127
+Pandrignes 19 158
+Saint-Bonnet-Avalouze 19 185
+Sainte-Fortunade 19 203
+Saint-Martial-de-Gimel 19 220
+Saint-Priest-de-Gimel 19 236
+Tulle-Maa-Põhja kanton 19 36 (keskus Laguenne)
+Chameyrat 19 038
+Favars 19 082
+Naves 19 146
+Saint-Germain-les-Vergnes 19 207
+Saint-Hilaire-Peyroux 19 211
+Saint-Mexant 19 227
+Uzerche'i kanton 19 28
+Condat-sur-Ganaveix 19 060
+Espartignac 19 076
+Eyburie 19 079
+Lamongerie 19 104
+Masseret 19 129
+Meilhards 19 131
+Saint-Ybard 19 248
+Salon-la-Tour 19 250
+Uzerche 19 276
+
+
+== Ussel ==
+Bort-les-Orgues'i kanton 19 05
+Bort-les-Orgues 19 028
+Confolent-Port-Dieu 19 167
+Margerides 19 128
+Monestier-Port-Dieu 19 142
+Saint-Bonnet-près-Bort 19 190
+Saint-Julien-près-Bort 19 218
+Saint-Victour 19 247
+Sarroux 19 252
+Thalamy 19 266
+Veyrières 19 283
+Bugeat' kanton 19 07
+Bonnefond 19 027
+Bugeat 19 033
+Gourdon-Murat 19 087
+Grandsaigne 19 088
+Lestards 19 112
+Pérols-sur-Vézère 19 160
+Pradines 19 168
+Saint-Merd-les-Oussines 19 226
+Tarnac 19 265
+Toy-Viam 19 268
+Viam 19 284
+Eygurande'i kanton 19 11
+Aix 19 002
+Couffy-sur-Sarsonne 19 064
+Courteix 19 065
+Eygurande 19 080
+Feyt 19 083
+Lamazière-Haute 19 103
+Laroche-près-Feyt 19 108
+Merlines 19 134
+Monestier-Merlines 19 141
+Saint-Pardoux-le-Neuf 19 232
+Meymac'i kanton 19 17
+Alleyrat 19 006
+Ambrugeat 19 008
+Combressol 19 058
+Darnets 19 070
+Davignac 19 071
+Maussac 19 130
+Meymac 19 136
+Péret-Bel-Air 19 159
+Saint-Sulpice-les-Bois 19 244
+Soudeilles 19 263
+Neuvic'i kanton 19 19
+Chirac-Bellevue 19 055
+Lamazière-Basse 19 102
+Liginiac 19 113
+Neuvic 19 148
+Palisse 19 157
+Roche-le-Peyroux 19 175
+Sainte-Marie-Lapanouze 19 219
+Saint-Étienne-la-Geneste 19 200
+Saint-Hilaire-Luc 19 210
+Sérandon 19 256
+Sornac'i kanton 19 23
+Bellechassagne 19 021
+Chavanac 19 052
+Millevaches 19 139
+Peyrelevade 19 164
+Saint-Germain-Lavolps 19 206
+Saint-Rémy 19 238
+Saint-Setiers 19 241
+Sornac 19 261
+Usseli-Ida kanton 19 27
+Mestes 19 135
+Saint-Étienne-aux-Clos 19 199
+Saint-Exupéry-les-Roches 19 201
+Saint-Fréjoux 19 204
+Ussel 19 275
+Valiergues 19 277
+Usseli-Lääne kanton 19 37
+Chaveroche 19 053
+Lignareix 19 114
+Saint-Angel 19 180
+Saint-Pardoux-le-Vieux 19 233
+Ussel 19 275

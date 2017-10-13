@@ -1,0 +1,41 @@
+I ciclidi (Cyclida), precedentemente noti come cicloidi (Cycloidea), sono un gruppo di artropodi estinti, vissuti tra il Carbonifero e il Cretaceo (circa 345 - 70 milioni di anni fa). La loro classificazione è incerta, ma sono generalmente considerati un gruppo di crostacei maxillopodi.
+
+
+== Descrizione ==
+I cicloidi possedevano una forma del corpo piuttosto simile a quella dei granchi, e si suppone che abbiano occupato una nicchia ecologica simile, e potrebbero essersi estinti a causa della diffusione e della diversificazione dei granchi. I cicloidi più grandi erano larghi oltre 6 centimetri. Le loro branchie sono spesso conservate in tre dimensioni, e non assomigliano a quelle dei crostacei attuali. I vari generi di cicloidi differiscono principalmente per il numero di zampe, la forma delle mandibole e altri caratteri (Dzik, 2008).
+
+
+== Classificazione ==
+Vi è una notevole incertezza riguardo alla classificazione dei cicloidi all'interno degli artropodi. Nonostante siano generalmente considerati crostacei di qualche tipo, sono stati espressi dubbi circa la loro appartenenza a questo taxon, e circa l'omologia delle strutture respiratorie dei cicloidi con quelle di altri crostacei; sono state quindi proposte altre classificazioni, che li vedrebbero imparentati con i chelicerati (Boxshall e Jaume, 2009).
+La prima descrizione di un cicloide avvenne nel trattato del 1836 Illustrations of the Geology of Yorkshire di John Phillips; lo studioso descrisse la specie "Agnostus ? radialis" tra i trilobiti. Nel 1938, Hermann von Meyer descrisse una specie di trilobite, anche se all'interno del genere Limulus, e in seguito la spostò in un genere a sé stante, Halicyne, riconoscendo che vi era qualcosa di diverso dalle specie attribuite a Limulus. Nel 1841, Laurent-Guillaume de Koninck spostò la specie di Phillips in un nuovo genere, Cyclus, classificandola non come un trilobite ma come un organismo completamente diverso. I cicloidi vennero poi considerati membri degli xifosuri, dei veri granchi e dei branchiuri (Fraaje, 2003).
+Nel 1989, in una tesi non pubblicata, Neil Clark propose che i cicloidi fossero copepodi. Nel 1997, un nuovo studio propose invece i cicloidi come un sister group dei copepodi all'interno dei maxillopodi (Schram et al., 1997), e nel 2008 Jerzy Dzik li considerò un ordine all'interno del gruppo di maxillopodi noti come Branchiura, che precedentemente contenevano solo i cosiddetti "pidocchi dei pesci" (Argulidae).
+
+
+== Tassonomia e stratigrafia ==
+I cicloidi sono noti da depositi che vanno dal Carbonifero al Cretaceo superiore (Maastrichtiano). Sono tra i soli tre gruppi di artropodi "generalmente paleozoici" ad essere sopravvissuti all'evento di estinzione del Permiano-Triassico, oltre agli euticarcinoidi e i tilacocefali.
+L'ordine dei ciclidi include 15 generi, qui sotto elencati in ordine di apparizione stratigrafica:
+Cyclus comprende numerose specie del Carbonifero.
+Schramine comprende alcune specie precedentemente attribuite a Halicyne, del Carbonifero.
+Americlus comprende alcune specie del Carbonifero precedentemente attribuite a Cyclus, tra cui la ben nota Cyclus americanus di Mazon Creek.
+Apionicon apioides è noto dal Carbonifero di Mazon Creek.
+Hemitrochiscus paradoxus è conosciuto nel Permiano della Germania.
+Oonocarcinus insignis e Paraprosopon reussi sono noti nel Permiano della valle del Sosio, in Sicilia.
+Halicyne comprende numerose specie del Triassico.
+Carcinaspides pustulosus è noto in calcari di probabile età triassica della Germania.
+Opolanka decorosa è conosciuto nel Triassico della Polonia.
+Cyclocarcinoides serratus e Mesoprosopon triasinum sono noti nel Norico (Triassico superiore) dell'Austria.
+Juracyclus posidoniae è conosciuto per fossili degli scisti nei pressi di Tubinga (Giurassico inferiore) in Germania.
+Alsasuacaris nostradamus è conosciuto per resti del Cenomaniano (inizio del Cretaceo superiore) in Spagna.
+Maastrichtocaris rostrata è conosciuto per fossili del Maastrichtiano (fine del Cretaceo) nella località tipo di questo piano geologico, nei Paesi Bassi, e rappresenta l'ultimo cicloide noto.
+Stagmacaris quenstedti, una specie del Kimmeridgiano (Giurassico superiore) della Germania, è stato reinterpretato come parte dell'addome di un paguro (Barry et al., 2011).
+
+
+== Bibliografia ==
+John Phillips (1836). Part 2. The Mountain Limestone District. Illustrations of the Geology of Yorkshire. London: John Murray.
+Frederick R. Schram, Ronald Vonk & Cees H. J. Hof (1997). "Mazon Creek Cycloidea". Journal of Paleontology 71 (2): 261–284. JSTOR 1306460.
+René H. B. Fraaije, Frederick R. Schram & Ronald Vonk (2003). "Maastrichtiocaris rostratus new genus and species, the first Cretaceous cycloid". Journal of Paleontology 77 (2): 386–388. doi:10.1666/0022-3360(2003)077<0386:MRNGAS>2.0.CO;2. JSTOR 4094744.
+Frederick R. Schram, Arjan C. Boere & Natalie Thomas (2006). "Cycloids of the Mississippian Bear Gulch limestone of central Montana" (PDF). Contributions in Science 504: 1–8.
+Günter Schweigert (2007). "Juracyclus posidoniae n. gen. and sp., the first cycloid arthropod from the Jurassic" (PDF). Journal of Paleontology 81 (1): 213–215. doi:10.1666/0022-3360(2007)81[213:JPNGAS]2.0.CO;2.
+Jerzy Dzik (2008). "Gill structure and relationships of the Triassic cycloid crustaceans" (PDF). Journal of Morphology 269 (12): 1501–1519. doi:10.1002/jmor.10663. PMID 18690662.
+Geoff A. Boxshall & Damià Jaume (2009). "Exopodites, epipodites and gills in crustaceans" (PDF). Arthropod Systematics & Phylogeny 67 (2): 229–254.
+Barry W. M. van Bakel, John W. M. Jagt, René H. B. Fraaije & Pedro Artal (2011). "A new family, genus and species of cyclid (Crustacea, Branchiura, Cyclida) from mid-Cretaceous reefal deposits in northern Spain" (PDF). Bulletin of the Mizunami Fossil Museum 37: 47–49.

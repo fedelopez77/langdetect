@@ -1,0 +1,55 @@
+Rakuhingamine on kõikide rakuliste organismide rakus toimuvate metaboolsete protsesside ja hingamisprotsesside kompleks. See on astmeline toitainete molekulide (näiteks glükoos või rasvhapped) lagunemine, mis lõpuks vabastab energiat adenosiintrifosfaadi (ATP) näol.
+Kõige tavalisemalt kasutatav energiaallikas on glükoos. Ensüümid lõhuvad iga glükoosi molekuli mitmete etappide vältel. Iga kovalentse sideme lõhkumisega vabaneb väike kogus energiat. Kui olemasoleva glükoosi hulk on liiga väike, on võimalik energiaallikana kasutada rasv- või aminohappeid.
+Aeroobse hingamise summaarne valem on: C6H12O6 + 6 O2 → 6 CO2 + 6 H2O
+
+
+== Aeroobne hingamine ==
+
+
+=== Glükolüüs ===
+Glükolüüs on esimene etapp mitmete reaktsioonide hulgast, mis kokku moodustavad hingamise. Otsetõlkes on glükolüüs "glükoosi lõhkumine". Glükolüüs toimub raku tsütoplasmas. See on anaeroobiline (see tähendab, et protsess toimub ilma hapnikuta) ja selle tulem on pürovaat ja väike hulk ATPd. Üks molekul heksoosisuhkur glükoosi muutub kaheks molekuliks kolm-süsiniku molekuliks, mida nimetatakse pürovaadiks. Selle protsessi puhaskasu on kaks ATP molekuli ja kaks NADH + H molekuli. Glükolüüsi etapid on fosforüülimine, lüüsis, oksüdeerimine ja ATP moodustumine.
+Neli ATP molekuli moodustub ühe glükoosimolekuli muutmisest kaheks pürovaadi molekuliks, kuid kaks molekuli ATPd on vajalikud, et alustada glükolüüsi jääb puhaskasumiks vaid kaks ATP molekuli. Lisaks ATP molekulidele ja pürovaadi molekulile, moodustub kaks NADH + H molekuli.
+
+
+==== Fosforüülimine ====
+Fosforüülimise protsessis lisatakse kaks fosfaadi gruppi ATPst. Selle tulem on heksoosi bifosfaat (see esineb vastupidiselt hingamise eesmärgile (ATP tegemine), kuid selleks kuluvad 2 ATPd taastatakse hiljem).
+
+
+==== Lüüsis ====
+Selle reaktsiooni käigus heksoosi bifosfaat lõheneb kaheks trifosfaadiks.
+
+
+==== Oksüdeerimine ====
+Esmalt leiab aset veel üks fosforüülimine, kuid sel korral kasutatakse ATP asemel anorgaanilist fosfaatiooni. Moodustub kaks 3-bifosfaati. Energia, mis fosfaatioonile lisatakse tuleb oksüdeerimise reaktsioonist. 3-bifosfaat oksüdeerub ja samaaegselt NAD redutseerub NADH+H.
+
+
+==== ATP moodustumine ====
+Oksüdeerimisele järgneb rida reaktsioone, mille käigus kaks fosfaadi gruppi igast 3-bifosfaadist kantakse üle kahele ADP molekulile, et moodustada kaks molekuli ATPd. Samuti toodetakse pürovaadi molekul.
+
+
+=== Sidereaktsioon ja Krebsi tsükkel ===
+ Pikemalt artiklis Tsitraaditsükkel.
+Kui hapnik on olemas, liigub glükolüüsil moodustunud pürovaat mitokondri maatriksisse lihtsustatud difusiooni abil, kus sidereaktsioon ja Krebsi tsükkel aset leiavad.
+Sidereaktsioon kasutab koensüümi A-d, et muuta pürovaat atsetüül CoA'ks. Süsiniku aatom eraldub süsinikdioksiidina. Sellega samaaegselt oksüdeerub pürovaat vesiniku eraldumisega. NAD eemaldab vesiniku aatomid, et moodustada NADH+H.
+Atsetüül siseneb Krebsi tsüklisse, et jätkata aeroobilise hingamise protsessi. Otsekoheselt eraldatakse koensüüm A ümbertöötlemiseks.
+Kaks süsinikku, mis atsetüül CoAga sisenesid, lahkuvad süsinikdioksiidina.
+Moodustub üks ATP molekul.
+Vesinik eemaldub oksüdeerimise reaktsioonide ajal kahte hapniku kandjasse - NAD ja FAD.
+Krebsi tsükkel algab ja lõpeb samade ainetega.
+Kuna iga glükoosi molekul moodustab glükolüüsiga kaks pürovaadi molekuli, vajab iga glükoosi molekul kahte sidereaktsiooni ja kahte ringlust Krebsi ringluses (selle tõttu, kui arvutada ringluse tulemit, tuleb arvestada kaht kogumit tulemeid).
+Sidereaktsiooni ja Krebsi tsükli tulemid on:
+8 NADH+ H molekuli
+2 FADH2 molekuli
+2 ATP molekuli
+6 süsinikdioksiidi molekuli
+
+
+== Üldistus ==
+Raku hingamine on eksotermiline protsess. Vabaneb energia, mis salvestub ATP molekulides aga ka soojuse kujul. Üldisemas mõttes moodustab see eluslooduse suurema tsükli koos autotroofides toimuvate endotermiliste reaktsioonidega, fotosünteesiga. Fotosünteesi võib vaadelda kui rakuhingamise vastandprotsessi. Esimeses laguneb süsihappegaas, vesi ja ühe jäägina eraldub hapnik, teises vastupidi. (Fotosünteesi teostavad organismid on näide nende mõlema protsessi koostoimest. Kui valgust pole, saavad fotosünteesijad samuti energiat rakuhingamise reaktsioonidest, lagundades eneste poolt valmistatud toitu). Nii moodustavad need kaks eluliselt tähtsat reaktsiooni omavahelise terviku. See on hea näide looduses toimuvast dünaamilisest tasakaalust.
+
+
+== Vaata ka ==
+Anaeroobne hingamine
+Gaasivahetus
+Rakkude hingamisahel
+Tsitraaditsükkel

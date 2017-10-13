@@ -1,0 +1,75 @@
+Topologija (gr. τοπος = topos 'paviršius, vieta' + λογος = logos 'mokslas') yra mokslas apie tolydžius (netrūkius) paviršius, apie erdvės savybes, kurios nepakinta, atliekant tolydžias deformacijas, pavyzdžiui, transformuojant (tempiant, lenkiant, bet ne perplėšiant ar suklijuojant) paviršius ir keičiant paviršiaus elementų susietumą ir (ar) orientuojamumą. Griežtai matematiškai tai yra atvirų aibių rinkinių tyrimas, kai tam tikra aibė vaizduojama kaip topologinė erdvė. Svarbios topologinės savybės yra susietumas ir kompaktiškumas.
+Topologijos tyrimų sritis atsiskyrė jungiant tam tikrus geometrijos dalykus ir aibių teoriją, siekiant išsiaiškinti tokias sąvokas kaip erdvė, jos matavimai ir transformacijos. Pirmines idėjas sutinkame Gotfrydo Leibnico veikaluose, kuris jau XVII a. kalbėjo apie lot. geometria situs (graikų ir lotynų kalbų hibridinis darinys, reiškiantis „vietos geometriją“) ir lot. analysis situs (vietos analizė). Oilerio Septynių Karaliaučiaus tiltų problema ir briaunainio savybė neginčytinai yra pirmosios teoremos, kuriomis grindžiama topologija. Topologijos terminą XIX a. įvedė Johanas Listingas (Johann Benedict Listing), bet pati topologinės erdvės idėja buvo suformuluota tik pirmame XX a. dešimtmetyje. Nepaisant neskubios pradžios, XX a. viduryje topologija jau tapo svarbia matematikos šaka.
+Šiuolaikinę topologiją sudaro kelios specializuotos šakos:
+Bendroji topologija nustato šio mokslo pamatinius dalykus, tyrinėja topologinių erdvių savybes ir ieško naujų sampratų, atskleidžiančių topologinius objektus. Čia nagrinėjamos tokios bendrosios savybės kaip kompaktiškumas ir susietumas.
+Algebrinė topologija ieško būdų išmatuoti jungumo (angl. connectivity) laipsnius, pasitelkiant algebrinius darinius, kaip homologinės ir homotopinės grupės.
+Diferencialinė topologija tai šaka, nagrinėjanti topologines diferencijuojamųjų funkcijų ir diferencijuojamųjų daugdarų savybes. Ji glaudžiai susijusi su diferencialine geometrija, abi kartu jos formuoja geometrinę diferencijuojamųjų daugdarų teoriją.
+Geometrinė topologija visų pirma tiria daugdaras ir jų įdėtis į kitas daugdaras. Ypač aktyviai čia tyrinėjama nedidelio matiškumo (keturių ir mažiau matavimų) paviršių topologija. Be to šioje srityje nagrinėjama mazgų teorija ir matematiniai mazgai.
+
+
+== Istorija ==
+
+Topologiniai tyrimai prasidėjo nuo specifinių geometrijos uždavinių. 1736 metais Leonardas Oileris paskelbė tyrimą apie Septynių Karaliaučiaus tiltų problemą, kuris laikomas viena iš pačių pirmutinių akademinių šiuolaikinės topologijos publikacijų.
+Pačią topologijos sąvoką 1847 m. Vokietijoje įvedė Johanas Listingas (Johann Benedict Listing), paskelbdamas Vorstudien zur Topologie (Parengtinę topologijos studiją). Jis jau dešimtmetį iki šios publikacijos vartojo topologijos terminą susirašinėdamas su kitais matematikais. Bet tuometinė topologijos samprata dar buvo nutolusi nuo dabartinio turinio.
+Šiuolaikinė topologija griežtai remiasi idėjomis pagrįstomis aibių teorijoje, kurią XIX a. pabaigoje išplėtojo Georgas Kantoras (Georg Cantor). Kartu su pamatinėmis aibių teorijos idėjomis, jis, tirdamas Furjė eiles, jau nagrinėjo ir euklidinės erdvės taškų aibes.
+Anri Puankarė 1895 m. publikavo veikalą „Analysis Situs“, kuriame pirmą kartą aprašė homotopijos ir homologijos savybes, šiuo metu laikomas algebrinės topologijos objektais.
+1906 metais Morisas Frešė (Maurice Fréchet), unifikuodamas darbus apie funkcijų erdves, kuriuos atliko Georgas Kantoras (Georg Cantor), Vito Voltera (Vito Volterra), Cezarė Arcela (Cesare Arzelà), Žakas Adamaras (Jacques Hadamard), Džiulijo Askoli (Giulio Ascoli) ir kiti, į apyvartą įvedė metrinės erdvės sąvoką. Mūsų dienomis metrinė erdvė yra laikoma bendrosios topologinės erdvės atskiru atveju. 1914 metais Feliksas Hausdorfas (Felix Hausdorff) sukūrė pačią topologinės erdvės sąvoką ir apibrėžė matematinę struktūrą, kuri dabar vadinama jo vardu – Hausdorfo erdvę. Pagal šiuolaikinį supratimą, topologinė erdvė yra nežymus Hausdorfo erdvės apibendrinimas, kurį 1922 m. pateikė Kazimiežas Kuratovskis (Kazimierz Kuratowski).
+Toliau topologija ėmė skaidytis į dabar žinomas atskiras šakas, kaip taškų aibių topologija, algebrinė topologija ir kt.
+
+
+== Bendras apibūdinimas ==
+Formaliai topologiją galima apibrėžti kaip matematikos sritį, nagrinėjančią tam tikrų objektų (vadinamų topologinėmis erdvėmis) kokybines savybes, kurios yra invariantiškos kai kurioms transformacijoms, ypač homeomorfinėms.
+Topologija taip pat naudojama aptariant struktūrą, sukurtą iš aibės X, kuri iš esmės apibūdina pačią aibę X kaip topolginę erdvę, kai transformacijos metu deramai išlaikomos jos savybės: aibės ribos (konvergencija), susietumas ir tolydumas.
+Topologinės erdvės visai natūraliai randamos kone kiekvienoje matematikos šakoje. Todėl šiuo metu topologija yra tapusi galinga apibendrinančia matematinių disciplinų priemone.
+Plačiai taikyti topologiją skatina įžvalga, kad nemažai geometrinių problemų yra priklausomos ne nuo paties konkretaus objekto pavidalo, o labiau nuo būdo, kaip tas pavidalas susidaro, nuo jo sandaros ypatybių. Pavyzdžiui, kvadratas ir apskritimas turi daug bendrumo: jie abu yra (topologiniu požiūriu) vienmačiai, abu dalija plokštumą į dvi dalis – vidinę ir išorinę.
+Vienoje pirmųjų topologijos publikacijų Leonardas Oileris parodė, kad neįmanoma pereiti visus septynis Karaliaučiaus tiltus vieną paskui kitą, nė karto nepereinat per kažkurį tiltą du kartus. Šis rezultatas nepriklauso nei nuo tiltų ilgio, nei nuo atstumo tarp jų, o vien nuo to, kaip jie susiję tarpusavyje (nuo jų susietumo savybės): kuris tiltas ką sujungia (salas ar krantus). Ši problema, dabar žinoma kaip Septynių Karaliaučiaus tiltų problema, laikoma įžanginiu grafų teorijos pavyzdžiu.
+
+Panašiai, algebrinėje topologijoje teigiama, kad neįmanoma sušukuoti plaukuoto kamuolio, nesudarant verpetų. Šis faktas gana akivaizdus kiekvienam bandančiam praktiškai, nors ne matematikas gali nepastebėti apibendrinančios šio reiškinio galios: sferos paviršiuje neįmanoma nubrėžti neatitrūkstančių liestinių vektorių. Kaip ir Karaliaučiaus tiltų atveju, rezultatas nepriklauso nuo sferos pavidalo – taisyklė galioja bet kokiam tolydžiam gniužului (burbului), jei tik šis neturi kiaurymių.
+Kad būtų išspręstos tokios užduotys, kai jos nepriklauso nuo konkretaus objekto pavidalo, reikia tik aiškiai žinoti, nuo kokių savybių iš tiesų priklauso sprendimas. Toks poreikis privertė suformuluoti homeomorfizmo sąvoką. Įrodžius, kad Karaliaučiaus tiltų neįmanoma pereiti einant išimtinai tik po vieną kartą per kiekvieną tiltą, kartu įrodoma, kad bet kokios konfigūracijos, homeomorfinės šių tiltų išsidėstymui, apėjimui galioja ta pati taisyklė, o sferos sušukavimo taisyklė galioja bet kuriai erdvei, kuri yra homeomorfinė sferai.
+Intuityviai suvokiame, kad dvi erdvės yra viena kitai homeomorfiškos, jei iš vienos galima suformuoti kitą paprasto transformavimo būdu, nekerpant ir neklijuojant. Yra tradicinis anekdotas, kad topologas neskiria kavos puodelio nuo riestainio, nes pakankamai tąsų riestainį visai įmanoma performuoti į puodelį vien tik išduobus jį ir atitinkamai ištempus bei suspaudus kilpą, kad būtų patogi rankenėlė.
+Homeomorfizmą dera laikyti labiausiai pamatiniu topologiniu ekvivalentiškumu. Kita dažna atitiktis yra homotopinis ekvivalentiškumas. Nesileidžiant į matematines išraiškas, jį apibrėžti yra sunkiau, bet esmė ta, kad du objektai yra homeotopiški, jei jie abu gaunami „minkant“ didesnį objektą.
+Dažnai duodamas pradinis pratimas, kurio metu reikia suklasifikuoti didžiąsias lotynų abėcėlės raides pagal jų homeomorfiškumą ir homotopiškumą. Žinoma, rezultatai neišvengiamai yra šiek tiek priklausomi nuo naudojamo šrifto. Lentelėje pateikiamas suskirstymas, kai raidės parašytos „Myriad“ šriftu. Homotopinis ekvivalentiškumas yra mažiau detalizuotas; homotopinės klasės gali apimti kelias homeomorfines klases. Aiškiausias homotopijos pavyzdys čia yra „O“ ir „P“ raidės: O telpa į P kilpą, o P uodegėlę galima ištempti iš O šono.
+
+
+== Bendros sąvokos ==
+
+
+=== Aibių topologiškumas ===
+Neformaliai, topologija rodo, kaip aibės elementai yra tarpusavyje susiję erdvėje. Iš tos pačios aibės galima gauti skirtingas topologines konfigūracijas. Pavyzdžiui, koordinatinė realiųjų skaičių ašis, kompleksinių skaičių plokštuma ir Kantoro aibė gali būti laikoma viena ir ta pačia aibe, išreikšta skirtingais topologiniais būdais.
+Formaliai, tegul X yra aibė ir tegul τ yra X aibės poaibių šeima. Tuomet τ yra vadinama X aibės topologija, tuomet:
+tuščioji ir X aibės yra τ elementai;
+bet kuris junginys iš τ aibės elementų yra τ elementas;
+bet kuri sankirta iš baigtinio skaičiaus τ aibės elementų yra τ elementas.
+Kai τ yra topologija aibei X, tuomet pora (X, τ) yra vadinama topologine erdve. O užrašu Xτ galima žymėti aibę X, kai jai yra suteikta konkreti topologija τ.
+Aibė, kurios topologija yra nusakyta, yra vadinama topologine erdve.
+
+
+=== Daugdaros ===
+
+Topologinės erdvės gali būti nepaprastai įvairios ir netgi keistos, todėl daugelyje topologijos sričių pasitelkiamos geriau išnagrinėtos erdvės, vadinamos daugdaromis (angl. manifold). Daugdara yra tokia topologinė erdvė, kurios kiekvieno taško aplinka primena euklidinę erdvę. Jei formuluosime tiksliau, kiekvienas n-matės daugdaros taško aplinka yra homeomorfiška n-matei euklidinei erdvei. Tiesės ir apskritimai yra vienmatės daugdaros, bet aštuoniukės kreivė tokia nėra. Dvimatės daugdaros dar yra vadinamos paviršiais. Pavyzdžiai gali būti plokštuma, sfera ir toras, kuriuos visus galima realizuoti trimatėje erdvėje, bet dvimatės daugdaros yra ir Kleino butelis bei realioji projekcinė plokštuma, kurių realizuoti trimatėje erdvėje neįmanoma.
+
+
+== Taikymai ==
+
+
+=== Biologija ===
+Topologijos šaka mazgų teorija yra naudojama biologijoje tiriant kai kurių fermentų poveikį DNR. Šie fermentai padeda karpyti, pasukti ir kitaip sukabinti DNR fragmentus, leisdami deramai keisti molekulės susimazgymo pobūdį. Be topologijos negali apsieiti ir evoliucinė biologija, kurioje reikia patikimai nustatyti ryšius tarp fenotipo ir genotipo. Fenotipinės variacijos, kurios išoriškai gali atrodyti skirtingos, genotipiškai gali skirtis tik keliomis mutacijomis, priklausomai nuo to, kaip rūšies raidos metu genetiniai pokyčiai veikia fenotipą – tai padeda nustatyti topologija.
+
+
+=== Kompiuterija ===
+Topologinės duomenų analizės metu naudojami algebrinės topologijos metodai, leidžiantys nustatyti didelių struktūrų aibes (pavyzdžiui, rasti, ar taškų debesis yra sfera, ar toras). Šios analizės metu naudojami tokie metodai:
+Duomenų taškai pakeičiami simplicinių kompleksų šeimomis, kurias lengva indeksuoti pagal panašumą.
+Topologiniai kompleksai analizuojami naudojant algebrinę topologiją.
+Tam tikrą homologiją turintys duomenų elementai koduojami Beti skaičiais.
+
+
+=== Fizika ===
+Fizikoje topologija naudojama labai plačiai, ypač kvantinėje mechanikoje ir kosmologijoje. Yra net išskiriama atskira topologinė kvantinių laukų teorija, kurioje tiriami topologiniai invariantai. Beje, nors pastarąją teoriją sukūrė fizikai, ji smarkiai sudomino ir matematikus, kadangi atvėrė naujovių mazgų teorijoje ir keturmačių daugdarų tyrimuose bei kitose srityse. Topologinės lauko teorijos srityje dirbantys mokslininkai yra sulaukę ypatingo pripažinimo pasauliniu mastu (apdovanoti Fildso premija).
+Kosmologijoje topologija pasitelkiama mėginant apibrėžti visatos pavidalą ir būsenas. Ši sritis dar vadinama erdvėlaikio topologija.
+
+
+=== Robotika ===
+Skirtingas robotų veikimo padėtis galima formalizuoti pasitelkiant daugdarų, vadinamų konfigūracijos erdve, galimybes. Taip projektuojami robotų lankstų (sąnarių) judesių algoritmai, leidžiantys kurti atitinkamas pozas ir padėtis.
+
+
+== Išnašos ==

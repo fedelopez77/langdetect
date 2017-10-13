@@ -1,0 +1,6 @@
+HFTP ist ein Protokoll zum Zugriff auf FTP-Ressourcen über einen HTTP-Proxy. Es verwendet das ftp URL-Schema in HTTP-Anfragen zu einem Proxy.
+Die Notation von HFTP wurde im Lftp-Client eingeführt, um zwischen einfachem FTP-Protokoll und indirektem Zugriff über einen HTTP-Proxy zu unterscheiden. Lftp unterstützt das hftp URL-Schema zur expliziten Auswahl von HFTP.
+
+
+== Weblinks ==
+lftp(1) Linux Benutzerbefehlanleitung (englisch)

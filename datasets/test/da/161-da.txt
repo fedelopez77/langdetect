@@ -1,0 +1,24 @@
+For alternative betydninger, se Krone.
+
+Krone LSA-PLUS (eller blot krone) er en europæisk klemmeforbindelsesstandard til telekommunikation. Krone LSA-PLUS er en alternativ til 110 block.
+
+
+== Historie ==
+Krone blev udviklet i Berlin i 1970'erne af The Krone Group, et tysk telekommunikationsselskab. I 2004 blev Krone erhvervet af ADC Telecommunications, et amerikansk corporation. ADC blev senere erhvervet af Tyco Electronics i 2010.
+
+
+== Karaktertræk ==
+LSA-PLUS er et tysk akronym for (Lötfrei, Schraubfrei, Abisolierfrei, Preiswert, Leicht zu handhaben, Universell anwendbar, Sicher und schnell) som kan oversættes til: ingen lodning, ingen anvendelse af skruer, ingen afisolering, omkostningseffektiv, let at anvende, universal anvendelse, sikkert og hurtigt.
+
+Sammenliget med 110, er krone let at genkende ved at dets kontakter er vinklet 45 grader i forhold til ledningen. Kontakterne anvender sølv for at hindre korrosion og der anvendes et IDC-værktøj (typisk kaldet et LSA-værktøj) til at trykke ledningen ind i klemmen.
+
+
+== Kilder/referencer ==
+Cabling Installation & Maintenance Magazine
+LSA-PLUS Contact Technique Overview
+
+
+== Yderligere læsning ==
+Krone GmbH (11. september 2003) (pdf). LSA-PLUS System (part 1/2). Hentet 14. juli 2011. 
+Krone GmbH (7. september 2003) (pdf). LSA-PLUS System (part 2/2). Hentet 14. juli 2011. 
+Krone GmbH (11. september 2003) (pdf). Main Distribution Frame. Hentet 14. juli 2011.

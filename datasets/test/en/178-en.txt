@@ -1,0 +1,61 @@
+A circle of latitude on the Earth is an abstract east–west circle connecting all locations around the Earth (ignoring elevation) at a given latitude.
+Circles of latitude are often called parallels because they are parallel to each other – that is, any two circles are always the same distance apart. A location's position along a circle of latitude is given by its longitude. Circles of latitude are unlike circles of longitude, which all are great circles with the centre of Earth in the middle, as the circles of latitude get smaller as the distance from the Equator increases. Their length can be calculated by a common sine or cosine function. The 60th circle of latitude is half as long as the equator (disregarding Earth's minor flattening by 0.3%). A circle of latitude is perpendicular to all meridians.
+The latitude of the circle is approximately the angle between the equator and the circle, with the angle's vertex at Earth's centre. The equator is at 0°, and the North and South poles are at 90° north and 90° south respectively. The Equator is the longest circle of latitude and is the only circle of latitude which also is a great circle.
+There are 89 integral (whole degree) circles of latitude between the equator and the Poles in each hemisphere, but these can be divided into more precise measurements of latitude, and are often represented as a decimal degree (e.g. 34.637°N) or with minutes and seconds (e.g. 22°14'26"S). There is no limit to how precisely latitude can be measured, and so there are an infinite number of circles of latitude on Earth.
+On a map, the circles of latitude may or may not be parallel, and their spacing may vary, depending on which projection is used to map the surface of the Earth onto a plane. On an equirectangular projection, centered on the equator, the circles of latitude are horizontal, parallel, and equally spaced. On other cylindrical and pseudocylindrical projections, the circles of latitude are horizontal and parallel, but may be spaced unevenly to give the map useful characteristics. For instance, on a Mercator projection the circles of latitude are more widely spaced near the poles to preserve local scales and shapes, while on a Gall–Peters projection the circles of latitude are spaced more closely near the poles so that comparisons of area will be accurate. On most non-cylindrical and non-pseudocylindrical projections, the circles of latitude are neither straight nor parallel.
+Arcs of circles of latitude are sometimes used as boundaries between countries or regions where distinctive natural borders are lacking (such as in deserts), or when an artificial border is drawn as a "line on a map", which was made in massive scale during the 1884 Berlin Conference, regarding huge parts of the African continent. North American nations and states have also mostly been created by straight lines, which are often parts of circles of latitudes. For instance, the northern border of Colorado is at 41°N while the southern border is at 37°N. Roughly half the length of border between the United States and Canada follows 49°N.
+
+
+== Major circles of latitude ==
+
+There are five major circles of latitude, listed below from north to south. The position of the Equator is fixed (90 degrees from Earth's axis of rotation) but the latitudes of the other circles depend on the tilt of this axis relative to the plane of Earth's orbit, and so are not perfectly fixed. The values below are for 11 October 2017:
+Arctic Circle (66°33′46.9″ N)
+Tropic of Cancer (23°26′13.1″ N)
+Equator (0° latitude)
+Tropic of Capricorn (23°26′13.1″ S)
+Antarctic Circle (66°33′46.9″ S)
+These circles of latitude, excluding the Equator, mark the divisions between the five principal geographical zones.
+
+
+=== Equator ===
+The equator is the circle that is equidistant from the North Pole and South Pole. It divides the Earth into the Northern Hemisphere and the Southern Hemisphere. Of the parallels or circles of latitude, it is the longest, and the only 'great circle' (a circle on the surface of the Earth, centered on Earth's center). All the other parallels are smaller and centered only on Earth's axis.
+
+
+=== Polar Circles ===
+The Arctic Circle is the southernmost latitude in the Northern Hemisphere at which the sun can remain continuously above or below the horizon for 24 hours (at the June and December solstices respectively). Similarly, the Antarctic Circle marks the northernmost latitude in the Southern Hemisphere at which the sun can remain continuously above or below the horizon for 24 hours (at the December and June Solstices respectively).
+
+
+=== Tropical Circles ===
+The Tropic of Cancer and Tropic of Capricorn mark the northernmost and southernmost latitudes at which the sun may be seen directly overhead (at the June solstice and December solstice respectively).
+The latitude of the tropical circles is equal to the Earth's axial tilt, about 23°.
+
+
+=== Movement of the Tropical and Polar circles ===
+
+By definition, the positions of the Tropic of Cancer, Tropic of Capricorn, Arctic Circle and Antarctic Circle all depend on the tilt of the Earth's axis relative to the plane of its orbit around the sun (the "obliquity of the ecliptic"). If the Earth were "upright" (its axis at right angles to the orbital plane) there would be no Arctic, Antarctic, or Tropical circles: at the poles the sun would always circle along the horizon, and at the equator the sun would always rise due east, pass directly overhead, and set due west.
+The positions of the Tropical and Polar circles are not fixed because the axial tilt changes slowly – a complex motion determined by the superimposition of many different cycles (some of which are described below) with short to very long periods. In 2000 the mean value of the tilt was about 23° 26′ 21″.
+The main long-term cycle causes the axial tilt to fluctuate between about 22.1° and 24.5° with a period of 41,000 years. Currently, the average value of the tilt is decreasing by about 0.47″ per year. As a result, (approximately, and on average) the Tropical Circles are drifting towards the equator (and the Polar Circles towards the poles) by 15 metres per year, and the area of the Tropics is decreasing by 1,100 square kilometres (420 sq mi) per year.
+The Earth's axial tilt has additional shorter-term variations due to nutation, of which the main term, with a period of 18.6 years, has an amplitude of 9.2" (corresponding to almost 300 metres north and south). There are many smaller terms, resulting in varying daily shifts of some metres in any direction.
+Finally, the Earth's rotational axis is not exactly fixed in the Earth, but undergoes small fluctuations (on the order of 15 meters) called polar motion, which have a small effect on the Tropics and Polar circles and also on the Equator.
+Short-term fluctuations over a matter of days do not directly affect the location of the extreme latitudes at which the sun may appear directly overhead, or at which 24-hour day or night is possible, except when they actually occur at the time of the solstices. Rather, they cause a theoretical shifting of the parallels, that would occur if the given axis tilt were maintained throughout the year.
+
+
+== Other notable parallels ==
+
+A number of sub-national and international borders were intended to be defined by, or are approximated by, parallels. Parallels make convenient borders in the northern hemisphere because astronomic latitude can be roughly measured (to within a few tens of meters) by sighting the North Star.
+
+
+== Altitude ==
+
+Altitude has an effect on a location's position relative to the plane formed by a circle of latitude. Since altitude is determined by the normal to the Earth's surface, locations sharing the same latitude—but having different elevations (e.g., lying along this normal)—no longer lie within this plane. Rather, all points sharing the same latitude and of varying elevation occupy a cone formed by the rotation of this normal around the Earth's axis.
+
+
+== See also ==
+List of circles of latitude
+
+
+== References ==
+
+
+== External links ==
+U.S. Naval Observatory - mean obliquity of the ecliptic

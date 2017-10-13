@@ -1,0 +1,52 @@
+Une lampe à lave est un genre de lampe destinée à la décoration plutôt qu'à l'éclairage. Elle se présente généralement sous la forme d'un globe de verre allongé verticalement, qui contient un liquide transparent dans lequel évoluent des boules colorées de cire fondue. Les premiers prototypes ont été inventés et mis sur le marché en 1963 par Edward Craven Walker sous le nom d'Astro Light.
+
+
+== Fonctionnement ==
+La chaleur de l'ampoule à incandescence à la base du récipient produit la fusion de la cire, qui a une densité très légèrement supérieure à celle du liquide. Par rayonnement, lors de l'augmentation de la température, la densité de la cire diminue et devient inférieure à celle du liquide. Les bulles de cire se mettent alors à monter ; elles s'éloignent de la source de chaleur, leur température baisse, leur densité augmente à nouveau et elles redescendent (ce phénomène est appelé convection). Les bulles se mélangent alors puisque la température près de l'ampoule vient à bout de la tension superficielle de chaque bulle. Le cycle recommence aussi longtemps que la lampe reste allumée.
+Le principe de fonctionnement est basé sur le système de l'instabilité de Rayleigh-Taylor.
+L'appellation « lampe à lave » vient du fait que la cire de la lampe ressemble à de la lave.
+
+
+== Historique ==
+Le britannique Edward Craven Walker invente la lampe à lave en 1963. Son brevet américain est déposé en 1965 et délivré en 1968. La société de Craven-Walker, Crestworth, est installée à Poole dans le Dorset au Royaume-Uni. Craven-Walker nomme la lampe Astro ou encore Astro Mini et Astro Coach. En 1965 il la présente lors d'un salon professionnel à Bruxelles, où l'entrepreneur Adolph Wertheimer la remarque. Wertheimer et son associé William M. Rubinstein en achètent les droits américains de fabrication et de vente, et la lampe est commercialisée sous le nom de Lava Lite par la Lava Corporation ou Lava Manufacturing Corporation.
+Wertheimer vend ensuite ses parts de la société à Hy Spector qui reprend la production de la lampe. Au milieu des années 1960 la fabrication et le marketing de la Lava Lite sont transférés dans son usine de Chicago située au 1650 W. Irving Park Rd. Rubinstein restera vice président. Au cours des années 1960 et jusqu'au milieu des années 1970, les lampes connaissent un grand succès. Au début des années 1970, la Lava Corporation change de nom et devient la Lava-Simplex-Scribe International, qui fabrique également des cartouches de film à chargement instantané pour les caméras ainsi que des distributeurs de timbres poste.
+Vers la fin des années 1970 Spector vend Lava Simplex International à Michael Eddie et Lawrence Haggerty de la société Haggerty Enterprises. Cette dernière continue toujours de vendre les lampes à lave aux États-Unis. « Lampe à lave » est utilisé comme un terme générique, mais Lavaworld revendique une violation de la marque déposée.
+Dans les années 1990, Craven-Walker, qui avait alors conservé les droits pour le reste du marché mondial, engage Cressida Granger comme associée. En 1992 ils changent le nom de l'entreprise qui s'appelle désormais Mathmos. La fabrication de la lampe à lave continue à ce jour ainsi que celle de produits similaires. Les lampes à lave Mathmos sont toujours fabriquées dans l'usine d'origine située à Poole dans le Dorset au Royaume-Uni.
+
+
+== Utilisation ==
+Une lampe à lave se regarde plus qu'elle ne sert à éclairer puisqu'elle ne produit qu'une faible lumière colorée. Elle peut à la rigueur servir de veilleuse.[réf. nécessaire]
+
+
+=== Nombres aléatoires ===
+Outre l'aspect décoratif, ces lampes ont été utilisées pour générer des nombres aléatoires. Les gouttes de cire ont en effet un comportement chaotique de par la présence de plusieurs phénomènes physiques imprévisibles (turbulences, température, densité variable, etc.).
+En 1996, le cryptologue Landon Noll et son équipe de Silicon Graphics développent et brevètent un système fondé sur les lampes. L'idée est de numériser six lampes de ce type grâce à une caméra. L'image est ensuite hachée grâce à SHA-1 (une fonction de hachage cryptographique). On obtient alors la graine d'un générateur cryptographique de nombres pseudo-aléatoires, Blum Blum Shub, celui-ci produisant le flot final de données. Le taux de génération des graines était de 8 000 bits par seconde sur le matériel de l'époque.
+La description exacte de l'algorithme est donnée dans le brevet américain.
+
+
+== Conditions et dangers ==
+La température doit être suffisante pour que le liquide chauffe et que la cire fonde ; ceci se fait généralement grâce à l'ampoule (puissance entre 25  et  40 watts maximum) et un système de répartition de chaleur (un ressort ou une plaque métallique). Il faut environ 45  à  60 minutes (selon la température initiale de la pièce) pour que la cire devienne suffisamment chaude et commence à former et libérer des boules. Il faut environ 2  à  3 heures (selon la température initiale de la pièce) si elle est restée dans une pièce froide pendant une longue période.
+Si la température ambiante est trop basse, la lampe peut ne pas fonctionner correctement. De même une cire de mauvaise qualité, une puissance insuffisante ou des impuretés peuvent empêcher un bon fonctionnement.
+Le liquide utilisé pour remplir le globe de verre est fortement toxique voire mortel par ingestion (mélange d'alcool dont du glycol). Il est aussi très dangereux de chauffer la lampe par un autre moyen. En 2004, un homme de 24 ans, Phillip Quinn, est décédé à la suite de l'explosion de sa lampe à lave qu'il avait placée au-dessus de sa cuisinière, un morceau de verre pointu provenant du globe avait transpercé son cœur. Il a obtenu pour cela le prix Darwin 2004.
+Les méthodes de fabrication artisanales de lampe à lave circulent sur Internet, certaines de ces méthodes utilisent des mélanges de produits hautement inflammables tel que l'alcool. Ces lampes peuvent présenter un danger sérieux d'incendie si elles venaient à se briser sous l'effet de la chaleur de l'ampoule.
+
+
+== Références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Lampe à plasma
+Lampe
+Convection de Rayleigh-Bénard
+Edward Craven Walker
+Mathmos
+
+
+=== Liens externes ===
+Jean-Bernard Roux, « Une lampe de lave » : description mathématique de la lampe à lave
+(en) Tom Harris, « How Liquid Motion Lamps Work », HowStuffWorks
+ Portail de l’électricité et de l’électronique
+ Portail du design

@@ -1,0 +1,63 @@
+C. Gordon Bell (Kirksville, Missouri, 1934. augusztus 19.) amerikai számítógépes mérnök és vezető. A Digital Equipment Corporation (DEC) korai alkalmazottjaként (1960-tól 1966-ig) Bell volt több PDP gép tervezője és később a Konstrukciós Részleg (Engineering) alelnöki posztját töltötte be 1972-től 1983-ig: ebben a minőségében a VAX fejlesztését felügyelte. Bell későbbi karrierje során volt vállalkozó, befektető, a National Science Foundation (NSF) Számítástudományi és Információtechnológiai Igazgatóságának (CISE) alapító igazgatója (1986–1988), később (1995 óta) a Microsoft Research kutatója. Több mint 100 csúcstechnológiai vállalat kezdeményezője és tanácsadója, a kaliforniai Mountain View-beli Számítógéptörténeti Múzeum alapító kurátora. Az ACM, Amerikai Tudományos és Művészeti Akadémia (American Academy of Arts & Sciences), IEEE, NAE, NAS szervezetek tagja. 1991-ben Nemzeti Érdemérem a Műszaki Tudományokért (National Medal of Technology) kitüntetésben részesült.
+
+
+== Korai évek, tanulmányok ==
+Chester Gordon Bell Kirksville-ben született, Missouri államban. Már gyermekkorában bekapcsolódott a családi üzletbe, amely elektromos háztartási gépek forgalmazásával, javításával és villanyszereléssel foglalkozó vállalkozás volt.
+Bell az MIT villamosmérnöki szakán szerezte BSc (1956), majd MSc (1957) fokozatát. Ezután az ausztráliai Új-Dél Wales egyetemén tanult Fulbright ösztöndíjjal, ahol számítógépkonstrukciós ismereteket szerzett, az első ausztrál számítógépek egyikén (UTECOM, az angol DEUCE változata) programozott, ott publikálta első tudományos cikkét. Az Egyesült Államokba visszatérve az MIT akkori Speech Computation Laboratory (kb. beszédfeldolgozási laboratórium) egységében kezdett dolgozni Ken Stevens professzor irányítása alatt, itt írta első (analysis by synthesis módszerű) beszédanalitikai programját.
+
+
+== Pályafutás ==
+
+
+=== Digital Equipment Corporation ===
+A DEC alapítói, Ken Olsen és Harlan Anderson 1960-ban a céghez hívták, ahol a PDP–1 I/O alrendszerét és egyben az első UART eszközt tervezte. Bell volt a PDP–4 és PDP–6 gépek vezető tervezője is, de közreműködött a PDP–5 tervezésében és a PDP–11 Unibus buszrendszere és általános regisztereinek kialakításában is.
+A DEC-beli munkássága után 1966-ban a Carnegie Mellon Egyetemre ment, ott számítástudományt oktatott, de néhány évvel később, 1972-ben visszatért a DEC-hez a tervezési részleg alelnökeként. Itt az ő irányításával fejlesztették ki a VAX típust, a DEC legsikeresebb számítógépcsaládját.
+
+
+=== Vállalkozó és tanácsadó ===
+Bell 1983-ban szívrohama után visszavonult a DEC-től, de nemsokkal ezután megalapította az Encore Computer céget, amely az elsők között készített cache- ill. buszfigyeléses technikát használó, osztott memóriás, többprocesszoros számítógépeket.
+Az 1980-as években közszolgálatba lépett, a NSF CISE Igazgatóságának első és alapító igazgatója, és közreműködött a NREN kialakításában.
+Bell alapította az ACM Gordon Bell Díját is 1987-ben (amit az ACM és IEEE adományoz) a párhuzamos számítástechnika fejlesztését elősegítendő. Az első Gordon Bell Díjat a Sandia National Laboratory Párhuzamos Feldolgozási Osztálya nyerte el az 1000-processzoros nCUBE 10 hiperkockával.
+1986-ban alapító tagja volt az Ardent Computer-nek, ott később a fejlesztés alelnöke lett, míg 1989-ben Stardent Computer néven új cég alakult az Ardent és a Stellar Computer egyesülésével.
+
+
+=== Microsoft Research ===
+1991 és 1995 Bell a Microsoft tanácsadója volt egy kutatási csoport létrehozásában, 1995 augusztusától kezdve főállású munkatárs lett, jelenleg is (2010) ott dolgozik, a telepresence / valósághű videokonferencia rendszereket tanulmányozza. Ő az alanya a MyLifeBits kísérletnek, amely Vannevar Bush automatizált totális dokumentumtárolási rendszerét hivatott a gyakorlatba ültetni. Ebben a folyamatban Bell egész élete során minden általa olvasott, készített, látott, hallott vagy kimondott információt digitalizálnak, rögzítenek és visszakereshető formában tárolnak, többé-kevésbé automatikusan; ebbe még telefonbeszélgetései, elektronikus és hagyományos levelei, webböngészési története is beletartoznak.
+Erről szól a Total Recall c. könyv, amelynek fő kérdése, hogy milyen hatásai vannak egy élet teljes információmennyiségét elektronikus formában tároló rendszernek, és vajon ilyen módon elérhető-e a halhatatlanság. Érdekesség, hogy ez a kérdés és egy hasonló kísérlet felbukkan Arkagyij és Borisz Sztrugackij egyik elbeszélésében is (Sztrugackij, Arkagyij és Borisz. Gyertyák a vezérlőberendezés előtt, Ugrás a jövőbe, ford. Füzesi Gyula (magyar nyelven), Budapest, Uzsgorod: Európa, Kárpáti, 240-268. o. EU 119-i-6668 [1963] (1966) )
+
+
+== Bell törvénye a számítógéposztályokról ==
+Bell a számítógéposztályokról szóló téziseit 1972-ben fogalmazta meg, az első olcsóbb, mikroprocesszorokon alapuló mikroszámítógép-osztály megjelenésének idején. A megállapodott piaci számítógépek állandó áron jelentek meg, növekvő funkcionalitással és teljesítménnyel. A félvezetők, tárolók, interfészek és hálózatok technológiai fejlődése lehetővé teszi körülbelül tízévenként újabb igényeket kiszolgáló, új számítógéposztályok vagy platformok megjelenését. Minden újabb általában olcsóbb osztályt egy viszonylag független ipari és piaci komplexum kezel. Bell a következő osztályozást vázolta fel:
+nagyszámítógépek (mainframes), 1960-as évek
+miniszámítógépek (minicomputers), 1970-es évek
+hálózatba kötött munkaállomások és személyi számítógépek, 1980-as évek
+böngésző-webkiszolgáló struktúra, 1990-es évek
+webszolgáltatások (web services), 2000-es évek
+kéziszámítógépek, 1995
+mobiltelefonok és számítógépek egybeolvadása, 2003
+vezeték nélküli szenzorhálózatok, WSN (motes, szemcsék), 2004
+Bell 2010-re jósolta az otthoni és testközeli hálózatok megjelenését.
+
+
+== Könyvei ==
+(with Allen Newell) Computer Structures: Readings and Examples (1971, ISBN 07-004357-4)
+(with C. Mudge and J. McNamara) Computer Engineering (1978, ISBN 0932376002 )
+(with Dan Siewiorek and Allen Newell) Computer Structures: Readings and Examples (1982, ISBN 0070573026 )
+(with J. McNamara) High Tech Ventures: The Guide for Entrepreneurial Success (1991, ISBN 0201563215 )
+(with Jim Gemmell) Total Recall: How the E-Memory Revolution will Change Everything (2009, ISBN 9780525951346 )
+(with Jim Gemmell) Your Life Uploaded: The Digital Way to Better Memory, Health, and Productivity (2010, ISBN 9780452296565 )
+
+
+== Fordítás ==
+Ez a szócikk részben vagy egészben a Gordon Bell című angol Wikipédia-szócikk ezen változatának fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.
+
+
+== Források ==
+
+http://research.microsoft.com/en-us/people/gbell/ – Gordon Bell, PRINCIPAL RESEARCHER
+
+
+== További információk ==
+Gordon Bell honlapja a Microsoft Research-nél
+Interjú, David K. Allison, Curator, National Museum of American History, USA, 1995.
+CBS Evening News videointerjú a MyLifeBits Project kapcsán, 2007.

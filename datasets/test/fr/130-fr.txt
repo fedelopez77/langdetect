@@ -1,0 +1,86 @@
+Stellarium est un logiciel libre de planétarium, sous licence GNU GPL, disponible pour GNU/Linux, Windows et Mac OS X. Il utilise OpenGL pour afficher le ciel de manière photo-réaliste en temps réel. Il est ainsi possible de simuler sur un écran ce que l'on verrait réellement à l'œil nu, aux jumelles ou avec un petit télescope.
+
+
+== Historique ==
+En 2006, Stellarium 0.7.1 a remporté l'or dans la catégorie « Éducation » des Trophées du libre.
+
+
+== Fonctionnalités ==
+
+Comme tout logiciel de planétarium, le principe de Stellarium est d'afficher les étoiles et objets célestes à leur emplacement correct (qui dépend de la position de l'observateur et de l'heure), en affichant optionnellement leur nom (pour les identifier), et en permettant à l'utilisateur de librement zoomer et parcourir la voûte céleste virtuelle.
+Le logiciel possède un catalogue de base de plus de 600 000 étoiles, et plus de 210 millions d'étoiles peuvent être ajoutées en téléchargeant des catalogues supplémentaires.
+Stellarium inclut également des images des planètes, satellites et astéroïdes du système solaire, des images de plusieurs nébuleuses (en particulier des objets du catalogue Messier), et des représentations artistiques des constellations.
+
+
+=== Lieu d'observation ===
+Le logiciel permet de choisir la position de l'observateur, grâce à des emplacements (villes) prédéfinis ou en entrant directement les coordonnées, incluant l'altitude. Il permet aussi d'observer depuis la plupart des planètes du système solaire, et depuis le Soleil lui-même.
+
+
+=== Contrôle du temps ===
+Par défaut, le logiciel se règle sur l'heure courante. Il est possible de choisir directement une date et une heure dans le passé ou dans le futur, par exemple pour simuler une éclipse historique ou à venir. Il est également possible d'accélérer ou de ralentir l'écoulement du temps (ce qui peut être utile pour visualiser facilement le déplacement des planètes sur leur orbite), ou de le mettre en pause.
+
+
+=== Luminosité du ciel ===
+
+Le logiciel prend en compte la réfraction de la lumière du Soleil dans l'atmosphère, ce qui est particulièrement important pour simuler de façon réaliste les périodes de lever et coucher du Soleil. Il permet de régler la clarté (transparence et luminosité) du ciel nocturne, selon des niveaux correspondant approximativement à l'échelle de Bortle, pour simuler l'observation depuis des lieux plus ou moins affectés par la pollution lumineuse. La Voie lactée n'est ainsi visible qu'avec un niveau bas de pollution lumineuse.
+
+
+=== Adaptation à l'obscurité ===
+Le logiciel simule l'éblouissement causé par la présence d'un objet très lumineux dans le champ de vision, tel que la Lune, et adapte le nombre d'étoiles visible en conséquence. Il possède aussi un mode « nuit » qui colore l'interface en rouge, la lumière rouge étant supposée moins affecter la vision nocturne de l'utilisateur que les autres couleurs[réf. nécessaire] (bien que cela dépende surtout des réglages de l'écran).
+
+
+=== Cosmogonies ===
+
+Stellarium est fourni avec plusieurs cosmogonies (ou « cultures »). Il s'agit d'ensembles de lignes de constellations, de dessins de constellations, et de noms d'étoiles, qui traduisent la façon dont différents peuples du monde voyaient le ciel nocturne avant que la représentation moderne ne s'impose. Cette dernière est d'ailleurs incluse comme une cosmogonie parmi d'autres, sous le nom de « culture occidentale ».
+D'autres cosmogonies peuvent être téléchargées séparément. L'une d'entre elles, par exemple, reproduit l'atlas Firmamentum de Johannes Hevelius, avec les gravures et les noms d'étoiles de l'époque.
+
+
+=== Terrains ===
+Plusieurs terrains sont fournis de base pour simuler l'observation depuis des lieux différents (champs, montagnes, forêt, océan, Lune…). L'utilisateur peut en télécharger d'autres, mais il peut aussi en créer un à partir de photos de son propre lieu d'observation habituel.
+
+
+=== Pilotage d'un télescope ===
+Stellarium permet de piloter un télescope branché sur l'ordinateur[réf. insuffisante].
+
+
+== Les plugins (de la version 0.12.0) ==
+Stellarium possède de nombreux plugins :
+goniomètre : outil de mesure d'angle
+graduation azimutale : affiche à l'horizon une graduation de l'azimut
+exoplanète : affiche la position des étoiles avec exoplanètes
+observabilité : affiche l'analyse de l'observabilité (lever, coucher et passage au méridien) de l'objet, les moments de l'année où l'observation de celui-ci est optimale et s'il se trouve au-dessus de l'horizon
+oculaire : permet de voir le ciel comme à travers un oculaire
+pulsar : affiche la position des pulsars
+quasar : affiche la position des quasars de magnitude visuelle supérieure à 16
+satellite : affiche la position prévue des satellites artificiels
+éditeur du système solaire : permet d'ajouter des astéroïdes et des comètes dans Stellarium, de télécharger une liste d'objets de Minor Planet Center et de faire des recherches en ligne dans les bases de données
+supernova historique : affiche les supernovas historiques de magnitude visuelle inférieure à 10
+contrôle télescope : permet de contrôler un télescope à monture piloté par ordinateur
+interface en mode texte : implémentation de l'environnement en mode texte (TUI) des versions 0.9.x, utilisé dans les systèmes de planétariums
+fuseau horaire : permet de choisir le fuseau horaire
+
+
+=== Projection sur un dôme ===
+Il est possible de changer le type de projection, et ainsi d'adapter le logiciel à un équipement matériel de projection de planétarium.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Logiciels d'astronomie
+Planétarium
+Cartes du ciel
+Celestia
+Google Mars
+Google Moon
+KStars
+
+
+=== Liens externes ===
+Site officiel
+ Portail de l’astronomie
+ Portail des logiciels libres

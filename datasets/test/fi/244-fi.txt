@@ -1,0 +1,15 @@
+Prosentti (merkki %) on mitta, jota käytetään ilmaisemaan suhteellista osuutta tai määrällistä suhdetta. Se ilmaisee, kuinka monta sadasosaa jokin on jostakin. Yksi prosentti on siis yhtä suuri kuin 1/100 tai 0,01 jostakin. Prosentin nimitys tulee lat. per centum, sataa kohden tai pro centum, joka tarkoittaa sadasta tai sadan puolesta.
+Esimerkkejä:
+Maitolitrassa on 1 massaprosentti rasvaa tarkoittaa, että maidon massasta yksi sadasosa on rasvaa.
+Tuotteessa on 30 prosentin alennus tarkoittaa, että tuotteen hinta on alkuperäiseen nähden 0,7-kertainen.
+Ilmapallo kasvoi 25 prosenttia tarkoittaa, että ilmapallon koko muuttui 1,25-kertaiseksi.
+Tuotteen A hinta on 100 prosenttia suurempi kuin tuotteen B tarkoittaa, että A:n hinta on kaksinkertainen B:hen nähden. Samaa tarkoittaa: Tuotteen B hinta on 50 prosenttia pienempi kuin tuotteen A.
+Tuotteen A hinta on 200 prosenttia suurempi kuin tuotteen B tarkoittaa, että A:n hinta on B:hen verrattuna kolminkertainen.
+Yleiskielisissä teksteissä prosentti tulisi mahdollisuuksien mukaan kirjoittaa kirjaimin eikä prosenttimerkkinä. Luvun ja prosenttimerkin väliin tulee sanaväli, koska prosenttimerkki toimii sanan prosentti lyhenteenä. Lauseyhteyden edellyttämä sijapääte liitetään prosenttimerkkiin kaksoispisteen avulla.
+Ensi vuonna on odotettavissa 11 %:n kasvu ~ 11 prosentin kasvu.
+
+
+== Prosenttiyksikkö ==
+
+
+== Lähteet ==

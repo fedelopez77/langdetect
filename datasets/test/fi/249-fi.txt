@@ -1,0 +1,367 @@
+Ekvivalenssiluokka on jonkin ekvivalenssirelaation määrittelemä annetun joukon osajoukko, johon kuuluvat ne alkiot, jotka kyseisessä relaatiossa ovat ekvi­valentteja jonkin annetun alkion kanssa. Tällöin samaan ekvi­valenssi­luokkaan kuuluvat alkiot katsotaan tietyssä mielessä samankaltaisiksi. Ekvi­valenssi­luokka on siis joukko 
+  
+    
+      
+        [
+        a
+        ]
+        =
+        {
+        x
+        ∈
+        A
+        
+          |
+        
+        x
+        R
+        a
+        }
+      
+    
+    {\displaystyle [a]=\{x\in A|xRa\}}
+  , missä 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   on joukon 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   ekvivalenssi­relaatio ja 
+  
+    
+      
+        a
+        ∈
+        A
+      
+    
+    {\displaystyle a\in A}
+  .
+Ekvi­valenssi­relaation määritelmästä seuraa, että ekvi­valenssi­luokat muodostavat joukon osituksen. Ekvi­valenssi­luokkien joukkoa sanotaan joukon A tekijä­joukoksi relaation R suhteen, ja sitä merkitään A / R.
+Kun joukolla A on jokin struktuuri ja ekvi­valenssi­relaatio liittyy jollakin tavalla tähän struktuuriin, tekijä­joukkoon periytyy usein samankaltainen struktuuri. Esimerkkejä tästä ovat tekijäryhmät ja tekijä­renkaat abstraktissa algebrassa sekä tekijäavaruudet topologiassa.
+
+
+== Merkintä ja muodollinen määritelmä ==
+Ekvi­valenssi­relaatio on binäärirelaatio ~, jolla on seuraavat kolme ominaisuutta:
+Jokainen joukon X alkio a on relaatiossa itsensä kanssa eli 
+  
+    
+      
+        a
+        ∼
+        a
+      
+    
+    {\displaystyle a\sim a}
+   (refleksiivisyys)
+Jos 
+  
+    
+      
+        a
+        ∼
+        b
+      
+    
+    {\displaystyle a\sim b}
+  , niin 
+  
+    
+      
+        b
+        ∼
+        a
+      
+    
+    {\displaystyle b\sim a}
+   (symmetrisyys)
+Jos 
+  
+    
+      
+        a
+        ∼
+        b
+      
+    
+    {\displaystyle a\sim b}
+   ja 
+  
+    
+      
+        b
+        ∼
+        c
+      
+    
+    {\displaystyle b\sim c}
+  , niin 
+  
+    
+      
+        a
+        ∼
+        c
+      
+    
+    {\displaystyle a\sim c}
+   (transitiivisuus)
+Sille ekvi­valenssi­luokalle, johon alkio a kuuluu, käytetään merkintää 
+  
+    
+      
+        [
+        a
+        ]
+      
+    
+    {\displaystyle [a]}
+  , ja se määritellään niiden alkioiden joukkona, jotka ovat relaatiossa ~ alkion a kanssa eli ekvi­valentteja alkion a kanssa:
+
+  
+    
+      
+        [
+        a
+        ]
+        =
+        {
+        x
+        ∈
+        X
+        ∣
+        a
+        ∼
+        x
+        }
+      
+    
+    {\displaystyle [a]=\{x\in X\mid a\sim x\}}
+  
+Jos ekvi­valenssi­relaatiolle käytetään merkintää R, voidaan sille ekvi­valenssi­luokalle, johon a kuuluu, käyttää myös merkintää 
+  
+    
+      
+        
+          a
+          
+            R
+          
+        
+      
+    
+    {\displaystyle a_{R}}
+  . Sitä sanotaan myös a:n R-ekvi­valenssi­luokaksi.
+Kaikkien X:n ekvi­valenssi­luokkien joukolle ekvi­valenssi­relaation R suhteen käytetään merkintää 
+  
+    
+      
+        X
+        
+          /
+        
+        R
+      
+    
+    {\displaystyle X/R}
+  , ja sitä sanotaan X:n tekijäjoukoksi R:n suhteen. Siitä voidaan käyttää myös nimitystä X modulo R. Surjektiota 
+  
+    
+      
+        x
+        ↦
+        [
+        x
+        ]
+      
+    
+    {\displaystyle x\mapsto [x]}
+   joukosta X joukolle X/R, joka kuvaa jokaisen alkion ekvi­valenssi­luokalleen, sanotaan kanoniseksi surjektioksi tai kanoniseksi projektioksi.
+Kun jokaisesta ekvi­valenssi­luokasta valitaan yksi alkio, tämä määrittelee injektion, jota sanotaan sektioksi. Jos tälle sektiolle käytetään merkintää s, saadaan 
+  
+    
+      
+        [
+        s
+        (
+        c
+        )
+        ]
+        =
+        [
+        c
+        ]
+      
+    
+    {\displaystyle [s(c)]=[c]}
+   jokaiselle ekvi­valenssi­luokalle c. Alkiota s(c) sanotaan c:n edustajaksi. Valitsemalla sektio sopivasti voidaan mikä tahansa alkio valita ekvi­valenssi­luokan edustajaksi.
+Toisinaan jotakin seltiota sektio on "luonnollisempana" kuin muita. Sellaisissa tapauksissa ekvi­valenssi­luokkien edustajia sanotaan kanonisiksi edustajiksi. Esimerkiksi modulaarinen aritmetiikka perustuu kokonaislukujen joukossa määriteltyyn ekvi­valenssi­relaatioon, jossa 
+  
+    
+      
+        a
+         
+        b
+      
+    
+    {\displaystyle a~b}
+  , jos 
+  
+    
+      
+        a
+        −
+        b
+      
+    
+    {\displaystyle a-b}
+   on jaolloinen annetulla kokonais­luvulla n, jota sanotaan modulukseksi. Jokaiseen ekvi­valenssi­luokkaan kuuluu vain yksi ei-nega­tiivinen kokonais­luku, joka on pienempi kuin n, ja nämä ovat luokkien kanoniset edustajat. Luokka ja sen kanoninen edustaja voidaan tietyssä mielessä samastaa, minkä vuoksi merkintää 'a mod n voidaankin käyttää sekä luokasta että sen kanonisesta edustajasta (joka on samalla jakojäännös, kun a jaetaan n:llä).
+
+
+== Esimerkkejä ==
+Olkoon X on kaikkien autojen joukko ja ~ ekvi­valenssi­relaatio "on saman värinen kuin". Tällöin yhden ekvi­valenssi­luokan muodostavat kaikki vihreät autot. Tekijäjoukko X/~ voidaan luonnollisesti samastaa kaikkien niiden värien joukon kanssa, joita autoilla on, ja sen kardinaliteetti on autojen eri värien lukumäärä.
+Olkoon X kaikkien suomenkielisten etunimien joukko ja ~ ekvi­valenssi­relaatio "alkaa samalla kirjaimella kuin". Tällöin ekvi­valenssi­luokat ovat [Aatami]={Aatami, Anna, Antti, Aino,...} [Belle]={Belle, Bettiina,...} ja niin edelleen aina aakkosten loppuun asti. Tällöin ekvi­valenssi­luokkia on yhtä monta kuin kirjaimia aakkosissa.
+Olkoon X on tason kaikkien suorakulmioiden joukko ja ~ ekvi­valenssi­relaatio "on pinta-alaltaan yhtä suuri kuin". Tällöin jokaista positiivista reaalilukua A vastaa ekvi­valenssi­luokka, johon kuuluvat kaikki suora­kulmiot, joiden pinta-ala joissakin annetuissa yksiköissä on A.
+Olkoon X kokonaislukujen joukko 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   ja ~ ja siinä määritelty ekvi­valenssi­relaatio: x ~y, jos ja vain jos x - y on parillinen luku. Tällöin ekvi­valenssi­luokkia on kaksi: toiseen kuuluvat kaikki parilliset ja toiseen kaikki parittomat kokonaisluvut. Tässä relaatiossa luvut 7, 9 ja 1 ovat kaikki tekijäjoukon 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+         
+      
+    
+    {\displaystyle \mathbb {Z} /~}
+   saman alkion edustajia.
+Olkoon X jonkin (vähintään viikon pituisen) aikavälin kaikkien päivien joukko ja ~ siinä määritelty ekvi­valensirelaatio: x ~ y, jos ja vain jos päivästä x päivään y tai päivästä y päivään x kuluvien (tai kuluneiden) vuoro­kausien lukumäärä on jaollinen 7:llä. Tämä on yhtä­pitävää sen kanssa, että päivät x ja y ovat samana viikonpäivänä, ja joukkoon X\~ alkiot eli ekvivalenssi­luokat ovat seitsemän viikonpäivää.
+Olkoon X kokonais­lukujen sellaisten järjestettyjen parien (a, b) joukko, joissa b ei ole nolla, ja ~ siinä määritelty ekvi­valenssi­relaatio: (a,b) ~ (c,d), jos ja vain jos ad = bc. Tällöin kutakin ekvi­valenssi­luokkaa (a,b) vastaa murtoluku a/b, ja tätä ekvi­valenssi­relaatiota voidaankin käyttää rationaalilukujen muodollisena määritelmänä samastamalla rationaaliluvut tällaisten ekvi­valenssi­luokkien kanssa. Samalla tavalla voidaan mistä tahansa kokonaisalueesta muodostaa sitä vastaavien "murtolukujen" kunta.
+Olkoon X eulidisen tason kaikkien suorien joukko ja määritellään relaatio ~ niin, että L ~ M, jos ja vain jos suorat L ja M ovat yhden­suuntaisia tai jos L ja M ovat sama suora. Tällöin relaatio on ekvi­valenssi­relaatio, ja kaikkien suorien joukko, jotka ovat yhden­suuntaisia L:n kanssa, on ekvi­valenssi­luokka. Jokaista tällaista ekvi­valenssi­luokkaa vastaa tietyn suuruinen kulma, jonka siihen kuuluvat suorat muodostavat esimerkiksi x-akselin suuntaisten suorien kanssa. Samalla jokainen tällainen ekvi­valenssi­luokka määrittelee yhden ideaalisen, äärettömän kaukaisen pisteen.
+
+
+== Ominaisuuksia ==
+Jokainen alkio 
+  
+    
+      
+        x
+        ∈
+        X
+      
+    
+    {\displaystyle x\in X}
+   kuuluu johonkin ekvi­valenssi­luokkaan [x]. Elleivät ekvi­valenssi­luokat [x] ja [y] ole samoja, ne ovat pistevieraita eli niillä ei ole yhtään yhteistä alkiota (niiden leikkaus on tyhjä joukko). Näin ollen kaikkien ekvi­valenssi­luokkien joukko muodostaa joukon X osituksen: jokainen X:n alkio kuuluu yhteen ja vain yhteen ekvi­valenssi­luokkaan. Kääntäen jokaista X:n ositusta vastaa ekvi­valenssi­relaatio, jossa x ~ y, jos ja vain jos x ja y kuuluvat samaan osituksessa määriteltyyn osajoukkoon.
+ekvi­valenssi­relaation ominaisuuksista seuraa, että
+
+  
+    
+      
+        x
+        ∼
+        y
+      
+    
+    {\displaystyle x\sim y}
+  , jos ja vain jos [x] = [y].
+
+  
+    
+      
+        x
+        ∼
+        y
+      
+    
+    {\displaystyle x\sim y}
+  
+
+  
+    
+      
+        [
+        x
+        ]
+        =
+        [
+        y
+        ]
+      
+    
+    {\displaystyle [x]=[y]}
+  
+
+  
+    
+      
+        [
+        x
+        ]
+        ∩
+        [
+        y
+        ]
+        ≠
+        ∅
+      
+    
+    {\displaystyle [x]\cap [y]\neq \emptyset }
+  .
+
+
+== Graafinen esitys ==
+Jokainen binäärirelaatio voidaan esittää suunnatulla graafilla, symmetriset relaatiot myös suuntaamattomilla graafeilla. Jos ~ on joukon X ekvi­valenssi­relaatio, graafin kärjet voidaan asettaa vastaamaan joukon X alkioita niin, että s ja t yhdistetään toisiinsa kaarella, jos ja vain jos s ~ t. Tässä esityksessä ekvi­valenssi­luokkia niiden graafin solmujen joukot, jotka on yhdistetty keskenään kaarella.
+
+
+== Invariantit ==
+Olkoon ~ on X:n ekvi­valenssi­relaatio ja P jokin sellainen joukon X alkioiden ominaisuus, että jos x ~ y ja alkiolla x on ominaisuus P, myös alkiolla y on ominaisuus P. Tällöin ominaisuutta P sanotaan relaation ~ invariantiksi tai että ominaisuus P on hyvin määritelty relaation ~ suhteen.
+Usein esiintyvän esimerkin tästä muodostaa tapaus, jossa f on kuvaus joukosta X joukkoon Y. Jos f(x1) = f(x2 aina, kun x1 ~ x2, kuvausta f sanotaan relaation ~ morfismiksi taikka luokkainvariantiksi tai lyhyemmin invariantiksi relaation ~ suhteen. Samalle asialle käytetään myös ilmaisua, että "f on yhteensopiva relaation ~ kanssa.
+Jokainen funktio f ; X → Y määrittelee samalla myös lähtöjoukossa X:n erään ekvi­valenssi­relaation, jossa x1 ~ x2, jos ja vain jos f(x1 = f(x2). ekvi­valenssi­luokan x muodostavat kaikki ne X:n alkiot, jotka kuvautuvat f(x):lle, toisin sanoen luokka [x] on joukon {f(x)} alkukuva. Tätä ekvi­valenssi­relaatiota sanotaan kuvauksen f kerneliksi.
+Yleisemmin kuvaus voi kuvata lähtöjoukon X ekvi­valentit alkiot (ekvi­valenssi­relaation ~x suhteen) maalijoukon Y ekvi­valenteille alkioille (ekvi­valenssi­relaation ~y suhteen). Tällaista kuvausta sanotaan morfismiksi X:stä Y:hyn.
+
+
+== Tekijäavaruus ==
+Topologiassa tekijäavaruus on topologinen avaruus, jonka muodostavat jotakin ekvi­valenssi­relaatiota vastaavat ekvi­valenssi­luokat ja jolle topologia muodostetaan käyttämällä alkuperäisen avaruuden topologiaa.
+Abstraktissa albebrassa algebrallisen struktuurin kongruenssirelaatiot tekevät mahdolliseksi määritellä vastaavat laskutoimitukset myös ekvi­valenssi­luokille, jolloin saadaan tekijäalgebra. Lineaarialgebrasa tekijä­avaruus on tekijä­joukosta muodostettu vektoriavaruus, jossa tekijähomomorfismi on lineaarikuvaus. Abstraktissa algebrassa termiä tekijä­avaruus käytetäänkin laajentuneessa merkitykessä myös tekijäryhmästä, tekijärenkaasta tai muusta tekijäalgebrasta.
+
+
+== Lähteet ==
+
+
+== Kirjallisuutta ==
+Sundstrom: Mathematical Reasoning: Writing and Proof. Prentice-Hall, 2003.
+Smith, Eggen, St.Andre: A Transition to Advanced Mathematics (6th Ed.). Thomson (Brooks/Cole), 2006.
+Schumacher: Chapter Zero: Fundamental Notions of Abstract Mathematics. Addison-Wesley, 1996. ISBN 0-201-82653-4.
+O'Leary: The Structure of Proof: With Logic and Set Theory. Prentice-Hall, 2003.
+Lay: Analysis with an introduction to proof. Prentice Hall, 2001.
+Gilbert, Vanstone: An Introduction to Mathematical Thinking. Pearson Prentice-Hall, 2005.
+Fletcher, Patty: Foundations of Higher Mathematics. PWS-Kent.
+Iglewicz, Stoyle: An Introduction to Mathematical Reasoning. MacMillan.
+D'Angelo, West: Mathematical Thinking: Problem Solving and Proofs. Prentice Hall, 2000.
+Cupillari: The Nuts and Bolts of Proofs. Wadsworth.
+Bond: Introduction to Abstract Mathematics. Brooks/Cole.
+Barnier, Feldman: Introduction to Advanced Mathematics. Prentice Hall, 2000.
+Ash: A Primer of Abstract Mathematics. MAA.
+Merikoski, Jorma & Virtanen, Ari & Koivisto, Pertti: Diskreetti matematiikka I. Tampere: Tampereen yliopisto, 2001 (1993). ISBN 951-44-3604-0.

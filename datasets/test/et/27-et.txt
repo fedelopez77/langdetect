@@ -1,0 +1,101 @@
+Mikroorganismid ehk mikroobid (rahvapäraselt ka pisikud) on väikseimad organismid, mis on nähtavad ainult mikroskoobiga. Mikroorganismidele vastanduvad makroorganismid, mida näeb palja silmaga. Teadust, mis tegeleb mikroorganismidega, nimetatakse mikrobioloogiaks.
+
+
+== Evolutsioon ==
+Ainuraksed mikroobid, esimesed elusorganismid Maal, tekkisid arvatavasti umbes 3,5 miljardit aastat tagasi. Raku tekke aluseks oli membraani moodustumine teatud ürgsete orgaaniliste struktuuride ümber. Eukarüootse elu varasemaid mikrofossiilid on umbes 1,8 miljardit aastat vanad. Teadlased on hinnanud mitokondrite ja kloroplastide tekke samasse ajaperioodi. Järgnev evolutsioon oli väga aeglane ning mitmerakulised liigid ilmusid elustikku arvatavasti umbes miljard aastat tagasi, kuid neist pole fossiilseid tõendeid säilinud. Parimad fossiilinäited esimestest loomadest pärinevad Austraalias asuvast Ediacara mäestikust. Need on umbes 650 miljoni aasta vanused kivistised meduusisarnastest organismidest. 
+
+
+== Ajalugu ==
+
+Esimesed teadmised mikroorganismidest olid puudulikud ning põhinesid spekulatsioonidel, kuna uurimismetoodika ja -vahendid olid puudulikud.
+Antoni van Leeuwenhoek (1632–1723) oli üks esimesi teadlasi, kes ise konstrueeritud mikroskoopi kasutades heitis pilgu mikroorganismide keerukale maailmale. Leeuwenhoeki mikroskoop oli lihtne läätsega seadeldis, mis võimaldas läätse taha asetatud objekti lähemale ja kaugemale liigutada ning seega uuritavat teravustada. Teadlase mikroskoop suurendas 200–300 korda. Ta uuris algloomi, vetikaid, pärme ja baktereid, avastas spermatosoidid ning punased verelibled. Alates aastast 1673 saatis ta pidevalt Londoni Kuninglikule Seltsile kirju, milles kirjeldas oma tähelepanekuid mikroorganismide kohta..
+Leeuwenhoek sai inspiratsiooni oma mikroskoobi loomiseks inglise teadlaselt Robert Hooke’ilt (1635–1703), keda tänapäeval teatakse kui mikroskoobi täiustajat, organismide rakulise ehituse kirjeldajat ja Hooke’i seaduse sõnastajat. Hooke’i peetakse ka raku avastajaks.
+Lazzaro Spallanzani (1729–1799) tõestas, et kasvumeediumi steriliseerimisel mikroobid hukkuvad ning uued mikroorganismide kolooniad saavad kasvama hakata vaid siis, kui meedium puutub kokku õhuga.
+Louis Pasteur (1822–1895) arendas Spallanzani ideed veelgi edasi ning esines 1864. aastal Sorbonne’is ettekandega, millega tõestas, et elusorganisme ei teki abiogeneesi teel ehk elu ei saa tekkida vahetult eluta ainest. Ta kasutas oma katsetes kurekaelaga kolbe, milles olev ainete segu steriliseeriti. Kolvi otsas oli avaus, mis tagas õhu juurdepääsu, kuid kolvi kael takistas mikroobide liikumist. Kui kolb purustati, hakkasid mikroorganismid segus aktiivselt paljunema. Lisaks töötas Pasteur välja pastöriseerimine protsessi, lõi vaktsiinid siberi katku ja marutõve vastu.
+Robert Koch (1843–1910) oli meditsiinilise mikrobioloogia rajaja. Uurides mitmeid bakterioloogilisi haigusi ja kasvatades baktereid söötmetel, leidis ta, et mitmeid haigustekitajaid on võimalik meediumil kasvatada ning seejärel süstida tervetesse loomadesse, põhjustades nende haigestumise. Ta töötas välja ka Kochi postulaadid.
+
+
+== Klassifikatsioon ==
+Mikroorganismide hulka kuuluvad bakterid, mikroseened, arhed ja protistid; siia alla ei kuulu aga viirused ja prioonid, mida üldiselt loetakse elututeks, kuigi paljud mikrobioloogia harud uurivad ka viirustega seotud protsesse.
+
+
+=== Eukarüoodid ===
+Eukarüoodid on väga mitmekesine domeen, kuhu kuuluvad nii silmaga nähtavad organismid kui ka paljud mikroorganismid. Erinevalt bakteritest ja arhedest on eukarüootidel olemas rakutuum, kus asub DNA, ning membraanidega ümbritsetud organellid. Eukarüootide DNA on pakitud keerukatesse kromosoomidesse. Eukarüootides esinevad organellid – mitokondrid ja kloroplastid – arvatakse olevat prokarüootset päritolu. Ehkki nad on eukarüootse raku osad, on neil oma DNA ning neid ei sünteesita kokku osadest, vaid neid tekib juurde olemasoleva organelli pooldumisel. Ilmselt tekkisidki eukarüootsed rakud prokarüoote „alla neelates“.
+
+
+===== Protistid =====
+Protistid on kõik eukarüoodid välja arvatud seened, loomad ja taimed. Nad võivad olla ainu- või hulkraksed. Protiste leidub peaaegu kõikjal, kus on vett. Traditsiooniliselt jaotatakse protiste nende toitumistüübi alusel: ainurakse looma sarnased protistid e algloomad, taimesarnased protistid e ainuraksed vetikad, seentesarnased limakud ja veeseened. Paljud neist on olulised primaarprodutsendid, moodustades suure osa ookeanide planktonist. Herbi- ja bakteriovoorsetel protistidel on tähtis roll mageveekogude ökosüsteemides. Mitmed protistid on ka haigustekitajad, neist tuntuim on parasiitne algloom plasmoodium, mis põhjustab malaariat. Ka toksoplasmoosi ja trihhomonoosi põhjustavad protistid.
+
+
+===== Loomad =====
+
+Kuigi paljud mikroskoopilised loomad on hulkraksed, siis enamikku neist on ilma mikroskoobita peaaegu võimatu märgata. Aerjalalised ja vesikirbulised on väikesed lülijalgsete hõimkonda kuuluvad mikroorganismid, kes koos keriloomade ja protistidega moodustavad zooplanktoni ehk loomhõljumi, mis on oluliseks toiduallikaks kõrgematele organismidele. Huvitavad loomsed mikroorganismid on ümarussid ehk nematoodid, kes on levinud kogu Maal – meres, magevees, maismaal ja parasiitselt teistes organismides. Nematood Caenorhabditis elegans ehk varbuss on bioloogias oluline mudelorganism. Üldiselt on mikroskoopilised loomad väga laia levialaga ning peavad muutlikele keskkonnatingimustele hästi vastu.
+
+
+===== Seened =====
+Paljud seeneliigid on üherakulised. Tuntuimad pärmseened on teaduses mudelorganismina kasutatavad pagaripärm (Saccharomyces cerevisiae) ja pärmseen Candida albicans, mis põhjustab inimestel naha seenpõletikke. Need seened läbivad oma elutsüklis nii haploidse kui ka diploidse faasi ning paljunevad pungumise või jagunemise teel.
+
+
+===== Taimed =====
+Rohevetikate hulgas on mitmeid mikroskoopilisi liike. Kuigi paljud ainuraksed vetikad kuuluvad protistide hulka, siis osad paigutatakse taimede riiki – rohevetiktaimed (Chlorophyta) ja mändvetiktaimed (Charophyta) on pisikesed vetikad, mida leidub enamasti mageveekogudes. Fotosünteesivõime muudab vetikad olulisteks primaarprodutsentideks.
+
+
+=== Prokarüoodid ===
+Prokarüoodid on organismid, millel puuduvad rakutuum ja membraaniga piiritletud organellid. Nad elavad üldjuhul keskkonnas üksikute rakkudena, erandiks on teatud müksobakterid, mis on teatud eluetapil võimelised moodustama viljakehi . Prokarüoodid jaotatakse kahte domeeni: bakterid ja arhed. Nad on võimelised elama ka ekstreemsetes keskkonnatingimustes – kuumaveeallikates, loomade seedetraktis, sügaval pinnases või ookeanide põhjas. Maad asustab umbkaudselt 4–6 × 1030 rakku prokarüoote, mis moodustab tohutu osa kogu elustikust.
+
+
+===== Bakterid =====
+
+Bakterid on mikroskoopilised organismid, mis elavad üksikrakkudena või moodustavad mitmerakulisi funktsioneerivaid kolooniaid. Nende genoomiks on rõngas-DNA, mida nimetatakse ka bakterikromosoomiks. DNA asub raku kõrgelt struktureeritud alas ehk nukleoidis. Lisaks võib bakterites esineda väikeseid DNA rõngasmolekule ehk plasmiide, mis replitseeruvad genoomist sõltumatult. Bakterid paljunevad pooldumisega, mõnel juhul ka pungumise või sugulise paljunemise teel. Eriti huvitavalt paljuneb Epulopiscium fishelsoni, mille tütarrakud arenevad organismi sees ja väljuvad hiljem pilude kaudu. Selline paljunemine meenutab sündimist.
+
+
+===== Arhed =====
+Arhed ehk ürgid on samuti mikroskoopilised prokarüoodid, mida hakati alles molekulaaruuringute abil bakteritest eristama. Ribosoomi RNA uuringute põhjal on arhedel rohkem ühist eukarüootide kui bakteritega. Alles 1990. aastal moodustati tänaseks tuntud kolm eluslooduse domeeni: bakterid, arhed ja eukarüoodid. Arhed erinevad bakteritest geneetiliste ja biokeemiliste tegurite poolest. Näiteks arhede rakumembraanides esinevad eeterlipiidid, bakterite membraanides aga esterlipiidid. Siiski sarnanevad arhede elutsükkel ja toitumine rohkem bakterite kui tüüpiliste eukarüootide omaga.
+
+
+== Elupaigad ja ökoloogia ==
+Mikroorganismid elavad Maal peaaegu kõikjal, kus on vett (ka geisrites ja ookeani põhjas), samuti sügaval maapinnas. Eluvõimelisi mikroorganisme on leitud isegi miljonite aastate vanusest igijääst. Mikroorganismid võivad olla ka sümbiontses suhtes teiste organismidega: mutualismi puhul elavad kaks eri liigist organismi teineteisest sõltuvalt koos vastastikku kasulikku kooselu. Samblik on mutualistlik eluvorm, mis koosneb kahest sümbiondist: seenkomponendist ja fotobionist (vetikas ja/või tsüaanobakter). Seeneniidistik võtab ümbritsevast keskkonnast vett, mineraalaineid ja süsihappegaasi. Bakteri- ja/või vetikarakud saavad seeneniidistikust vajalikud ained ning toodavad fotosünteesides toitaineid, mida seen fotobiondist imeb. Parasitismi puhul on parasiit see, mis saab oma peremeesorganismi elutegevusest teatavat kasu. Parasiitne mikroorganism on näiteks peamiselt troopilises kliimas leviv düsenteeria-siseamööb (Entamoeba histolytica), mis inimese seedekulglasse sattudes hakkab seal paljunema ning soolerakke hävitama, põhjustades ägedat kõhulahtisust ja põletikke. Ekstremofiilid on mikroorganismid, mis suudavad ellu jääda ka karmides keskkonnatingimustes, mis tavaliselt oleks elusorganismidele surmavad. Teadlased on leidnud ekstremofiile, mis suudavad ellu jääda isegi vaakumis, on resistentsed suurtele annustele ultraviolettkiirgusele, millest võib järeldada, et teatud mikroorganismid oleksid võimelised isegi kosmoses ellu jääma. Looduses on mikroorganismid aineringes sageli lagundajad, muundades mineraliseerumise käigus surnud orgaanilised ained anorgaanilisteks aineteks, mida saavad taaskord kasutada autotroofsed taimed. Kuna mõned mikroobid seovad lämmastikku, mängivad nad olulist rolli lämmastikuringes.
+
+
+== Kasutamine ==
+
+
+==== Toiduainetööstus ====
+
+Paljusid mikroorganisme kasutatakse toiduainetööstuses, spetsiifilisemalt veini- ja õlletootmisel (pagaripärm), küpsetamisel (pagaripärm) ja marineerimisel (äädikhappebakterid). Eriline osa on piimhappebakteritel piimatoodete käärimisel ehk fermentatsioonil – juustu, kohupiima ja muude hapupiimatoodete valmistamisel. Jogurtitele lisatakse probiootilisi piimhappebaktereid, mis soodustavad seedeprotsesse ja pärsivad haigustekitajate paljunemist.
+
+
+==== Energia ====
+Mikroobide etanoolkäärimise tulemusena tekkivat etanooli kasutatakse autotööstuses bensiinilisandina. Energia tootmiseks kasutatakse ka lagunemisprotsessides tekkivat biogaasi, metaani. Alates 2011. aasta märtsist sõidavad Tartu linnas biogaasil töötavad bussid. Lisaks uurivad teadlased võimalusi, kuidas vetikad saaksid efektiivselt toota vedelkütuseid.
+
+
+==== Bioremeditsioon ====
+Reovee puhastussüsteemides kasutatakse lisaks mehaanilisele ja keemilisele puhastamisele ka mitmeid mikroobiliike, mis on spetsiaalselt kasvatatud ja kohandatud, et puhastada vett ökoloogilisemal viisil ning vähem kemikaale kasutades.
+
+
+==== Teadus ====
+Teaduses kasutatakse paljusid mikroorganisme nende lihtsa ehituse ja odava kasvatamise tõttu mudelorganismidena. Mudelorganismid aitavad uurida geenide järjestusi, geenide toimet ja funktsioone ning üldse seoseid genotüübi ja fenotüübi vahel; on aluseks metabolismi toimimise, arengubioloogia ja haiguste uuringutele. Tähtsamad mikroskoopilised mudelorganismid on järgmised:
+Caenorhabditis elegans – varbuss,
+Escherichia coli (E. coli) – soolekepike,
+Saccharomyces cerevisiae – pagaripärm.
+
+
+== Vaata ka ==
+mikroskoop
+mikrobioloogia
+mikrofloora
+mikrofossiilid
+varbuss
+mikrofloora
+mikroobitoksiinid
+
+
+== Viited ==
+
+
+== Välislingid ==
+Ingliskeelne mikroobide lühitutvustus
+Superbakteridest
+Mikrofloora mõju dieetidele ja ravimitele
+Lühidalt mudelorganismidest
+Ingliskeelne mikrobioloogiaõpik

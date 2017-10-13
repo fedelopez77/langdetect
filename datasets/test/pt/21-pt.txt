@@ -1,0 +1,22 @@
+Número de acessos ou pageviews é o número de vezes que uma página da internet é visualizada em algum navegador. É um dos instrumentos mais importantes que os eMarketeers utilizam para medir a audiência de um site ou portal.
+Muitas vezes o termo pageview é confundido erradamente com o termo hit que é o número de vezes que um elemento (ex: uma imagem em formato JPG) de uma página da internet é visualizado. Por outras palavras, uma pageview pode significar múltiplos hits.
+
+
+== Dicionário de Termos ==
+Visit ou Session – Visita ou Sessão - Uma série dos pedidos do mesmo cliente excepcionalmente identificado com um intervalo de timeout. Uma visita espera-se conter batidas múltiplas (na análise do registro) e vistas da página.
+First Visit ou First Session – Primeira visita ou primeira sessão – Uma visita de um visitante que ainda não fez nenhuma visita precedente.
+Visitor / Unique Visitor / Unique User – Visitante / Visitante Original / Usuário Original - O cliente excepcionalmente identificado que gera pedidos no web server (análise do registro) ou que vê páginas, dentro de um período de tempo definido (isto é dia, semana ou mês). Um visitante original conta uma vez dentro do timescale. Um visitante pode fazer visitas múltiplas.
+Repeat Visitor – Visita Repetida – Um visitante que já fez pelo menos uma visita. O período entre a última e visita atual é chamado "recency" do visitante e medido nos dias.
+New Visitor – Novo visitante – Visitante que ainda não fez nenhuma visita. Esta definição cria uma determinada quantidade de confusão, e é substituída às vezes com análise de primeiras visitas.
+Impression – Impressão – Uma Impressão é quando um anúncio aparece na tela. Quando você vê um banner é uma impressão.
+Singleton – O número de vezes que uma única página foi visitada.
+Bounce Rate – A porcentagem das visitas onde o visitante entra e sai na mesma página sem visitar nenhumas outras páginas no local.
+Hit – tem a ver com quantos arquivos são acessados toda vez que a gente digita um site. Exemplo: Site da Livraria Cultura, sendo que na tela que se abre encontram-se muitos arquivos, a capa do livro que está sendo anunciado na primeira página, o carrinho de compras, etc.
+Page view – Conta por visitas. Não interessa quantos arquivos/imagens foram acessados. Tudo vale como 1 Page view.
+Visit ou Session – Quantas visualiazacoes e como as pessoas se comportaram. O que e o tempo que os visitantes gastam no seu site. Depende muito do tipo de conteúdo que seu site oferece. É possível através desta ferramenta fazer uma média.
+First Visit ou First Session – Primeira visita ou primeira seção. Usuários que nunca entraram antes no site e estão entrando agora. É interessante pois podemos verificar quando o site estiver há algum tempo no ar, quem "novo" acessou o site.
+Visitor / Unique Visitor / Unique User – O site pode ter visitas durante toda a semana, mas se acessa do mesmo computador contará apenas como uma.
+
+
+== Ver também ==
+Contador de visitas

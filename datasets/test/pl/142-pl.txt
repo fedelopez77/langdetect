@@ -1,0 +1,7 @@
+Kula opisana na wielościanie to kula, której brzeg dotyka wszystkich wierzchołków wielościanu. Czasem mówi się o sferze opisanej.
+Nie na każdym wielościanie można opisać kulę. Nie można tego zrobić w szczególności dla żadnego wielościanu niewypukłego. Można tego jednak dokonać m.in. dla każdego wielościanu foremnego.
+
+
+== Zobacz też ==
+okrąg opisany na wielokącie
+kula wpisana

@@ -1,0 +1,10 @@
+Zbiór Smitha – w ordynacjach wyborczych jest to namniejszy niepusty zbiór kandydatów uczestniczących w konkretnych wyborach, gdzie każdy z nich wygrywa z każdym innym kandydatem spoza tego zbioru w zestawieniach parami.
+Zbiór Smitha to jedno z możliwych ustaleń najlepszego wyboru głosowaniem. Ordynacje wyborcze, w których zwycięzca zawsze należy do zbioru Smitha, spełniają kryterium Smitha i noszą miano ordynacji typu Smith-wydolnych (ang.: Smith-efficient).
+Zbiór kandydatów, w którym każdy element wygrywa w zestawieniu parami z każdym elementem spoza zbioru, jest także znany jako zbiór dominujący.
+
+
+== Bibliografia ==
+Benjamin Ward. Majority Rule and Allocation. „Journal of Conflict Resolution”, s. 379–389, 1961. DOI: 10.1177/002200276100500405. Volume 5 (ang.).  (opis ang.: In an analysis of serial decision making based on majority rule, describes the Smith set and the Schwartz set.)
+Smith, J.H.. Aggregation of Preferences with Variable Electorates. „Econometrica”, s. 1027–1041, 1973. DOI: 10.2307/1914033. Volume 41 (ang.).  (opis ang.: Introduces a version of a generalized Condorcet Criterion that is satisfied when pairwise elections are based on simple majority choice, and for any dominating set, any candidate in the set is collectively preferred to any candidate not in the set. But Smith does not discuss the idea of a smallest dominating set.)
+Peter C. Fishburn. Condorcet Social Choice Functions. „Siam Journal of Applied Mathematics”, s. 469–489, 1977. DOI: 10.1137/0133030. Volume 33 (ang.).  (opis ang.: Narrows Smith's generalized Condorcet Criterion to the smallest dominating set and calls it Smith's Condorcet Principle.)
+Thomas Schwartz: The Logic of Collective Choice. Nowy Jork: Columbia University Press, 1986. (ang.) (opis ang.: Discusses the Smith set (named GETCHA) and the Schwartz set (named GOTCHA) as possible standards for optimal collective choice.)

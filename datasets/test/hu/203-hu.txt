@@ -1,0 +1,9 @@
+A 322 (római számmal: CCCXXII) egy természetes szám, szfenikus szám, a 2, a 7 és a 23 szorzata.
+
+
+== A szám a matematikában ==
+A tízes számrendszerbeli 322-es a kettes számrendszerben 101000010, a nyolcas számrendszerben 502, a tizenhatos számrendszerben 142 alakban írható fel.
+A 322 páros szám, összetett szám, azon belül szfenikus szám, kanonikus alakban a 21 · 71 · 231 szorzattal, normálalakban a 3,22 · 102 szorzattal írható fel. Nyolc osztója van a természetes számok halmazán, ezek növekvő sorrendben: 1, 2, 7, 14, 23, 46, 161 és 322.
+Tizenhétszögszám.
+Érinthetetlen szám: nem áll elő pozitív egész számok valódiosztó-összegeként.
+A 322 négyzete 103 684, köbe 33 386 248, négyzetgyöke 17,94436, köbgyöke 6,85412, reciproka 0,0031056. A 322 egység sugarú kör kerülete 2023,18567 egység, területe 325 732,89269 területegység; a 322 egység sugarú gömb térfogata 139 847 988,6 térfogategység.

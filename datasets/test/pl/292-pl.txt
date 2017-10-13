@@ -1,0 +1,5 @@
+Raspbian – dystrybucja Linuksa oparta na Debianie, przystosowana do pracy z urządzeniami Raspberry Pi. Został stworzony przez Mike Thompsona i Petera Greena, rozwijany jest przez małą grupę deweloperów. Został uznany przez Fundacje Raspberry Pi za podstawowy system dla Raspberry Pi.
+Menadżerem okien w starszych wersjach jest LXDE. W nowych wersjach środowiskiem graficznym jest PIXEL.
+
+
+== Przypisy ==

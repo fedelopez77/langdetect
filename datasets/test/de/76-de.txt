@@ -1,0 +1,29 @@
+Unwuchtmotoren sind Rotationsmaschinen, an deren Welle verstellbare Gewichte angebracht sind, die wegen der auftretenden Fliehkräfte im Betrieb kreisförmige mechanische Schwingungen erzeugen.
+
+
+== Antriebsarten ==
+Für den industriellen Einsatz werden meist Drehstrommotoren zum Antrieb verwendet. Sie eignen sich grundsätzlich für alle rotierenden Maschinen, wie zum Beispiel Verbrennungs-, Hydraulik- oder Druckluftmotoren.
+Bei Verbrennungsmotoren wird der Unwuchteffekt oft schon durch Wegfall der Ausgleichsgewichte auf der Kurbelwelle erreicht. Allerdings ist dann die Schwingung wegen der hin- und hergehenden Kolbenbewegung nicht kreisförmig, sondern elliptisch, was aber bei bestimmten Anwendungen durchaus erwünscht sein kann.
+
+
+== Schwingamplitudeneinstellung ==
+
+Die auf der Motorwelle montierten Gewichte sind in der Regel 2-teilig und oft mit einer Skala versehen, nach der man die Gewichte von 0 bis 100 % der maximalen Unwucht einstellen kann. Liegen sich die Gewichte genau gegenüber, so heben sich die Fliehkräfte auf (0 %), während sich bei Überdeckung die maximale Unwucht (100 %) ergibt. Bei größter Unwucht ist die Schwingungsamplitude am größten.
+
+
+== Schwingfrequenz ==
+Die Frequenz der Schwingung wird durch die Motordrehzahl bestimmt. Mit steigender Frequenz steigt die abgegebene Schwingleistung. Will man bei langsam laufenden Motoren die gleiche mechanische Schwingleistung wie bei schnell laufenden erreichen, so müssen die Gewichte in Masse und/oder Durchmesser vergrößert werden. Ist eine bestimmte Schwingleistung bei begrenztem Durchmesser erforderlich, so kann dies nur durch Erhöhung der Motordrehzahl erreicht werden. So werden zum Beispiel für relativ schlanke Betonverdichter (sogenannte Rüttelflaschen) mit Elektroantrieb Umrichter oder Umformer verwendet um die Motoren schneller laufen lassen zu können, als es die Netzfrequenz von 50 Hz erlaubt.
+
+
+== Spezielle mechanische Auslegung ==
+Unwuchtmotoren werden wegen der starken mechanischen Schwingungen mit größeren, stabileren und steiferen Motorgehäusen, Lagerschilden und Befestigungsvorrichtungen versehen als es bei normalen Motoren gleicher Baugröße üblich ist. Außerdem werden wesentlich größere Gleit- oder Wälzlager eingebaut. Durch die größere Motoroberfläche kann die entstehende Verlustwärme leichter abgeführt werden, so dass elektrische Unwuchtmotore in der Regel ohne den bei normalen Motoren erforderlichen Lüfterflügel auskommen. Dadurch ist es möglich, an beiden Wellenenden des Motors Gewichte zu montieren.
+
+
+== Synchronlauf ==
+Werden Unwuchtmotoren paarweise verwendet (zum Beispiel bei Schwingförderern), so stellt sich im Betrieb eine synchrone Drehzahl beider Antriebe ein. Diese Drehzahl wird beibehalten, wenn einer der beiden Motoren abgeschaltet wird. Der abgeschaltete Motor läuft also weiter mit. Dies muss bei Arbeiten an solchen Antrieben beachtet werden, weil es mit erheblichen Unfallgefahren verbunden ist.
+
+
+== Anwendung ==
+
+Unwuchtantriebe werden zum Beispiel für Schwingförderer, Schwingsiebe, Vibrationsreinigungsgeräte, Vibrationsverdichter, Vibrations-Straßenwalzen, Rüttelplatten oder für Massagegeräte und den Vibrationsalarm unter anderem in Mobiltelefonen verwendet.
+Auch Silos für Schüttgut sind oft mit Unwuchtmotoren ausgerüstet, um das Schüttgut fließfähiger zu machen.

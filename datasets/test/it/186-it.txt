@@ -1,0 +1,23 @@
+Myasishchev M-57 è il progetto di un bombardiere strategico supersonico portato avanti dall'OKB-23 Myasishchev a partire dal 1959. Il lavoro relativo a questa macchina venne interrotto nei primissimi anni sessanta, ed il velivolo rimase sulla carta.
+
+
+== Storia ==
+
+
+=== Sviluppo ===
+L'ufficio tecnico di Vladimir Michajlovič Mjasiščev iniziò a lavorare ad un aereo da bombardamento supersonico in grado di lanciare missili da crociera a partire dal luglio 1959. I lavori relativi al nuovo velivolo vennero affidati a L. Selyakova, che realizzò un progetto preliminare di quello che prese poi il nome di Myasishchev M-57. Questo aereo incorporava anche alcune delle soluzioni che erano state ideate per il bombardiere Myasishchev M-56, anch'esso progettato dall'OKB-23 e rimasto sulla carta.
+Il primo volo era stato previsto per il 1963, ovvero quattro anni dopo l'inizio delle attività progettuali. Tuttavia, questo programma, come praticamente tutti quelli di Mjasiščev, venne cancellato nei primissimi anni sessanta, in seguito alla chiusura del suo OKB.
+
+
+== Descrizione tecnica ==
+Probabilmente, furono valutate diverse configurazioni del Myasishchev M-57. Il progetto finale comunque prevedeva un velivolo a sei motori che utilizzava la formula dell'ala volante a delta, con doppia deriva. La superficie alare era piuttosto vasta, e raggiungeva i 400 metri quadrati. Tra le ipotesi valutate, ce ne fu anche una con alette canard. Dal punto di vista estetico, comunque, il risultato finale era piuttosto simile all'A-57 progettato da Roberto Oros di Bartini (anche questo mai realizzato).
+Il peso al decollo era stato stimato essere compreso tra le 220 e le 240 tonnellate, delle quali 137 costituite da carburante. L'equipaggio era di tre elementi.
+La propulsione avrebbe dovuto essere assicurata da sei turbogetti, che nel progetto definitivo erano stati sistemati tra le due derive di coda. Inizialmente, si pensò di utilizzare degli NK-11, ma infine si optò per altrettanti VK-15M. Questi avevano una potenza compresa tra i 25.000 ed i 26.000 kgf, ed avrebbero dovuto spingere l'M-57 alla velocità di crociera di 3.200 km/h. L'autonomia stimata raggiungeva i 17.200 km (aumentata di 1.000 km rispetto al progetto preliminare). La tangenza massima era nell'ordine dei 26.000 metri. La tangenza operativa effettiva invece era inizialmente di 24.000 metri, poi aumentati a 25.000 nel progetto finale.
+L'armamento avrebbe dovuto essere costituito da missili da crociera in grado di trasportare una testata nucleare, con una gittata di 500-1.000 km. Si decise di utilizzare dei missili aria superficie AS-4 Kitchen (russo: Kh-22), all'epoca in fase di sviluppo. L'M-57 sarebbe stato in grado di trasportarne due, con un carico bellico complessivo che quindi sfiorava le 12 tonnellate.
+
+
+== Note ==
+
+
+== Collegamenti esterni ==
+(RU) Myasishchev M-57, testpilot.ru. URL consultato il 23 ottobre 2009.

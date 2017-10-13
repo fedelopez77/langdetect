@@ -1,0 +1,39 @@
+Transistorlüliti (ingl analogue switch) ehk elektronlüliti (saksa Elektronischer Schalter) on elektroonikalülitus, mis võimaldab tüürsignaali abil avada või sulgeda elektriahelat, toimides seega nagu näiteks elektromehaaniline relee, kuid ilma liikuvate osadeta ning palju kiiremini. Tüürsignaaliga muudetakse transistori(de) juhtivust hüppeliselt nii, et lüliti kontaktidevaheline takistus on kas nullilähedane või võimalikult suur.
+
+
+== Ideaalne lüliti ==
+Ideaalset lülitit iseloomustavad järgmised omadused.
+Väljalülitatud olekus on takistus lõpmatult suur. Sõltumata pinge suurusest ja polaarsusest vool puudub (voolutugevus null).
+Sisselülitatud olekus on takistus null. Sõltumata pinge suurusest ja polaarsusest pingelang lülitil puudub.
+Olekute vahetus (ümberlülitumine) toimub viivituseta ja ühekorraga, ilma siirdemoonutusteta.
+Lüliti tüürimine (sisse- ja väljalülitamise juhtimine) ei vaja energiat.
+
+
+== Väljatransistoril põhinev lüliti ==
+
+Transistoritüüpidest täidavad ideaallüliti tingimusi kõige paremini väljatransistorid ja neist omakorda isoleeritud paisuga väljatransistorid ehk MOSFET-transistorid. Seejuures on piiravateks tingimusteks, et lülitatav pinge (väljalülitatud olekus) ja vool (sisselülitatud olekus) ei tohi ületada transistorile lubatud väärtusi.
+Niisugusel transistorlülitil on kaks olulist puudust:
+suur võimsustarve, sest transistori läbib vool kogu sisselülitatud oleku kestel;
+väljalülitumine toimub viivitusega, sest transistorist on vaja välja viia kogu voolust põhjustatud elektrilaeng; sellest tulenevalt on ümberlülitussagedus piiratud, ka võib laeng väljalülitamisel põhjustada lülitatavas vooluahelas häiriva pingeimpulsi.
+
+MOSFET-transistor
+
+
+== CMOS-lüliti ==
+Ühe väljatransistoriga lüliti puudustest on vaba CMOS-lüliti. Niisuguses lülitis kasutatakse p-tüüpi ja n-tüüpi kanaliga transistoride komplementaarset (teineteist täiendavat) paari, mis kokku moodustavad CMOS-transistori (ingl Complementary Metal-Oxide-Semiconductor).
+Kõrvaloleval skeemil on kujutatud lihtsaim CMOS-lüliti, mis töötab nagu loogikalülitusena tuntud inverter vastavalt järgmisele tabelile:
+CMOS-inverteri kõrval kasutatakse CMOS-NAND- ja CMOS-NOR-loogikaelementidel põhinevaid skeeme.
+CMOS-lüliti tarbib voolu ainult sisse- ja väljalülitamise hetkel, sest üks transistoridest on alati suletud (mittejuhtiv). Ümberlülitamise ajal, mis ei kesta üle paarikümne nanosekundi, on osaliselt avatud mõlemad transistorid, kusjuures neid läbiv vool jääb staatilises režiimis (ühekordsel lülitamisel) alla 1 mikroampri. Kuna ümberlülitamisel kulub energiat ka transistoride sisemahtuvuse laadimiseks, siis kasvab energiatarve koos ümberlülitamise sagedusega.
+Lüliti takistus jääb sisselülitatud olekus vahemikku mõnest oomist mõnekümne oomini ja ulatub väljalülitatud olekus mega- või gigaoomides mõõdetava väärtuseni.
+
+
+== Kasutamine ==
+CMOS-lüliti on digitaalsete integraallülituste põhiline ehituskivi, kuid erisuguste lülitusvõimalustega lüliteid toodetakse ka eraldi komponentidena, nt ühepooluseline lihtlüliti (SPST, single pole single throw), ühepooluseline ümberlüliti (SPDT, single pole double throw) ja mitmepooluselised lülitid (DPST ON-Off, DPDT ON-ON jt).
+Transistorlüliti võimaldab suure väljundtakistusega signaaliallikaga lülitada väikese takistusega koormuseid. Transistorlüliteid kasutatakse näiteks releede, ventilaatorite, mootorite ja teiste elektroonika- või elektriseadmete lülitamiseks. Tüürsignaaliallikaks võib olla mikrokontrolleri väljundviik, andur või muu seade, mille väljundsignaaliga soovitakse lülitamisi teha.
+
+
+== Viited ==
+
+
+== Välislingid ==
+Selecting the Right CMOS Analog Switch

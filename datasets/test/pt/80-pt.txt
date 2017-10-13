@@ -1,0 +1,15 @@
+Terabit Ethernet ou 1TbE é um termo utilizado nos meios de comunicação atuais que descreve o próximo padrão de velocidade da tecnologia Ethernet superior ao atual Gigabit Ethernet. Empresas como Facebook e Google são exemplos de companias que necessitam que o padrão 1TbE seja desenvolvido.
+
+
+== Veja também ==
+ATM;
+Gigabit Ethernet;
+Ethernet bonding;
+Ethernet 10 Gigabit;
+Ethernet Automatic Protection Switching;
+Rede local;
+Rede de computadores;
+Protocolo TCP/IP.
+
+
+== Referências ==

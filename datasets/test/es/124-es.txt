@@ -1,0 +1,32 @@
+El principio cero de la termodinámica es una ley fenomenológica para sistemas que se encuentran en equilibrio térmico. Fue formulado por primera vez en 1931 por Ralph H. Fowler. Constituye una gran importancia experimental —pues permite construir instrumentos que midan la temperatura de un sistema—[1]​ pero no lo es tanto para la propia estructura de la teoría termodinámica.
+El principio establece que existe una determinada propiedad, denominada temperatura empírica 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  , que es común para todos los estados de equilibrio que se encuentren en equilibrio mutuo con uno dado.
+
+
+== Presentación y deducción ==
+
+
+== Véase también ==
+Temperatura
+Termodinámica
+Primer principio de la termodinámica
+Segundo principio de la termodinámica
+Tercer principio de la termodinámica
+Fluctuación cuántica
+
+
+== Referencias ==
+
+
+=== Notas ===
+
+
+=== Bibliografía ===
+Zemansky, Mark W. (1985). «Calor y termodinámica». Madrid: McGraw-Hill. ISBN 84-85240-85-5.

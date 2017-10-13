@@ -1,0 +1,23 @@
+Le Narrème est l'unité narrative fondamentale du récit. Selon Helmut Bonheim (2000), le concept du narrème a été introduit par Eugène Dorfman et développé par Henri Wittmann. Le narrème est à la narratologie ce que le morphème est à la morphologie et le phonème à la phonologie.
+Dans l'optique d'une narratologie interprétative dans le cadre de l'approche Principes et Paramètres, toute narration est la projection d'un narrème N0, la tête narrative abstraite de la macrostructure narrative, où Nη domine immédiatement Nη-1, le tout constituant un algorithme narratif (Wittmann 1995). L'étude des algorithmes narratifs possibles et de leurs variantes est l'objet de la narratologie.
+
+
+== Bibliographie ==
+Bonheim, Helmut. 2000. "Shakespeare's narremes." In: Shakespeare Survey 53: Sakespeare and narrative. Edited by Peter Holland. Cambridge: Cambridge University Press, pp. 1-11.[1]
+Dorfman, Eugène. 1969. The narreme in the medieval romance epic: An introduction to narrative structures. Toronto: University of Toronto Press.
+Schärfe, Henrik. 2004. CANA: A study in computer-aided narrative analysis. Aalborg University, Dept. of Communication: Ph.D. dissertation.
+Shivel, Gail. 2009. "World of Warcraft: The Murloc is the Message." Symplokê 17:1-2.205-213[2]
+Tusseau, Jean-Pierre & Henri Wittmann. 1975. "Règles de narration dans les chansons de geste et le roman courtois". Folia linguistica 7.401-12.[3]
+Wittmann, Henri. 1974. "Topics in the theory of narrative algorithms." Travaux linguistiques de l'Université du Québec à Trois-Rivières 3.1.[4]
+Wittmann, Henri. 1975. "Théorie des narrèmes et algorithmes narratifs". Poetics 4:1.19-28.[5]
+Wittmann, Henri. 1995. "La structure de base de la syntaxe narrative dans les contes et légendes du créole haïtien." Poétiques et imaginaires: francopolyphonie littéraire des Amériques. Sous la direction de Pierre Laurette & Hans-George Ruprecht. Paris: L'Harmattan, pp. 207-218.[6]
+
+
+== Lien interne ==
+Narratologie
+Narration
+Grammaire générative
+Sémantique
+Algorithmique
+Informatique
+ Portail de la linguistique

@@ -1,0 +1,10 @@
+IceWarp, Inc. je softvérová firma, založená v roku 1998 so sídlom v Springfielde, vo Virgínii v USA. Zaoberá sa vývojom softvérových nástrojov pre internetovú komunikáciu, poštových serverov a Groupware pre veľké firemné siete.
+Spoločnosť sídli v Česku, USA, Rusku, Nemecku a Indii.
+
+
+== Produkty ==
+IceWarp Mail Server - poštový server s kompletným Groupware riešením pre firemné siete. Mail server možno prevádzkovať v cloude aj nainštalovaný na vlastnom serveri s operačnými systémami Windows, CentOS, Debian, Red Hat a Ubuntu. Posledná stabilná verzia je 11.4.5. Softvér je známy aj pod skorším označením Merak.
+
+
+== Externé odkazy ==
+Oficiálne stránky firmy

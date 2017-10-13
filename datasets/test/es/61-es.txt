@@ -1,0 +1,60 @@
+El Cierva C.19 fue un autogiro diseñado por el ingeniero español Juan de la Cierva y Codorníu en Gran Bretaña en 1929, en asociación con la firma Avro (Avro Tipo 620). Era un aparato biplaza, siendo el mas solicitado hasta ese momento de los muchos diseños iniciales de Juan de la Cierva.
+
+
+== Desarrollo ==
+El más prolífico de los diseños experimentales realizados por de la Cierva fue el C.19, del que se construyeron una serie de variantes, debidas casi todas a Avro.
+Los tres primeros ejemplares, designados Avro Tipo 620, se proyectaron como C.17 Mk II , pero fueron completados en el estándar C.19 Mk I. En los modelos anteriores, de la Cierva había concebido los sistemas rotores, en tanto que Avro se había limitado a modificar células de tipos preexistentes de ala fija. El C.19 señaló el comienzo de una serie de autogiros diseñados desde el principio como tales.
+Uno de los refinamientos importantes en lo que a la ingeniería del C.19 era la capacidad de girar mecánicamente el eje del rotor (el cual, al ser un autogiro, no estaba motorizado), conectándolo al motor mediante un embrague, a la vez que reflectaba el aire procedente de la hélice tractora hacia el rotor por medio de la “cola de escorpión”. En los diseños anteriores de Juan de la Cierva, el giro se iniciaba a mano o tirando de un cable.
+Los tres C.19 Mk I estaban propulsados con el motor radial Armstrong Siddeley Genet II de 80 cv. Les siguieron tres C.19 Mk II, un C.19 Mk IIA con cabeza e rotor mejorada, seis C.19 Mk III, 15 C.19 Mk IVP y un C.19 Mk V experimental, todos ellos propulsados por Genet Major I de 105 cv.
+Estos aparatos tuvieron destinos muy distintos; un Mk I y dos Mk II se vendieron al extranjero, yendo uno de estos últimos a parar a la Pitcairn Autogyro Co. , en diciembre de 1929. Dos Mk III también se exportaron, uno de ellos a Nueva Zelanda, y otros dos se entregaron a la RAF. Los Mk IVP se repartieron entre Australia, Alemania, España (tres ejemplares), Japón, Singapur, Sudáfrica y Suecia.
+Un lote de C.19 Mk IV construidos bajo licencia en Alemania por Focke-Wulf, con motor radial Siemens Sh.14B de 150 cv, recibió la designación C.20; la denominación C.21 fue asignada a un proyecto francés de construir el C.19 Mk IV como C.21 por la compañía Lioré-et-Olivier
+La RAF operó dos Cierva C.19 Mk III a principios de la década de 1930 para la evaluación del concepto del autogiro.[1]​
+
+
+== Variantes ==
+
+Cierva C.19 Mk.I – prototipos con motor Armstrong Siddeley Genet II (3 construidos)
+Cierva C.19 Mk.II – variante con motor Armstrong Siddeley Genet Major 1 usado en todos los components de la versión anterior (3 construidos)
+Cierva C.19 Mk.IIA - Mk.II con nuevo diseño de la cabeza del rotor (1 construido)
+Cierva C.19 Mk.III - (6 construidos)
+Cierva C.19 Mk.IV – producción definitiva para exportación (15 construidos)
+Cierva C.19 Mk.V - (1 construido)
+Cierva C.20 – Versión construida por Focke-Wulf bajo licencia con motores Siemens Sh 14B
+Cierva C.21 - Lioré et Olivier bajo licencia de construcción (no construido)
+
+
+== Unidades preservadas ==
+
+Cierva C.19 Mk.IV en el Museo de Aeronáutica y Astronáutica de España (Madrid)[2]​
+
+
+== Especificaciones (Mk.II) ==
+
+
+=== Características generales ===
+Tripulación: 1 piloto
+Capacidad: 1 pasajero
+Longitud: 5,49 m
+Diámetro rotor principal: 9,15 m
+Altura: 3,05 m
+Peso vacío: 386 kg
+Peso cargado: 635 kg
+Planta motriz: 1× motor radial cinco cilindros Armstrong Siddeley Genet Major I.
+Potencia: 105 Cv. 78 kW
+
+Hélices: 1× 1 por motor.
+
+
+=== Rendimiento ===
+Velocidad máxima operativa (Vno): 153 km/h 95 mph
+Alcance: 483 km 300 millas
+Régimen de ascenso: 2,5 m/s 500 ppm
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Enciclopedia Ilustrada de la Aviación: Vol.5/pag.1154, Edit. Delta, Barcelona. 1983 ISBN 84-85822-52-8
+Taylor, J.H.,Jane's. Encyclopedia of Aviation (pág. 254), Studio Editions, London 1989
+World Aircraft Information Files (archive 891 hoja 28 ), publicado por Bright Star de Londres

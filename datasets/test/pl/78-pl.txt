@@ -1,0 +1,24 @@
+Komórka Merkla – wyspecjalizowana komórka naskórka odbierająca u kręgowców bodźce czuciowe (receptor dotyku). Uważa się, że komórki Merkla stanowią punkt wyjścia raka neuroendokrynnego skóry (MCC).
+
+
+== Historia ==
+Komórki te zostały nazwane w 1878 przez Roberta Bonneta na cześć XIX-wiecznego niemieckiego anatoma Friedricha Siegmunda Merkla, który w roku 1875 pierwszy w pełni je opisał.
+
+
+== Lokalizacja ==
+Komórki Merkla występują w skórze i w warstwie rozrodczej śluzówki wszystkich kręgowców. U ssaków występują w postaci jasnych komórek, przeciętnie o średnicy 10 µm, zlokalizowanych w warstwie podstawnej naskórka, gdzie najczęściej łączą się z zakończeniami wolnoadaptujących się czuciowych włókien nerwowych (SA1).
+
+
+== Funkcja ==
+Friedrich Merkel określił te komórki mianem Tastzellen czyli komórek dotyku. Wyniki doświadczenia przeprowadzanego w 2009 roku na myszach, u których ekspresja określonych genów została wyłączona (tzw. knockout), potwierdziły ich rolę w przekazywaniu bodźców czuciowych dotyczących wrażeń związanym z postrzeganiem przestrzennym. Komórki Merkla są zaliczane do komórek serii APUD z powodu funkcji neuroendokrynnej.
+
+
+== Pochodzenie rozwojowe ==
+Dyskusja o pochodzeniu komórek Merkla trwa ponad 20 lat. Wyniki badań przeszczepionej skóry u ptaków wskazywały na pochodzenie komórek Merkla z grzebienia nerwowego (neuroektoderma), jednak badania przeprowadzone u ssaków sugerują obecnie pochodzenie naskórkowe (ektoderma).
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Komórka Merkla w bazie MeSH (Medical Subject Headings)

@@ -1,0 +1,5 @@
+Indenfor elektronik bruges betegnelsen bias bl.a. om en DC-forspænding, der har til formål at fastlægge et arbejdspunkt for en aktiv komponent, f.eks. baseforspændingen på en transistor eller gitterspændingen på et elektronrør.
+
+
+== Se også ==
+Bias – for andre betydninger.

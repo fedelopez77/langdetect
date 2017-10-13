@@ -1,0 +1,32 @@
+Tio compostos são compostos orgânicos contendo como heteroátomo o enxofre substituindo o oxigênio por ser bivalente nas principais funções oxigenadas, formando assim os tio compostos ou funções sulfonadas. Por exemplo:
+álcool (função oxigenada):tio-álcool:
+R-OH R-SH
+éter (função oxigenada): tio-éter:
+R-C-O-C-R' R-C-S-C-R'
+TIOÉTERES Substituição do afixo –óxi por tio Metóxi-metano
+Met-tio-metano
+TIOÁCIDOS INORGANICOS Acrescentar o prefixo tio antes do nome do ácido Ácido sulfúrico
+Ácido Tiossulfúrico
+DISSULFETOS ORGÂNICOS Dissulfeto de + radical menor + radical maior Ou
+Dissulfeto de + radical (caso exista apenas um radical na molécula)
+Dissulfeto de metil-propil Dissulfeto de alila
+Exemplos
+Dissulfeto de Alila
+Etanotiol
+Tiofenol
+Meio de obtenção de tiocompostos orgânicos Geralmente, a obtenção de Tioálcoois é obtida em reações que envolvem fornecimento de energia térmica. Considere R radicais alquila (Radicais derivados de um álcool orgânico) e R-X haletos de alquila (algum halogênio ligado a um radical alquila). Observe os exemplos:
+1) 2KSH + R-SO4 → R-SH + K2SO4 2) R-X + NaSH → R-SH + NaX
+A presença de metal alcalino nas reações é de grande importância, pois os compostos finais devem ser de grande afinidade. Caso contrário, a reação seria mais difícil de ocorrer.
+A obtenção de sulfetos também envolve metais alcalinos, especialmente o Sódio pela sua grande reatividade com halogênios:
+1) 2R-X + Na2S → R-S-R + 2NaX 2) R-X + R-SNa → R-S-R +NaX
+Propriedades físicas e químicas Praticamente todos os Tioálcoois são muito leves, voláteis e insolúveis em água. Possuem odor característico e são facilmente percebidos, mesmo em pequenas concentrações. São reativos a Mercúrio e outros metais de alta massa molecular, formando compostos cristalinos.
+Os Tio éteres, por serem irritantes às mucosas, foram utilizados como gases tóxicos durante a Segunda Guerra Mundial, pois também apresentam alta volatilidade e ação sufocante. Hoje, não possuem ação comercial ou importância significativa.
+Aplicações O etanotiol é o Tioálcool mais utilizado, e sua aplicação maior é dada na síntese de sulfonal (utilizado na produção de medicamentos hipnóticos).
+Dos Tiocompostos aromáticos (mercaptanas), o Tiofenol é o mais utilizado. Sua maior importância é na produção, por oxidação, de ácidos sulfínicos e sulfônicos (R-SO2H e R-SO3H, respectivamente). Assim como, é aplicado em mistura com outros gases que atravessam tubulações, para que pelo seu odor característico sejam detectados vazamentos.
+
+
+== Referências ==
+SARDELLA, Antônio. Curso de química: Química geral, São Paulo – SP: Editora Ática, 2002. 25ª Edição, 2ª impressão. 448 págs.
+http://ube-167.pop.com.br/repositorio/4488/meusite/organica/tiocompostos.htm (acesso em 21/03/2010)
+http://www.scribd.com/doc/7028079/11Tiocompostos (acesso em 21/03/2010)
+Este artigo sobre química é mínimo. Você pode ajudar a Wikipédia expandindo-o.

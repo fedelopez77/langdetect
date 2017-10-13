@@ -1,0 +1,12 @@
+A Nemzetközi Virtuális Katalógustár — VIAF egy, az Online Számítógépes Könyvtári Központ (Online Computer Library Center, OCLC) által üzemeltetett, nyilvános katalógus rendszer. Célja a különböző nyelvterületek eltérő katalogizálási szabályai alapján kialakított névanyagok egész világon elérhető virtuális katalógusba rendezése. A Nemzetközi Virtuális Katalógustár az országonként, nyelvenként, hagyományokként eltérő névvariánsokat, és személyekhez tartozó adattartalmakat kapcsolja össze. A világ 84 országában és régiójában az Online Számítógépes Könyvtári Központ több mint 25 900 tagszervezete vesz részt a Nemzetközi Virtuális Katalógustár működtetésében.
+
+
+== Használata Magyarországon ==
+Az Országos Széchényi Könyvtár 2013. július 16-tól folyamatosan fel veszi az egyes művek szerzőinek a VIAF azonosítóját. A Nemzetközi Virtuális Katalógustárra mutató linket, a katalóguscédula menüpont alatt a CÉDULA lapon a szerző neve után megjelenő ikon jelzi, míg a CÍMKÉS cédulán a VIAF ID sorban található meg a belinkelt azonosító.
+
+
+== Források ==
+↑ OCLC: OCLC Membership (angol nyelven)
+
+
+== Jegyzetek ==

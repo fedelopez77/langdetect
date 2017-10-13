@@ -1,0 +1,39 @@
+La langue anglaise étant une langue très utilisée pour la communication, y compris avec les personnes dont ce n'est pas la langue maternelle, plusieurs projets de simplification de l'anglais ont vu le jour.
+On trouve tout d'abord l'anglais basic de Charles Kay Ogden. En anglais, le mot basic signifie « de base », mais ici il s'agit d'un acronyme (British American Scientific International Commercial ou BASIC). C'est un sous-ensemble très restreint (850 mots) de la langue anglaise, qui de plus crée des règles grammaticales ad hoc.
+Le Special English, l’anglais de Voice of America, est un anglais parfaitement codé, de 1 500 mots seulement. Il se caractérise par une diction lente (25 % de moins que la vitesse normale), un nombre de mots limités et le bannissement des locutions idiomatiques.
+L’anglais basique phonétique.
+L’anglais basique purement européen (les mots à consonance américaine y ont été bannis au profit de mots anglo-saxons plus oxfordiens).
+L’anglais technique simplifié (Simplified Technical English ou STE) en usage dans l’industrie aérospatiale.
+Le Globish proposé par Madhukar Gogateen 1998 simplifie radicalement l'orthographe et la prononciation de l'anglais .
+À l'inverse, ce que Jean-Paul Nerrière présente en 2004 comme le Globish est l'ensemble du vocabulaire strictement nécessaire pour se faire comprendre auprès de toutes les personnes employant l'anglais comme langue véhiculaire. C'est donc le noyau de l'anglais international. Il ne modifie pas la langue.
+
+
+== Différentes manières de simplifier l'anglais ==
+On associe souvent en anglais la complexité du langage utilisé à la longueur des mots. Il est recommandé aux professeurs de petites classes de n'utiliser que des mots d'une ou deux syllabes. Dans Le Meilleur des mondes, le journal destiné aux individus des delta (l'avant-dernière classe intellectuelle ; la dernière ne sait pas lire) est écrit uniquement en mots d'une syllabe. À l'inverse, une langue anglaise employant fréquemment des mots de quatre syllabes est considérée comme plus intellectuelle.
+Au contraire, pour les besoins de la communication avec des anglophones non-natifs, Wikipédia en Simple English recommande d'utiliser for example (« par exemple ») plutôt que like (ici, un francophone remplacerait par : « comme »), le mot like ayant bien d'autres utilisations. Dans de nombreuses langues, les mots les plus courants sont aussi les plus polysémiques. Une langue maîtrisée par tous peut se limiter aux termes les plus courants, mais au contraire, si on cherche à construire une langue dénuée d'ambiguïtés, il faut recourir à des mots moins courants.
+
+
+== Critiques ==
+
+
+=== L'anglais et les langues neutres ===
+L'idée d'employer un anglais simplifié comme langue véhiculaire est aussi fermement combattue par les partisans de l'espéranto. L'anglais étant la langue maternelle dans plusieurs pays jouant un rôle majeur dans la communauté internationale, son usage est connoté politiquement, vu surtout comme un facteur d'américanisation. Au contraire, l'espéranto emprunte ses radicaux à diverses langues afin de disposer d'une langue véhiculaire neutre.
+De par son statut de langue morte, le latin est également vu comme plus neutre que l'anglais. La devise de l'Union européenne s'écrit donc en latin, et le Vatican conserve le latin pour de nombreux usages.
+
+
+=== Simplification de la langue et limitation de la pensée ===
+Le novlangue est construit avec des principes parodiant les tentatives de simplification de l'anglais. Par exemple tout adjectif peut être inversé avec le préfixe in- (un- dans la version originale, comme en anglais basic), renforcé par le préfixe plus-, et encore renforcé par le préfixe doubleplus- ; les mots rendus superflus sont éliminés du vocabulaire. L'adjectif « bon » couvre à lui seul le registre de l'appréciation : « horrible » devient doubleplusinbon (pour restituer la volonté de simplification, le traducteur a décidé que le novlangue dérivé du français s'affranchit de la règle « m plutôt que n devant un b » : on écrit inbon et non imbon, alors que le français réclame « imbuvable » et non « inbuvable »).
+Dans Le Cercle des poètes disparus, le professeur Keating appelle au contraire à ne pas renforcer un adjectif avec un adverbe quand un adjectif plus fort existe. Par exemple c'est selon lui une faute de dire « très fatigué » et « extrêmement fatigué » car on peut dire « épuisé » et « exténué » (la version originale de ce cours est en anglais, mais ici la traduction rend parfaitement l'idée). Si une langue simplifiée se justifie en supposant que la langue sert à communiquer, elle est à rejeter si le but est qu'elle soit jolie (Keating affirme que les langues n'ont pas été inventées pour communiquer mais « pour séduire les femmes »).
+Dans ces exemples, l'anglais simplifié est accusé de limiter la faculté à traduire des émotions subtilement variées, et donc de limiter la pensée elle-même.
+
+
+== Références ==
+
+
+== Liens externes ==
+(en) VOA Special English et le (en) VOA Special English Word Book
+(en) Fanetik : Reformed (Phonetic) English Spelling — At Least for Teaching
+(fr) L'anglais basic de C. K. Ogden
+(en) Wikipédia en Simple English
+
+ Portail des langues germaniques

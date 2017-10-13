@@ -1,0 +1,5 @@
+Súbor dát je usporiadaná množina dát s daným názvom, veľkosťou, časom vzniku a podobne. Kolekcia vzájomne prepojených súborov dát sa nazýva databáza.
+
+
+== Externé odkazy ==
+FILIT – zdroj, z ktorého pôvodne čerpal tento článok.

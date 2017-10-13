@@ -1,0 +1,79 @@
+Nel modello quantomeccanico, il numero quantico principale (n) determina la distanza media degli elettroni dal nucleo e la maggior parte della loro energia. Orbitali con lo stesso numero quantico principale costituiscono un livello energetico. Teoricamente questo numero può assumere tutti i valori interi da 1 a infinito ma già con n=7 vengono sistemati tutti gli elettroni degli elementi della tavola periodica attualmente conosciuti, se non eccitati con una carica elettrica che farebbe acquistare energia all'elettrone, facendolo allontanare dal nucleo. Invece non può essere 0 perché ammetterebbe l'inesistenza di un livello energetico e non è possibile che un elettrone si trovi nel nucleo.
+Da esso secondo la relazione:
+
+  
+    
+      
+        
+          E
+          
+            (
+            n
+            )
+          
+        
+        =
+        −
+        
+          
+            
+              c
+              
+                R
+                
+                  ∞
+                
+              
+            
+            
+              n
+              
+                2
+              
+            
+          
+        
+        h
+      
+    
+    {\displaystyle E_{(n)}=-{\frac {cR_{\infty }}{n^{2}}}h}
+  
+dove 
+  
+    
+      
+        
+          R
+          
+            ∞
+          
+        
+         
+      
+    
+    {\displaystyle R_{\infty }\ }
+   è la costante di Rydberg, si ricava l'energia associata al livello energetico.
+
+
+== Bibliografia ==
+(EN) B.H. Bransden e C.J. Joachain, Physics of atoms and molecules.
+J. J. Sakurai, Meccanica quantistica moderna.
+Landau & Lifsits, Meccanica quantistica. Teoria non relativistica.
+R. Oerter, La teoria del quasi tutto. Il Modello Standard, il trionfo non celebrato della fisica moderna, 2006.
+(EN) G. t'Hooft, In Search of the Ultimate Building Blocks. Cambridge University Press, 2001. ISBN 978-0521578837
+(EN) W. Noel Cottingham e Derek A. Greenwood, An Introduction to the Standard Model of Particle Physics. Londra, Cambridge University Press, 1999. ISBN 978-0521588324
+(EN) F. Mandl e G. Shaw, Quantum Field Theory. ISBN 0471941867
+(EN) Y. Hayato et al., Search for Proton Decay through p → νK+ in a Large Water Cherenkov Detector. Physical Review Letters 83, 1529 (1999).
+
+
+== Voci correlate ==
+Fisica delle particelle
+Particella elementare
+Principio di esclusione
+Costanti di accoppiamento
+Modello standard
+Numero B-L
+
+
+== Collegamenti esterni ==
+Quantum Numbers, scienceworld.wolfram.com.

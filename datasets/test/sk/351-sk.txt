@@ -1,0 +1,15 @@
+Einsteinov-de Sitterov vesmír je najjednoduchší Fridmanov kozmologický model vesmíru s nulovým zakrivením priestoru (index krivosti k = 0). Priestor je v ňom euklidovský a nekonečný.
+
+
+== Vlastnosti ==
+Expanzia vesmíru sa začína zo singularity big bangom a pokračuje neobmedzene s trvale klesajúcou rýchlosťou (deceleračný parameter q = 0,5); expanzia sa zastaví práve v čase t = ∞. Vplyvom expanzie sa mení faktor škály podľa vzťahu R(t) ~ t2/3 zo začiatočnej hodnoty R = 0 pri t = 0. Stredná hustota Einsteinovho-de Sitterovho vesmíru sa v každom časovom momente rovná práve kritickej hustote ρkr a klesá od začiatočnej nekonečne vysokej hodnoty k limitne nulovej hodnote podľa vzťahu
+ρ = 3 H²/8 πG
+pričom Hubblova konštanta H je funkciou času H(t) = 2/3 H0 t-1.
+Pre vek vesmíru z toho vyplýva vzťah
+tF = 2/3 H0-1
+kde H0 je terajšia hodnota Hubblovej konštanty; pre H0 = 75 km.s-1 . Mpc-1 je napr. tF = 9 . 109 rokov.
+
+
+== Pozri aj ==
+Fridmanov vek vesmíru
+kozmológia

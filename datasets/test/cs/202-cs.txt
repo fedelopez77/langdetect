@@ -1,0 +1,22 @@
+Posterous byl jednoduchá mikroblogovací platforma, která započala svou činnost v květnu 2009, financuje ji Y Combinator. Zvládal integraci a automatické zveřejňovaní mezi ostatní sociální média jako je Flickr, Twitter, a Facebook. Měl zabudovaný Google Analytics balíček a vlastní témata vzhledu. Na konci dubna 2013 Posterous zastavil svoji činnost.
+Aktualizace Posterous byla podobná jiným blogovacím platformám. Zveřejňování bylo možno provést přihlášením se na webové stránce, ale bylo to určeno především pro mobilní blogování. Mobilní metody zahrnovaly odesílání emailů s přílohami fotografií, MP3 zvukových stop, dokumentů a videí (může být odkaz i soubor). Mnoho znalců sociálních médií označilo Posterous za hlavní bezplatnou aplikaci pro sdílení souborů v budoucnu. Platformě se dostalo velké pozornosti, když expert na sociální média Steve Rubel prohlásil, že své blogové aktivity stěhuje na Posterous.
+Posterous také má vlastní zkracovač URL, který zkrátí uživatelský odkaz do http://post.ly/______.
+Posterous umožňuje navést svou Posterous stránku na jinou doménu nebo subodménu. To usnadňuje mít stránku u Posterous na vlastní doméně.
+
+
+== PicPosterous ==
+V srpnu 2009 Posterous spustil aplikaci pro iPhone zvanou PicPosterous, která rychle nahraje fotografie na uživatelovu stránku v Posterous.
+
+
+== Odkazy ==
+
+
+=== Reference ===
+V tomto článku byl použit překlad textu z článku Posterous na anglické Wikipedii.
+.
+
+
+=== Externí odkazy ===
+ Obrázky, zvuky či videa k tématu Posterous ve Wikimedia Commons
+Oficiální webová stránka
+Oficiální blog

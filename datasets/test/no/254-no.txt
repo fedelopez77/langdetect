@@ -1,0 +1,9 @@
+PC System Design Guide, også kjent som PC97, PC98, PC99 og PC 2001, var en serie med maskinvarekrav og anbefalinger for 32-biter x86-baserte personlige datamaskiner som ble satt sammen av Microsoft og Intel Corporation i løpet av tidsperioden 1997–2001. Spesifikasjonen var ment å hjelpe produsenter å sørge for maskinvare som gjorde mest mulig bruk av operativsystemet Microsoft Windows, og som forenklet oppsettet og bruken av slike datamaskiner. FreeBSD 2.2.7 innførte støtte for PC98 den 22. juli 1998.
+Alle delene av en standard datamaskin og de vanligste periferienhetene ble definert med egne krav. Systemer og utstyr som fulgte spesifikasjonen ble automatisk oppdaget og konfigurert av operativsystemet.
+
+
+== Eksterne lenker ==
+PC 97 System Design Guide
+PC 98 System Design Guide 
+PC 99 System Design Guide 
+PC 2001 System Design Guide

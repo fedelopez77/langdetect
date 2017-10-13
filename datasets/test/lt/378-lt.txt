@@ -1,0 +1,13 @@
+ISO 639-3 kodai/nor nor – ISO 639-3 standarto apibrėžtos makro norvegų kalbos (angl. Norwegian language) triženklių kodų sąrašas.
+Šios makro kalbos kodas ISO 639-1 standarte yra no.
+Šios makro kalbos individualioms kalboms ISO 639-3 standarte yra apibrėžiami 2 kodai:
+nob nob – norvegų Bokmål kalba (Norwegian Bokmål)
+nno nno – norvegų Nynorsk kalba (Norwegian Nynorsk)
+
+
+== Nuorodos ==
+Oficiali ISO 639 svetainė
+ISO 639-3/RA
+
+
+== Taip pat skaitykite ==

@@ -1,0 +1,21 @@
+En radioantenne baseret på Distributed Loaded Monopole-teknologi, DLM-teknologi er én eller flere forkortede radioantenne elementer, som i forkortelsesprocessen er designet til at være så effektiv som muligt.
+Som en bieffekt er antennens anvendelige båndbredde rent faktisk større end en traditionel monopol- eller dipol-antenne. Dette er stik modsat andre forkortede antenner. Det at en antenne har større båndbredde, gør den mindre kritisk at justere inden brug, end en antenne med mindre båndbredde.
+Antennetypen er ikke færdigoptimeret endnu, men tests foretaget af det amerikanske militær har vist at adskillige DLM-varianter virkede efter hensigten.  
+Antennetypen er opfundet af Robert Vincent fra University of Rhode Island. Han har arbejdet som ingeniør mere end 30 år og siden ca. 1996 har han eksperimenteret sig frem til flere opskrifter på hvordan man effektivt forkorter antennelængden – f.eks. 1/3-1/9 af bølgelængden:
+Distributed Loaded Monopole-antenner, DLM-antenner med minimum 4 radialer på f.eks. 1/8 bølgelængde – f.eks.:
+1/4 bølgelængde monopol
+5/8 bølgelængde monopol
+
+Distributed Loaded Dipole-antenner, DLD-antenner – f.eks.:
+1/2 bølgelængde dipol
+
+Flere DLD- eller DLM-antenner kan fases sammen så man kan opnå retningsbestemt udstråling, der også resulterer i forstærkning.
+På trods af det omfattende forskningsarbejde han har gjort, er antennetypen relativt enkel. Der skal som standard ikke anvendes matching-netværk; bunden af monopol-antennen forbindes direkte til 50 eller 75 ohms kabel. Dipol-varianten er også relativ enkel at føde; enten skærm til midten af dipolen og midterlederen et stykke ude ad en af dipol helixspolerne – eller balun-fødning til to symmetriske steder om dipol-centeret et stykke ude ad hver sin helixspolehalvdel.
+Der er omfattende opskrifter på hans overhead-serie. 
+
+
+== Kilder/referencer ==
+
+
+== Eksterne henvisninger ==
+June 3, 2004, ScienceDaily: Revolutionary Antenna Technology Reduces Size Dramatically Citat: "...Tests confirmed that Vincent has created antennas at one third to one ninth of their full size counterparts. Normally smaller antennas are only 8 to 15 percent efficient. Vincent's antennas achieved 80 to 100 percent efficiency as compared to the larger antennas..."

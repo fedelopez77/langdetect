@@ -1,0 +1,47 @@
+Dobbeltspalte-eksperimentet eller tospalte-eksperimentet er et fysikeksperiment, hvor man sender subatomare partikler eller atomare partikler (f.eks. fotoner (lys), atomer eller elektroner) igennem en smal spalte – og ved siden af denne spalte er der endnu en. Efter spalten, rammer fotonerne eller elektronerne en skærm, hvor man kan se et interferensmønster af vekslende lyse og mørke zoner i forskellig bredde.
+Det vigtige i dette eksperiment er, at mange regnede med, at der blot kom en lidt uklar lysplet på skærmen. Dette ville være tilfældet hvis fotonerne kun opførte sig klassisk, hvilket her vil sige som "golfbolde".
+Til manges overraskelse dannes et interferensmønster på skærmen, hvilket mange fortolker som at de kvantemekaniske partikler udviser bølgeegenskaber. Faktisk kan man lave et kar med væske og en plade med 2 spalteåbninger og også her se et interferensmønster for overfladebølger der sendes gennem de 2 åbninger.
+
+
+== Eksperimentets vigtighed og lidt historie ==
+Selvom dobbeltspalte-eksperimentet i dag oftest omtales indenfor kvantemekanik, som først blev udviklet i det 20. århundrede, blev det første gang udført af den engelske videnskabsmand Thomas Young omkring 1805 med hensigten at afklare om lys består af klassiske partikler (korpuskularteorien) eller består af bølger som breder sig gennem en æter ligesom lydbølger i luft.
+Eksperimentets synlige interferensmønster så klart ud til at miskreditere korpuskularteorien, og bølgeteorien alene var accepteret indtil tidlig 20. århundrede, hvor der efterhånden var en del beviser på at lys bestod af partikler eller også besad partikelegenskaber.
+Først i 1961 udførte Claus Jönsson fra Tübingens universitet et dobbeltspalte-eksperiment med elektroner. I 1974 udførte forskere ledet af Pier Giorgio Merli fra LAMEL-CNR Bologna i laboratoriet ved Milanos universitet et dobbeltspalte-eksperiment, hvor elektronerne blev sendt enkeltvis gennem eksperimentets bane. Dette er banebrydende eksperimenter og forklaring følger. Man formodede eller kunne ikke udelukke at fotoner og elektroner påvirkede hinanden gensidigt og det kunne være forklaringen på interferensmønsteret. Men det overraskende er, at selv om elektroner sendes enkeltvis gennem dobbeltspalte-eksperimentet, fås samme interferensmønster.
+Eksperimentet i 1974 blev publiceret, men fik ikke megen opmærksomhed. Dobbeltspalte-eksperimentet blev udført igen i 1989 af Tonomura et al. ved Hitachi i Japan. Deres udstyr var bedre, mere præcist og elegant, og deres resultater stemte med Merlis teams.
+I september 2002 blev Claus Jönssons dobbeltspalte-eksperiment stemt til at være det smukkeste eksperiment af Physics World læsere. 
+
+
+== Forklaring af eksperimentet ==
+
+I Thomas Youngs originale eksperiment, blev sollys først sendt gennem én spalte og dernæst gennem de næste to spalter – og interferensmønsteret kan nu observeres på skærmen.
+Lige meget hvilken en af de sidste to spalter der dækkes, vil det resultere i at der observeres en lysplet.
+Men når de 2 sidste spalter begge er åbne vil interferensmønsteret observeres.
+
+
+== Kan fotoner på forhånd mærke interferens? ==
+I 1978 fremkom John Wheeler med en hypotese om, at fotonen muligvis kunne "mærke" om den senere ville blive udsat for interferens. På baggrund af denne hypotese lavede Jean-François Roch og kolleger ved École Normale Supérieure de Cachan et eksperiment offentliggjort i 2007, som har afgjort, at fotonen ikke på forhånd kan "mærke" om den senere vil blive udsat for interferens. 
+
+
+== Eksperiment med kvantemekanisk interferens i tiden ==
+En nyere udgave af dobbeltspalte-eksperimentet med kvantemekanisk interferens i tiden, blev udført i 2005.
+
+
+== Videodemonstration ==
+Fra filmen "Down the Rabbit Hole" (efterfølgeren til What the Bleep Do We Know!?) klip fra dobbeltspalte-eksperimentet:
+http://www.whatthebleep.com/trailer/doubleslit.wm.low.html
+myspace.com video demonstration
+
+
+== Kilder/referencer ==
+
+Tipler, Paul (2004). Physics for Scientists and Engineers: Electricity, Magnetism, Light, and Elementary Modern Physics, 5th ed., W. H. Freeman. ISBN 0-7167-0810-8.
+Gribbin, John (1999). Q is for Quantum: Particle Physics from A to Z. Weidenfeld & Nicholson. ISBN 0-7538-0685-1.
+Feynman, Richard P. (1988). QED: The Strange Theory of Light and Matter. Princeton University Press. ISBN 0-691-02417-0.
+
+
+== Eksterne henvisninger ==
+
+Simple Derivation of Interference Conditions
+The Double Slit Experiment
+Nov 26, 2013, physicsworld.com: Physicists ask photons 'Where have you been?'
+Dec 1, 2014, physicsworld.com: SOLEIL scientists create double-slit thought experiment

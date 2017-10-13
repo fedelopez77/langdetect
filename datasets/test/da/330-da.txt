@@ -1,0 +1,628 @@
+Omkring 300 fvt. gennemførte den græske matematiker Euklid et omfattende studium af relationerne mellem afstande og vinkler; først i planen (en idealiseret flad overflade) og derefter i rummet. Et eksempel på en sådan relation er, at summen af vinklerne i en trekant altid er 180 grader. I dag kendes denne samling relationer som to- eller tre-dimensional euklidisk geometri.
+I moderne matematisk sprog kan begreberne afstand og vinkel let generaliseres til rum af højere dimension. Et n-dimensionalt rum med begreber som afstand og vinkel, der opfylder de euklidiske relationer kaldes n-dimensionalt euklidisk rum. Denne artikel vil introducere det moderne sprog, der kræves for abstraktionsspringet til højere dimension.
+
+En afgørende egenskab ved euklidisk rum er dets væren fladt. Der eksisterer rum i geometri, som ikke er flade. For eksempel er kugleoverfladen det ikke; en trekant på en kugle vil (når den er passende defineret) have vinkler, der summer til mere end 180 grader. Faktisk er der i alt væsentligt kun et euklidisk rum af hver dimension, hvorimens der er mange ikkeeuklidiske af hver dimension. Ofte vil man konstruere disse rum som systematiske deformationer af det euklidiske rum.
+
+
+== Intuitivt overblik ==
+
+En måde at tænke på den euklidiske plan på er som en mængde af punkter, der opfylder bestemte forhold, der kan udtrykkes ved afstande og vinkler. For eksempel er der to grundlæggende operationer på planen: Den ene er translation, hvilket blot vil sige, at planen forskubbes, så hvert punkt skubbes i samme retning og i samme afstand. Den anden er rotation og et fastholdt punkt i planen, hvor ethvert punkt i planen roteres i samme vinkel om dette fastholdte punkt. En af de grundlæggende læresætninger i euklidisk geometri er, at to figurer i (det vil sige delmængder af) planen skal betragtes som ækvivalente (kongruente), hvis den ene kan transformeres til den anden ved en række translationer, rotationer og refleksioner. (Se euklidisk gruppe.)
+For at kunne gøre denne diskussion matematisk stringent, må man definere begreberne afstand, vinkel, translation og rotation. Den typiske måde at gøre dette på, som vil blive gennemgået i resten af denne artikel, er at definere den euklidiske plan som et todimensionalt reelt vektorrum med et indre produkt. Da vil følgende gælde:
+vektorerne i vektorrummet tilsvarer punkterne i den euklidiske plan,
+additionsoperationen i vektorrummet svarer til translation, og
+det indre produkt giver mening til begreber som vinkel og afstand, der kan bruges til det definere rotation.
+Når den euklidiske plan er blevet beskrevet i dette sprog, er det faktisk ikke svært at udvide til vilkårlig dimension. I det store hele er sprogbrugen, formlerne og udregningerne ikke vanskeligere ved tilstedeværelsen af flere dimensioner (om end rotationer er mere subtile i højere dimension, og det er vanskeligere at forestille sig rum af højere dimension; selv for erfarne matematikere).
+En sidste teknisk detalje er, at euklidisk rum ikke er et vektorrum, men snarere et affint rum, på hvilket et vektorrum virker. Intuitivt betyder denne forskel blot, at der ikke er noget naturligt valg af, hvor origo bør være i rummet, da det kan translateres vilkårligt, og denne teknikalitet vil blive undgået i det følgende.
+
+
+== Reelt koordinatrum ==
+
+Lad R betegne legemet af reelle tal. For ethvert ikke-negativt heltal n betragtes rummet af alle n-tupler af reelle tal. Dette rum giver et n-dimensionalt vektorrum over R, der betegnes Rn og kaldes undertiden reelt koordinatrum. Et element i rummet Rn skrives
+
+  
+    
+      
+        
+          x
+        
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle \mathbf {x} =(x_{1},x_{2},\ldots ,x_{n}),}
+  
+hvor hvert xi er et reelt tal. Vektorrumsoperationerne på Rn defineres ved
+
+  
+    
+      
+        
+          x
+        
+        +
+        
+          y
+        
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        +
+        
+          y
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        +
+        
+          y
+          
+            n
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle \mathbf {x} +\mathbf {y} =(x_{1}+y_{1},x_{2}+y_{2},\ldots ,x_{n}+y_{n}),}
+  
+
+  
+    
+      
+        a
+        
+        
+          x
+        
+        =
+        (
+        a
+        
+          x
+          
+            1
+          
+        
+        ,
+        a
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        a
+        
+          x
+          
+            n
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle a\,\mathbf {x} =(ax_{1},ax_{2},\ldots ,ax_{n}).}
+  
+Vektorrummet Rn har en standardbasis:
+
+  
+    
+      
+        
+          
+            e
+          
+          
+            1
+          
+        
+        =
+        (
+        1
+        ,
+        0
+        ,
+        …
+        ,
+        0
+        )
+        ,
+      
+    
+    {\displaystyle \mathbf {e} _{1}=(1,0,\ldots ,0),}
+  
+
+  
+    
+      
+        
+          
+            e
+          
+          
+            2
+          
+        
+        =
+        (
+        0
+        ,
+        1
+        ,
+        …
+        ,
+        0
+        )
+        ,
+      
+    
+    {\displaystyle \mathbf {e} _{2}=(0,1,\ldots ,0),}
+  
+
+  
+    
+      
+        ⋮
+      
+    
+    {\displaystyle \vdots }
+  
+
+  
+    
+      
+        
+          
+            e
+          
+          
+            n
+          
+        
+        =
+        (
+        0
+        ,
+        0
+        ,
+        …
+        ,
+        1
+        )
+        .
+      
+    
+    {\displaystyle \mathbf {e} _{n}=(0,0,\ldots ,1).}
+  
+En vilkårlig vektor i Rn kan opskrives i denne basis på formen
+
+  
+    
+      
+        
+          x
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          x
+          
+            i
+          
+        
+        
+          
+            e
+          
+          
+            i
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {x} =\sum _{i=1}^{n}x_{i}\mathbf {e} _{i}.}
+  
+Rn er et prototypisk eksempel på et reelt vektorrum af dimension n, og faktisk er ethvert reelt n-dimensionalt vektorrum V isomorft med Rn. Denne isomorfi er imidlertid ikke kanonisk, og et valg er isomorfi er ækvivalent til valget af basis for vektorrummet V (ved at betragte billedet af standardbasen i Rn under isomorfien til V). Fordelen ved at arbejde med generelle vektorrum i stedet for Rn er, at det ofte er at foretrække at arbejde koordinatfrit (dvs. uden hensyn til en specifik basis).
+
+
+== Euklidisk struktur ==
+Euklidisk rum er dog mere end blot et reelt koordinatrum. For at kunne anvende euklidisk geometri er man som omtalt nødt til at kunne give mening til begreber som afstande mellem punkter og vinkler mellem linjer eller vektorer. Den naturlige måde at opnå disse begreber er ved at introducere standard-indre produktet (også kendt som prikproduktet) på Rn. Det indre produkt mellem to vektorer x og y defineres som
+
+  
+    
+      
+        
+          x
+        
+        ⋅
+        
+          y
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          x
+          
+            i
+          
+        
+        
+          y
+          
+            i
+          
+        
+        =
+        
+          x
+          
+            1
+          
+        
+        
+          y
+          
+            1
+          
+        
+        +
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        +
+        ⋯
+        +
+        
+          x
+          
+            n
+          
+        
+        
+          y
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {x} \cdot \mathbf {y} =\sum _{i=1}^{n}x_{i}y_{i}=x_{1}y_{1}+x_{2}y_{2}+\cdots +x_{n}y_{n}.}
+  
+Denne størrelse er altid et reelt tal (højresiden er blot en sum af produkter af reelle tal). Desuden er det indre produkt af en vektor x med sig selv altid ikke negativt. Produktet lader os desuden definere "længden" af en vektor x som
+
+  
+    
+      
+        ∥
+        
+          x
+        
+        ∥
+        =
+        
+          
+            
+              x
+            
+            ⋅
+            
+              x
+            
+          
+        
+        =
+        
+          
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                n
+              
+            
+            (
+            
+              x
+              
+                i
+              
+            
+            
+              )
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \|\mathbf {x} \|={\sqrt {\mathbf {x} \cdot \mathbf {x} }}={\sqrt {\sum _{i=1}^{n}(x_{i})^{2}}}.}
+  
+Funktionen der sender en vektor i dens længde har de egenskab, der kræves af en norm og kaldes derfor den euklidiske norm på Rn.
+
+Vi kan nu definere vinklen θ (0 ≤ θ ≤ 2π) mellem x og y ved
+
+  
+    
+      
+        θ
+        =
+        
+          cos
+          
+            −
+            1
+          
+        
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  x
+                
+                ⋅
+                
+                  y
+                
+              
+              
+                ∥
+                
+                  x
+                
+                ∥
+                ∥
+                
+                  y
+                
+                ∥
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \theta =\cos ^{-1}\left({\frac {\mathbf {x} \cdot \mathbf {y} }{\|\mathbf {x} \|\|\mathbf {y} \|}}\right)}
+  
+hvor cos−1 er arcus cosinus.
+Endelig kan vi definere en metrik (eller afstandsfunktion) på Rn som følger: For vektorer x og y definerer vi afstanden mellem x og y som
+
+  
+    
+      
+        d
+        (
+        
+          x
+        
+        ,
+        
+          y
+        
+        )
+        =
+        ∥
+        
+          x
+        
+        −
+        
+          y
+        
+        ∥
+        =
+        
+          
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                n
+              
+            
+            (
+            
+              x
+              
+                i
+              
+            
+            −
+            
+              y
+              
+                i
+              
+            
+            
+              )
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle d(\mathbf {x} ,\mathbf {y} )=\|\mathbf {x} -\mathbf {y} \|={\sqrt {\sum _{i=1}^{n}(x_{i}-y_{i})^{2}}}.}
+  
+Denne afstandsfunktion kaldes den euklidiske metrik.
+Samlingen af reelt koordinatrum og denne euklidiske struktur kaldes Euklidisk rum og skrives ofte En. (Bemærk dog at mange forfattere blot kalder Rn for euklidisk rum og lader strukturen være underforstået. Den euklidiske struktur gør En til et indre produkt-rum (og faktisk et Hilbertrum), et normeret vektorrum og et metrisk rum.
+Rotationer af euklidisk rum kan nu defineres som orienteringsbevarende lineære transformationer T, der bevarer vinkler og længder:
+
+  
+    
+      
+        T
+        
+          x
+        
+        ⋅
+        T
+        
+          y
+        
+        =
+        
+          x
+        
+        ⋅
+        
+          y
+        
+        ,
+      
+    
+    {\displaystyle T\mathbf {x} \cdot T\mathbf {y} =\mathbf {x} \cdot \mathbf {y} ,}
+  
+
+  
+    
+      
+        
+          |
+        
+        T
+        
+          x
+        
+        
+          |
+        
+        =
+        
+          |
+        
+        
+          x
+        
+        
+          |
+        
+        .
+      
+    
+    {\displaystyle |T\mathbf {x} |=|\mathbf {x} |.}
+  
+I matrixsproget er rotationer specielle ortogonale matricer.
+
+
+== Topologi på euklidisk rum ==
+Da euklidisk rum er et metrisk rum er det også et topologisk rum med den naturlige topologi, der induceres af metrikken. Metriktopologien på En kaldes den euklidiske topologi. En mængde er åben i den euklidiske topologi, hvis og kun hvis den indeholder en åben kugle om ethvert af dens punkter. Den euklidiske topologi viser sig desuden at være ækvivalent med produkttopologien på Rn betragtet som et produkt af n kopier af den reelle linje R (med dennes euklidiske topologi).
+Et vigtigt resultat om topologien på Rn, som er langt fra let at indse, er Brouwers domæneinvarians: Enhver delmængde af Rn (med sportopologien), som er homøomorf med en anden åben delmængde af Rn er selv åben. En øjeblikkelig følge af dette faktum er, at Rm ikke er homøomorf med Rn, hvis m ≠ n – et intuitivt resultat, der ikke lader sig vise let.
+
+
+== Generaliseringer ==
+I moderne matematik er euklidisk rum protoptypen for andre mere komplicerede geometriske objekter. Eksempelvis er en glat mangfoldighed et Hausdorffrum, der er lokalt diffeomorft med euklidisk rum. Diffeomorfier bevarer ikke afstand og indre produkt, så disse begreber går tabt på en glat mangfoldighed. Tilføjer man imidlertid mangfoldigheden et glat indre produkt på mangfoldighedens tangentrum, fås hvad der kaldes en riemannsk mangfoldighed. Med andre ord er en riemannsk mangfoldighed et rum, der fås som resultat af at deformere og sammenlappe euklidiske rum. Et sådant rum har også begreber som afstande og vinkler, men opfører sig på en krum ikkeeuklidisk måde. Den simpleste riemannske mangfoldighed består af Rn med et konstant indre produkt, og det er i alt væsentligt identisk med det euklidiske rum selv.
+
+Ændrer man det euklidiske rum, så dets indre produkt bliver negativt i en eller flere retninger, opnås hvad der kaldes pseudoeuklidisk rum. Glatte mangfoldigheder baseret på disse rum kaldes pseudoriemannske mangfoldigheder. Deres måske mest populære anvendelser er i relativitetsteorien, hvor stofløst rumtid repræsenteres ved det flade pseudoeuklidiske rum, der kaldes Minkowskirummet, og hvor rumtider med stof repræsenteres ved andre pseudoriemannske mangfoldigheder og tyngdekraften svarer til krumningen af den pågældende mangfoldighed.
+Vort univers, som er underlagt relativitetsteorien, er ikke euklidisk. Dette bliver afgørende i teoretiske betragtninger i astronomi og kosmologi samt i praktiske problemstillinger som global positionering og navigation af fly. Ikke desto mindre kan en euklidisk model bruges i løsningen af mange andre problemer med tilstrækkelig præcision.
+
+
+== Se også ==
+Riemannsk geometri
+Kartesisk koordinatsystem
+Polært koordinatsystem

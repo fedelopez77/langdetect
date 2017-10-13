@@ -1,0 +1,640 @@
+Järjestetyn joukon T osajoukon S infimum eli suurin alaraja on joukon T alkio, joka on suurin kaikista osajoukon S kaikkia alkioita pienemmistä tai yhtä suurista alkioista. Infimum ei välttämättä kuulu osajoukkoon S. Jos joukko sisältää pienimmän alkion eli minimin, on se myös joukon infimum. Infimum on yksikäsitteinen, jos se on olemassa.
+Reaalilukujen joukon osajoukoille infimum määritellään joskus miinus äärettömyydeksi, jos se ei ole olemassa. Tällöin saatetaan sanoa, että kaikille reaalilukujoukoille on yksikäsitteinen infimum.
+Jos 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   on järjestetty joukko, niin sen infimumia merkitään symbolilla
+
+  
+    
+      
+        
+          inf
+          
+            a
+            ∈
+            A
+          
+        
+        a
+      
+    
+    {\displaystyle \inf _{a\in A}a}
+  , 
+  
+    
+      
+        inf
+        {
+        a
+        
+        
+          |
+        
+        
+        a
+        ∈
+        A
+        }
+      
+    
+    {\displaystyle \inf\{a\,|\,a\in A\}}
+   tai 
+  
+    
+      
+        inf
+        A
+      
+    
+    {\displaystyle \inf A}
+  .
+Vähenevän lukujonon 
+  
+    
+      
+        A
+        =
+        (
+        
+          a
+          
+            n
+          
+        
+        
+          )
+          
+            n
+            ∈
+            
+              N
+            
+          
+        
+      
+    
+    {\displaystyle A=(a_{n})_{n\in \mathbb {N} }}
+  , jolle siis 
+  
+    
+      
+        
+          a
+          
+            i
+            +
+            1
+          
+        
+        <
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i+1}<a_{i}}
+  , infimumia voi merkitä symbolilla
+
+  
+    
+      
+        
+          inf
+          
+            n
+            →
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \inf _{n\rightarrow \infty }a_{n}}
+  .
+
+
+== Reaalilukujoukon infimum ==
+Alarajan määritelmä. Olkoon 
+  
+    
+      
+        S
+        ⊂
+        
+          R
+        
+      
+    
+    {\displaystyle S\subset \mathbb {R} }
+  .
+Reaaliluku e on joukon S alaraja , jos ja vain jos kaikille 
+  
+    
+      
+        x
+        ∈
+        S
+      
+    
+    {\displaystyle x\in S}
+   pätee x ≥ e.
+Joukko S on alhaalta rajoitettu jos ja vain jos jokin reaaliluku on sen alaraja.
+Infimumin määritelmä. Olkoon edelleen 
+  
+    
+      
+        S
+        ⊂
+        
+          R
+        
+      
+    
+    {\displaystyle S\subset \mathbb {R} }
+  .
+Luku e 
+  
+    
+      
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle \in \mathbb {R} }
+   on joukon S infimum eli suurin alaraja, jos ja vain jos se on suurin joukon S alarajoista eikä mikään suurempi reaaliluku ole joukon S alaraja.
+Tällöin merkitään e = inf(S). Siis joukolla S on infimum ja kyseinen infimum on e.
+e = inf(S) 
+  
+    
+      
+        ⟺
+      
+    
+    {\displaystyle \Longleftrightarrow }
+  
+1) e ≤ x kaikilla x 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+   S eli e on joukon S alaraja.
+2) e ≥ m kaikilla joukon S alarajoilla m.
+Siis vielä sanallisesti: Reaaliluku e on joukon S infimum jos ja vain jos e on pienempi tai yhtäsuuri kaikkia joukon S alkioita ja e on suurempi tai yhtäsuuri kaikkia muita joukon S alarajoja.
+Jos epätyhjällä joukolla S on olemassa infimum, se on yksikäsitteinen. Joukolla voi siis olla enintään yksi infimum. Todistus. Olkoon inf(S) = e ja inf(S) = e2. Siis e2 on joukon S eräs alaraja. Tällöin infimumin määritelmän nojalla e ≥ e2. Samoin saadaan e2 ≥ e. Siis e = e2.
+Jos inf(S) on olemassa niin joukko S on alhaalta rajoitettu. Jos joukko S sisältää pienimmän alkion eli minimin, on se joukon S infimum.
+
+
+== Joukon minimi ==
+Joukon pienimmän alkion eli minimin on kuuluttava joukkoon kun taas infimumin ei tarvitse kuulua joukkoon. Siis jos infimum on olemassa, se ei välttämättä kuulu joukkoon S. Jos joukko S sisältää pienimmän alkion eli minimin, on se joukon S infimum.
+Jos 
+  
+    
+      
+        S
+        ⊂
+        
+          R
+        
+      
+    
+    {\displaystyle S\subset \mathbb {R} }
+   ja minS on olemassa niin minS = inf(S).
+Todistus. Olkoon olemassa minS = e.
+1)e on joukon S alaraja eli kaikilla x 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+   S pätee x ≥ e.
+2)Koska e 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+   S niin e ≥ inf(S). Toisaalta 1):n nojalla e on joukon S alaraja. Siis e ≤ inf(S). Siis e = inf(S).
+
+
+== Infimumin osoittaminen ==
+Yksinkertaisessakin tapauksessa infimumin määritelmän soveltaminen on melko työlästä. Seuraavien lauseiden avulla infimumia voidaan tutkia yksinkertaisemmalla tavalla.
+Lause 1. Olkoon e = inf(S) ja 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   > 0. Tällöin on olemassa x 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+   S, jolle x < e + 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  
+Lause 2. Olkoon S 
+  
+    
+      
+        ⊂
+        
+          R
+        
+      
+    
+    {\displaystyle \subset \mathbb {R} }
+   ja e 
+  
+    
+      
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle \in \mathbb {R} }
+  . Tällöin e = inf(S) jos ja vain jos
+1) e on joukon S alaraja. Siis x ≥ e kaikilla x 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+   S.
+2) Kaikille 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   > 0 
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+   x 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+   S, jolle x < e + 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  
+
+Infimum osoitetaan jollakin seuraavista tavoista tilanteesta riippuen:
+a) Jos joukossa S näyttäisi olevan pienin alkio e, osoitetaan kohdat:
+1) e 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+   S.
+2) x ≥ e kaikille x 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+   S.
+Tällöin minS = inf(S).
+b) Jos joukko S on alhaalta rajoitettu, mutta joukossa ei ole pienintä alkiota, osoitetaan kohdat:
+1) x ≥ e kaikille x 
+  
+    
+      
+        ∈
+      
+    
+    {\displaystyle \in }
+   S, jolloin e on S:n eräs alaraja.
+2) e + 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   ei ole S:n alaraja. Siis e on alarajoista suurin.
+Tällöin e = inf(S).
+c) Osoitetaan, että joukko ei ole alhaalta rajoitettu näyttämällä, että joukossa on mielivaltaisen pieniä lukuja. Siis joukosta löytyy mielivaltaisesti valittua rajaa pienempiä lukuja.
+
+
+== Esimerkkejä ==
+
+  
+    
+      
+        inf
+        (
+        [
+        0
+        ,
+        1
+        ]
+        )
+        =
+        0
+        ,
+        m
+        i
+        n
+        (
+        [
+        0
+        ,
+        1
+        ]
+        )
+        =
+        0
+      
+    
+    {\displaystyle \inf([0,1])=0,min([0,1])=0}
+  
+
+  
+    
+      
+        inf
+        (
+        ]
+        0
+        ,
+        1
+        [
+        )
+        =
+        0
+        ,
+        ∄
+        m
+        i
+        n
+        (
+        ]
+        0
+        ,
+        1
+        [
+        )
+      
+    
+    {\displaystyle \inf(]0,1[)=0,\not \exists min(]0,1[)}
+  
+
+  
+    
+      
+        inf
+        {
+        1
+        ,
+        2
+        ,
+        3
+        }
+        =
+        1
+        
+      
+    
+    {\displaystyle \inf\{1,2,3\}=1\,}
+  
+
+  
+    
+      
+        inf
+        {
+        2
+        −
+        1
+        
+          /
+        
+        n
+        
+          |
+        
+        n
+        ∈
+        
+          N
+        
+        }
+        =
+        1
+        ,
+        m
+        i
+        n
+        {
+        2
+        −
+        1
+        
+          /
+        
+        n
+        
+          |
+        
+        n
+        ∈
+        
+          N
+        
+        }
+        =
+        1
+      
+    
+    {\displaystyle \inf\{2-1/n|n\in \mathbb {N} \}=1,min\{2-1/n|n\in \mathbb {N} \}=1}
+  
+
+  
+    
+      
+        inf
+        {
+        x
+        ∈
+        
+          R
+        
+        :
+        0
+        <
+        x
+        <
+        1
+        }
+        =
+        inf
+        {
+        x
+        ∈
+        
+          R
+        
+        :
+        0
+        ≤
+        x
+        ≤
+        1
+        }
+        =
+        0
+        
+      
+    
+    {\displaystyle \inf\{x\in \mathbb {R} :0<x<1\}=\inf\{x\in \mathbb {R} :0\leq x\leq 1\}=0\,}
+  
+Luonnollisten lukujen joukolla 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   ei ole ylärajaa, sillä joukolla 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   ei ole suurinta alkiota eikä joukko 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   siis ole ylhäältä rajoitettu. Joukolla 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   on kuitenkin alaraja: nolla. Siis 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   on alhaalta rajoitettu ja luonnollisten lukujen joukolla 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   on siis infimum. Mekitään inf(
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+  ) = 0.
+
+
+== Katso myös ==
+Limes inferior Jonon äärettömän kaukana olevien alkioiden infimum
+Oleellinen infimum Joukon suppeimman positiivismittaisen osajoukon infimum
+Supremum Joukon pienin yläraja
+
+
+== Aiheesta muualla ==
+MathWorld. Infimum
+
+
+== Lähteet ==
+Apostol, Tom. M.: Mathematical analysis. Addison-Wesley publishing company. 3. edition. London, England, 1960, 7-8.
+Hurri-Syrjänen, Ritva. Differentiaali- ja integraalilaskenta, Luentomonisteet. Helsingin yliopisto, Syksy 1999, 11-14.
+Huuskonen, Taneli. Analyysin peruskurssi: Supremum ja infimum. Luentomoniste-pdf. Helsingin yliopisto. Helsinki, 2006.
+Myrberg, Lauri. Differentiaali- ja integraalilaskenta, osa 1. 3 painos. Yhteiskirjapaino Oy, Helsinki, 1981, 17-20, 24-26.
+http://joyx.joensuu.fi/~didmatcl/anper1.pdf /
+https://matta.hut.fi/matta2/mtreeni1/ag/ag002.pdf

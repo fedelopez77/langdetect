@@ -1,0 +1,17 @@
+Naatriumvesinikkarbonaat (ehk naatriumbikarbonaat ehk söögisooda) on keemiline ühend valemiga NaHCO3.
+Märkus: mitte segi ajada naatriumkarbonaadi (Na2CO3) ehk pesusooda ehk soodaga; kaustiline sooda on naatriumhüdroksiid (NaOH).
+Naatriumvesinikkarbonaat on vees lahustuv valge kristalne aine. Kasutatakse seda toidutööstuses (pagaritööstuses), meditsiinis, keemialaborites jm.
+
+
+== Keemilised omadused ==
+Naatriumvesinikkarbonaat on amfoteerne aine, mille vesilahused on kergelt leeliselised, kuna moodustub süsihape ja hüdroksiidioon:
+HCO3- + H2O → H2CO3 + OH−
+Naatriumvesinikkarbonaadi reaktsioonis hapetega moodustub sool ja süsihape, mis kergesti laguneb süsihappegaasiks ja veeks:
+NaHCO3 + HCl → NaCl + H2CO3
+H2CO3 → H2O + CO2(g)
+Naatriumvesinikkarbonaadi reaktsioonis leelistega nagu naatriumhüdroksiid moodustuvad karbonaadid:
+NaHCO3 + NaOH → Na2CO3 + H2O
+
+
+== Vaata ka ==
+Karbonaadid

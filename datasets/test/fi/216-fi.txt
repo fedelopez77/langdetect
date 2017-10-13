@@ -1,0 +1,8 @@
+Heinkel Kabine on Ernst Heinkel-Fahrzeugbau GmbH:n valmistama saksalainen Iso Isettaa muistuttava miniauto.
+Lentokoneiden suunnittelija Ernst Heinkel oli nähnyt Iso Isettan ja päättänyt tehdä siitä paremman version käyttämällä lentokoneiden valmistukseen tarvittavia materiaaleja jolloin massa saatiin huomattavasti pienemmäksi ja nopeammaksi pienemmällä moottorilla joka kuluttaa vähemmän polttoainetta.
+Kabineita oli kaksi eri mallia, Kabine 153 ja Kabine 154, tyypin viimeinen kirjain tarkoittaa renkaiden lukumäärää. Voimanlähteenä molemmissa toimi luotettava 203 cc moottori, joka tosin vakuutusmaksuista johtuen kutistettiin vuonna 1957 198 cc:hen. Heinkel Kabineita valmistettiin myös Argentiinassa 2000 kappaleen erä lisenssillä. Myös Irlannissa oli tarkoitus tehdä Kabineita mutta Irlantilainen tehdas ei täyttänyt laatuvaatimuksia: tehdas oli hiekkalattiainen ja akselit säilytettiin ulkona, lisenssi vedettiin takaisin.
+Moottori: Heinkel 4-tahti
+Iskutilavuus: 203 cc / 198 cc
+Sylinterien lukumäärä: 1 kpl
+Huipputeho: 10 hp
+Omapaino: 243 kg

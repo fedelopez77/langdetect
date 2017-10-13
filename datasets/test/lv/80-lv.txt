@@ -1,0 +1,34 @@
+Grand Theft Auto: San Andreas ir videospēle, kas iznāca 2004. gada oktobrī uz PS2 un 2005. gada jūnijā uz PC. Tā ir 3. spēle GTA3 sērijā. Šī spēle ir kaut kas vidējs starp šaušanas un braukšanas spēli. Galvenais varonis (Karls Džonsons (Carl Johnson)) var brīvi pārvietoties pa spēles pasauli, staigājot kājām vai lietojot kādu transportlīdzekli. Lietojot transportlīdzekli, ir ierobežotas iespējas lietot ieročus. Spēles pasaule ir modelēta pēc ASV Kalifornijas un Nevadas štatiem (precīzāk - trīs lielākās pilsētas ir modelētas pēc Losandželosas, Sanfrancisko un Lasvegasas).
+
+
+== Spēles process ==
+
+Ejot kājām, galvenais varonis var iet, skriet, peldēt (šī ir pirmā GTA3 sērijas spēle, kur ir iespējams peldēt. Iepriekšējās, iekrītot ūdenī, tas uzreiz noslīka), lēkt un kāpt pāri sētām (arī konteineriem), kā arī lietot ieročus un kauties ar dūrēm, ja nav ieroču. Lai izmantotu transportlīdzekli, pie tā jāpieiet un jāiekāpj iekšā (automašīnas, lidmašīnas, helikopteri) vai jāuzkāpj virsū (motocikli un velosipēdi). Šī ir pirmā GTA3 sērijas spēle, kur ir pieejami velosipēdi.
+Izejot misijas, var iegūt naudu un iespēju izpildīt citas misijas. Jau spēles sākumā iespējams aiziet uz gandrīz jebkuru kartes vietu, taču tilti uz divām pārējām salām ir bloķēti. Ja ūdenim pārpeld pāri, iegūst 4 zvaigznītes. Izejot pietiekoši daudz storyline misiju, tilti atveras un uz citām salām var tikt, nepiesaistot policijas uzmanību. Iepriekšējās GTA3 sērijas spēlēs pietika ar tiltu bloķēšanu, jo nebija iespējams pārpeldēt.
+Ja pietiekoši stipri sabojā motorizētos transportlīdzekļus, tie uzsprāgst (pirms tam aizdegas). Transportlīdzekļu spridzināšana un citu cilvēku (NPC) slepkavošana piesaista policijas uzmanību. To šajā spēlē apraksta ar zvaigznītēm. Normālos apstākļos nav nevienas zvaigznītes un policija galveno varoni ignorē (liek mierā). Radot neliela mēroga nekārtības, var iegūt vienu zvaigznīti, tad tevi mēģina noķert kājām staigājošie policisti. Ja saņem divas zvaigznītes, iesaistās policijas automašīnas. Ja saņem trīs zvaigznītes, iesaistās policijas helikopters. Ja iegūsti trīs zvaigznītes, atrodoties lidaparātā - uzbrūk iznīcinātājlidmašīna (ar vadāmajām raķetēm). Ja saņem četras zvaigznītes, tad pakaļ sāk dzīties smagās mašīnas. Ja saņem piecas zvaigznītes, tad pakaļ dzenās FIB. Ja saņem visas sešas zvaigznītes, tad uzbrūk armija ar tankiem.
+Daudzas misijas ir saistītas ar vardarbību un to izpildes laikā var saņemt zvaigznītes, kas gan pēc misijas veiksmīgas pabeigšanas pazūd. Misijas var iedalīt storyline misijās, kuras ir jāiziet lai tiktu uz priekšu un side (sideline) misijās, kuru neiziešana neietekmē tālāko misiju pieejamību (izņemot attiecīgo side misiju zaru).
+
+
+== Spēles vide ==
+Spēles vide sastāv no trim lielām salām (īstenībā to ir vairāk, bet tās ir savienotas ar tiltiem, kas nekad nav slēgti). Uz katras no salām atrodas pa lielai pilsētai un dažas lauku mazpilsētas. Iepriekšējās GTA3 sērijas spēles bija bāzētas vienā pilsētā, tāpēc tur bija mazāka teritorija. SanAndreas teritorija ir ~4 reizes lielāka kā iepriekšējai spēlei (Grand Theft Auto: Vice City). Te ir dzelzceļš, kas iet cauri visām lielajām pilsētām un katrā no tajām ir vismaz viena stacija. Lai arī dzelzceļam ir nozarojumi, pa tiem vilcieni nebrauc.
+
+
+=== Los Santos ===
+Šī ir lielākā spēles pilsēta un ir bāzēta uz Losandželosu. Šajā pilsētā spēli uzsāk un šī sala vienmēr ir pieejama. Pilsētas lauku teritorijā atrodas 4 mazpilsētas (Blueberry, Dillimore, Montgomery un Palomino creek). Los Santos atrodas divas dzelzceļa stacijas. Šajā pilsētā dzīvo tava pirmā draudzene.
+
+
+=== San Fierro ===
+Šī ir mazākā spēles pilsēta un ir bāzēta uz Sanfrancisko. Šajā pilsētā var nokļūt pēc tam, kad ir izietas Los Santos storyline misijas. Pilsētas lauku teritorijā atrodas viena mazpilsēta (Angel pine) un spēles augstākais kalns. San Fierro atrodas viena dzelzceļa stacija. Šajā salā dzīvo četras tavas draudzenes.
+
+
+=== Las Venturas ===
+Šī ir otrā lielākā spēles pilsēta un ir bāzēta uz Lasvegasu. Šajā pilsētā var nokļūt pēc tam, kad ir izietas San Fierro storyline misijas. Pilsētas lauku teritorijā atrodas 5 mazpilsētas (Bayside, el Quebrados, las Barrancas, Fort Carson ,un las Payasadas), militārā bāze, hidroelektrostacija un lidlauks. Las Venturas atrodas trīs dzelzceļa stacijas. Šeit var apmeklēt trīs kazino. Šajā salā dzīvo divas tavas draudzenes.
+
+
+== Spēles sižets ==
+Spēle sākas ar to, ka galvenais varonis Karls Džonsons atgriežas Los Santos uz savas mātes bērēm. Iepriekšējos 5 gadus viņš dzīvoja Liberty city, uz kurieni viņš bija aizbraucis, pēc tam, kad noslepkavoja viņa brāli (Brian Johnson). Situācija pilsētā pa šiem 5 gadiem bija tikai pasliktinājusies. Karls Džonsons ir viens no Grove Street Families bandas locekļiem. Pa šiem 5 gadiem šīs bandas ietekme pilsētā bija ievērojami samazinājusies (lielā mērā naidīgās bandas (Ballas) darbību rezultātā). Sākuma misijās galvenais varonis skaidro attiecības ar saviem kolēģiem un karo ar ienaidnieku bandām. Sākuma (Los Santos) misijas beidzas ar to, ka divi Grove Street Families locekļi (Big Smoke un Ryder) pāriet ienaidnieku pusē, kā rezultātā Karls Džonsons tiek izdzīts no pilsētas, viņa brālis (Sean Johnson (Sweet)) nonāk cietumā un tālāk lielu daļu laika Karls Džonsons mēģina viņu no turienes dabūt ārā. Grove Street Families šajā laikā ir pilnīgi iznīcināta un tās teritorijas ieņem Ballas.
+
+
+== Ārējās saites ==
+Oficiālā mājaslapa (angliski)
+GTA SA iekš gamespot.com (angliski)

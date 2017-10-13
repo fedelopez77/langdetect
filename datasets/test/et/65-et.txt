@@ -1,0 +1,132 @@
+Na'vi keel on kunstlik keel, mis on loodud Pandoral elavate na’vide jaoks filmis "Avatar" . Keele on loonud keeleteadlane Paul Frommer. Selle arendamine hakkas juba aastal 2005, kui James Cameron soovis leida kedagi, kes suudaks talle luua uue keele. Filmi ilmumise ajaks 2009. aasta detsembriks, olid keelel olemas põhilised grammatikareeglid ja algne, umbes 1000-sõnaline sõnavara. Keele arendamine sellega ei lõppenud. Frommer on pärast seda jätkanud reeglite arendamist ja uute sõnade loomist. Fännidel on samuti keele arengus oma osa: olemas on tasuta sõnastikud ja keelereeglite õpperaamatud, lisaks hulgaliselt harjutusi ja helifaile. Alates 24. juunist 2010 on Frommeril oma blogi Na'viteri.org.
+
+
+= Keele eripärad =
+Na’vi keel on loodud eelkõige filmi reaalsemaks muutmiseks. Keele loomisel arvestati, et erinevad kõlad oleksid mõnevõrra eksootilised ja erakordsed ning samuti kauged, rõhutamaks, et Na’vid on tulnukad teises päiksesüsteemis. Siiski pidi keele loomisel arvestama ka inimnäitlejatega, kes soravalt, ilma vigadeta ja suuremate probleemideta pidid suutma moodustada erinevad hääldusi ja lauseid. Kuigi na’vi keeles pole uusi, enneolematuid reegleid, siis erinevate keelte omapärasid ja tunnuseid kokku kombineerides on saavutatud igati unikaalne uus keel. Väljapaistvamad eripärad on rõhuga kaashäälikud kx, px, tx ja siseliidete kasutamine tegusõnade pööramisel.
+
+
+= Häälikud =
+Na’vi keeles on 7 täishäälikut, 20 kaashäälikut, 4 diftongi ja 2 pooltäishäälikut
+
+
+=== Täishäälikud, diftongid ja pooltäishäälikud ===
+Täishäälikutest on kõik peale ühe ka eesti keeles esindatud ja nende hääldused on samad. Na’vi keeles märgivad vokaalid silpe ja võivad üksinda ka silbi moodustada. Täishäälikud on järgnevad : a, e i, ì. o, u, ä.
+Diftongid on kahest erinevast kirjamärgist koosnevad tähed, mida ei või eraldi kirjutada. Need on järgnevad: aw, ay, ew, ey.
+Pooltäishäälikud on tähed, mis käituvad kord vokaalide, kord konsonantide reeglitele vastavalt. Need häälikud on ll ja rr.
+
+
+=== Kaashäälikud ===
+Kaashäälikuid on keeles 20. Erilised neist on nii-öelda rõhuga sulghäälikud kx, px, tx, mis käivad väikese klõksu või popsatusega. Kasutust leiab ka kõrisulghäälik. Kaashäälikud on järgnevad: f, h, k, kx, l, m, n, ng, p, px, r, s, t, ts, tx, v, w, y, z ning ‘. Häälikud kx, px, tx, k, p, t ja ts teatud vormides pehmenevad.
+
+
+= Grammatika =
+Na’vi keeles on omapärased keelereeglid. Nimi- ja asesõnu saab käänata viies erinevad käändes järelliidetega ja lisaks veel erinevate abisõnadega. Tegusõnade pööramine toimub siseliidete abil, kusjuures mitte ühelegi pöördevormile ei tule kaassõnu. Lisaks on olemas siseliited ka tunnete väljendamiseks.
+
+
+=== Süntaks ===
+Sõnade järjekord lausetes on na’vi keeles üsna vaba, s.t ei ole tähtis, kus asub lauses alus, öeldis või sihitis. Siiski peab liitlausete puhul üks lauseosa tervenisti jääma ühele poole sidesõna, et lausete tähendus ei muutuks. Samamoodi peab nimisõna mõjutav omadussõna asetsema selle kõrval.
+
+
+== Nimi- ja asesõnad ==
+Nimisõnu saab tuletada na'vi keeles eesliitega tì-:
+Tì'eyng – vastus (tuletatud liitest tì- ja sõnast 'eyng vastama), tìtxanew – ahnus (tì- ja txanew ahne).
+Asesõnade moodustamine pole ka raske. Mina-vormidel eristatakse välistavat ja kaasavat vormi, mis näitab, kas isik, kellega räägitakse, on tegevusse haaratud või mitte.
+Välistav vorm, kui kõnetatav arvatakse tegevusest välja: ayoe kayä neto – Meie(, mitte sina,) läheme ära.
+Kaasav vorm (järelliitega -ng), kui kõnetatav kaasatakse tegevusse: ayoeng tìyätxaw – Me just saabusime.
+Na’vi keeles on nimi- ja asesõnadel lisaks ainsusele kaksuse, kolmsuse ja üldmitmuse vormid. Need moodustatakse kindlate eesliidetega, vastavalt me+, pxe+ ja ay+. Kõik mitmuse liited nõuavad pehmenemist: pxehelku – kolm kodu (eesliitest pxe+ ja sõnast kelku), mefo nemad kaks (eesliitest me+ ja sõnast po).
+
+
+=== Käänded ===
+Aluse kääne
+Aluse käänet kasutatakse lauses aluse märkimiseks siis, kui selles ilmneb ka sihitis. Käändelõpud on konsonandi (ja pooltäishäälikute) korral -ìl ja täishäälikute puhul -l:
+
+Sihitise kääne
+Lauses tuleb sihitis enamasti alati ära märkida. Sihitis võib olla nii nimetavas, omastavas kui ka osastavas käändes, täpselt nagu eesti keeles. Käändelõpud on -t(i) ja -it:
+
+Omastav kääne
+Omastavat käänet kasutatakse kuuluvuse märkimiseks. Kääne nõuab täishäälikute korral järelliidet -yä ning kaashäälikute puhul lõppu -ä:
+
+Datiivne kääne
+Datiivset käänet kasutatakse siis, kui sihitisele suunatud tegevus mõjutab kedagi või midagi. Üldjuhul seondub see alaleütleva käändega, kuid mitte alati. Käändelõpud vokaalide korral -r(u) ja konsonantide puhul -ur:
+
+Teema kääne
+Teema käänet kasutatakse mingi sõna, lause või jutu teemaks tegemisel. Praegu kasutatakse seda käänet vaid erilistes lausekonstruktsioonides. Tunnused: täishäälikute korral -ri ja kaashäälikute korral -ìri.
+Palju õnne!
+
+
+== Tegusõnad ja siseliited ==
+Tegusõnu pööratakse na'vi keeles siseliidete abil. Eristatakse kolme liiki siseliiteid ja see määrab ära nende asukoha sõnas. ‹1› siseliite kohal on aja tunnus, ‹2› siseliite asukohale pannakse tunnet või olekut kirjeldav siseliide. ‹0› ehk eel-esimesele positsioonile tuleb sunduse või enesekohase vormi siseliide. ‹0› ja ‹1› pannakse vastavalt sõnas esimese täishääliku ette ja ‹2› viimase täishääliku ette.
+Tegusõnu on teatud juhtudel võimalik teistest sõnadest tuletada. Selleks tuleb kasutada abitegusõna si tegema. Nii on võimalik moodustada vorme tìkxey si eksima (viga tegema) või kelku si paiknema (kodu tegema). Sõna "si" üksikuna kasutada ei tohi.
+
+
+=== Ajavormid ===
+Lihtsamad ajavormid on lihtminevik, olevik ja tulevik, mille vahele jäävad ka hiljutine minevik ning kohene tulevik. Need määravad ära tegevuse toimumise ajakavas. Neist on võimalik moodustada liitvorme, et näidata ka kõneviisi ja aspekti. Järgnevalt mõningad näited:
+Oe taron. – Ma jahin (olevik ilma siseliiteta)
+Oe t‹ay›aron. – Ma hakkan jahtima. (tuleviku siseliide ‹ay›)
+Nga tsw‹ìly›ayon. – Sa oled varsti lendamas. (ühendsiseliide ‹ìy› + ‹ol›)
+Po t‹er›ul. – Ta on jooksmas. (lõpetamata oleviku sisellide ‹er›)
+Pxefo t‹am›aron. – Nemad kolm jahtisid. (lihtmineviku siseliide ‹am›)
+Oeng t‹ol›aron. – Meie kaks oleme ära jahtinud. (täismineviku perfektiivne siseliide ‹ol›)
+
+
+=== Tunne ===
+Lisaks pööramisele on võimalik ka tegusõnade juures näidata, kas tegevusest tuntakse rõõmu, kurbust või ebakindlust.
+Rõõmu väljendamiseks on siseliide ‹ei›:
+Oe-l nga-ti kam‹ei›e – Ma näen sind (ja mul on selle üle hea meel).
+Pahameele näitamiseks kasutatakse siseliidet ‹äng›:
+Po hangh‹äng›am – Ta magab (ja see on halb).
+Ebakindlust, mis eesti keeles sarnaneb mõnel juhul kaudse kõneviisiga, saab edasi anda siseliitega ‹ats›:
+Po st‹ats›i – (Tundub, et) Ta on vihane.
+
+
+=== ‹iv› siseliide ===
+Üpriski tähtsal kohal on na'vi keeles ka ‹iv› sisellide, mis pannakse esimesele siseliite asukohale. Seda kasutatakse midagi soovides, viisakusvormides, käskudes, aga ka koos modaalverbidega zene pidama, tsun suutma, new tahtma ja sngä'i alustama. Siseliitest ‹iv› saab moodustada liitvorme:
+Txo nga ke y‹irv›om krr a ayoe p‹ol›ähem, ayoeng-ìl ts‹ilv›un ‘‹iv›em ‘uo-t.
+Poleks sa olnud söömas ajal, kui saabusime, oleks me võinud süüa teha.
+
+
+=== Teised siseliited ===
+Jäänud on veel eel-esimesele asukohale minevad siseliited.
+Enesekohane siseliide ‹äp›: Oe y‹äp›ur. – Ma pesen ennast.
+Sundiv või põhjustav siselliide ‹eyk›: Nga-l sng‹eyk›ä’i uvan-it. – Sa alustad mängu.
+V-kesksõna (omadussõna) moodustamiseks on siseliide ‹us›: Tsw‹us›ayon-a ikran. – Lendav Ikran.
+Vormide -nud, -tud, (omadussõna) moodustamiseks on siseliide ‹awm›: T‹awm›ungzup-a txewk. – Kukutatud kaigas.
+
+
+== Omadus- ja määrsõnad ==
+Omadussõnaga midagi kirjeldades tuleb sellele panna ees- või järelliide -a-:
+Ean-a taw. – Sinine taevas.
+Kasutades lauses olema vormi, jääb omadussõna muutmatuks:
+Taw lu ean. – Taevas on sinine.
+Kirjeldamisel käituvad arvud omadussõnadena, seega pannakse neile -a- liide (nimisõna ei võta mitmuse tunnust):
+Mrr-a trr. – Viis päeva.
+Lisaks siseliidetele ‹us› ja ‹awm› saab omadussõnu moodustada ka nimisõnale eesliite le- lisamisega:
+Le-hrrap-a ioang. – Ohtlik loom.
+Määrsõnad ei võta endale liidet -a-. Neid saab moodustada eesliitega nì-:
+Oe tsun p‹iv›lltxe nì-Na'vi – Ma oskan rääkida na'vi keeles. (Ma oskan rääkida na'viselt.)
+
+
+= Fraasid =
+Järgnevalt on välja toodud mõningad levinud laused.
+Tere, kuidas läheb?
+
+Mis su nimi on?
+
+Ma armastan sind.
+
+Ma tänan sind.
+
+Nägemist!
+
+
+== Välislingid ==
+LearnNavi.org
+Dr. Frommeri blogi
+NA'VI – EESTI sõnastik
+
+
+== Kirjandus ==
+Na'vi keele raudvara versioon 2.3, 17.08.2010
+
+
+== Viited ==

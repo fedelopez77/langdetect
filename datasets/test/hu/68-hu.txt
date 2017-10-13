@@ -1,0 +1,15 @@
+A szilárd savas tüzelőanyag-cella (solid acid fuel cells, röviden: SAFC) egy osztálya a tüzelőanyag-celláknak, amelynél egy szilárd só az elektrolit. Működése hasonló a többi elterjedt üzemanyagcelláéhoz, hidrogén az üzemanyag, amit közvetlen elektrokémiai átalakítás során elektromosságot termel oxigén-tartalmú gáz, pl. levegő segítségével, és csak a víz a melléktermék. A jelenlegi SAFC rendszerek nem csak hidrogén gázzal, hanem ipari minőségű propánnal és a dízellel is működnek. Működési hőmérséklete ezeknek az üzemanyagcelláknak 200 - 300°C között van.
+
+
+== Elektrolit ==
+A szilárd savak a sók és savak közötti csoportban helyezkednek el, mint pl. a CsHSO4. 
+Ezek az anyagok a kiváló proton vezetőképességük miatt lehetővé teszik az akár 50%-os hatásfok elérését különböző üzemanyagokkal.
+Az első SAFC-t 2000-ben fejlesztették ki cézium-hidrogén-szulfáttal (CsHSO4). Azonban ezek a tüzelőanyag-cellák olyan melléktermékeket termeltek, amelyek súlyosan tönkretették a tüzelőanyag-cella anódot, amely lecsökkent teljesítményhez vezetett már enyhe használat után is.
+A jelenlegi SAFC-rendszerek cézium-dihidrogén-foszfátot (CsH2PO4) használnak, és bebizonyították, hogy több ezer órán át képesek működni. Párás környezet szükséges a működéséhez, hogy megakadályozza a CsH2PO4 szilárd anyag disszociáciját sóvá és vízgőzzé.
+
+
+== Jegyzetek ==
+
+
+== Fordítás ==
+Ez a szócikk részben vagy egészben a Solid acid fuel cell című angol Wikipédia-szócikk ezen változatának fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.

@@ -1,0 +1,37 @@
+Interstellar Boundary Explorer, skrátene IBEX, tiež Explorer 91, je vesmírna sonda NASA, ktorá bola vypustená v októbri 2008 a ktorá skúma hranicu medzi slnečnou sústavou a medzihviezdnym priestorom. Cena misie je 165 miliónov dolárov.
+
+
+== Úlohy misie ==
+Sonda nadväzuje na staršie misie Voyager 1 a Voyager 2 z roku 1977. Počas dvoch rokov bude odovzdávať informácie z oblastí na pokraji našej slnečnej sústavy, najmä hľadať vlastnosti prípadného ochranného štítu pred nebezpečným žiarením z ďalších častí našej galaxie. V súčasnej dobe je totiž protitlak slnečného vetra veľmi nízky. Na rozdiel od oboch misií Voyager, ktoré mieria mimo našej slnečnej sústavy, sa IBEX nevzdiali od Zeme ďalej než na trojštvrtinovú vzdialenosť Mesiaca. Mapovanie hranice heliosféry je vykonávané pomocou takzvaných energetických neutrálnych atómov, ktoré vznikajú pri výmene elektrického náboja medzi časticami slnečného vetra a časticami medzihviezdneho priestoru. Tieto atómy potom cestujú späť k nášmu Slnku a pri tejto ceste ich IBEX deteguje a vytvára mapu.
+
+
+== Konštrukcia sondy ==
+Základnú konštrukciu sondy mala na starosti spoločnosť Orbital Science Corporation, ktorá je zároveň výrobcom nosnej rakety Pegasus. Hlavnými vedeckými nástrojmi je dvojica detektorov energetických neutrálnych atómov. Jeden detektor je citlivý na častice s vyššou energiou (300 eV až 6 keV) a druhý na častice s nižšou energiou (10 eV až 2 keV). Oba dokážu zaznamenávať časy, smery, hmotnosti a energie detegovaných atómov. Vývoj a výrobu detektorov zabezpečovali Lockheed Martin Advanced Technology Center a Los Alamos National Laboratory. Riadenie misie bolo zverené oddeleniu vedeckého výskumu v Southwest Research Institute, ktoré sídli v San Antoniu (USA - štát Texas).
+
+
+== Priebeh misie ==
+
+Sondu vypustil spolu s raketou Pegasus XL/Star 27 vo výške 12 km nad Zemou z lietadla Lockheed L-1011 dňa 19. októbra 2008. K svojmu letu odštartovalo z atolu Kwajalein. Po úspešnom štarte bolo sonde agentúrou COSPAR pridelené označenie 2008-051A.
+V prvej fáze bola sonda umiestnená na silne eliptickú dráhu s nízkym perigeom. Potom bol v apogeu zapálený motor na tuhé palivá, ktorý zvýšil aj perigeum a naviedol sondu na požadovanú vysokú eliptickú dráhu. Konečná dráha IBEX je teda eliptická obežná dráha Zeme s vysokou excentricitou, ktorej výška sa pohybuje od perigea vo výške 6000 až 11 000 kilometrov, až po apogeum vo výške až 300 000 kilometrov, teda asi tri štvrtiny vzdialenosti medzi Zemou a Mesiacom. Táto orbitálna dráha sa mení v dôsledku odporu atmosféry v perigeu,a gravitačných turbulencií z gravitačného poľa Mesiaca a ďalších kozmických telies. Vysoké apogeum umožňuje sonde opustiť magnetosféru Zeme i Van Allenove pásy a vykonávať merania, bez rušivých vplyvov od nabitých častíc. Vo vzdialenosti približne 70 000 kilometrov od Zeme už neprebiehajú merania, ale sonda sa venuje iným činnostiam ako napríklad odosielaniu nazbieraných dát späť na Zem.
+
+
+== Výsledky meraní ==
+
+Prvotné údaje ukázali, skôr neočakávaný, relatívne tenký pruh, v ktorom je hustota energetických neutrálnych atómov dva až trikrát vyššia, než inde na oblohe. Tento pruh sa nenachádza v oblasti nazývanej bow shock, čo je oblasť vzniknutá na pomedzí heliosféry a medzihviezdneho média pri pohybe slnečnej sústavy medzihviezdnym priestorom. Pôvod tohto javu je teda zatiaľ nejasný. Podľa jednej z teórií je zvýšená hustota energetických neutrálnych atómov spôsobená interakciu medzi heliosférou a lokálnym magnetickým poľom našej galaxie. Podľa tejto teórie magnetické pole Slnka deformuje siločiary galaktického magnetického poľa a to vedie ku stláčaniu heliosféry. Fyzikálna podstata tohto javu je však stále neznáma.
+Merania IBEX sú porovnávané s dátami odoslanými oboma Voyagermi, ktoré už dorazili do oblasti vzniku energetických neutrálnych atómov a s dátami od sondy Cassini pri Saturne. Snímkovanie celej oblohy trvá pol roka a rozdiely v snímaných oblastiach medzi jednotlivými sekvenciami sa môžu líšiť podľa slnečnej aktivity, hustoty medzihviezdneho média a zmien magnetických polí Slnka a galaxie. Údaje IBEX tak môžu pomôcť k lepšiemu pochopeniu týchto dejov. Tiež sa očakáva, že získané informácie pomôžu lepšie stanoviť polohu slnečnej sústavy v Galaxii.
+
+
+== Iné projekty ==
+
+ Commons ponúka multimediálne súbory na tému Interstellar Boundary Explorer
+
+
+== Zdroje ==
+Tento článok je čiastočný alebo úplný preklad článku Interstellar Boundary Explorer na českej Wikipédii.
+
+
+== Externé odkazy ==
+
+IBEX na SPACE40 (po česky)
+Novinový článok o sonde (po česky)
+osel.cz - Tajemný pás na hranici Sluneční soustavy je kolébkou rychlých atomů (po česky)

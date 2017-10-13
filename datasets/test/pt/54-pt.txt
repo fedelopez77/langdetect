@@ -1,0 +1,2 @@
+GP120 é uma glicoproteína capaz de se ligar simultaneamente ao receptor de membrana CD4+ e ao CCR5 de linfócitos T auxiliadores.
+A GP120 está presente na camada mais externa do retrovírus do tipo VIH e é graças a esta proteína que o vírus é capaz de fundir sua membrana à da célula T, iniciando a sequência de contaminação.

@@ -1,0 +1,48 @@
+HLA-DR is an MHC class II cell surface receptor encoded by the human leukocyte antigen complex on chromosome 6 region 6p21.31. The complex of HLA-DR (Human Leukocyte Antigen – antigen D Related) and its ligand, a peptide of 9 amino acids in length or longer, constitutes a ligand for the T-cell receptor (TCR). HLA (human leukocyte antigens) were originally defined as cell surface antigens that mediate graft-versus-host disease, which resulted in the rejection of tissue transplants in HLA-mismatched donors. Identification of these antigens has led to greater success and longevity in organ transplant.
+Antigens most responsible for graft loss are HLA-DR (first six months), HLA-B (first two years), and HLA-A (long-term survival). Good matching of these antigens between host and donor are most critical for achieving graft survival.
+HLA-DR is also involved in several autoimmune conditions, disease susceptibility and disease resistance. It is also closely linked to HLA-DQ and this linkage often makes it difficult to resolve the more causative factor in disease.
+HLA-DR molecules are upregulated in response to signalling. In the instance of an infection, the peptide (such as the staphylococcal enterotoxin I peptide) is bound into a DR molecule and presented to a few of a great many T-cell receptors found on T-helper cells. These cells then bind to antigens on the surface of B-cells stimulating B-cell proliferation.
+
+
+== Function ==
+
+The primary function of HLA-DR is to present peptide antigens, potentially foreign in origin, to the immune system for the purpose of eliciting or suppressing T-(helper)-cell responses that eventually lead to the production of antibodies against the same peptide antigen. Antigen presenting cells (macrophages, B-cells and dendritic cells) are the cells in which DR are typically found. Increased abundance of DR 'antigen' on the cell surface is often in response to stimulation, and, therefore, DR is also a marker for immune stimulation.
+
+
+== Structure ==
+HLA-DR is an αβ heterodimer, cell surface receptor, each subunit of which contains two extracellular domains, a membrane-spanning domain and a cytoplasmic tail. Both α and β chains are anchored in the membrane. The N-terminal domain of the mature protein forms an alpha-helix that constitutes the exposed part of the binding groove, the C-terminal cytoplasmic region interact with the other chain forming a beta-sheet under the binding groove spanning to the cell membrane. The majority of the peptide contact positions are in the first 80 residues of each chain.
+
+
+== Genetics ==
+The genetics of HLA-DR is complex. HLA-DR is encoded by several loci and several 'genes' of different function at each locus. The DR α-chain is encoded by the HLA-DRA locus. Unlike the other DR loci functional variation in mature DRA gene products is absent. (Note: see table Number of Variant Alleles HLA-DR Loci- reduces the potential functional combinations from ~1400 to ~400 ([table is not exact because new alleles are continually being added; not all new alleles are functional variants of the mature subunits]).
+
+The DR β-chain is encoded by 4 loci, however no more than 3 functional loci are present in a single individual, and no more than two on a single chromosome. Sometimes an individual may only possess 2 copies of the same locus, DRB1*. The HLA-DRB1 locus is ubiquitous and encodes a very large number of functionally variable gene products (HLA-DR1 to HLA-DR17). The HLA-DRB3 locus encodes the HLA-DR52 specificity, is moderately variable and is variably associated with certain HLA-DRB1 types. The HLA-DRB4 locus encodes the HLA-DR53 specificity, has some variation, and is associated with certain HLA-DRB1 types. The HLA-DRB5 locus encodes the HLA-DR51 specificity, which is typically invariable, and is linked to the HLA-DR2 types.
+linkage (See Table)
+DQA1 and DQB1
+Linkage disequilibrium exists for many DR-DQ types.
+
+Nomenclature issues. Some older studies may refer to DR15 or 16 as DR2 and DQ5 and DQ6 as DQ1 therefore a haplotype DR2-DQ1 is usually referring to DR15-DQ6 but could be referring to DR16-DQ5. DR5 is used to refer to DR11 and DR12, in which case DQ3 might be used. In these instances DQ3 almost always can be interpreted as DQ7, but DR5 is most often DR11 and less frequently DR12. Similar issues exist for DR6 versus DR13 and DR14. DR6-DQ1 can refer to either DR13-DQ6 or less frequently DR14-DQ5, but DR6-DQ3 or DR6-DQ7 generally refers to DR13-DQ7. Even older literature has more confusing designations. By looking at the change of disease association with improved testing we can see how science has evolved over time.
+
+
+=== Evolution and allele frequencies ===
+There is a high level of allelic diversity at HLA DRB1, it is second only to HLA-B locus in number of allelic variants. These two loci are highest sequence variation rate within human genome. This means HLA-DRB1 is rapidly evolving, much more rapidly than almost all other protein encoding loci. Much of the variation at HLA DRB1 occurs at peptide contact positions in the binding groove, as a result many of the alleles alter the way the DR binds peptide ligands and changes the repertoire each receptor can bind. This means that most of the changes are functional in nature, and therefore are under selection. In the HLA region, genes are under heterozygous or balancing selection, although certain alleles appear to be under positive or negative selection, either in the past or present
+HLA generally evolve through a process of gene conversion, which is a form of short distance or 'abortive' genetic recombination. Functional motifs in genes are exchanged to form new alleles, and frequently new, functionally different DR isoforms. HLA-DR represents an extreme example of this. A survey of X-linked loci reveals that most human loci have undergone fixation within the last 600,000 years, and diploid loci have undergone significant proportion of fixation in that period of time.
+The level of deep branching at X-linked loci indicates loci were close to fixation or fixed at the end of the human population bottleneck 100,000 to 150,000 years ago. The HLA-DR locus represents a major exception to this observation. Based on distribution of major groupings in the human population it is possible to assert that more than a dozen major variants survived the population bottleneck. This observation is supported by the concept of a heterozygous selection coefficient operating on the HLA-DR, and at the HLA-DRB1 locus to a greater degree relative to HLA-DQB1 and HLA-DPB1. Most of the HLA alleles currently present in the human population can be explained by gene conversion between these ancient ancestral types, some that persist into the extant population.
+
+
+== Serogroups ==
+The table below provides links to subpages with information about distribution, genetic linkage and disease association for the HLA-DR serogroups.
+
+
+== Interlocus DRB Linkage ==
+DRB1 is linked with other DRB loci in 4 ways
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+HLA-DR antigens at the US National Library of Medicine Medical Subject Headings (MeSH)

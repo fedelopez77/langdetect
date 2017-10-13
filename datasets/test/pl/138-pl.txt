@@ -1,0 +1,2 @@
+Prekompilacja nagłówków - technika używana przez niektóre kompilatory C i C++, by zredukować czas kompilacji projektu. Polega ona na tym że nagłówek jest jednorazowo wstępnie kompilowany, a następnie dołączany do wielu modułów.
+Prekompilacje obsługuje GCC(od wersji 3.4), Microsoft Visual Studio i C++Builder.

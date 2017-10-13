@@ -1,0 +1,24 @@
+Toto je zoznam HD objektov od 91001 do 92000.
+
+
+== Legenda ==
+Kód pre Fvm = kód pre fotovizuálnu magnitúdu:
+0 = meraná
+1 = hodnota odvodená od fotografickej magnitúdy a spektrálneho typu
+
+Kód pre Ptg = kód pre fotografickú magnitúdu:
+0 = meraná
+1 = hodnota odvodená od fotovizuálnej magnitúdy a spektrálneho typu
+
+Ptg je kombinovaná = fotografická magnitúda je kombinovaná pre túto položku a predošlú alebo nasledovnú položku
+Poznámky:
+D = položka vymazaná
+E = obraz na kraji platne
+G = poloha a BD číslo prevzaté priamo z AGK1 a spracované do 1900
+M = použilo sa viac obazov
+R = poznámka v publikovanom katalógu
+* = spektrálny typ ako hviezdokopa, hmlovina alebo hmovinová hviezda
+
+
+== Zdroj ==
+HD katalóg na cdsarc.u-strasbg.fr

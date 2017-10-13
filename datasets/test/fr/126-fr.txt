@@ -1,0 +1,24 @@
+Ĥ (minuscule : ĥ), appelé H accent circonflexe, est une lettre additionnelle latine, utilisée dans l’écriture de l’espéranto. Il s’agit de la lettre H diacritée d’un accent circonflexe.
+
+
+== Utilisation ==
+En espéranto, Ĥ est la onzième lettre de l’alphabet (entre H et I) et représente le son /x/. En cas d’impossibilité d’utiliser cette lettre (par exemple si elle n’est pas disponible sur le clavier), elle peut être remplacée par hh (comme préconisé dans le Fundamento de Esperanto) ou hx.
+Ĥ est la lettre la moins fréquente de l’espéranto, la plupart du temps utilisée comme équivalent du chi grec. Dans de nombreux mots, elle a été remplacée par K : kemio est maintenant plus courant que ĥemio. Il reste cependant quelques mots toujours utilisés avec Ĥ, principalement des mots qui ne sont pas d’origine grecque, ou pour éviter les confusions : ĉeĥo (« Tchèque »), ĥoro (« chœur ») et eĥo (« écho ») sont des mots distincts de ĉeko (« chèque »), koro (« cœur ») et eko (« commencement »).
+
+
+== Représentations informatiques ==
+Le H accent circonflexe peut être représenté avec les caractères Unicode suivants :
+précomposé (latin étendu B) :
+décomposé (latin de base, diacritiques) :
+Des anciens codages informatiques permettent aussi de représenter le H accent circonflexe :
+ISO 8859-3
+capitale Ĥ : A6
+minuscule ĥ : B6
+
+
+== Voir aussi ==
+Accent circonflexe
+Alphabet latin
+H (lettre)
+
+ Portail de l’écriture

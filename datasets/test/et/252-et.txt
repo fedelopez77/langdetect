@@ -1,0 +1,15 @@
+Juno on kolmas asteroid, mis on avastatud Väikeste Planeetide Keskuse (Minor Planet Centre) kataloogisüsteemis.
+Juno on üks suuremaid Asteroidide vöö planeete. 3 Juno on üks kahest suurimast S-tüüpi asteroididest (teine on 15 Eunomia). 3 Juno mass moodustab 1% kogu asteroidide vöö massist. Juno avastati 1. septembril 1804 Saksa astronoomi Karl Ludwig Hardingu poolt.
+
+
+== Nimi ==
+3 Juno on saanud oma nime Rooma jumalanna Juno järgi. Tema planetaarsümbol on ③. Vanem sümbol, mida samuti vahetevahel kohtab, on ⚵.
+
+
+== Omadused ==
+3 Juno tiirlemisperiood on 4.36578 aastat. Juno on S-tüüpi asteroidide kohta ebatavaliselt peegeldav, mis võib viidata erinevatele pinnaomadustele. Kõrge albeedo selgitab suhteliselt kõrget näivat tähesuurust väikeste objektide suhtes, mis ei asu Asteroidide vöö sisemises ääres. Junot peeti algul planeediks koos 1 Cerese, 2 Pallase, ja 4 Vestaga. 1811 määras Schröter Juno diameetriks 2290 km. Juno väiksus ja ebakorrapärane kuju välistasid ta olemast kääbusplaneet. Juno orbiitide keskmine kaugus on Päiksele veidi lähemal kui Ceresel ja Pallasel. Juno orbiidit on ekstreemselt ekstsentriline. Junol oli teadaolevatest kehadest kõige ekstsentrilisem orbiit, kuni 1854. aastani, mil avastati 33 Polyhymnia.
+Keskmine orbiidikiirus: 17.93 km/s
+Mass: 2.67 ×1019 kg
+Pinnagravitatsioon: 0.12 m/s²
+Pöörlemisperiood: 7.21 hr
+Temperatuur: ~163 K , max: 301 K (+28°C)

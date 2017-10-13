@@ -1,0 +1,48 @@
+Az állatorvos dolga, ha gyógyítással foglalkozik, nagyjából ugyanaz mint az orvosoké, de azért vannak jelentős különbségek. A klinikus állatorvos önmagában több szakorvosi teendőt is ellát, így belgyógyász, sebész, sőt radiológus és patológus is lehet egyszemélyben, az adott körülményektől függően. A feladatai közé tartozik az is, hogy ha szükséges, ivartalanítsa (kiherélje, kimiskárolja vagy sterilizálja), és néha az is, hogy elaltassa az állatokat. Az állatorvosok között azonban sokan vannak, akik nem közvetlenül az állatok gyógyításával foglalkoznak, hanem az élelmiszer-előállítás területén ügyelnek arra, hogy az emberek elé csak biztonságos termékek kerülhessenek fogyasztásra, vagy az állatorvosi gyógyszerforgalmazásban dolgoznak, netán kutatómunkát végeznek egy intézetben.
+
+Ma Magyarországon sok tekintetben megváltozott az igény az állatorvosok iránt, és a meglévő praxisok – különösen a haszonállatvonalon – sok helyen vannak veszélyben. Ennek legfőbb oka a mezőgazdaság megváltozott helyzetében keresendő, abban, hogy sok helyen nem gazdaságos az állattartás, csökkent az állatlétszám, amiből következően ma már vidéken is gyakran a kutyák és a macskák, vagyis a kisállatok ellátása adja az állatorvos munkájának zömét.
+
+
+== Magán-állatorvosok ==
+Magán-állatorvosoknak nevezik azokat az állatorvosokat, akik praktizálnak, akik közvetlenül az állatorvosi szolgáltatásból akarnak megélni. Tevékenységüket csak az állatorvosi kamara működési engedélyével végezhetik. A magán-állatorvosoknak a kamarától kapott névre szóló bélyegzőjük van. A magán-állatorvosok között sokan egyedül dolgoznak, de sokan társas praxisokat működtetnek. Akik csak kisállatok gyógyításával foglalkoznak, leggyakrabban kisállatrendelőt, vagy állatklinikát nyitnak. Vidéken azonban még ma is leginkább ún. vegyespraxisok működnek, amelyek a haszonállatok ellátásával is foglalkoznak. A magán-állatorvosok között sokan specializálódnak, és csak a klinikai állatorvosi munka egy szűk területén dolgoznak.
+
+
+== Állatorvosi praxisrendszer ==
+klinika
+A klinika olyan állatkórház, amelyben az állatkórházi teendőkön kívül állatorvos képzés, illetve továbbképzés is zajlik. Magyarországon egyetlen klinika létezik. Az Állatorvos Tudományi Egyetem Oktató Klinikája. Ez két részből áll: Kisállat Kórház és Oktató Klinika és az Üllő Dóra majori Nagyállatklinika. Itt olyan klinikus állatorvosok dolgoznak, akik az állatorvosi tevékenység mellett az állatorvostan hallgatók oktatásában is szerepet vállalnak.
+állatkórház
+A klinika után a legnagyobb szakmai színvonalat képviselő intézmény. Egyben a legnagyobb magán kézben lévő magyar állategészségügyi egység. Vezetője egy- vagy több szakállatorvosi diplomával rendelkező klinikus állatorvos. Az állatkórházban minimum három klinikus állatorvos, továbbá több szaksegéd, ápoló és egyéb kiszolgáló személyzet dolgozik. Minden állatkórháznak működési engedéllyel kell rendelkeznie, amit a Magyar Állatorvosi Kamara területileg illetékes kerületi főállatorvosa ad ki. Az állatkórháznak számos feltételnek kell megfelelnie, így diagnosztikai eszközök széles tárháza áll rendelkezésükre a megfelelő színvonalú diagnosztikai munkához. Minden állatorvosnak, de különösen a klinikai és az állatkórházi állatorvosnak kötelessége folyamatosan továbbképeznie magát. Ezt nem csak a Kamarai Szabályzat, de a belső klinikai/állatkórházi kötelességek is megkövetelik. Az állatkórházak -a kórházi ellátás mellett- végeznek alap állategészségügyi ellátást is. A társas praxis előnye, a konzíliumok lehetősége, illetve a kórház vezetői elvárás következménye, a folyamatos továbbképzés. Ennek alapján ezekben az intézményekben erősebb a pontos diagnózisra való törkevés és a precízebb kezelés.
+kisállatkórház/nagyállatkórház
+Az állatkórházak teljeskörű betegellátási kapacitással rendelkeznek. A kis- vagy nagyállatkórházak viszont vagy csak a kis termetű állatokat (kutya, macska egyéb kedvtelésből tartott állatok (díszmadarak, hüllők, rágcsálók, kistestű ragadozók, stb.) fogadnak, vagy pedig nagy testű állatokat (ló, szarvasmarha, sertés, kecske, juh, stb.)
+állatorvosi szakrendelő
+Olyan állatorvosi rendelő, amelynek vezetője egy vagy több szakállatorvosi diplomával rendelkezik. Tevékenységi köre vagy általános betegellátás, továbbá az egyik szakirányban kiemelt szakmai színvonalú betegellátás, vagy pedig csak egy adott szakirány illetve betegcsoport magas színvonalú ellátása. A szakrendelőben egy vagy több állatorvos és egy vagy több szaksegéd dolgozik. Az alapvető diagnosztikai eszközök (röntgen, ultrahang) mellett gyakran egyéb speciális diagnosztikai eszközöket (pl.:vérlabor, videoendoszkóp)is alkalmaznak. Megfelelően kialakított műtő és műtéti felszerelés (altatógép, EKG, vérnyomásmérő, pulzoxymetria, sebészi eszközök) és asszisztencia (aneszteziológus, steril- ill. nem steril műtéti asszisztens) alkalmazása esetén a rendelő alkalmas lehet műtétek végzésére.
+állatorvosi rendelő
+Vezetője általános állatorvosi diplomával rendelkező személy. Az állatorvosi rendelők csak alapvető diagnosztikai vizsgálatokat és kisebb műtéti beavatkozásokat végeznek, ha ezekhez megteremtik a feltételeket. A XXI. sz. íratlan szabályai és alapelvei szerint műtétet csak az az állatorvos végezhet, akinek az előírások szerint kialakított műtőjében, a műtét idejére megfelelő műtéti felszerelés és megfelelően képzett műtéti asszisztens áll rendelkezésére.
+mobil praxis
+Magyarországon jelenleg több szakmai szintet képviselő mobil praxis van. Általános jellemzőjük, hogy egy adott működési területen tevékenykednek. (körzet, megye, vagy országos működési engedély) Legáltalánosabb az egyszemélyes -ún. "táskás praxis". Ebben egy általános állatorvosi diplomával rendelkező személy végez alap állategészségügyi ellátást. Megfelelő diagnosztikai eszközök hiányában sokszor kénytelen magasabb szintű állategészségügyi intézménybe utalni az állatot, vagy pedig feltételezett diagnózis alapján kezelni.
+A mobil praxisok kis hányada magas színvonalú diagnosztikai és oki ellátást végez. Ezek általában szintén társas praxisok, azaz van egy magas szakmai képzettséggel rendelkező szakállatorvos vezetőjük, aki a mobil egységeket irányítja. Diagnosztikai eszközeik szintén mobil kiszerelésűek (mobil röntgen, mobil ultrahang), sőt egyes mobil egységek mobil műtőt is alkalmaznak.
+
+
+== Hatósági állatorvosok ==
+
+A hatósági állatorvosok az állam alkalmazásában állnak, és elsősorban irányító, ellenőrző, járványmegelőző feladatokat látnak el az állatok egészségvédelme érdekében. Különösen fontos az élelmiszer előállításban, forgalmazásban végzett ellenőrző tevékenységük. Az önkormányzatok korábban gyakran alkalmaztak ún. önkormányzati állatorvosokat, de a törvényi szabályozás változásai, és az önkormányzatok egyre szűkösebb anyagi lehetőségei miatt ma már az ilyen állatorvosok száma erősen csökkent.
+Mivel a kedvtelésből, és nem haszonszerzésből tartott állatok baja, betegsége a gazdákat legalább annyira izgatja és sújtja, mind a kedvenceket, az állatorvos legfőbb érdeke, hogy szakmailag minél jobb színvonalú munkát végezzen, és a rá bízott állatok egészséget megóvja, helyreállítsa. Ezért a magán-állatorvosoknak folyamatosan továbbképzéseken kell résztvenniük, amit az állatorvosi kamara ír elő számukra.
+Az állatorvosok rendelkezésre álló eszközök köre azonban gyakran szűkebb, mint az emberi gyógyászatban, de vannak átfedő területek, például a gyógyszerek is. Az állatorvosoknak is van kamarája, amelybe minden praktizáló állatorvosnak kötelező belépnie. Sok esetben nem jellemző, hogy az állatorvosok különösebben összefognának egy-egy településen, vagy körzetben, inkább a versengést választják. Korábban vidéken a gazdák legtöbbször csak azért keresték meg az állatorvost, hogy a teherré vált kisállatot a doktor úr irtsa ki, és sok évbe tellett, míg az állatorvosok rá tudták beszélni a páciensek tartóit, hogy érdemes a kezelést, a gyógyítást anyagilag megreszkírozni.
+
+
+== Állatvédelem ==
+Mára már ez a helyzet, így ha most egy állatorvos nem igyekszik a végsőkig elmenni, hogy egy súlyosan beteg állat életét meghosszabbítsa, nemcsak az állatot vesztheti el, hanem ügyfélként annak önzetlen gazdáját is.
+Ugyanakkor az állatok adott létszámon felüli tartását, elhagyását, esetleg megölését, amely gyakori jelenség, ma már számos országban - többek között Magyarországon is - törvény tiltja. Ezzel a törvénnyel jócskán szembe került egymással a lakosság állatokat kedvelő és tartó csoportja, és azoké, akiket zavar, hogy az állatok gazdái nem mindig takarítanak fel az állat után a közterületeken.
+Lásd még: Állati jogok egyetemes nyilatkozata
+
+
+== További információk ==
+
+Magyarországi állatorvos gyűjtemény
+Állatorvosi Kamara
+MTA Állatorvosi Kutatóintézet honlap
+Nyilvántartás az állatorvosokról
+Az állatorvosi egyetem honlapja
+Állatorvosi információk
+Állatvédelem
+Az állatok mozgásának elemzése

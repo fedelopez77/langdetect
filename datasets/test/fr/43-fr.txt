@@ -1,0 +1,34 @@
+Charles Simonyi, né Károly Simonyi ([ˈkaːɾoj], [ˈʃimoɲi]) le 10 septembre 1948 à Budapest, est un informaticien hongrois émigré aux États-Unis en 1968. Maître d'œuvre des logiciels Word et Excel chez Microsoft, il est principalement connu pour ses vols comme touriste spatial à bord de la Station spatiale internationale (ISS) en 2007 et 2009. C'est le premier touriste spatial à être allé dans l'espace à deux reprises.
+
+
+== Biographie ==
+Après ses études il est embauché au Xerox PARC à Palo Alto en Californie. Il est chargé de la création du logiciel Bravo sur Xerox Alto, le tout premier traitement de texte en mode WYSIWYG ayant jamais existé.
+Recruté par Microsoft il crée la première version de Word pour MS-DOS en 1983, puis celle en WYSIWYG pour Macintosh.
+Il est pendant un temps responsable de la division application de la société américaine et plus particulière de la suite bureautique Microsoft Office. Il fait fortune chez Microsoft en créant les logiciels Microsoft Word et Microsoft Excel en 1981 qui sont les deux plus vendus au monde en janvier 2007.
+Il a depuis créé son entreprise d'informatique, Intentional Software (en), qui promeut la technique de développement innovante initiée au sein de Microsoft Research. La programmation par intention (intentional programming), qui consiste à développer une boite à outils liée à un domaine métier (l'assurance par exemple). Des experts du domaine peuvent alors utiliser une interface graphique pour décrire l'application dont ils ont besoin. Cette description et la boite à outils sont alors utilisées pour produire l'application finale automatiquement. Les évolutions mineures peuvent ensuite être réalisées simplement de manière graphique.
+
+
+== Tourisme spatial ==
+Il débourse 25 millions de dollars afin de devenir le 5e touriste spatial grâce à la société américaine Space Adventures. À ce titre, il participe au vol Soyouz TMA-10 du 7 avril 2007 en direction de l'ISS. Son retour sur Terre a lieu le 21 avril 2007 à bord de Soyouz TMA-9 en compagnie du russe Mikhail Tyourine et de l'américain Miguel López-Alegría, tous deux résidents de l'ISS depuis sept mois. Pendant son séjour il tient son blogue quotidiennement et se livre à des expériences médicales.
+En octobre 2008, il réserve sa place pour un second vol vers l'ISS, toujours avec Space Adventures. Il décolle de Baïkonour le 26 mars 2009 en direction de l'ISS à bord d'une fusée Soyouz TMA-14, avec l'astronaute américain Michael Barratt et le cosmonaute russe Guennadi Padalka (vol considéré comme "Expédition 19" vers l'ISS). Il est de retour sur Terre le 8 avril 2009, en compagnie de l'Américain Michael Fincke et du Russe Iouri Lontchakov, dans une Soyouz TMA-13.
+
+
+== Vie personnelle ==
+Simonyi est marié à Lisa Persdotter, la fille d'un millionnaire suédois. Elle est de 32 ans sa cadette. Ils se sont fiancés le 8 août 2008 et se sont mariés le 22 novembre 2008 dans une cérémonie privée à Göteborg en Suède, en présence de leurs amis les plus proches, dont Bill Gates,.
+Leur premier enfant, une fille nommée Lilian Simonyi, est née en février 2011. Leur deuxième enfant, Livia Suzanne Simonyi est née en novembre 2012.
+Charles Simonyi a vécu une histoire sentimentale avec Martha Stewart pendant 15 ans jusqu'en 2008.
+Simonyi passe six mois par an sur son yacht de 232 pieds (70,70 m), le 106e plus grand yacht privé (palmarès 2013) nommé Skat.
+La résidence principale de Simonyi est à Medina (en) dans l'État de Washington, connue sous le nom de « Villa Simonyi », qui est une maison moderne conçue par l'architecte Wendell Lovett, où Simonyi affiche sa collection de peintures de Roy Lichtenstein et Victor Vasarely.
+
+
+== Références ==
+
+
+== Liens externes ==
+Notices d'autorité : Fichier d’autorité international virtuel • Bibliothèque du Congrès • WorldCat
+(fr) Le site personnel de Charles Simonyi et son Blog
+(en) Résumé du vol effectué
+
+ Portail de l’astronautique
+ Portail de la Hongrie
+ Portail de Microsoft

@@ -1,0 +1,12 @@
+Tertsen betegner intervallet mellem 1. og 3. trin i den diatoniske skala.
+Den store terts (dur) har 4 halvtonetrin. Den lille terts (mol) har 3.
+Som eksempel kan nævnes tonerne c og e. Intervallet mellem disse er en stor terts. Afstanden mellem c og es er en lille terts, og det er afstanden mellem cis og e også. Der vil altid være en terts mellem to toner, der enten skrives på nodelinjer eller i mellemrum lige over eller under hinanden.
+Intervallet kan kendes på at det har samme interval, som de første to toner i "Du danske sommer, jeg elsker dig" eller "I skovens dybe, stille ro".
+En stor terts fra c til e:
+
+Det skal nævnes, at der også findes formindskede tertse (med 2 halvtonetrin) og forstørrede tertse (med 5 halvtonetrin)
+Hvis en treklang som udelukkende består af tertsstabler, dvs. at den kun består af en grundtone og to andre toner, der har et interval på en terts(den ene tone har en afstand(interval) på en "ren kvint" fra grundtonen i dur og mol akkorder og formindsket kvint i dim-akkorder og forstørret kvint i aug-akkorder), så vil man kunne danne 4 forskellige treklange.
+1. en dur akkord - grundtone, stor terts, lille terts
+2. en mol akkord - grundtone, lille terts, stor terts
+3. en aug akkord - grundtone, stor terts, stor terts
+4. en dim akkord - grundtone, lille terts, lille terts

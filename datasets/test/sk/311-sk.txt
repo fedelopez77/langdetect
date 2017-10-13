@@ -1,0 +1,51 @@
+Katalyzátor je technické zariadenie vo výfukovom systéme spaľovacieho motora, ktorého úlohou je upraviť zloženie výfukových plynov do neho vstupujúcich tak, aby na výstupe obsahovali menší (najlepšie nulový) podiel škodlivých zložiek - exhalátov, alebo emisií.
+Katalyzátor je väčšinou konštruovaný ako keramické teleso valcového tvaru s množstvom malých kanálikov. Ich povrch, v závislosti od typu môže obsahovať katalytickú látku. Takéto riešenie zabezpečuje čo najväčšiu pracovnú plochu, pri minimálnych rozmeroch. Zvolený materiál zároveň umožňuje dosahovať a udržať vysokú pracovnú teplotu.
+Prvé vozidlá vybavené katalyzátormi prišli na trh v roku 1975.
+
+
+== Zloženie spalín ==
+Zloženie spalín závisí od toho, s akým prebytkom vzduchu, ako dokonale a ako rýchlo spaľovanie prebehlo.
+V prípade, ak spaľovanie uhľovodíkového paliva prebieha pri stechiometrickom pomere (z makroskopického aj mikroskopického hľadiska) a dostatočne pomaly, teoreticky nevzniknú škodliviny, iba čisté produkty spaľovania oxid uhličitý a voda.
+Ak spaľovanie síce prebehne pri stechiometrickom pomere, ale rýchlo, výfukové spaliny nie sú v rovnovážnom stave a obsahujú nedokonalé produkty spaľovania. Ak by však mali dostatočný čas a teplotu na pokračovanie spaľovania ich zloženie by sa priblížilo k produktom dokonalého spaľovania.
+Ak spaľovanie prebieha pri nestechiometrickom pomere vzniká prevaha buď látok ktoré treba redukovať odstránením kyslíka, alebo naopak oxidovať pridaním kyslíka.
+
+
+== Rozdelenie ==
+Podľa reakcií v katalyzátore prebiehajúcich sa delia na:
+trojcestné,
+oxidačné,
+redukčné.
+
+
+=== Trojcestný katalyzátor ===
+
+Trojcestný katalyzátor sa využíva na svoju činnosť vyššie uvedený fakt, že spaliny, ktoré sú produktom spaľovania pri stechiometrickom pomere sú len dočasne v nerovnovážnom stave. Pri svojej činnosti využíva prítomnosť látky - katalyzátora, ktorý sa počas chemickej reakcie nemení, ale významne ovplyvňuje jej rýchlosť. Na svojom katalytickom povrchu pri dostatočnej teplote umožní vzájomnú reakciu oxidantov NOx a redukčných činidiel CHx a CO, ktoré sú vo vhodnom pomere, aby vzájomne reagovali za vzniku N2, H2O a CO2.
+Trojcestný katalyzátor sa používa pre zážihové motory ktoré spĺňajú základné podmienky:
+regulujú sa množstvom zmesi a teda pracujú so súčiniteľom prebytku vzduchu λ = 1
+pracujú s homogénnou zmesou vytvorenou ľahkoodpariteľným palivom a teda potrebný súčiniteľ prebytku vzduchu je možné dodržať aj na mikroúrovni.
+Zároveň je nevyhnutnou podmienkou vybavenie motora lambda-sondou. Pri jej nesprávnej funkčnosti, prestáva byť katalyzátor účinný a hrozí jeho úplné zničenie.
+
+
+=== Oxidačný katalyzátor ===
+
+Oxidačný katalyzátor sa používa pre vznetové motory, ktoré síce pracujú s vysokým prebytkom vzduchu, ale pri ich mechanizme spaľovania dochádza mikroskopicky k spaľovaniu veľmi bohatej zmesi, pretože kvapôčky rozprášeného paliva môžu byť priveľké. Katalyzátor je určený na redukciu škodlivín CHx a CO. Pri vysokej teplote katalyzátora dochádza k dodatočnému spaľovaniu pevných častíc vo výfukových plynoch v prebytkovom kyslíku, ktorý vždy obsahujú. Spaľovaním sa zmenšuje veľkosť častíc, prípadne mikročastice zhoria úplne .
+
+
+=== Redukčný katalyzátor ===
+
+Redukčný katalyzátor sa používa na zníženie emisií oxidov dusíka (NOx) pri vznetových a zážihových motoroch s priamym vstrekom.
+
+
+== Prevádzkové podmienky ==
+Optimálna teplota katalyzátora pre palivá s bežným obsahom síry je okolo 400 °C. Pri nízkych teplotách má katalyzátor nízku účinnosť, pri teplotách nad 400 °C sa začínajú tvoriť sulfáty, zvyšujúce emisie. Pri nízkosírových palivách je možné prejsť na vyššie teploty katalyzátorov zaručujúce ich vyššiu účinnosť.
+Skrátenie doby nábehu katalyzátora na pracovnú teplotu sa môže dosiahnuť niekoľkými spôsobmi:
+elektrickým ohrievaním katalyzátora,
+použitím dvoch katalyzátorov (menšieho - štartovacieho a väčšieho - prevádzkového). Štartovací katalyzátor je umiestnený blízko pri motore, kde sa rýchlo zohreje od vysokej teploty výfukových plynov, a keď prevádzkový katalyzátor dosiahne potrebnú teplotu, štartovací katalyzátor sa odpojí, aby sa nezničil pri vysokých zaťaženiach.
+
+
+== Referencie ==
+
+
+== Iné projekty ==
+
+ Commons ponúka multimediálne súbory na tému Katalyzátor (auto)

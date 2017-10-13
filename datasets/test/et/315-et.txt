@@ -1,0 +1,5 @@
+Kuueteistkümnendarv (ka heksadetsimaalarv) on kuueteistkümnendsüsteemis kujutatud arv. Selle numbrikohal saab olla 16 väärtust ehk numbrid 0-st 9-ni ja 9-st suuremate numbrite jaoks tähed A-st F-ini.
+Kuueteistkümnendarvud võivad olla näiteks kujul 9A2, FCC jne. Kümnendsüsteemis arv 10 on kuueteistkümnendsüsteemis A, arv 16 on 10, arv 20 on 14, arv 30 on 1E jne. Kuueteistkümnendarve kasutatakse laialdaselt informaatikas, kuna nende üks numbrikoht vastab kindlale bittide arvule – 4 bitile, seega on nende abil mugav kujutada arvutis olevaid andmeid. Arvutid opereerivad riistvara tasandil küll kahendsüsteemis, kuid kahendarvud on inimestele raskemini loetavad. Varem kasutati vähemal määral ka kaheksandarve, kuna nendegi numbrikoht vastab kindlale bittide arvule – 3 bitile.
+
+
+== Arvud 0–16 ==

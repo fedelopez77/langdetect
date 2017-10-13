@@ -1,0 +1,21 @@
+Tarkekirjoitus eli foneettinen kirjoitus eli foneettinen transkriptio on kirjoitusjärjestelmä, jonka avulla puhetta voidaan esittää tieteellisen tarkasti ääntämyksenmukaisena tekstinä. Yleensä tarkekirjoitus pyrkii hyödyntämään tavanomaisista äännekirjoitusjärjestelmistä (etenkin latinalaisesta kirjaimistosta) lainattuja kirjaimia, joiden äännearvot on vakioitu, niin että kukin kirjain edustaa aina samaa äännettä ja kutakin äännettä merkitään aina samalla tavalla riippumatta kuvattavasta kielestä. Koska latinalaisperäinen kirjaimisto ei riitä kaikkien maailman kielissä esiintyvien äänteiden yksityiskohtaiseen merkitsemiseen, kirjainvalikoimaa voidaan monipuolistaa esimerkiksi kreikkalaisin kirjaimin tai kirjaimia muuntelemalla, minkä lisäksi prosodisia piirteitä, kuten äänteiden pituutta sekä sanapainoa ja sävelkulkua, merkitään tarkkeilla tai tarkkeenomaisilla merkeillä. Tarkekirjoitukseen eivät päde yleiset oikeinkirjoitussäännöt, vaan esimerkiksi suuraakkoselle tai kapiteelikirjaimelle voidaan määritellä eri äännearvo kuin vastaavalle pienaakkoselle. Välimerkkejäkin voidaan käyttää tarkkeenomaisesti.
+Tarkekirjoitus palvelee ensisijaisesti kielitiedettä (murteiden tutkimusta, kielihistoriallista tutkimusta, vertailevaa kielitiedettä, oikeinkirjoituksen kehittämistä) ja kielenopetusta (oppikirjoissa, sanakirjoissa). Tarkekirjoitusta voidaan soveltaa myös tavanomaisten kirjoitusjärjestelmien välisessä siirtokirjoituksessa, jos kohdekielen kirjaimisto ei ole riittävän laaja kattamaan lähdekielen äänteistöä.
+
+
+== Kansainvälinen ja suomalais-ugrilainen tarkekirjoitus ==
+Kielitieteen piirissä on kehitetty useita tarkekirjoitusjärjestelmiä, jotka kaikki pyrkivät vakiinnuttamaan yleispätevät merkintätavat eri kielten äänteistöjen kuvaamiseksi, mutta erilaisten lähtökohtien vuoksi järjestelmät poikkeavat jonkin verran toisistaan. Laajimmin käytetään kansainvälistä foneettista aakkostoa (IPA), mutta uralilaisten kielten tutkimuksessa käytetään perinteisesti suomalais-ugrilaista tarkekirjoitusta (SUT). Nimenomaan suomenkielistä puhetta merkittäessä kansainvälinenkin tarkekirjoitus on muutamaa kirjainta (erityisesti æ, ø, ŋ, ʋ, ɑ) lukuun ottamatta suhteellisen lähellä suomen oikeinkirjoitusta, sillä enimmäkseen vierailla kirjaimilla merkitään sellaisia äänteitä, jotka eivät kuulu suomen äännejärjestelmään. Suomalais-ugrilainen tarkekirjoitus voi pelkistetyimmillään näyttää melkein tavalliselta kirjoitukselta.
+sänky [sæŋky], SUT: säηkü tai säηky
+vaara [ʋɑːrɑ], SUT: vāra tai vaara
+Kansainvälisen foneettisen aakkoston käytäntönä on, että yleisellä eli foneettisella kuvailutasolla tarkekirjoitus merkitään hakasulkeisiin, ja tämä onkin tavallista esimerkiksi englantilais-suomalaisissa sanakirjoissa. Kielikohtaisella eli foneemisella kuvailutasolla hakasulkeiden sijasta suositaan vinoviivoja.
+shadowboxing [ˈʃædəʊˌbɔksɪŋ]
+shadowboxing /ˈʃædəʊˌbɔksɪŋ/
+Suomalais-ugrilainen tarkekirjoitus merkitään perinteisesti kursiivilla, mutta tämä typografinen käytäntö on harkinnanvarainen, sillä kursiivi voi heikentää luettavuutta. Suomalais-ugrilaistakin tarkekirjoitusta mukailevat ääntämisohjeet voidaan kirjoittaa hakasulkeisiin.
+shadowboxing [ˈšädo̮uˌboksiη]
+
+
+== Katso myös ==
+Kansainvälinen foneettinen aakkosto (IPA)
+Tarke (diakriittinen merkki)
+
+
+== Lähteet ==

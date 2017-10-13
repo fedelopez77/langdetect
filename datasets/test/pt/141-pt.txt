@@ -1,0 +1,54 @@
+Elemento minimal de um conjunto é um elemento que não é maior que nenhum outro elemento do conjunto. Isso não é equivalente a dizer que todos os elementos do conjuntos são maiores que ele, pois nem toda relação de ordem permite comparar qualquer dois elementos entre si. Um elemento que é menor que todos os outros elementos de um conjunto de chama "menor elemento" do conjunto, o que não é o mesmo que elemento minimal do conjunto.
+Dada uma relação de ordem estrita 
+  
+    
+      
+        <
+      
+    
+    {\displaystyle <}
+   sobre um conjunto 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , um elemento 
+  
+    
+      
+        a
+        ∈
+        A
+      
+    
+    {\displaystyle a\in A}
+   é denominado minimal quando não existe outro elemento que seja menor que ele:
+
+  
+    
+      
+        ¬
+        ∃
+        x
+        ∈
+        A
+        ,
+        
+        
+        x
+        <
+        a
+      
+    
+    {\displaystyle \neg \exists x\in A,\;\;x<a}
+  
+Portanto, no exemplo abaixo:
+S = {{d, o}, {d, o, g}, {g, o, a, d}, {o, a, f}}
+ordenados por subconjunto, {d, o} é minimal.
+
+
+== Ver também ==
+Relação de ordem

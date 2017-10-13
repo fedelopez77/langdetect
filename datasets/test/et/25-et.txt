@@ -1,0 +1,497 @@
+Superparamagnetism on üks magnetismi vorm, mis on iseloomulik ferromagnetilistele ja ferrimagnetilistele nanoosakestele. Kui osakese diameeter on piisavalt väike, siis võib tema magneetumuse suund temperatuuri mõjul spontaanselt vastassuunas pöörata. Välise magnetvälja puudumisel on osakeste keskmine magneetumus seega null (puudub hüstereesi nähtus): öeldakse, et osakesed on superparamagnetilises olekus. Selles olekus võib materjali välise magnetvälja abil magneetuda nagu paramagnetit. Materjalil superparamagnetilises olekus on aga palju suurem magnetiline vastuvõtlikkus.
+Tavaliselt ferromagnetiline või ferrimagnetiline materjal muutub paramagneetikuks temperatuuril kõrgem kui Curie temperatuur. Superparamagnetismi korral toimub see üleminek ka madalamal temperatuuril.
+Superparamagnetilist süsteemi saab uurida mõõtes AC vastuvõtlikkust. Sel juhul rakendatav magnetväli muutub ajas sinusoidaalselt ja mõõdetakse süsteemi magnetilisi omadusi.
+
+
+== Néeli relaksatsioon magnetvälja puudumisel ==
+Superparamagnetism tekib, kui tegemist on ühedomeeniliste osakestega (iga osake on eraldi magnetdomeen). Sõltuvalt materjalist on see võimalik osakeste diameetril 3–50 nm.
+Kuna nanoosakestele on iseloomulik magnetiline anisotroopia, siis magnetmoment omab vaid kahte stabiilset olekut, mis on vastassuunalised ja on eraldatud energeetilise barjääriga. Need kaks suunda defineerivad nn "kerged" teljed. Kindlal temperatuuril on olemas lõplik tõenäosus selleks, et osakese magneetumus muudab oma suunda (ühest kergest teljest teisele). Kahe niisuguse ümberpööramise vahelist aega nimetatakse Néeli relaksatsiooni ajaks.
+Néeli-Arrheniuse võrrandi järgi võrdub see aeg:
+
+  
+    
+      
+        
+          τ
+          
+            N
+          
+        
+        =
+        
+          τ
+          
+            0
+          
+        
+        exp
+        ⁡
+        
+          (
+          
+            
+              
+                K
+                V
+              
+              
+                
+                  k
+                  
+                    B
+                  
+                
+                T
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \tau _{N}=\tau _{0}\exp \left({\frac {KV}{k_{B}T}}\right)}
+  ,
+kus:
+
+  
+    
+      
+        
+          τ
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \tau _{N}}
+   on keskmine aeg vajalik selleks, et osakese magneetumus pööraks ümber termilise fluktuatsiooni tõttu;
+
+  
+    
+      
+        
+          τ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \tau _{0}}
+   on materjalile karakteerne aeg; tüüpiliseks väärtuseks on 10−9–10−10 sekundit;
+K on osakese magnetilise anisotroopia energiatihedus ja V on osakese ruumala. KV on seega energiabarjäär, mis on seotud magneetumuse suuna muutusega ühest kergest teljest teisele läbi rasket telje;
+kB on Boltzmanni konstant;
+T on temperatuur.
+See aeg võib varieeruda nanosekunditest aastateni. Andmed näitavad, et Néeli relaksatsiooni aeg on eksponentfunktsioon tera ruumalast, mis selgitab, miks magneetumise suuna muutus on ebatõenäoline massiliste materjalide (bulk materials) puhul.
+
+
+=== Blokeeriv temperatuur ===
+Olgu 
+  
+    
+      
+        
+          τ
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \tau _{m}}
+   ajahetk, millal mõõdetakse üksiku superparamagnetilise osakese magneetumist. Kui 
+  
+    
+      
+        
+          τ
+          
+            m
+          
+        
+        ≫
+        
+          τ
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \tau _{m}\gg \tau _{N}}
+  , siis enne mõõtmist jõuab osakese magneetumine muuta oma suunda vastupidiseks mitu korda (keskmiselt on selle väärtus seega null). Kui 
+  
+    
+      
+        
+          τ
+          
+            m
+          
+        
+        ≪
+        
+          τ
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \tau _{m}\ll \tau _{N}}
+  , siis magneetumise suund jääb samaks, mis ta oli mõõtmise algushetkel. Esimesel juhul räägitakse osakesest superparamagnetilises olekus, teisel juhul nimetatakse osakest "blokeeritud oma algseisundis". Seega, nanoosakese olek sõltub mõõtmise ajahetkest. Üleminek kahe oleku vahel toimub, kui 
+  
+    
+      
+        
+          τ
+          
+            m
+          
+        
+        =
+        
+          τ
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \tau _{m}=\tau _{N}}
+  . Sellele vastavat temperatuuri nimetatakse blokeerivaks temperatuuriks ja see võrdub:
+
+  
+    
+      
+        
+          T
+          
+            B
+          
+        
+        =
+        
+          
+            
+              K
+              V
+            
+            
+              
+                k
+                
+                  B
+                
+              
+              ln
+              ⁡
+              
+                (
+                
+                  
+                    
+                      τ
+                      
+                        m
+                      
+                    
+                    
+                      τ
+                      
+                        0
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle T_{B}={\frac {KV}{k_{B}\ln \left({\frac {\tau _{m}}{\tau _{0}}}\right)}}}
+  
+
+
+== Magnetvälja mõju ==
+Kui superparamagnetiliste nanoosakeste kogumile on rakendatud väline magnetväli, siis osakeste magnetmomendid orienteeruvad magnetväljaga samas suunas.
+Juhul, kui osakesed on identsed (sama energeetiline barjäär ja sama magnetmoment) ja temperatuur on piisavalt madal (TB < T ≲ KV/(10 kB)), võrdub osakeste kogumi magneetumine M:
+
+  
+    
+      
+        M
+        (
+        H
+        )
+        ≈
+        n
+        μ
+        tanh
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  μ
+                  
+                    0
+                  
+                
+                H
+                μ
+              
+              
+                
+                  k
+                  
+                    B
+                  
+                
+                T
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle M(H)\approx n\mu \tanh \left({\frac {\mu _{0}H\mu }{k_{B}T}}\right)}
+  .
+Kui osakesed on identsed ja temperatuur on piisavalt suur (T ≳ KV/kB), siis
+
+  
+    
+      
+        M
+        (
+        H
+        )
+        ≈
+        n
+        μ
+        L
+        
+          (
+          
+            
+              
+                
+                  μ
+                  
+                    0
+                  
+                
+                H
+                μ
+              
+              
+                
+                  k
+                  
+                    B
+                  
+                
+                T
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle M(H)\approx n\mu L\left({\frac {\mu _{0}H\mu }{k_{B}T}}\right)}
+  .
+Antud võrrandites
+n on osakeste tihedus proovis;
+
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+   on vaakumi magnetiline läbitavus;
+
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   on nanoosakese magnetmoment;
+
+  
+    
+      
+        L
+        (
+        x
+        )
+        =
+        1
+        
+          /
+        
+        tanh
+        ⁡
+        (
+        x
+        )
+        −
+        1
+        
+          /
+        
+        x
+      
+    
+    {\displaystyle L(x)=1/\tanh(x)-1/x}
+   on Langevini funktsioon.
+Funktsiooni 
+  
+    
+      
+        M
+        (
+        H
+        )
+      
+    
+    {\displaystyle M(H)}
+   tõus on magnetiline vastuvõtlikkus 
+  
+    
+      
+        χ
+      
+    
+    {\displaystyle \chi }
+  :
+
+  
+    
+      
+        χ
+        =
+        
+          
+            
+              n
+              
+                μ
+                
+                  0
+                
+              
+              
+                μ
+                
+                  2
+                
+              
+            
+            
+              
+                k
+                
+                  B
+                
+              
+              T
+            
+          
+        
+      
+    
+    {\displaystyle \chi ={\frac {n\mu _{0}\mu ^{2}}{k_{B}T}}}
+   esimesel juhul
+
+  
+    
+      
+        χ
+        =
+        
+          
+            
+              n
+              
+                μ
+                
+                  0
+                
+              
+              
+                μ
+                
+                  2
+                
+              
+            
+            
+              3
+              
+                k
+                
+                  B
+                
+              
+              T
+            
+          
+        
+      
+    
+    {\displaystyle \chi ={\frac {n\mu _{0}\mu ^{2}}{3k_{B}T}}}
+   teisel juhul.
+Mida suurem on nanoosake, seda suurem on tema magnetmoment. Võrranditest saab selgeks, miks superparamagnetilised osakesed omavad suurema magnetilise vastuvõtlikuse võrreldes tavaliste paramagnetitega – see sõltub magnetmomendi ruudust.
+
+
+== Kasutamine ==
+
+
+=== Efekti mõju mäludele ===
+Kuna superparamagnetiliste osakeste puhul praktiliselt puudub hüstereesi nähtus (koertsiivsus ja jääkmagneetumus võrduvad nulliga), superparamagnetiliste materjalide kasutamine salvestuskeskkonnana ei ole võimalik. Superparamagnetismi hävitamiseks võib alandada temperatuuri, suurendada osakeste läbimõõtu või anisotroopiat, nii et 
+  
+    
+      
+        K
+        V
+        >
+        
+          k
+          
+            B
+          
+        
+        T
+      
+    
+    {\displaystyle KV>k_{B}T}
+  .
+
+
+=== Ferrovedelikud ===
+Ferrovedelikud tavaliselt ei säilita magneetumust välise magnetvälja puudumisel ja seetõttu võib neid klassifitseerida superparamagnetiteks. Ferrovedelik on magnetväljas tugevalt polariseeruv vedelik, mis koosneb kandvast vedelikust (orgaaniline solvent või vesi) ja selles suspenseeritud üliväikestest magnetiliste omadustega osakestest (ferromagnetilised või ferrimagnetilised nanoosakesed). Üheks ferrovedelikute kasutamisvaldkonnaks on magnetresonantstomograafia, kus ferrovedelikku kasutatakse kontrastainena.
+
+
+=== Muud kasutusvaldkonnad ===
+Suure tundlikkusega magnetvälja sensor
+Hüpertermia
+Ravimite transport (kasutades superparamagnetilisi raudoksiid-nanoosakesi (SPIONs))
+
+
+== Viited ==

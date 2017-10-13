@@ -1,0 +1,4 @@
+SxS on Sonyn ja Sandiskin luoma uusi flash-muististandardi. Sonyn ja Sandiskin mukaan SxS-korteilla voidaan saavuttaa 800 Mbit/s tiedonsiirtonopeus ja purskeissa jopa 2,5 Gbit/s.
+
+
+== Lähteet ==

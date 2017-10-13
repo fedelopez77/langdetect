@@ -1,0 +1,9 @@
+Līdzprocesors (angļu: coprocessor), arī koprocesors jeb blakusprocesors ir specializēts procesors, kas papildina centrālā procesora funkcionālās iespējas. Līdzprocesori parasti paplašina komandu kopu, ko var izmantot programmētājs, kā arī nodrošina ātru dažādu matemātisko aprēķinu veikšanu.
+
+
+== Skatīt arī ==
+Grafikas līdzprocesors (GPU)
+Peldošā punkta procesors (FPU)
+
+
+== Atsauces ==

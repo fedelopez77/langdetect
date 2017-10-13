@@ -1,0 +1,111 @@
+Četrstūris ir plaknes figūra, kuru norobežo četri nogriežņi, kurus sauc par malām. Četrstūrim ir četras malas un četri stūri.
+
+
+== Īpašības ==
+Jebkura četrstūra iekšējo leņķu summa ir 360 grādi.
+Jebkuram četrstūrim ir divas diagonāles.
+Jebkurš četrstūris ir izliekts vai ieliekts.
+Izliekta četrstūra diagonāles krustojas vienā punktā, bet ieliekta četrstūra diagonāles nekrustojas.
+
+
+== Četrstūru iedalījums ==
+Trapece - četrstūris, kam divas malas ir savstarpēji paralēlas un otras divas malas nav paralēlas;
+
+Taisnleņķa trapece - trapece, kurai ir divi taisni leņķi;
+Vienādsānu trapece - trapece, kuras sānu malas ir ar vienādu garumu (un tātad tās pamata pieleņķi ir vienādi);
+Paralelograms - četrstūris, kuram pretējās malas ir pa pāriem paralēlas;
+
+Rombs - paralelograms, kuram visas malas ir vienāda garuma;
+Taisnstūris - paralelograms, kam visi leņķi ir 90 grādi;
+
+Kvadrāts - taisnstūris, kam visas malas ir vienādas, vai rombs, kuram visi leņķi vienādi (90 grādi).
+
+Deltoīds - četrstūris, kam divas blakus esošas malas ir vienāda garuma un pārējās divas blakus esošās malas arī ir vienāda garuma (bet ar citu garumu).
+
+
+== Regulāra četrstūra (kvadrāta) īpašības ==
+Regulārā četrstūrī (kvadrātā) ievilktās riņķa līnijas rādiuss ir 
+  
+    
+      
+        
+          
+            a
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{2}}}
+  , kur a - malas garums.
+kvadrāta perimetrs ir 
+  
+    
+      
+        4
+        a
+      
+    
+    {\displaystyle 4a}
+   vai 
+  
+    
+      
+        4
+        
+          
+            2
+          
+        
+        R
+      
+    
+    {\displaystyle 4{\sqrt {2}}R}
+   vai arī 
+  
+    
+      
+        8
+        r
+      
+    
+    {\displaystyle 8r}
+  , kur R - ap kvadrātu apvilktās riņķa līnijas rādiuss, r - kvadrātā ievilktās riņķa līnijas rādiuss, a - kvadrāta malas garums.
+kvadrāta laukums ir 
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        =
+        2
+        
+          R
+          
+            2
+          
+        
+        =
+        4
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a^{2}=2R^{2}=4r^{2}}
+  , kur R - ap kvadrātu apvilktās riņķa līnijas rādiuss, r - kvadrātā ievilktās riņķa līnijas rādiuss, a - kvadrāta malas garums.
+
+
+== Skatīt arī ==
+Kvadrāts
+Taisnstūris
+Trapece
+Rombs
+Deltoīds

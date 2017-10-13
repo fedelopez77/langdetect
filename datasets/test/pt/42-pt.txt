@@ -1,0 +1,174 @@
+Na matemática, o Comutador indica o "quanto" uma operação binária falha em ser comutativa. Diferentes definições são usadas em Teoria dos grupos e Teoria dos anéis.
+
+
+== Teoria dos grupos ==
+Em teoria dos grupos, o comutador de dois elementos (
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   e 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  ) de um grupo G é dado por:
+
+  
+    
+      
+        [
+        g
+        ,
+        h
+        ]
+        =
+        
+          g
+          
+            −
+            1
+          
+        
+        
+          h
+          
+            −
+            1
+          
+        
+        g
+        h
+      
+    
+    {\displaystyle [g,h]=g^{-1}h^{-1}gh}
+  
+O conjunto dos comutadores, 
+  
+    
+      
+        {
+        [
+        g
+        ,
+        h
+        ]
+        ∈
+        G
+         
+        
+          |
+        
+         
+        ∀
+         
+        g
+        ,
+        h
+        ∈
+        G
+        }
+      
+    
+    {\displaystyle \{[g,h]\in G\ |\ \forall \ g,h\in G\}}
+  , não é fechado no produto (logo não é um subgrupo; mas o menor grupo em que isto ocorre tem ordem 96 [carece de fontes?]). O subgrupo gerado pelos comutadores, G' é chamado de subgrupo comutador, e tem várias propriedades importantes (ele é um subgrupo normal, o quociente G/G' é abeliado, etc).
+Vale também que um grupo 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   é abeliano se, e somente se, seu subgrupo comutador é o subgrupo trivial de um elemento: 
+  
+    
+      
+        
+          G
+          ′
+        
+        =
+        {
+        e
+        }
+      
+    
+    {\displaystyle G'=\{e\}}
+  .
+
+
+== Teoria dos anéis ==
+Em Teoria dos anéis o comutador de dois elementos 
+  
+    
+      
+        a
+        ,
+        b
+      
+    
+    {\displaystyle a,b}
+   de um anel é dado por
+
+  
+    
+      
+        [
+        a
+        ,
+        b
+        ]
+        =
+        a
+        b
+        −
+        b
+        a
+      
+    
+    {\displaystyle [a,b]=ab-ba}
+  
+O comutador de 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   e 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   é zero se e somente se os elementos 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   e 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   comutam.
+
+
+== Ver também ==
+Colchete de Poisson.
