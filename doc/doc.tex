@@ -1,0 +1,143 @@
+\documentclass{llncs}
+\usepackage{makeidx}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{url}
+\usepackage{fancyvrb}
+\usepackage[spanish]{babelbib}
+\usepackage{graphicx}
+\usepackage{float}
+
+
+%%%%%%%%%% Text with box
+\usepackage{tikz}
+\usetikzlibrary{shadows}
+
+\newcommand{\raisedtext}[1]{
+\vspace{1mm}
+\begin{tikzpicture}
+[baseline=(X.base)]\node [drop shadow,fill=white,draw,very thin] (X) {#1};
+\end{tikzpicture}
+\vspace{1mm}
+}
+%%%%%%%%%%%%%%%%%%%
+
+\graphicspath{ {img/} }
+
+\urldef{\mails}\path|fjlopez@fi.uba.ar| 
+
+\urldef{\mails}\path|fjlopez@fi.uba.ar| 
+
+\spnewtheorem{definicion}[theorem]{Definition}{\bfseries}{\itshape}
+
+\begin{document}
+
+\frontmatter
+
+\title{langdetect: A Language Detection Method}
+\titlerunning{langdetect: A Language Detection Method} 
+
+\author{Federico López}
+
+\maketitle
+
+\section{Method}
+The method implemented for language detection was taken from the article N-Gram-Based Text Categorization \cite{n-gram-basedtext}. It is a supervised method, therefore it requires texts of a known language beforehand.
+
+The algorithm builds the languages profiles by counting the occurrences of N-grams of different length in every text. In the training phase it creates the models for every available idiom. This means that it counts the frequencies along many texts of the same language. The model only keeps a fixed amount of the most frequent N-grams. Usually this quantity is between 300 and 500. 
+
+The measure used to compare two profiles is the difference of the positions of the same N-gram in both models, after they are sorted by frequency. If we have profiles A and B, the distance is given by the formula:
+
+\begin{equation}
+dist(A,B) = \sum_{ngram \varepsilon A}^{} | pos_{A}(ngram) - pos_{B}(ngram) | 
+\end{equation}
+
+In case that the N-gram in profile A is not included in profile B, a penalization distance is added.
+Finally, the profile of the given text is compared with all the languages profiles, the closest one is chosen as the detected language.
+
+To sum up, the steps followed are:
+\begin{enumerate}
+	\item Build N-gram frequencies profiles for every available language.
+	\item Build N-gram frequencies profiles for the given text
+	\item Compare the profile of the text with all the languages profiles according to the distance measure.
+	\item Choose as detected language the one corresponding with the profile to the minimum distance.
+\end{enumerate}
+
+
+\section{Implementation}
+The library was implemented in Python and the code is available on Github\footnote{https://github.com/fedelopez77/langdetect}.
+
+Currently the algorithm can detect among 23 languages, but many more can be easily added. The available languages are: Arabic, Czech, Danish, English, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Latvian, Lithuanian, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Slovak, Spanish and Swedish. 
+Note that not only latin alphabets are tolerated.
+
+
+\section{Hyperparameters optimization}
+The texts used to train, validate and test the algorithm were randomly taken from Wikipedia articles in all the available languages. There are texts from 50 characters up to many paragraphs. The datasets were defined as: 
+\begin{itemize}
+	\item Train dataset: 1,530 articles. 120 Kb of texts per language approximately.
+	\item Validation dataset: 3,674 articles. 250 Kb of texts per language approximately.
+	\item Test dataset: 6,598 articles. 500 Kb of texts per language approximately.
+\end{itemize}
+
+The main measure used to evaluate the performance of the algorithm was precision. This is:
+\begin{equation}
+Precision = \frac{Correctly\:detected\:texts}
+{Total\:texts}
+\end{equation}
+
+The configurable parameters of the algorithm are:
+\begin{itemize}
+	\item Minimum length of n-grams
+	\item Maximum length of n-grams
+	\item Amount of n-grams used for every language profile.
+	\item Penalization distance.
+\end{itemize}
+
+A grid search was conducted by adjusting all this variables to a different set of values, training the algorithm with the train dataset, and checking results on the test dataset. The best parameters obtained were:
+\begin{itemize}
+	\item Minimum length of n-grams: 1
+	\item Maximum length of n-grams: 3
+	\item Amount of n-grams used for every language profile: 400
+	\item Penalization distance: 700
+\end{itemize}
+
+
+
+\section{Results}
+
+With the parameters obtained by the grid search, the following results were gathered on the test dataset:
+
+\begin{table}[H]
+\caption{Evaluation results.}
+\begin{center}
+\begin{tabular}{l*{6}{c}r}
+\hline
+\rule{0pt}{12pt}
+\textbf{Language} & \textbf{Texts} & \textbf{Precision} (\%) & \textbf{Language} & \textbf{Texts} & \textbf{Precision} (\%)\\[2pt]
+\hline\rule{0pt}{12pt}\mbox{}\par\nobreak
+Arabic    & 206   & 99.03     & Latvian    & 275   & 99.27     \\
+Czech     & 211   & 94.79     & Lithuanian & 392   & 99.74     \\
+Danish    & 346   & 93.35     & Norwegian  & 340   & 97.65     \\
+English   & 205   & 97.56     & Persian    & 472   & 99.58     \\
+Estonian  & 353   & 97.73     & Polish     & 333   & 97.6      \\
+Finnish   & 255   & 99.22     & Portuguese & 332   & 98.8      \\
+French    & 208   & 98.56     & Romanian   & 453   & 97.35     \\
+German    & 153   & 98.69     & Russian    & 102   & 100       \\
+Greek     & 80    & 100       & Slovak     & 408   & 98.77     \\
+Hebrew    & 104   & 100       & Spanish    & 197   & 99.49     \\
+Hungarian & 245   & 100       & Swedish    & 704   & 98.44     \\
+Italian   & 224   & 96.88     & \textbf{Total}      & \textbf{6598}  & \textbf{98.22}     \\ [2pt]
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\section{Conclusion}
+It can be noticed that these numbers match the results collected by Cavnar and Trenkle \cite{n-gram-basedtext} as well as by Řehůřek and Kolkus \cite{rehurek-kolkus} using the same method for profile lengths of 400 N-grams and texts of more than 50 characters.
+
+
+\bibliographystyle{splncs03}
+\bibliography{bibl}
+
+\end{document}

@@ -1,3 +1,6 @@
 .idea/
 *.pyc
-datasets/Wikipedia/
+*.aux
+*.log
+*.bbl
+*.blg
