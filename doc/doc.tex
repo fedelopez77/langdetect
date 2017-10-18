@@ -8,7 +8,8 @@
 \usepackage[spanish]{babelbib}
 \usepackage{graphicx}
 \usepackage{float}
-
+\usepackage{enumitem}
+\usepackage{listings}
 
 %%%%%%%%%% Text with box
 \usepackage{tikz}
@@ -45,7 +46,7 @@
 \section{Method}
 The method implemented for language detection was taken from the article N-Gram-Based Text Categorization \cite{n-gram-basedtext}. It is a supervised method, therefore it requires texts of a known language beforehand.
 
-The algorithm builds the languages profiles by counting the occurrences of N-grams of different length in every text. In the training phase it creates the models for every available idiom. This means that it counts the frequencies along many texts of the same language. The model only keeps a fixed amount of the most frequent N-grams. Usually this quantity is between 300 and 500. 
+The algorithm builds the languages profiles by counting the occurrences of N-grams of different length in every text. In the training phase it creates the models for every available idiom. This means that it counts the frequencies along many texts of the same language. The model only keeps a fixed amount of the most frequent N-grams. Usually this quantity is between 300 and 700. 
 
 The measure used to compare two profiles is the difference of the positions of the same N-gram in both models, after they are sorted by frequency. If we have profiles A and B, the distance is given by the formula:
 
@@ -59,18 +60,56 @@ Finally, the profile of the given text is compared with all the languages profil
 To sum up, the steps followed are:
 \begin{enumerate}
 	\item Build N-gram frequencies profiles for every available language.
-	\item Build N-gram frequencies profiles for the given text
+	\item Build N-gram frequencies profiles for the given text.
 	\item Compare the profile of the text with all the languages profiles according to the distance measure.
 	\item Choose as detected language the one corresponding with the profile to the minimum distance.
 \end{enumerate}
 
 
 \section{Implementation}
-The library was implemented in Python and the code is available on Github\footnote{https://github.com/fedelopez77/langdetect}.
+The library was implemented in Python and the code is available on Github\footnote{\url{https://github.com/fedelopez77/langdetect}}.
 
 Currently the algorithm can detect among 23 languages, but many more can be easily added. The available languages are: Arabic, Czech, Danish, English, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Latvian, Lithuanian, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Slovak, Spanish and Swedish. 
 Note that not only latin alphabets are tolerated.
 
+
+\section{Usage}
+
+Given a text, it returns a list of three tuples, sorted according to the probabilites of that text belonging to each language. The tuples are \verb#(language_code, probability)#. The language codes follow the ISO 639-1 Standard \footnote{\url{https://www.w3schools.com/TAgs/ref_language_codes.asp}}.
+
+\begin{itemize}[label={$\bullet$}]
+
+\item Command-line usage:
+\begin{lstlisting}
+cd path/to/folder/langdetect/
+python langdetect.py -f FILE
+\end{lstlisting}
+
+
+\item Library usage:
+
+\begin{lstlisting}
+>>> text = """Automatic summarization is the 
+process of reducing a text document with a
+computer program in order to create a 
+summary that retains the most important 
+points of the original document."""
+
+>>> import langdetect as ld
+>>> print ld.detect_language(text)
+[('en', 0.9179458640640037), 
+('ro', 0.04370950743932613), 
+('pt', 0.03834462849667017)]
+\end{lstlisting}
+
+Since building the models for every language it is a time consuming operation, to perform many detections it is better to use:
+
+\begin{lstlisting}[language=Python]
+>>> profiles = ld.create_languages_profiles()
+>>> ld.detect_language(text, profiles)
+\end{lstlisting}
+
+\end{itemize}
 
 \section{Hyperparameters optimization}
 The texts used to train, validate and test the algorithm were randomly taken from Wikipedia articles in all the available languages. There are texts from 50 characters up to many paragraphs. The datasets were defined as: 
@@ -88,13 +127,13 @@ Precision = \frac{Correctly\:detected\:texts}
 
 The configurable parameters of the algorithm are:
 \begin{itemize}
-	\item Minimum length of n-grams
-	\item Maximum length of n-grams
+	\item Minimum length of n-grams.
+	\item Maximum length of n-grams.
 	\item Amount of n-grams used for every language profile.
 	\item Penalization distance.
 \end{itemize}
 
-A grid search was conducted by adjusting all this variables to a different set of values, training the algorithm with the train dataset, and checking results on the test dataset. The best parameters obtained were:
+A grid search was conducted by adjusting all this variables to a different set of values, training the algorithm with the train dataset, and checking results on the validation dataset. The best parameters obtained were:
 \begin{itemize}
 	\item Minimum length of n-grams: 1
 	\item Maximum length of n-grams: 3
@@ -111,7 +150,7 @@ With the parameters obtained by the grid search, the following results were gath
 \begin{table}[H]
 \caption{Evaluation results.}
 \begin{center}
-\begin{tabular}{l*{6}{c}r}
+\begin{tabular}{l c c l c c }
 \hline
 \rule{0pt}{12pt}
 \textbf{Language} & \textbf{Texts} & \textbf{Precision} (\%) & \textbf{Language} & \textbf{Texts} & \textbf{Precision} (\%)\\[2pt]
