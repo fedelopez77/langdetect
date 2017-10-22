@@ -36,8 +36,8 @@
 
 \frontmatter
 
-\title{langdetect: A Language Detection Method}
-\titlerunning{langdetect: A Language Detection Method} 
+\title{langdetect: A Language Detection Library}
+\titlerunning{langdetect: A Language Detection Library} 
 
 \author{Federico López}
 
@@ -119,7 +119,7 @@ The texts used to train, validate and test the algorithm were randomly taken fro
 	\item Test dataset: 6,598 articles. 500 Kb of texts per language approximately.
 \end{itemize}
 
-The main measure used to evaluate the performance of the algorithm was precision. This is:
+Considering the language with higher probability as the detected one, the main measure used to evaluate the performance of the algorithm was precision. This is:
 \begin{equation}
 Precision = \frac{Correctly\:detected\:texts}
 {Total\:texts}
